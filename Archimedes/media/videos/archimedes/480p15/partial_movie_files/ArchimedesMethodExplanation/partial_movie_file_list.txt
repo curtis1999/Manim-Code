@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Admin/MANIM/Archimedes/media/videos/archimedes/480p15/partial_movie_files/ArchimedesMethodExplanation/4266129954_391909734_223132457.mp4'
+file 'file:C:/Users/Admin/MANIM/Archimedes/media/videos/archimedes/480p15/partial_movie_files/ArchimedesMethodExplanation/1442284246_1902419955_681460033.mp4'
+file 'file:C:/Users/Admin/MANIM/Archimedes/media/videos/archimedes/480p15/partial_movie_files/ArchimedesMethodExplanation/1442284246_1797217531_1063892852.mp4'
+file 'file:C:/Users/Admin/MANIM/Archimedes/media/videos/archimedes/480p15/partial_movie_files/ArchimedesMethodExplanation/1442284246_2206581533_817043275.mp4'
+file 'file:C:/Users/Admin/MANIM/Archimedes/media/videos/archimedes/480p15/partial_movie_files/ArchimedesMethodExplanation/1442284246_1479556347_1332386043.mp4'
+file 'file:C:/Users/Admin/MANIM/Archimedes/media/videos/archimedes/480p15/partial_movie_files/ArchimedesMethodExplanation/1442284246_3073779459_1680006586.mp4'

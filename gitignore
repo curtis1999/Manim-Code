@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Manim specific
+media/
+.DS_Store
+*.log
+
+# IDE
+.vscode/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
