@@ -327,3 +327,9 @@ class ArchimedesCircleArea(Scene):
             Write(area_formula)
         )
         self.wait(3)
+        Continuity_citation = Text("If initially a > E, and then diminished by at least half of itself, and the remainder again by at least half of itself, and so on, a point will be reached where the remainder is less than E.", font_size=20)
+        self.play(Write(Continuity_citation))
+        #MENTION MODERN DELTA-EPSILON DEFINITION OF CONTINUITY, and how it is arbitrarily close
+        Limit_definition = Text("If there is given a sequenceof infinitely many numbers S1, S2, ••• , and if [or any preassignednumber E > 0 a number Sp of the sequencecan befound such that it and all subsequentSn, (n p), differfrom a fixed numbers by less than E, then we say that the sequenceconverges/0 the limit s, and write lim Sn = 5 •", font_size=20)
+        Limit_definition.next_to(Continuity_citation, DOWN, buff=0.3)
+        self.play(Write(Limit_definition))

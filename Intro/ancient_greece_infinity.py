@@ -153,3 +153,5 @@ class AncientGreeceInfinity(Scene):
             FadeOut(separator),
         )
         self.wait(1)
+        Aristotle_quote = Text( "There is no smallest among the small and no largest among the large; but always something still smaller and something still larger.")
+        self.play(Write(Aristotle_quote))
