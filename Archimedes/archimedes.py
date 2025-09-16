@@ -54,28 +54,33 @@ class ArchimedesCircleArea(Scene):
         unfurl_label = MathTex(r"\pi", color=GREEN, font_size=24).next_to(end_point, UP, buff=0.2)
         
         # Animate the unfurling onto the number line
+        # Store the transformed object properly
         self.play(
-            Transform(top_semicircle.copy(), unfurled_line),
-            #Write(unfurl_label)
+            Transform(top_semicircle, unfurled_line),
+            Write(unfurl_label)
         )
-          # Add pi marker on number line
-        pi_point = Dot(number_line.number_to_point(PI), color=YELLOW, radius=0.01)
+        
+        # Add pi marker on number line
+        pi_point = Dot(number_line.number_to_point(PI), color=YELLOW, radius=0.06)  # Made slightly larger
         pi_label = MathTex(r"\pi", color=YELLOW, font_size=28).next_to(pi_point, UP, buff=0.1)
         
         self.play(Create(pi_point), Write(pi_label))
+        self.wait(1)  # Add a small wait to let it settle
                 
         # Show the ratio
         ratio_text = MathTex(r"\pi \approx 3.14159...", font_size=24)
         ratio_text.next_to(number_line, DOWN, buff=0.5)
         self.play(Write(ratio_text))
+        self.wait(2)  # Give time to read
         
         # Clean up before continuing with polygon approximation
         self.play(
             FadeOut(pi_definition),
-            FadeOut(top_semicircle),
-            FadeOut(unfurled_line),
+            FadeOut(top_semicircle),  # This will fade the transformed line
             FadeOut(unfurl_label),
-            FadeOut(ratio_text)
+            FadeOut(ratio_text),
+            FadeOut(pi_point),
+            FadeOut(pi_label)
         )
         self.wait(1)
         
@@ -327,9 +332,166 @@ class ArchimedesCircleArea(Scene):
             Write(area_formula)
         )
         self.wait(3)
-        Continuity_citation = Text("If initially a > E, and then diminished by at least half of itself, and the remainder again by at least half of itself, and so on, a point will be reached where the remainder is less than E.", font_size=20)
-        self.play(Write(Continuity_citation))
-        #MENTION MODERN DELTA-EPSILON DEFINITION OF CONTINUITY, and how it is arbitrarily close
-        Limit_definition = Text("If there is given a sequenceof infinitely many numbers S1, S2, ••• , and if [or any preassignednumber E > 0 a number Sp of the sequencecan befound such that it and all subsequentSn, (n p), differfrom a fixed numbers by less than E, then we say that the sequenceconverges/0 the limit s, and write lim Sn = 5 •", font_size=20)
-        Limit_definition.next_to(Continuity_citation, DOWN, buff=0.3)
-        self.play(Write(Limit_definition))
+        self.play(FadeOut(final_text), FadeOut(area_formula), FadeOut(circle), FadeOut(radius_line), FadeOut(radius_label), FadeOut(origin), FadeOut(circle_label), FadeOut(number_line), FadeOut(pi_point), FadeOut(pi_label), FadeOut(current_i_line), FadeOut(current_e_line), FadeOut(current_i_line_label), FadeOut(current_e_line_label))
+                # Euclid's definition (historical context)
+        continuity_citation = Text(
+            "If initially a > E, and then diminished by at least half of itself,\n"
+            "and the remainder again by at least half of itself, and so on,\n"
+            "a point will be reached where the remainder is less than E.",
+            font_size=24,
+            line_spacing=1.2
+        ).to_edge(UP, buff=1)
+
+        self.play(Write(continuity_citation))
+        self.wait(2)
+
+        # Modern delta-epsilon definition of limits/continuity
+        limit_definition = MathTex(
+        r"\text{If there is given a sequence of infinitely many numbers } S_1, S_2, \ldots, \\",
+        r"\text{and if for any preassigned number } E > 0 \text{ a number } S_p \text{ of the sequence} \\",
+        r"\text{can be found such that it and all subsequent } S_n, (n \geq p), \text{ differ} \\",
+        r"\text{from a fixed number } s \text{ by less than } E, \text{ then we say that the sequence} \\",
+        r"\text{converges to the limit } s, \text{ and write } \lim S_n = s.",
+        font_size=22
+    ).next_to(continuity_citation, DOWN, buff=1.5)
+
+        self.play(Write(limit_definition))
+        self.wait(3)
+
+        # Fade out both definitions
+        self.play(
+            FadeOut(continuity_citation),
+            FadeOut(limit_definition)
+        )
+        
+        
+        #REINMANN AND CALCULUS
+        
+        
+         # Create axes
+        axes = Axes(
+            x_range=[0, 4, 1],
+            y_range=[0, 3, 1],
+            x_length=8,
+            y_length=6,
+            axis_config={"color": WHITE, "stroke_width": 2},
+            tips=False
+        )
+        axes.center().shift(DOWN * 0.5)
+        
+        # Add axis labels
+        x_label = axes.get_x_axis_label("x", edge=RIGHT, direction=RIGHT, buff=0.1)
+        y_label = axes.get_y_axis_label("y", edge=UP, direction=UP, buff=0.1)
+        
+        self.play(Create(axes), Write(x_label), Write(y_label))
+        self.wait(1)
+        
+        # Define the function f(x) = x^2/2 + 0.5
+        def func(x):
+            return x**2 / 2 + 0.5
+        
+        # Create the curve
+        curve = axes.plot(func, x_range=[0.5, 3.5], color=BLUE, stroke_width=4)
+        
+        self.play(Create(curve))
+        self.wait(1)
+        
+        # Define integration bounds
+        a, b = 1, 3
+        
+        # Add vertical lines at bounds
+        left_line = axes.get_vertical_line(axes.c2p(a, func(a)), color=GREEN, stroke_width=3)
+        right_line = axes.get_vertical_line(axes.c2p(b, func(b)), color=GREEN, stroke_width=3)
+        
+        # Add labels for bounds
+        a_label = MathTex("a", color=GREEN, font_size=24).next_to(axes.c2p(a, 0), DOWN, buff=0.1)
+        b_label = MathTex("b", color=GREEN, font_size=24).next_to(axes.c2p(b, 0), DOWN, buff=0.1)
+        
+        self.play(
+            Create(left_line), Create(right_line),
+            Write(a_label), Write(b_label)
+        )
+        self.wait(1)
+        
+        # Highlight the area under the curve
+        area_under_curve = axes.get_area(curve, x_range=[a, b], color=YELLOW, opacity=0.3)
+        
+        self.play(Create(area_under_curve))
+        self.wait(2)
+
+        
+        # Function to create rectangles for Riemann sum
+        def create_rectangles(n, method="left", color=RED, opacity=0.4):
+            rectangles = VGroup()
+            dx = (b - a) / n
+            total_area = 0
+            
+            for i in range(n):
+                x_left = a + i * dx
+                x_right = a + (i + 1) * dx
+                x_mid = (x_left + x_right) / 2
+                
+                if method == "left":
+                    height = func(x_left)
+                elif method == "right":
+                    height = func(x_right)
+                elif method == "midpoint":
+                    height = func(x_mid)
+                
+                # Create rectangle
+                rect = Rectangle(
+                    width=axes.x_axis.unit_size * dx,
+                    height=axes.y_axis.unit_size * height,
+                    color=color,
+                    fill_opacity=opacity,
+                    stroke_width=2
+                )
+                
+                # Position rectangle
+                rect.align_to(axes.c2p(x_left, 0), DOWN + LEFT)
+                rectangles.add(rect)
+                
+                total_area += height * dx
+            
+            return rectangles, total_area
+        
+        # Store current rectangles and points for transitions
+        current_rectangles = VGroup()
+        current_point = Dot()
+        current_label = MathTex("")
+        
+        # Show progression with different numbers of rectangles
+        n_values = [2, 4, 8, 16, 32, 64, 128]
+        colors = [RED, PURPLE, ORANGE, GREEN, BLUE]
+        
+        for i, (n, color) in enumerate(zip(n_values, colors)):
+            # Create rectangles using left endpoint rule
+            rectangles, approx_area = create_rectangles(n, method="left", color=color, opacity=0.3)
+            
+            if i == 0:
+                # First iteration - create everything
+                self.play(
+                    Create(rectangles),
+                )
+                current_rectangles = rectangles
+            else:
+                # Subsequent iterations - transform existing elements
+                self.play(
+                    Transform(current_rectangles, rectangles),
+                    run_time=1
+                )
+            
+            self.wait(0.5)
+        
+        # Show that rectangles are getting closer to the exact area
+        convergence_text = MathTex(r"\lim_{n \to \infty} \sum_{i=1}^{n} f(x_i) \Delta x = \int_a^b f(x) \, dx", 
+                                 font_size=24)
+        convergence_text.shift(RIGHT*2)
+        
+        self.play(Write(convergence_text))
+        self.wait(2)
+        
+        # Clean up for final demonstration
+        self.play(
+            FadeOut(current_rectangles)
+        )
