@@ -37,13 +37,12 @@ class NumberSetsVisualization(Scene):
         
         rational_def = VGroup(
             Text("Rational Numbers (ℚ): eg 1/2, 7/8, 17/35,.. ", font_size=20, color=GREEN).align_to(definitions_start, LEFT),
-            Text(r"\{\frac{a}{b}: a,b \in \mathbb{N} b \ne 0\}", font_size=16, color=WHITE).align_to(definitions_start, LEFT),
+            MathTex(r"\{\frac{a}{b}: a,b \in \mathbb{N} b \ne 0\}", font_size=16, color=WHITE).align_to(definitions_start, LEFT),
         ).arrange(DOWN, aligned_edge=LEFT)
         
         real_def = VGroup(
-            Text("Real Numbers (ℝ):", font_size=20, color=RED).align_to(definitions_start, LEFT),
+            Text("Real Numbers (ℝ): eg √2, π, e,...", font_size=20, color=RED).align_to(definitions_start, LEFT),
             Text("All numbers that fit on the number line", font_size=16, color=WHITE).align_to(definitions_start, LEFT),
-            Text("Including √2, π, e, etc.", font_size=16, color=WHITE).align_to(definitions_start, LEFT)
         ).arrange(DOWN, aligned_edge=LEFT)
         
         # Position the definitions
@@ -53,18 +52,15 @@ class NumberSetsVisualization(Scene):
         
         # Animation sequence
         
-        self.play(Create(natural_circle))
-        self.play(Write(natural_label))
+        self.play(Create(natural_circle),Write(natural_label))
         self.play(Write(natural_def))
         
-        self.play(Create(rational_circle))
-        self.play(Write(rational_label))
+        self.play(Create(rational_circle),Write(rational_label))
         self.play(Write(rational_def))
         
         self.wait(1)
         
-        self.play(Create(real_circle))
-        self.play(Write(real_label))
+        self.play(Create(real_circle),Write(real_label))
         self.play(Write(real_def))
         self.wait(2)
         
@@ -75,6 +71,15 @@ class NumberSetsVisualization(Scene):
             natural_def, rational_def, real_def
         )
     
+        continuum = NumberLine(
+            x_range=[0, 1, 1],
+            length=12,
+            color=WHITE,
+            include_numbers=True
+        ).to_edge(UP)   
+        
+        self.play(Write(continuum))
+        
     def fade_everything(self):
         self.play(FadeOut(self.circles_group))
         self.wait(1)
