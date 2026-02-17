@@ -1,0 +1,1037 @@
+[
+  {
+    "input_text": "Now we will explain Godel's famous incompleteness theorem, which tells us that any theory capable of interpreting the theory of arithmetic is incomplete. Meaning that there are sentences which it cannot prove nor disprove. Alternatively, this means that most interesting theories have many models. I.e. we cannot pin down a single model for the theory.",
+    "input_data": {
+      "input_text": "Now we will explain Godel's famous incompleteness theorem, which tells us that any theory capable of interpreting the theory of arithmetic is incomplete. Meaning that there are sentences which it cannot prove nor disprove. Alternatively, this means that most interesting theories have many models. I.e. we cannot pin down a single model for the theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-we-will-explain-godel-s-famous-incompleteness-52be6fb5.mp3",
+    "final_audio": "now-we-will-explain-godel-s-famous-incompleteness-52be6fb5.mp3"
+  },
+  {
+    "input_text": "The first key to understanding this proof is what is known as Godel numbering, whereby we can code every formula with a natural number.",
+    "input_data": {
+      "input_text": "The first key to understanding this proof is what is known as Godel numbering, whereby we can code every formula with a natural number.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-first-key-to-understanding-this-proof-is-what-86d45d63.mp3",
+    "final_audio": "the-first-key-to-understanding-this-proof-is-what-86d45d63.mp3"
+  },
+  {
+    "input_text": "This relies on the Fundamental theorem of arithmetic, which states that every number has a unique prime factor decomposition.",
+    "input_data": {
+      "input_text": "This relies on the Fundamental theorem of arithmetic, which states that every number has a unique prime factor decomposition.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-relies-on-the-fundamental-theorem-of-22239940.mp3",
+    "final_audio": "this-relies-on-the-fundamental-theorem-of-22239940.mp3"
+  },
+  {
+    "input_text": "Essentially this means that we can view each number as a tree.",
+    "input_data": {
+      "input_text": "Essentially this means that we can view each number as a tree.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "essentially-this-means-that-we-can-view-each-0b536b4f.mp3",
+    "final_audio": "essentially-this-means-that-we-can-view-each-0b536b4f.mp3"
+  },
+  {
+    "input_text": "With this in mind, we see that large numbers carry a lot of hidden information. They are not just points, but they can be seen as complicated trees.",
+    "input_data": {
+      "input_text": "With this in mind, we see that large numbers carry a lot of hidden information. They are not just points, but they can be seen as complicated trees.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "with-this-in-mind-we-see-that-large-numbers-carry-e3d21b38.mp3",
+    "final_audio": "with-this-in-mind-we-see-that-large-numbers-carry-e3d21b38.mp3"
+  },
+  {
+    "input_text": "Next, we can encode every symbol in our vocabulary by an odd number.",
+    "input_data": {
+      "input_text": "Next, we can encode every symbol in our vocabulary by an odd number.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "next-we-can-encode-every-symbol-in-our-vocabulary-ed320143.mp3",
+    "final_audio": "next-we-can-encode-every-symbol-in-our-vocabulary-ed320143.mp3"
+  },
+  {
+    "input_text": "Then for each formula, for clarity let us use: exists y, y plus y equals x.",
+    "input_data": {
+      "input_text": "Then for each formula, for clarity let us use: exists y, y plus y equals x.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-for-each-formula-for-clarity-let-us-use-f33e5eed.mp3",
+    "final_audio": "then-for-each-formula-for-clarity-let-us-use-f33e5eed.mp3"
+  },
+  {
+    "input_text": "We can define its Godel number as...",
+    "input_data": {
+      "input_text": "We can define its Godel number as...",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-define-its-godel-number-as-20659995.mp3",
+    "final_audio": "we-can-define-its-godel-number-as-20659995.mp3"
+  },
+  {
+    "input_text": "Then fill in for the specific values of the specific formula.",
+    "input_data": {
+      "input_text": "Then fill in for the specific values of the specific formula.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-fill-in-for-the-specific-values-of-the-70f29763.mp3",
+    "final_audio": "then-fill-in-for-the-specific-values-of-the-70f29763.mp3"
+  },
+  {
+    "input_text": "Then display the number. It is huge, so in scientific notation, and show that it is a point in the number line.",
+    "input_data": {
+      "input_text": "Then display the number. It is huge, so in scientific notation, and show that it is a point in the number line.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-display-the-number-it-is-huge-so-in-fc585f09.mp3",
+    "final_audio": "then-display-the-number-it-is-huge-so-in-fc585f09.mp3"
+  },
+  {
+    "input_text": "Now we will explain Godel's famous incompleteness theorem, which tells us that any theory capable of interpreting the theory of arithmetic is incomplete. Meaning that there are sentences which it cannot prove nor disprove. Alternatively, this means that most interesting theories have many models. I.e. we cannot pin down a single model for the theory.",
+    "input_data": {
+      "input_text": "Now we will explain Godel's famous incompleteness theorem, which tells us that any theory capable of interpreting the theory of arithmetic is incomplete. Meaning that there are sentences which it cannot prove nor disprove. Alternatively, this means that most interesting theories have many models. I.e. we cannot pin down a single model for the theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-we-will-explain-godel-s-famous-incompleteness-52be6fb5.mp3",
+    "final_audio": "now-we-will-explain-godel-s-famous-incompleteness-52be6fb5.mp3"
+  },
+  {
+    "input_text": "The first key to understanding this proof is what is known as Godel numbering, whereby we can code every formula with a natural number.",
+    "input_data": {
+      "input_text": "The first key to understanding this proof is what is known as Godel numbering, whereby we can code every formula with a natural number.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-first-key-to-understanding-this-proof-is-what-86d45d63.mp3",
+    "final_audio": "the-first-key-to-understanding-this-proof-is-what-86d45d63.mp3"
+  },
+  {
+    "input_text": "This relies on the Fundamental theorem of arithmetic, which states that every number has a unique prime factor decomposition.",
+    "input_data": {
+      "input_text": "This relies on the Fundamental theorem of arithmetic, which states that every number has a unique prime factor decomposition.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-relies-on-the-fundamental-theorem-of-22239940.mp3",
+    "final_audio": "this-relies-on-the-fundamental-theorem-of-22239940.mp3"
+  },
+  {
+    "input_text": "Essentially this means that we can view each number as a tree.",
+    "input_data": {
+      "input_text": "Essentially this means that we can view each number as a tree.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "essentially-this-means-that-we-can-view-each-0b536b4f.mp3",
+    "final_audio": "essentially-this-means-that-we-can-view-each-0b536b4f.mp3"
+  },
+  {
+    "input_text": "With this in mind, we see that large numbers carry a lot of hidden information. They are not just points, but they can be seen as complicated trees.",
+    "input_data": {
+      "input_text": "With this in mind, we see that large numbers carry a lot of hidden information. They are not just points, but they can be seen as complicated trees.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "with-this-in-mind-we-see-that-large-numbers-carry-e3d21b38.mp3",
+    "final_audio": "with-this-in-mind-we-see-that-large-numbers-carry-e3d21b38.mp3"
+  },
+  {
+    "input_text": "Next, we can encode every symbol in our vocabulary by an odd number.",
+    "input_data": {
+      "input_text": "Next, we can encode every symbol in our vocabulary by an odd number.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "next-we-can-encode-every-symbol-in-our-vocabulary-ed320143.mp3",
+    "final_audio": "next-we-can-encode-every-symbol-in-our-vocabulary-ed320143.mp3"
+  },
+  {
+    "input_text": "Then for each formula, for clarity let us use: exists y, y plus y equals x.",
+    "input_data": {
+      "input_text": "Then for each formula, for clarity let us use: exists y, y plus y equals x.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-for-each-formula-for-clarity-let-us-use-f33e5eed.mp3",
+    "final_audio": "then-for-each-formula-for-clarity-let-us-use-f33e5eed.mp3"
+  },
+  {
+    "input_text": "We can define its Godel number as...",
+    "input_data": {
+      "input_text": "We can define its Godel number as...",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-define-its-godel-number-as-20659995.mp3",
+    "final_audio": "we-can-define-its-godel-number-as-20659995.mp3"
+  },
+  {
+    "input_text": "Then fill in for the specific values of the specific formula.",
+    "input_data": {
+      "input_text": "Then fill in for the specific values of the specific formula.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-fill-in-for-the-specific-values-of-the-70f29763.mp3",
+    "final_audio": "then-fill-in-for-the-specific-values-of-the-70f29763.mp3"
+  },
+  {
+    "input_text": "Then display the number. It is huge, so in scientific notation, and show that it is a point in the number line.",
+    "input_data": {
+      "input_text": "Then display the number. It is huge, so in scientific notation, and show that it is a point in the number line.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-display-the-number-it-is-huge-so-in-fc585f09.mp3",
+    "final_audio": "then-display-the-number-it-is-huge-so-in-fc585f09.mp3"
+  },
+  {
+    "input_text": "Now we will explain Godel's famous incompleteness theorem, which tells us that any theory capable of interpreting the theory of arithmetic is incomplete. Meaning that there are sentences which it cannot prove nor disprove. Alternatively, this means that most interesting theories have many models. I.e. we cannot pin down a single model for the theory.",
+    "input_data": {
+      "input_text": "Now we will explain Godel's famous incompleteness theorem, which tells us that any theory capable of interpreting the theory of arithmetic is incomplete. Meaning that there are sentences which it cannot prove nor disprove. Alternatively, this means that most interesting theories have many models. I.e. we cannot pin down a single model for the theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-we-will-explain-godel-s-famous-incompleteness-52be6fb5.mp3",
+    "final_audio": "now-we-will-explain-godel-s-famous-incompleteness-52be6fb5.mp3"
+  },
+  {
+    "input_text": "The first key to understanding this proof is what is known as Godel numbering, whereby we can code every formula with a natural number.",
+    "input_data": {
+      "input_text": "The first key to understanding this proof is what is known as Godel numbering, whereby we can code every formula with a natural number.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-first-key-to-understanding-this-proof-is-what-86d45d63.mp3",
+    "final_audio": "the-first-key-to-understanding-this-proof-is-what-86d45d63.mp3"
+  },
+  {
+    "input_text": "This relies on the Fundamental theorem of arithmetic, which states that every number has a unique prime factor decomposition.",
+    "input_data": {
+      "input_text": "This relies on the Fundamental theorem of arithmetic, which states that every number has a unique prime factor decomposition.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-relies-on-the-fundamental-theorem-of-22239940.mp3",
+    "final_audio": "this-relies-on-the-fundamental-theorem-of-22239940.mp3"
+  },
+  {
+    "input_text": "Essentially this means that we can view each number as a tree.",
+    "input_data": {
+      "input_text": "Essentially this means that we can view each number as a tree.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "essentially-this-means-that-we-can-view-each-0b536b4f.mp3",
+    "final_audio": "essentially-this-means-that-we-can-view-each-0b536b4f.mp3"
+  },
+  {
+    "input_text": "With this in mind, we see that large numbers carry a lot of hidden information. They are not just points, but they can be seen as complicated trees.",
+    "input_data": {
+      "input_text": "With this in mind, we see that large numbers carry a lot of hidden information. They are not just points, but they can be seen as complicated trees.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "with-this-in-mind-we-see-that-large-numbers-carry-e3d21b38.mp3",
+    "final_audio": "with-this-in-mind-we-see-that-large-numbers-carry-e3d21b38.mp3"
+  },
+  {
+    "input_text": "Next, we can encode every symbol in our vocabulary by an odd number.",
+    "input_data": {
+      "input_text": "Next, we can encode every symbol in our vocabulary by an odd number.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "next-we-can-encode-every-symbol-in-our-vocabulary-ed320143.mp3",
+    "final_audio": "next-we-can-encode-every-symbol-in-our-vocabulary-ed320143.mp3"
+  },
+  {
+    "input_text": "Then for each formula, for clarity let us use: exists y, y plus y equals x.",
+    "input_data": {
+      "input_text": "Then for each formula, for clarity let us use: exists y, y plus y equals x.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-for-each-formula-for-clarity-let-us-use-f33e5eed.mp3",
+    "final_audio": "then-for-each-formula-for-clarity-let-us-use-f33e5eed.mp3"
+  },
+  {
+    "input_text": "We can define its Godel number as...",
+    "input_data": {
+      "input_text": "We can define its Godel number as...",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-define-its-godel-number-as-20659995.mp3",
+    "final_audio": "we-can-define-its-godel-number-as-20659995.mp3"
+  },
+  {
+    "input_text": "Then display the number. It is huge, so in scientific notation, and show that it is a point in the number line.",
+    "input_data": {
+      "input_text": "Then display the number. It is huge, so in scientific notation, and show that it is a point in the number line.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-display-the-number-it-is-huge-so-in-fc585f09.mp3",
+    "final_audio": "then-display-the-number-it-is-huge-so-in-fc585f09.mp3"
+  },
+  {
+    "input_text": "Now we will explain Godel's famous incompleteness theorem, which tells us that any theory capable of interpreting the theory of arithmetic is incomplete. Meaning that there are sentences which it cannot prove nor disprove. Alternatively, this means that most interesting theories have many models. I.e. we cannot pin down a single model for the theory.",
+    "input_data": {
+      "input_text": "Now we will explain Godel's famous incompleteness theorem, which tells us that any theory capable of interpreting the theory of arithmetic is incomplete. Meaning that there are sentences which it cannot prove nor disprove. Alternatively, this means that most interesting theories have many models. I.e. we cannot pin down a single model for the theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-we-will-explain-godel-s-famous-incompleteness-52be6fb5.mp3",
+    "final_audio": "now-we-will-explain-godel-s-famous-incompleteness-52be6fb5.mp3"
+  },
+  {
+    "input_text": "The first key to understanding this proof is what is known as Godel numbering, whereby we can code every formula with a natural number.",
+    "input_data": {
+      "input_text": "The first key to understanding this proof is what is known as Godel numbering, whereby we can code every formula with a natural number.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-first-key-to-understanding-this-proof-is-what-86d45d63.mp3",
+    "final_audio": "the-first-key-to-understanding-this-proof-is-what-86d45d63.mp3"
+  },
+  {
+    "input_text": "This relies on the Fundamental theorem of arithmetic, which states that every number has a unique prime factor decomposition.",
+    "input_data": {
+      "input_text": "This relies on the Fundamental theorem of arithmetic, which states that every number has a unique prime factor decomposition.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-relies-on-the-fundamental-theorem-of-22239940.mp3",
+    "final_audio": "this-relies-on-the-fundamental-theorem-of-22239940.mp3"
+  },
+  {
+    "input_text": "Essentially this means that we can view each number as a tree.",
+    "input_data": {
+      "input_text": "Essentially this means that we can view each number as a tree.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "essentially-this-means-that-we-can-view-each-0b536b4f.mp3",
+    "final_audio": "essentially-this-means-that-we-can-view-each-0b536b4f.mp3"
+  },
+  {
+    "input_text": "With this in mind, we see that large numbers carry a lot of hidden information. They are not just points, but they can be seen as complicated trees.",
+    "input_data": {
+      "input_text": "With this in mind, we see that large numbers carry a lot of hidden information. They are not just points, but they can be seen as complicated trees.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "with-this-in-mind-we-see-that-large-numbers-carry-e3d21b38.mp3",
+    "final_audio": "with-this-in-mind-we-see-that-large-numbers-carry-e3d21b38.mp3"
+  },
+  {
+    "input_text": "Next, we can encode every symbol in our vocabulary by an odd number.",
+    "input_data": {
+      "input_text": "Next, we can encode every symbol in our vocabulary by an odd number.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "next-we-can-encode-every-symbol-in-our-vocabulary-ed320143.mp3",
+    "final_audio": "next-we-can-encode-every-symbol-in-our-vocabulary-ed320143.mp3"
+  },
+  {
+    "input_text": "Then for each formula, for clarity let us use: exists y, y plus y equals x.",
+    "input_data": {
+      "input_text": "Then for each formula, for clarity let us use: exists y, y plus y equals x.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-for-each-formula-for-clarity-let-us-use-f33e5eed.mp3",
+    "final_audio": "then-for-each-formula-for-clarity-let-us-use-f33e5eed.mp3"
+  },
+  {
+    "input_text": "We can define its Godel number as...",
+    "input_data": {
+      "input_text": "We can define its Godel number as...",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-define-its-godel-number-as-20659995.mp3",
+    "final_audio": "we-can-define-its-godel-number-as-20659995.mp3"
+  },
+  {
+    "input_text": "Then fill in for the specific values of the specific formula.",
+    "input_data": {
+      "input_text": "Then fill in for the specific values of the specific formula.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-fill-in-for-the-specific-values-of-the-70f29763.mp3",
+    "final_audio": "then-fill-in-for-the-specific-values-of-the-70f29763.mp3"
+  },
+  {
+    "input_text": "Then display the number. It is huge, so in scientific notation, and show that it is a point in the number line.",
+    "input_data": {
+      "input_text": "Then display the number. It is huge, so in scientific notation, and show that it is a point in the number line.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-display-the-number-it-is-huge-so-in-fc585f09.mp3",
+    "final_audio": "then-display-the-number-it-is-huge-so-in-fc585f09.mp3"
+  },
+  {
+    "input_text": "Now we will explain Godel's famous incompleteness theorem, which tells us that any theory capable of interpreting the theory of arithmetic is incomplete. Meaning that there are sentences which it cannot prove nor disprove. Alternatively, this means that most interesting theories have many models. I.e. we cannot pin down a single model for the theory.",
+    "input_data": {
+      "input_text": "Now we will explain Godel's famous incompleteness theorem, which tells us that any theory capable of interpreting the theory of arithmetic is incomplete. Meaning that there are sentences which it cannot prove nor disprove. Alternatively, this means that most interesting theories have many models. I.e. we cannot pin down a single model for the theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-we-will-explain-godel-s-famous-incompleteness-52be6fb5.mp3",
+    "final_audio": "now-we-will-explain-godel-s-famous-incompleteness-52be6fb5.mp3"
+  },
+  {
+    "input_text": "The first key to understanding this proof is what is known as Godel numbering, whereby we can code every formula with a natural number.",
+    "input_data": {
+      "input_text": "The first key to understanding this proof is what is known as Godel numbering, whereby we can code every formula with a natural number.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-first-key-to-understanding-this-proof-is-what-86d45d63.mp3",
+    "final_audio": "the-first-key-to-understanding-this-proof-is-what-86d45d63.mp3"
+  },
+  {
+    "input_text": "This relies on the Fundamental theorem of arithmetic, which states that every number has a unique prime factor decomposition.",
+    "input_data": {
+      "input_text": "This relies on the Fundamental theorem of arithmetic, which states that every number has a unique prime factor decomposition.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-relies-on-the-fundamental-theorem-of-22239940.mp3",
+    "final_audio": "this-relies-on-the-fundamental-theorem-of-22239940.mp3"
+  },
+  {
+    "input_text": "Essentially this means that we can view each number as a tree.",
+    "input_data": {
+      "input_text": "Essentially this means that we can view each number as a tree.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "essentially-this-means-that-we-can-view-each-0b536b4f.mp3",
+    "final_audio": "essentially-this-means-that-we-can-view-each-0b536b4f.mp3"
+  },
+  {
+    "input_text": "With this in mind, we see that large numbers carry a lot of hidden information. They are not just points, but they can be seen as complicated trees.",
+    "input_data": {
+      "input_text": "With this in mind, we see that large numbers carry a lot of hidden information. They are not just points, but they can be seen as complicated trees.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "with-this-in-mind-we-see-that-large-numbers-carry-e3d21b38.mp3",
+    "final_audio": "with-this-in-mind-we-see-that-large-numbers-carry-e3d21b38.mp3"
+  },
+  {
+    "input_text": "Next, we can encode every symbol in our vocabulary by an odd number.",
+    "input_data": {
+      "input_text": "Next, we can encode every symbol in our vocabulary by an odd number.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "next-we-can-encode-every-symbol-in-our-vocabulary-ed320143.mp3",
+    "final_audio": "next-we-can-encode-every-symbol-in-our-vocabulary-ed320143.mp3"
+  },
+  {
+    "input_text": "Then for each formula, for clarity let us use: exists y, y plus y equals x.",
+    "input_data": {
+      "input_text": "Then for each formula, for clarity let us use: exists y, y plus y equals x.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-for-each-formula-for-clarity-let-us-use-f33e5eed.mp3",
+    "final_audio": "then-for-each-formula-for-clarity-let-us-use-f33e5eed.mp3"
+  },
+  {
+    "input_text": "We can define its Godel number as...",
+    "input_data": {
+      "input_text": "We can define its Godel number as...",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-define-its-godel-number-as-20659995.mp3",
+    "final_audio": "we-can-define-its-godel-number-as-20659995.mp3"
+  },
+  {
+    "input_text": "Then fill in for the specific values of the specific formula.",
+    "input_data": {
+      "input_text": "Then fill in for the specific values of the specific formula.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-fill-in-for-the-specific-values-of-the-70f29763.mp3",
+    "final_audio": "then-fill-in-for-the-specific-values-of-the-70f29763.mp3"
+  },
+  {
+    "input_text": "Then display the number. It is huge, so in scientific notation, and show that it is a point in the number line.",
+    "input_data": {
+      "input_text": "Then display the number. It is huge, so in scientific notation, and show that it is a point in the number line.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-display-the-number-it-is-huge-so-in-fc585f09.mp3",
+    "final_audio": "then-display-the-number-it-is-huge-so-in-fc585f09.mp3"
+  },
+  {
+    "input_text": "Now we will explain Godel's famous incompleteness theorem, which tells us that any theory capable of interpreting the theory of arithmetic is incomplete. Meaning that there are sentences which it cannot prove nor disprove. Alternatively, this means that most interesting theories have many models. I.e. we cannot pin down a single model for the theory.",
+    "input_data": {
+      "input_text": "Now we will explain Godel's famous incompleteness theorem, which tells us that any theory capable of interpreting the theory of arithmetic is incomplete. Meaning that there are sentences which it cannot prove nor disprove. Alternatively, this means that most interesting theories have many models. I.e. we cannot pin down a single model for the theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-we-will-explain-godel-s-famous-incompleteness-52be6fb5.mp3",
+    "final_audio": "now-we-will-explain-godel-s-famous-incompleteness-52be6fb5.mp3"
+  },
+  {
+    "input_text": "The first key to understanding this proof is what is known as Godel numbering, whereby we can code every formula with a natural number.",
+    "input_data": {
+      "input_text": "The first key to understanding this proof is what is known as Godel numbering, whereby we can code every formula with a natural number.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-first-key-to-understanding-this-proof-is-what-86d45d63.mp3",
+    "final_audio": "the-first-key-to-understanding-this-proof-is-what-86d45d63.mp3"
+  },
+  {
+    "input_text": "This relies on the Fundamental theorem of arithmetic, which states that every number has a unique prime factor decomposition.",
+    "input_data": {
+      "input_text": "This relies on the Fundamental theorem of arithmetic, which states that every number has a unique prime factor decomposition.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-relies-on-the-fundamental-theorem-of-22239940.mp3",
+    "final_audio": "this-relies-on-the-fundamental-theorem-of-22239940.mp3"
+  },
+  {
+    "input_text": "Essentially this means that we can view each number as a tree.",
+    "input_data": {
+      "input_text": "Essentially this means that we can view each number as a tree.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "essentially-this-means-that-we-can-view-each-0b536b4f.mp3",
+    "final_audio": "essentially-this-means-that-we-can-view-each-0b536b4f.mp3"
+  },
+  {
+    "input_text": "With this in mind, we see that large numbers carry a lot of hidden information. They are not just points, but they can be seen as complicated trees.",
+    "input_data": {
+      "input_text": "With this in mind, we see that large numbers carry a lot of hidden information. They are not just points, but they can be seen as complicated trees.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "with-this-in-mind-we-see-that-large-numbers-carry-e3d21b38.mp3",
+    "final_audio": "with-this-in-mind-we-see-that-large-numbers-carry-e3d21b38.mp3"
+  },
+  {
+    "input_text": "Next, we can encode every symbol in our vocabulary by an odd number.",
+    "input_data": {
+      "input_text": "Next, we can encode every symbol in our vocabulary by an odd number.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "next-we-can-encode-every-symbol-in-our-vocabulary-ed320143.mp3",
+    "final_audio": "next-we-can-encode-every-symbol-in-our-vocabulary-ed320143.mp3"
+  },
+  {
+    "input_text": "Then for each formula, for clarity let us use: exists y, y plus y equals x.",
+    "input_data": {
+      "input_text": "Then for each formula, for clarity let us use: exists y, y plus y equals x.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-for-each-formula-for-clarity-let-us-use-f33e5eed.mp3",
+    "final_audio": "then-for-each-formula-for-clarity-let-us-use-f33e5eed.mp3"
+  },
+  {
+    "input_text": "We can define its Godel number as...",
+    "input_data": {
+      "input_text": "We can define its Godel number as...",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-define-its-godel-number-as-20659995.mp3",
+    "final_audio": "we-can-define-its-godel-number-as-20659995.mp3"
+  },
+  {
+    "input_text": "Then fill in for the specific values of the specific formula.",
+    "input_data": {
+      "input_text": "Then fill in for the specific values of the specific formula.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-fill-in-for-the-specific-values-of-the-70f29763.mp3",
+    "final_audio": "then-fill-in-for-the-specific-values-of-the-70f29763.mp3"
+  },
+  {
+    "input_text": "Then display the number. It is huge, so in scientific notation, and show that it is a point in the number line.",
+    "input_data": {
+      "input_text": "Then display the number. It is huge, so in scientific notation, and show that it is a point in the number line.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-display-the-number-it-is-huge-so-in-fc585f09.mp3",
+    "final_audio": "then-display-the-number-it-is-huge-so-in-fc585f09.mp3"
+  },
+  {
+    "input_text": "Now we will explain Godel's famous incompleteness theorem, which tells us that any theory capable of interpreting the theory of arithmetic is incomplete. Meaning that there are sentences which it cannot prove nor disprove. Alternatively, this means that most interesting theories have many models. I.e. we cannot pin down a single model for the theory.",
+    "input_data": {
+      "input_text": "Now we will explain Godel's famous incompleteness theorem, which tells us that any theory capable of interpreting the theory of arithmetic is incomplete. Meaning that there are sentences which it cannot prove nor disprove. Alternatively, this means that most interesting theories have many models. I.e. we cannot pin down a single model for the theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-we-will-explain-godel-s-famous-incompleteness-52be6fb5.mp3",
+    "final_audio": "now-we-will-explain-godel-s-famous-incompleteness-52be6fb5.mp3"
+  },
+  {
+    "input_text": "The first key to understanding this proof is what is known as Godel numbering, whereby we can code every formula with a natural number.",
+    "input_data": {
+      "input_text": "The first key to understanding this proof is what is known as Godel numbering, whereby we can code every formula with a natural number.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-first-key-to-understanding-this-proof-is-what-86d45d63.mp3",
+    "final_audio": "the-first-key-to-understanding-this-proof-is-what-86d45d63.mp3"
+  },
+  {
+    "input_text": "This relies on the Fundamental theorem of arithmetic, which states that every number has a unique prime factor decomposition.",
+    "input_data": {
+      "input_text": "This relies on the Fundamental theorem of arithmetic, which states that every number has a unique prime factor decomposition.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-relies-on-the-fundamental-theorem-of-22239940.mp3",
+    "final_audio": "this-relies-on-the-fundamental-theorem-of-22239940.mp3"
+  },
+  {
+    "input_text": "Essentially this means that we can view each number as a tree.",
+    "input_data": {
+      "input_text": "Essentially this means that we can view each number as a tree.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "essentially-this-means-that-we-can-view-each-0b536b4f.mp3",
+    "final_audio": "essentially-this-means-that-we-can-view-each-0b536b4f.mp3"
+  },
+  {
+    "input_text": "With this in mind, we see that large numbers carry a lot of hidden information. They are not just points, but they can be seen as complicated trees.",
+    "input_data": {
+      "input_text": "With this in mind, we see that large numbers carry a lot of hidden information. They are not just points, but they can be seen as complicated trees.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "with-this-in-mind-we-see-that-large-numbers-carry-e3d21b38.mp3",
+    "final_audio": "with-this-in-mind-we-see-that-large-numbers-carry-e3d21b38.mp3"
+  },
+  {
+    "input_text": "Next, we can encode every symbol in our vocabulary by an odd number.",
+    "input_data": {
+      "input_text": "Next, we can encode every symbol in our vocabulary by an odd number.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "next-we-can-encode-every-symbol-in-our-vocabulary-ed320143.mp3",
+    "final_audio": "next-we-can-encode-every-symbol-in-our-vocabulary-ed320143.mp3"
+  },
+  {
+    "input_text": "Then for each formula, for clarity let us use: exists y, y plus y equals x.",
+    "input_data": {
+      "input_text": "Then for each formula, for clarity let us use: exists y, y plus y equals x.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-for-each-formula-for-clarity-let-us-use-f33e5eed.mp3",
+    "final_audio": "then-for-each-formula-for-clarity-let-us-use-f33e5eed.mp3"
+  },
+  {
+    "input_text": "We can define its Godel number as...",
+    "input_data": {
+      "input_text": "We can define its Godel number as...",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-define-its-godel-number-as-20659995.mp3",
+    "final_audio": "we-can-define-its-godel-number-as-20659995.mp3"
+  },
+  {
+    "input_text": "Then fill in for the specific values of the specific formula.",
+    "input_data": {
+      "input_text": "Then fill in for the specific values of the specific formula.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-fill-in-for-the-specific-values-of-the-70f29763.mp3",
+    "final_audio": "then-fill-in-for-the-specific-values-of-the-70f29763.mp3"
+  },
+  {
+    "input_text": "Then display the number. It is huge, so in scientific notation, and show that it is a point in the number line.",
+    "input_data": {
+      "input_text": "Then display the number. It is huge, so in scientific notation, and show that it is a point in the number line.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-display-the-number-it-is-huge-so-in-fc585f09.mp3",
+    "final_audio": "then-display-the-number-it-is-huge-so-in-fc585f09.mp3"
+  }
+]

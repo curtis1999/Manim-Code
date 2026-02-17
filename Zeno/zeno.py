@@ -88,13 +88,6 @@ class ZenosParadox(Scene):
                 radius=0.05
             )
             
-            # Animate the segment and dot
-            self.play(
-                Create(segment),
-                Create(midpoint_dot),
-                run_time=0.8
-            )
-            self.wait(1/(i+1))
             
             # Create the fraction term
             if i == 0:
@@ -117,9 +110,12 @@ class ZenosParadox(Scene):
             
             # Animate only the new fraction appearing
             self.play(
-                Write(current_frac),
-                run_time=0.6               
+                Create(segment),
+                Create(midpoint_dot),                
+                Write(current_frac),  
+                run_time=0.8            
             )
+            self.wait(1/(i+1))
             
             segments.append(segment)
             dots.append(midpoint_dot)
@@ -127,9 +123,9 @@ class ZenosParadox(Scene):
             # Update for next iteration
             current_pos = midpoint
             self.wait(0.5)
-
+        self.wait(2)
         self.clear()
-
+        
         series_expr = MathTex(
             r"\sum_{i=1}^{\infty} \frac{1}{2^i}",
             font_size=48,

@@ -4,10 +4,31 @@ import random
 class AncientGreeceInfinity(Scene):
     def construct(self):
         # Title screen
-        title = Text("History of Infinity", font_size=48, color=BLUE)
+        Pythagoras = ImageMobject("Pythagoras.png")
+        Pythagoras.set_height(5)
+        Pythagoras.set_width(3)
+        Pythagoras.shift(UP*2 + LEFT *6)
+        Zeno = ImageMobject("Zeno.png")
+        Zeno.set_height(5)
+        Zeno.set_width(3)
+        Zeno.shift(UP*2 + LEFT *3) 
+        Galileo = ImageMobject("Galileo.png")
+        Galileo.set_height(7)
+        Galileo.set_width(3)
+        Galileo.shift(UP*2)
+        Godel = ImageMobject("KurtGodel.webp")
+        Godel.set_height(4)
+        Godel.set_width(3)
+        Godel.shift(UP*2 + RIGHT*6)
+        Cantor = ImageMobject("Georg_Cantor.jpg")
+        Cantor.set_height(5)
+        Cantor.set_width(3)
+        Cantor.shift(UP*2 + RIGHT *3)
+        self.play(FadeIn(Pythagoras),FadeIn(Cantor), FadeIn(Zeno), FadeIn(Godel), FadeIn(Galileo))
+        title = Text("History of Infinity", font_size=64, color=BLUE)
         self.play(Write(title))
-        self.wait(1)
-        self.play(FadeOut(title))
+        self.wait(5)
+        self.play(FadeOut(title), FadeOut(Pythagoras),FadeOut(Cantor), FadeOut(Zeno), FadeOut(Godel), FadeOut(Galileo))
         
         # Create full number line from 0-1200 with every 10th number labeled
         full_number_line = NumberLine(
@@ -26,53 +47,35 @@ class AncientGreeceInfinity(Scene):
             number_label.next_to(full_number_line.n2p(i), DOWN, buff=0.2)
             all_numbers.add(number_label)
         
-        # Position the number line centered on 50 (so we see 0-100 initially)
-        # Move the number line left so that 50 is at the center of the screen
-        initial_offset = -full_number_line.n2p(75)[0]
+        # Position the number line so that 0 is visible at the left side of the screen
+        # Move the number line so that 0 is positioned at the left edge
+        initial_offset = -full_number_line.n2p(75)[0]  # Show 0 at left side with some margin
         full_number_line.shift(RIGHT * initial_offset)
         all_numbers.shift(RIGHT * initial_offset)
         
-        # Create the complete number line with all labels
-        self.play(Create(full_number_line), Write(all_numbers))
-        self.wait(1)
-        
-        # Single accelerating pan to the right with fade out
-        # We'll pan towards 900 but fade out around 700-800 to create the infinite illusion
+        # Create the number line and immediately start panning
+        # Single continuous pan animation with accelerating movement
         target_position = 900  # Where we're panning towards
-        fade_start_position = 600  # When to start fading (at around 600 on the number line)
+        pan_distance = full_number_line.n2p(target_position)[0] - full_number_line.n2p(0)[0]
         
-        pan_distance = full_number_line.n2p(target_position)[0] - full_number_line.n2p(50)[0]
+        # Create and show the number line, then immediately start panning
+        self.play(Create(full_number_line), Write(all_numbers))
         
-        # Calculate when to start fading (as a fraction of the total animation)
-        fade_start_fraction = (fade_start_position - 50) / (target_position - 50)
-        
-        # Create the pan animation with accelerating movement
-        pan_animation = AnimationGroup(
-            full_number_line.animate.shift(LEFT * pan_distance),
-            all_numbers.animate.shift(LEFT * pan_distance),
-        )
-        
-        # Create fade out animation that starts partway through
-        fade_animation = AnimationGroup(
-            FadeOut(full_number_line),
-            FadeOut(all_numbers),
-        )
-        
-        # Play the pan with quadratic acceleration
+        # Continuous pan with quadratic acceleration and fade out at the end
         self.play(
-            pan_animation,
-            run_time=8,
-            rate_func=lambda t: t**2  # Quadratic acceleration
+            AnimationGroup(
+                full_number_line.animate.shift(LEFT * pan_distance),
+                all_numbers.animate.shift(LEFT * pan_distance),
+            ),
+            run_time=7,
+            rate_func=lambda t: t**2  # Quadratic acceleration - starts slow, gets faster
         )
         
-        # Start fade out during the last portion of the pan
-        # We'll use a separate fade animation that starts when we're around 700
+        # Final fade out as we approach "infinity"
         self.play(
-            full_number_line.animate.shift(LEFT * pan_distance * 0.3),  # Continue panning a bit more
-            all_numbers.animate.shift(LEFT * pan_distance * 0.3),
-            FadeOut(full_number_line, run_time=3),
-            FadeOut(all_numbers, run_time=3),
-            run_time=3,
+            FadeOut(full_number_line, run_time=2),
+            FadeOut(all_numbers, run_time=2),
+            run_time=2,
         )
         
         self.wait(1)
@@ -153,5 +156,5 @@ class AncientGreeceInfinity(Scene):
             FadeOut(separator),
         )
         self.wait(1)
-        Aristotle_quote = Text( "There is no smallest among the small and no largest among the large; but always something still smaller and something still larger.")
+        Aristotle_quote = Text( "There is no smallest among \n the small and no largest among the large; but always something still smaller and something still larger.")
         self.play(Write(Aristotle_quote))
