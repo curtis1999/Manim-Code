@@ -20,8 +20,7 @@ class GodelIncompleteness(VoiceoverScene):
         with self.voiceover(text=text_1) as tracker:
             title = Text("Gödel's First Incompleteness Theorem", font_size=48).to_edge(UP)
             self.play(Write(title))
-            self.wait(1)
-            self.play(FadeOut(title))
+            self.wait(2)
 
         # Create Number Line
         number_line = NumberLine(
@@ -30,7 +29,7 @@ class GodelIncompleteness(VoiceoverScene):
             include_numbers=True,
             numbers_to_include=range(1, 9),
             font_size=24
-        ).to_edge(UP, buff=1.0).shift(RIGHT*0.8).scale(0.9)
+        ).next_to(title, DOWN, buff=0.5)
         
         dots = MathTex("\dots").next_to(number_line, RIGHT)
         full_line_group = VGroup(number_line, dots)
@@ -53,18 +52,16 @@ class GodelIncompleteness(VoiceoverScene):
         # Theorem Box
         theorem_text = Tex(
             "\\textbf{Fundamental Theorem of Arithmetic:}\\\\",
-            "Every integer $n > 1$ is either a prime number itself\\\\",
-            "or can be represented as the product of prime numbers\\\\",
-            "in a unique way."
+            "Every integer $n > 1$ has a unique prime factor decomposition\\\\",
         ).scale(0.65)
         
         theorem_box = SurroundingRectangle(theorem_text, color=BLUE, fill_opacity=0.1, fill_color=BLACK)
-        theorem_group = VGroup(theorem_box, theorem_text).to_edge(DOWN, buff=1.0)
+        theorem_group = VGroup(theorem_box, theorem_text)
 
         with self.voiceover(text=text_3) as tracker:
-            self.play(Create(theorem_box), Write(theorem_text))
+            self.play(Create(theorem_box), Write(theorem_text), run_time = tracker.duration/2)
 
-        text_4 = "Essentially this means that we can view each number as a tree."
+        text_4 = "Essentially this means that we can view each number as a tree, where the leaves are prime numbers."
 
         # HELPER: Build simple factor trees
         def get_factor_tree(num, top_point, scale=0.4):
@@ -111,6 +108,7 @@ class GodelIncompleteness(VoiceoverScene):
         trees_group = VGroup()
         
         with self.voiceover(text=text_4) as tracker:
+            self.wait()
             # We iterate 1-8. If composite, we build and play. 
             for i in range(1, 9):
                 if i in [4, 6, 8]:
@@ -212,15 +210,15 @@ class GodelIncompleteness(VoiceoverScene):
             
             # Animate 1792 level by level
             self.play(FadeIn(level_0, shift=UP))
-            self.wait(0.5)
+            self.wait(0.25)
             self.play(FadeIn(level_1, shift=UP))
-            self.wait(0.5)
+            self.wait(0.25)
             self.play(FadeIn(level_2, shift=UP))
-            self.wait(0.5)
+            self.wait(0.25)
             self.play(FadeIn(level_3, shift=UP))
-            self.wait(0.5)
+            self.wait(0.25)
             self.play(FadeIn(level_4, shift=UP))
-            self.wait(2)
+            self.wait
         
         self.play(FadeOut(big_tree_full))
 
@@ -253,9 +251,8 @@ class GodelIncompleteness(VoiceoverScene):
         ellipses = MathTex("\\vdots").scale(1.5)
         rows.append(ellipses)
         
-        table_group = VGroup(*rows).arrange(DOWN, aligned_edge=LEFT, buff=0.1)
-        table_group.scale(0.8)
-        table_group.to_corner(DL).shift(UP*0.5 + RIGHT*0.5)
+        table_group = VGroup(*rows).next_to(number_line, DOWN, buff=0.25).align(LEFT)
+        table_group.scale(0.6)
 
         with self.voiceover(text=text_6) as tracker:
             self.play(Write(table_group))
@@ -265,10 +262,10 @@ class GodelIncompleteness(VoiceoverScene):
         text_7 = "Then for each formula, for clarity let us use: exists y, y plus y equals x."
         
         formula_str = "\\varphi:=\\exists y (y + y = x)"
-        formula = MathTex(formula_str).scale(1.5).next_to(number_line, DOWN, buff=1)
+        formula = MathTex(formula_str).next_to(number_line, DOWN, buff=0.5)
 
         with self.voiceover(text=text_7) as tracker:
-            self.play(Write(formula))
+            self.play(Write(formula), run_time = tracker.duration/2)
 
         text_8 = "We can define its Godel number as..."
         
@@ -300,7 +297,7 @@ class GodelIncompleteness(VoiceoverScene):
         
         # Position slightly to the right of the ellipses (dots)
         # dots is part of full_line_group
-        far_point = Dot(point=dots.get_right() + RIGHT * 0.5, color=RED)
+        far_point = Dot(point=dots.get_right() + RIGHT * 0.1, color=RED)
         arrow = Arrow(start=huge_num.get_top(), end=far_point.get_bottom(), color=RED)
 
         with self.voiceover(text=text_10) as tracker:

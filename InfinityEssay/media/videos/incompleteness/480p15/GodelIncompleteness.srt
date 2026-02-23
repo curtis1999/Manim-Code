@@ -43,42 +43,42 @@ that every number has a unique prime factor decomposition.
 Essentially this means that we can view each number as a tree.
 
 12
-00:00:17,533 --> 00:00:18,846
+00:00:17,666 --> 00:00:18,980
 With this in mind, we see that large numbers carry
 
 13
-00:00:18,946 --> 00:00:20,373
+00:00:19,080 --> 00:00:20,506
 a lot of hidden information. They are not just points,
 
 14
-00:00:20,473 --> 00:00:21,560
+00:00:20,606 --> 00:00:21,694
 but they can be seen as complicated trees.
 
 15
-00:00:28,400 --> 00:00:31,356
+00:00:25,466 --> 00:00:28,422
 Next, we can encode every symbol in our vocabulary by an odd number.
 
 16
-00:00:31,400 --> 00:00:33,919
+00:00:28,466 --> 00:00:30,986
 Then for each formula, for clarity let us
 
 17
-00:00:34,019 --> 00:00:36,028
+00:00:31,086 --> 00:00:33,094
 use: exists y, y plus y equals x.
 
 18
-00:00:36,066 --> 00:00:37,899
+00:00:33,133 --> 00:00:34,966
 We can define its Godel number as...
 
 19
-00:00:38,066 --> 00:00:40,683
+00:00:35,133 --> 00:00:37,750
 Then fill in for the specific values of the specific formula.
 
 20
-00:00:42,066 --> 00:00:42,924
+00:00:39,133 --> 00:00:39,990
 Then display the number. It is huge, so in scientific notation,
 
 21
-00:00:43,024 --> 00:00:43,638
+00:00:40,090 --> 00:00:40,705
 and show that it is a point in the number line.
 
