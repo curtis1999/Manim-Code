@@ -1,0 +1,3287 @@
+[
+  {
+    "input_text": "WHAT IS MATH AND WHY IS IT INCOMPLETE? Speaking very generally, mathematicians try to describe certain mathematical objects. And make claims about their structure and relation to other mathematical objects. For much of human history this was grounded in geometry, where proofs were grounded in geometric intuition.",
+    "input_data": {
+      "input_text": "WHAT IS MATH AND WHY IS IT INCOMPLETE? Speaking very generally, mathematicians try to describe certain mathematical objects. And make claims about their structure and relation to other mathematical objects. For much of human history this was grounded in geometry, where proofs were grounded in geometric intuition.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "what-is-math-and-why-is-it-incomplete-speaking-8fa73827.mp3",
+    "final_audio": "what-is-math-and-why-is-it-incomplete-speaking-8fa73827.mp3"
+  },
+  {
+    "input_text": "As time went on, math became more abstract and allowed us to describe more complicated and abstract structures moving us further from our intuitions.",
+    "input_data": {
+      "input_text": "As time went on, math became more abstract and allowed us to describe more complicated and abstract structures moving us further from our intuitions.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "as-time-went-on-math-became-more-abstract-and-a0bb0848.mp3",
+    "final_audio": "as-time-went-on-math-became-more-abstract-and-a0bb0848.mp3"
+  },
+  {
+    "input_text": "WHAT IS MATH AND WHY IS IT INCOMPLETE? Speaking very generally, mathematicians try to describe certain mathematical objects. And make claims about their structure and relation to other mathematical objects. For much of human history this was grounded in geometry, where proofs were grounded in geometric intuition.",
+    "input_data": {
+      "input_text": "WHAT IS MATH AND WHY IS IT INCOMPLETE? Speaking very generally, mathematicians try to describe certain mathematical objects. And make claims about their structure and relation to other mathematical objects. For much of human history this was grounded in geometry, where proofs were grounded in geometric intuition.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "what-is-math-and-why-is-it-incomplete-speaking-8fa73827.mp3",
+    "final_audio": "what-is-math-and-why-is-it-incomplete-speaking-8fa73827.mp3"
+  },
+  {
+    "input_text": "As time went on, math became more abstract and allowed us to describe more complicated and abstract structures moving us further from our intuitions.",
+    "input_data": {
+      "input_text": "As time went on, math became more abstract and allowed us to describe more complicated and abstract structures moving us further from our intuitions.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "as-time-went-on-math-became-more-abstract-and-a0bb0848.mp3",
+    "final_audio": "as-time-went-on-math-became-more-abstract-and-a0bb0848.mp3"
+  },
+  {
+    "input_text": "WHAT IS MATH AND WHY IS IT INCOMPLETE? Speaking very generally, mathematicians try to describe certain mathematical objects. And make claims about their structure and relation to other mathematical objects. For much of human history this was grounded in geometry, where proofs were grounded in geometric intuition.",
+    "input_data": {
+      "input_text": "WHAT IS MATH AND WHY IS IT INCOMPLETE? Speaking very generally, mathematicians try to describe certain mathematical objects. And make claims about their structure and relation to other mathematical objects. For much of human history this was grounded in geometry, where proofs were grounded in geometric intuition.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "what-is-math-and-why-is-it-incomplete-speaking-8fa73827.mp3",
+    "final_audio": "what-is-math-and-why-is-it-incomplete-speaking-8fa73827.mp3"
+  },
+  {
+    "input_text": "As time went on, math became more abstract and allowed us to describe more complicated and abstract structures moving us further from our intuitions.",
+    "input_data": {
+      "input_text": "As time went on, math became more abstract and allowed us to describe more complicated and abstract structures moving us further from our intuitions.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "as-time-went-on-math-became-more-abstract-and-a0bb0848.mp3",
+    "final_audio": "as-time-went-on-math-became-more-abstract-and-a0bb0848.mp3"
+  },
+  {
+    "input_text": "WHAT IS MATH AND WHY IS IT INCOMPLETE? Speaking very generally, mathematicians try to describe certain mathematical objects. And make claims about their structure and relation to other mathematical objects. For much of human history this was grounded in geometry, where proofs were grounded in geometric intuition.",
+    "input_data": {
+      "input_text": "WHAT IS MATH AND WHY IS IT INCOMPLETE? Speaking very generally, mathematicians try to describe certain mathematical objects. And make claims about their structure and relation to other mathematical objects. For much of human history this was grounded in geometry, where proofs were grounded in geometric intuition.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "what-is-math-and-why-is-it-incomplete-speaking-8fa73827.mp3",
+    "final_audio": "what-is-math-and-why-is-it-incomplete-speaking-8fa73827.mp3"
+  },
+  {
+    "input_text": "As time went on, math became more abstract and allowed us to describe more complicated and abstract structures moving us further from our intuitions.",
+    "input_data": {
+      "input_text": "As time went on, math became more abstract and allowed us to describe more complicated and abstract structures moving us further from our intuitions.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "as-time-went-on-math-became-more-abstract-and-a0bb0848.mp3",
+    "final_audio": "as-time-went-on-math-became-more-abstract-and-a0bb0848.mp3"
+  },
+  {
+    "input_text": "WHAT IS MATH AND WHY IS IT INCOMPLETE? Speaking very generally, mathematicians try to describe certain mathematical objects. And make claims about their structure and relation to other mathematical objects. For much of human history this was grounded in geometry, where proofs were grounded in geometric intuition.",
+    "input_data": {
+      "input_text": "WHAT IS MATH AND WHY IS IT INCOMPLETE? Speaking very generally, mathematicians try to describe certain mathematical objects. And make claims about their structure and relation to other mathematical objects. For much of human history this was grounded in geometry, where proofs were grounded in geometric intuition.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "what-is-math-and-why-is-it-incomplete-speaking-8fa73827.mp3",
+    "final_audio": "what-is-math-and-why-is-it-incomplete-speaking-8fa73827.mp3"
+  },
+  {
+    "input_text": "As time went on, math became more abstract and allowed us to describe more complicated and abstract structures moving us further from our intuitions.",
+    "input_data": {
+      "input_text": "As time went on, math became more abstract and allowed us to describe more complicated and abstract structures moving us further from our intuitions.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "as-time-went-on-math-became-more-abstract-and-a0bb0848.mp3",
+    "final_audio": "as-time-went-on-math-became-more-abstract-and-a0bb0848.mp3"
+  },
+  {
+    "input_text": "But what do we mean by describe a mathematical object? What is the precise definition of a mathematical object? Which objects are considered to be part of the mathematical universe, and which are not?",
+    "input_data": {
+      "input_text": "But what do we mean by describe a mathematical object? What is the precise definition of a mathematical object? Which objects are considered to be part of the mathematical universe, and which are not?",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-what-do-we-mean-by-describe-a-mathematical-5fa78d40.mp3",
+    "final_audio": "but-what-do-we-mean-by-describe-a-mathematical-5fa78d40.mp3"
+  },
+  {
+    "input_text": "To understand these questions we will have to understand the basics of mathematical logic.",
+    "input_data": {
+      "input_text": "To understand these questions we will have to understand the basics of mathematical logic.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "to-understand-these-questions-we-will-have-to-67e27809.mp3",
+    "final_audio": "to-understand-these-questions-we-will-have-to-67e27809.mp3"
+  },
+  {
+    "input_text": "The syntax is the set's of formulas themselves, and they are governed by a formal calculus",
+    "input_data": {
+      "input_text": "The syntax is the set's of formulas themselves, and they are governed by a formal calculus",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-syntax-is-the-set-s-of-formulas-themselves-and-270f8880.mp3",
+    "final_audio": "the-syntax-is-the-set-s-of-formulas-themselves-and-270f8880.mp3"
+  },
+  {
+    "input_text": "The semantics is the interpretation of these symbols.",
+    "input_data": {
+      "input_text": "The semantics is the interpretation of these symbols.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-semantics-is-the-interpretation-of-these-c3cb1df7.mp3",
+    "final_audio": "the-semantics-is-the-interpretation-of-these-c3cb1df7.mp3"
+  },
+  {
+    "input_text": "Truth in the syntactical side is given by a valid proof in a deductive calculus. Here Sigma proves phi means that there is a proof of phi using the logical axioms and premises in Sigma following the rules of inference",
+    "input_data": {
+      "input_text": "Truth in the syntactical side is given by a valid proof in a deductive calculus. Here Sigma proves phi means that there is a proof of phi using the logical axioms and premises in Sigma following the rules of inference",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "truth-in-the-syntactical-side-is-given-by-a-valid-0c53f9a6.mp3",
+    "final_audio": "truth-in-the-syntactical-side-is-given-by-a-valid-0c53f9a6.mp3"
+  },
+  {
+    "input_text": "This is a mechanical process which can be visualized as a tree",
+    "input_data": {
+      "input_text": "This is a mechanical process which can be visualized as a tree",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-a-mechanical-process-which-can-be-efe965fa.mp3",
+    "final_audio": "this-is-a-mechanical-process-which-can-be-efe965fa.mp3"
+  },
+  {
+    "input_text": "Truth in the semantical side is based on Tarki's definition of truth. Namely that something is true iff it is true in all models. Here Sigma models phi means that in every structure where Sigma is satisfied -- i.e. each sentence in Sigma happens to be true-- phi is also satisfied.",
+    "input_data": {
+      "input_text": "Truth in the semantical side is based on Tarki's definition of truth. Namely that something is true iff it is true in all models. Here Sigma models phi means that in every structure where Sigma is satisfied -- i.e. each sentence in Sigma happens to be true-- phi is also satisfied.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "truth-in-the-semantical-side-is-based-on-tarki-s-90bac246.mp3",
+    "final_audio": "truth-in-the-semantical-side-is-based-on-tarki-s-90bac246.mp3"
+  },
+  {
+    "input_text": "For example, if we have an order relation in our vocabulary and Sigma is the set of sentences expressing that the order relation is transitive and irreflexive, then we can show that it is also assymetric. So, any structure satisfying each of the two conditions in Sigma, which happens in any irreflexive partially ordered set, such as a number line, or a tree, or a lattice, will also satisfy phi.",
+    "input_data": {
+      "input_text": "For example, if we have an order relation in our vocabulary and Sigma is the set of sentences expressing that the order relation is transitive and irreflexive, then we can show that it is also assymetric. So, any structure satisfying each of the two conditions in Sigma, which happens in any irreflexive partially ordered set, such as a number line, or a tree, or a lattice, will also satisfy phi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-if-we-have-an-order-relation-in-our-6a61f0b1.mp3",
+    "final_audio": "for-example-if-we-have-an-order-relation-in-our-6a61f0b1.mp3"
+  },
+  {
+    "input_text": "Another way to see this, is that there is no structure in the mathematical universe, which makes Sigma true but which makes phi false. It is natural to wonder what is the relation between these two worlds.",
+    "input_data": {
+      "input_text": "Another way to see this, is that there is no structure in the mathematical universe, which makes Sigma true but which makes phi false. It is natural to wonder what is the relation between these two worlds.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "another-way-to-see-this-is-that-there-is-no-2549fd10.mp3",
+    "final_audio": "another-way-to-see-this-is-that-there-is-no-2549fd10.mp3"
+  },
+  {
+    "input_text": "WHAT IS MATH AND WHY IS IT INCOMPLETE? Speaking very generally, mathematicians try to describe certain mathematical objects. And make claims about their structure and relation to other mathematical objects. For much of human history this was grounded in geometry, where proofs were grounded in geometric intuition.",
+    "input_data": {
+      "input_text": "WHAT IS MATH AND WHY IS IT INCOMPLETE? Speaking very generally, mathematicians try to describe certain mathematical objects. And make claims about their structure and relation to other mathematical objects. For much of human history this was grounded in geometry, where proofs were grounded in geometric intuition.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "what-is-math-and-why-is-it-incomplete-speaking-8fa73827.mp3",
+    "final_audio": "what-is-math-and-why-is-it-incomplete-speaking-8fa73827.mp3"
+  },
+  {
+    "input_text": "As time went on, math became more abstract and allowed us to describe more complicated and abstract structures moving us further from our intuitions.",
+    "input_data": {
+      "input_text": "As time went on, math became more abstract and allowed us to describe more complicated and abstract structures moving us further from our intuitions.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "as-time-went-on-math-became-more-abstract-and-a0bb0848.mp3",
+    "final_audio": "as-time-went-on-math-became-more-abstract-and-a0bb0848.mp3"
+  },
+  {
+    "input_text": "But what do we mean by describe a mathematical object? What is the precise definition of a mathematical object? Which objects are considered to be part of the mathematical universe, and which are not?",
+    "input_data": {
+      "input_text": "But what do we mean by describe a mathematical object? What is the precise definition of a mathematical object? Which objects are considered to be part of the mathematical universe, and which are not?",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-what-do-we-mean-by-describe-a-mathematical-5fa78d40.mp3",
+    "final_audio": "but-what-do-we-mean-by-describe-a-mathematical-5fa78d40.mp3"
+  },
+  {
+    "input_text": "To understand these questions we will have to understand the basics of mathematical logic.",
+    "input_data": {
+      "input_text": "To understand these questions we will have to understand the basics of mathematical logic.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "to-understand-these-questions-we-will-have-to-67e27809.mp3",
+    "final_audio": "to-understand-these-questions-we-will-have-to-67e27809.mp3"
+  },
+  {
+    "input_text": "The syntax is the set's of formulas themselves, and they are governed by a formal calculus",
+    "input_data": {
+      "input_text": "The syntax is the set's of formulas themselves, and they are governed by a formal calculus",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-syntax-is-the-set-s-of-formulas-themselves-and-270f8880.mp3",
+    "final_audio": "the-syntax-is-the-set-s-of-formulas-themselves-and-270f8880.mp3"
+  },
+  {
+    "input_text": "The semantics is the interpretation of these symbols.",
+    "input_data": {
+      "input_text": "The semantics is the interpretation of these symbols.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-semantics-is-the-interpretation-of-these-c3cb1df7.mp3",
+    "final_audio": "the-semantics-is-the-interpretation-of-these-c3cb1df7.mp3"
+  },
+  {
+    "input_text": "Truth in the syntactical side is given by a valid proof in a deductive calculus. Here Sigma proves phi means that there is a proof of phi using the logical axioms and premises in Sigma following the rules of inference",
+    "input_data": {
+      "input_text": "Truth in the syntactical side is given by a valid proof in a deductive calculus. Here Sigma proves phi means that there is a proof of phi using the logical axioms and premises in Sigma following the rules of inference",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "truth-in-the-syntactical-side-is-given-by-a-valid-0c53f9a6.mp3",
+    "final_audio": "truth-in-the-syntactical-side-is-given-by-a-valid-0c53f9a6.mp3"
+  },
+  {
+    "input_text": "This is a mechanical process which can be visualized as a tree",
+    "input_data": {
+      "input_text": "This is a mechanical process which can be visualized as a tree",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-a-mechanical-process-which-can-be-efe965fa.mp3",
+    "final_audio": "this-is-a-mechanical-process-which-can-be-efe965fa.mp3"
+  },
+  {
+    "input_text": "Truth in the semantical side is based on Tarki's definition of truth. Namely that something is true iff it is true in all models. Here Sigma models phi means that in every structure where Sigma is satisfied -- i.e. each sentence in Sigma happens to be true-- phi is also satisfied.",
+    "input_data": {
+      "input_text": "Truth in the semantical side is based on Tarki's definition of truth. Namely that something is true iff it is true in all models. Here Sigma models phi means that in every structure where Sigma is satisfied -- i.e. each sentence in Sigma happens to be true-- phi is also satisfied.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "truth-in-the-semantical-side-is-based-on-tarki-s-90bac246.mp3",
+    "final_audio": "truth-in-the-semantical-side-is-based-on-tarki-s-90bac246.mp3"
+  },
+  {
+    "input_text": "For example, if we have an order relation in our vocabulary and Sigma is the set of sentences expressing that the order relation is transitive and irreflexive, then we can show that it is also assymetric. So, any structure satisfying each of the two conditions in Sigma, which happens in any irreflexive partially ordered set, such as a number line, or a tree, or a lattice, will also satisfy phi.",
+    "input_data": {
+      "input_text": "For example, if we have an order relation in our vocabulary and Sigma is the set of sentences expressing that the order relation is transitive and irreflexive, then we can show that it is also assymetric. So, any structure satisfying each of the two conditions in Sigma, which happens in any irreflexive partially ordered set, such as a number line, or a tree, or a lattice, will also satisfy phi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-if-we-have-an-order-relation-in-our-6a61f0b1.mp3",
+    "final_audio": "for-example-if-we-have-an-order-relation-in-our-6a61f0b1.mp3"
+  },
+  {
+    "input_text": "Another way to see this, is that there is no structure in the mathematical universe, which makes Sigma true but which makes phi false. It is natural to wonder what is the relation between these two worlds.",
+    "input_data": {
+      "input_text": "Another way to see this, is that there is no structure in the mathematical universe, which makes Sigma true but which makes phi false. It is natural to wonder what is the relation between these two worlds.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "another-way-to-see-this-is-that-there-is-no-2549fd10.mp3",
+    "final_audio": "another-way-to-see-this-is-that-there-is-no-2549fd10.mp3"
+  },
+  {
+    "input_text": "The syntax is the set's of formulas themselves, and they are governed by a formal calculus",
+    "input_data": {
+      "input_text": "The syntax is the set's of formulas themselves, and they are governed by a formal calculus",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-syntax-is-the-set-s-of-formulas-themselves-and-270f8880.mp3",
+    "final_audio": "the-syntax-is-the-set-s-of-formulas-themselves-and-270f8880.mp3"
+  },
+  {
+    "input_text": "The semantics is the interpretation of these symbols.",
+    "input_data": {
+      "input_text": "The semantics is the interpretation of these symbols.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-semantics-is-the-interpretation-of-these-c3cb1df7.mp3",
+    "final_audio": "the-semantics-is-the-interpretation-of-these-c3cb1df7.mp3"
+  },
+  {
+    "input_text": "Truth in the syntactical side is given by a valid proof in a deductive calculus. Here Sigma proves phi means that there is a proof of phi using the logical axioms and premises in Sigma following the rules of inference",
+    "input_data": {
+      "input_text": "Truth in the syntactical side is given by a valid proof in a deductive calculus. Here Sigma proves phi means that there is a proof of phi using the logical axioms and premises in Sigma following the rules of inference",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "truth-in-the-syntactical-side-is-given-by-a-valid-0c53f9a6.mp3",
+    "final_audio": "truth-in-the-syntactical-side-is-given-by-a-valid-0c53f9a6.mp3"
+  },
+  {
+    "input_text": "This is a mechanical process which can be visualized as a tree",
+    "input_data": {
+      "input_text": "This is a mechanical process which can be visualized as a tree",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-a-mechanical-process-which-can-be-efe965fa.mp3",
+    "final_audio": "this-is-a-mechanical-process-which-can-be-efe965fa.mp3"
+  },
+  {
+    "input_text": "Truth in the semantical side is based on Tarki's definition of truth. Namely that something is true iff it is true in all models. Here Sigma models phi means that in every structure where Sigma is satisfied -- i.e. each sentence in Sigma happens to be true-- phi is also satisfied.",
+    "input_data": {
+      "input_text": "Truth in the semantical side is based on Tarki's definition of truth. Namely that something is true iff it is true in all models. Here Sigma models phi means that in every structure where Sigma is satisfied -- i.e. each sentence in Sigma happens to be true-- phi is also satisfied.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "truth-in-the-semantical-side-is-based-on-tarki-s-90bac246.mp3",
+    "final_audio": "truth-in-the-semantical-side-is-based-on-tarki-s-90bac246.mp3"
+  },
+  {
+    "input_text": "For example, if we have an order relation in our vocabulary and Sigma is the set of sentences expressing that the order relation is transitive and irreflexive, then we can show that it is also assymetric. So, any structure satisfying each of the two conditions in Sigma, which happens in any irreflexive partially ordered set, such as a number line, or a tree, or a lattice, will also satisfy phi.",
+    "input_data": {
+      "input_text": "For example, if we have an order relation in our vocabulary and Sigma is the set of sentences expressing that the order relation is transitive and irreflexive, then we can show that it is also assymetric. So, any structure satisfying each of the two conditions in Sigma, which happens in any irreflexive partially ordered set, such as a number line, or a tree, or a lattice, will also satisfy phi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-if-we-have-an-order-relation-in-our-6a61f0b1.mp3",
+    "final_audio": "for-example-if-we-have-an-order-relation-in-our-6a61f0b1.mp3"
+  },
+  {
+    "input_text": "Another way to see this, is that there is no structure in the mathematical universe, which makes Sigma true but which makes phi false. It is natural to wonder what is the relation between these two worlds.",
+    "input_data": {
+      "input_text": "Another way to see this, is that there is no structure in the mathematical universe, which makes Sigma true but which makes phi false. It is natural to wonder what is the relation between these two worlds.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "another-way-to-see-this-is-that-there-is-no-2549fd10.mp3",
+    "final_audio": "another-way-to-see-this-is-that-there-is-no-2549fd10.mp3"
+  },
+  {
+    "input_text": "The syntax is the set's of formulas themselves, and they are governed by a formal calculus",
+    "input_data": {
+      "input_text": "The syntax is the set's of formulas themselves, and they are governed by a formal calculus",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-syntax-is-the-set-s-of-formulas-themselves-and-270f8880.mp3",
+    "final_audio": "the-syntax-is-the-set-s-of-formulas-themselves-and-270f8880.mp3"
+  },
+  {
+    "input_text": "The semantics is the interpretation of these symbols.",
+    "input_data": {
+      "input_text": "The semantics is the interpretation of these symbols.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-semantics-is-the-interpretation-of-these-c3cb1df7.mp3",
+    "final_audio": "the-semantics-is-the-interpretation-of-these-c3cb1df7.mp3"
+  },
+  {
+    "input_text": "Truth in the syntactical side is given by a valid proof in a deductive calculus. Here Sigma proves phi means that there is a proof of phi using the logical axioms and premises in Sigma following the rules of inference",
+    "input_data": {
+      "input_text": "Truth in the syntactical side is given by a valid proof in a deductive calculus. Here Sigma proves phi means that there is a proof of phi using the logical axioms and premises in Sigma following the rules of inference",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "truth-in-the-syntactical-side-is-given-by-a-valid-0c53f9a6.mp3",
+    "final_audio": "truth-in-the-syntactical-side-is-given-by-a-valid-0c53f9a6.mp3"
+  },
+  {
+    "input_text": "This is a mechanical process which can be visualized as a tree",
+    "input_data": {
+      "input_text": "This is a mechanical process which can be visualized as a tree",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-a-mechanical-process-which-can-be-efe965fa.mp3",
+    "final_audio": "this-is-a-mechanical-process-which-can-be-efe965fa.mp3"
+  },
+  {
+    "input_text": "Truth in the semantical side is based on Tarki's definition of truth. Namely that something is true iff it is true in all models. Here Sigma models phi means that in every structure where Sigma is satisfied -- i.e. each sentence in Sigma happens to be true-- phi is also satisfied.",
+    "input_data": {
+      "input_text": "Truth in the semantical side is based on Tarki's definition of truth. Namely that something is true iff it is true in all models. Here Sigma models phi means that in every structure where Sigma is satisfied -- i.e. each sentence in Sigma happens to be true-- phi is also satisfied.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "truth-in-the-semantical-side-is-based-on-tarki-s-90bac246.mp3",
+    "final_audio": "truth-in-the-semantical-side-is-based-on-tarki-s-90bac246.mp3"
+  },
+  {
+    "input_text": "For example, if we have an order relation in our vocabulary and Sigma is the set of sentences expressing that the order relation is transitive and irreflexive, then we can show that it is also assymetric. So, any structure satisfying each of the two conditions in Sigma, which happens in any irreflexive partially ordered set, such as a number line, or a tree, or a lattice, will also satisfy phi.",
+    "input_data": {
+      "input_text": "For example, if we have an order relation in our vocabulary and Sigma is the set of sentences expressing that the order relation is transitive and irreflexive, then we can show that it is also assymetric. So, any structure satisfying each of the two conditions in Sigma, which happens in any irreflexive partially ordered set, such as a number line, or a tree, or a lattice, will also satisfy phi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-if-we-have-an-order-relation-in-our-6a61f0b1.mp3",
+    "final_audio": "for-example-if-we-have-an-order-relation-in-our-6a61f0b1.mp3"
+  },
+  {
+    "input_text": "Another way to see this, is that there is no structure in the mathematical universe, which makes Sigma true but which makes phi false. It is natural to wonder what is the relation between these two worlds.",
+    "input_data": {
+      "input_text": "Another way to see this, is that there is no structure in the mathematical universe, which makes Sigma true but which makes phi false. It is natural to wonder what is the relation between these two worlds.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "another-way-to-see-this-is-that-there-is-no-2549fd10.mp3",
+    "final_audio": "another-way-to-see-this-is-that-there-is-no-2549fd10.mp3"
+  },
+  {
+    "input_text": "In 1929, Godel proved that these two relations are equivalent for First order logic. To understand this, we will have to dive into the basics of mathematical logic.",
+    "input_data": {
+      "input_text": "In 1929, Godel proved that these two relations are equivalent for First order logic. To understand this, we will have to dive into the basics of mathematical logic.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-1929-godel-proved-that-these-two-relations-are-484f2e26.mp3",
+    "final_audio": "in-1929-godel-proved-that-these-two-relations-are-484f2e26.mp3"
+  },
+  {
+    "input_text": "The syntax is the set's of formulas themselves, and they are governed by a formal calculus",
+    "input_data": {
+      "input_text": "The syntax is the set's of formulas themselves, and they are governed by a formal calculus",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-syntax-is-the-set-s-of-formulas-themselves-and-270f8880.mp3",
+    "final_audio": "the-syntax-is-the-set-s-of-formulas-themselves-and-270f8880.mp3"
+  },
+  {
+    "input_text": "The semantics is the interpretation of these symbols.",
+    "input_data": {
+      "input_text": "The semantics is the interpretation of these symbols.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-semantics-is-the-interpretation-of-these-c3cb1df7.mp3",
+    "final_audio": "the-semantics-is-the-interpretation-of-these-c3cb1df7.mp3"
+  },
+  {
+    "input_text": "Truth in the syntactical side is given by a valid proof in a deductive calculus. Here Sigma proves phi means that there is a proof of phi using the logical axioms and premises in Sigma following the rules of inference",
+    "input_data": {
+      "input_text": "Truth in the syntactical side is given by a valid proof in a deductive calculus. Here Sigma proves phi means that there is a proof of phi using the logical axioms and premises in Sigma following the rules of inference",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "truth-in-the-syntactical-side-is-given-by-a-valid-0c53f9a6.mp3",
+    "final_audio": "truth-in-the-syntactical-side-is-given-by-a-valid-0c53f9a6.mp3"
+  },
+  {
+    "input_text": "This is a mechanical process which can be visualized as a tree",
+    "input_data": {
+      "input_text": "This is a mechanical process which can be visualized as a tree",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-a-mechanical-process-which-can-be-efe965fa.mp3",
+    "final_audio": "this-is-a-mechanical-process-which-can-be-efe965fa.mp3"
+  },
+  {
+    "input_text": "Truth in the semantical side is based on Tarki's definition of truth. Namely that something is true iff it is true in all models. Here Sigma models phi means that in every structure where Sigma is satisfied -- i.e. each sentence in Sigma happens to be true-- phi is also satisfied.",
+    "input_data": {
+      "input_text": "Truth in the semantical side is based on Tarki's definition of truth. Namely that something is true iff it is true in all models. Here Sigma models phi means that in every structure where Sigma is satisfied -- i.e. each sentence in Sigma happens to be true-- phi is also satisfied.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "truth-in-the-semantical-side-is-based-on-tarki-s-90bac246.mp3",
+    "final_audio": "truth-in-the-semantical-side-is-based-on-tarki-s-90bac246.mp3"
+  },
+  {
+    "input_text": "For example, if we have an order relation in our vocabulary and Sigma is the set of sentences expressing that the order relation is transitive and irreflexive, then we can show that it is also assymetric. So, any structure satisfying each of the two conditions in Sigma, which happens in any irreflexive partially ordered set, such as a number line, or a tree, or a lattice, will also satisfy phi.",
+    "input_data": {
+      "input_text": "For example, if we have an order relation in our vocabulary and Sigma is the set of sentences expressing that the order relation is transitive and irreflexive, then we can show that it is also assymetric. So, any structure satisfying each of the two conditions in Sigma, which happens in any irreflexive partially ordered set, such as a number line, or a tree, or a lattice, will also satisfy phi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-if-we-have-an-order-relation-in-our-6a61f0b1.mp3",
+    "final_audio": "for-example-if-we-have-an-order-relation-in-our-6a61f0b1.mp3"
+  },
+  {
+    "input_text": "Another way to see this, is that there is no structure in the mathematical universe, which makes Sigma true but which makes phi false. It is natural to wonder what is the relation between these two worlds.",
+    "input_data": {
+      "input_text": "Another way to see this, is that there is no structure in the mathematical universe, which makes Sigma true but which makes phi false. It is natural to wonder what is the relation between these two worlds.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "another-way-to-see-this-is-that-there-is-no-2549fd10.mp3",
+    "final_audio": "another-way-to-see-this-is-that-there-is-no-2549fd10.mp3"
+  },
+  {
+    "input_text": "In 1929, Godel proved that these two relations are equivalent for First order logic. To understand this, we will have to dive into the basics of mathematical logic.",
+    "input_data": {
+      "input_text": "In 1929, Godel proved that these two relations are equivalent for First order logic. To understand this, we will have to dive into the basics of mathematical logic.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-1929-godel-proved-that-these-two-relations-are-484f2e26.mp3",
+    "final_audio": "in-1929-godel-proved-that-these-two-relations-are-484f2e26.mp3"
+  },
+  {
+    "input_text": "It was Frege in the 1800's who realized that doing mathematics involved manipulations of the following set of symbols: Constant symbols, such as numbers like 0, 1, e, or pi, or any other special element. Function symbols, such as addition or multiplication. Relation symbols, such as less than or in. Variables, quantifiers, brackets, and the Boolean connectives.",
+    "input_data": {
+      "input_text": "It was Frege in the 1800's who realized that doing mathematics involved manipulations of the following set of symbols: Constant symbols, such as numbers like 0, 1, e, or pi, or any other special element. Function symbols, such as addition or multiplication. Relation symbols, such as less than or in. Variables, quantifiers, brackets, and the Boolean connectives.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "it-was-frege-in-the-1800-s-who-realized-that-doing-02929488.mp3",
+    "final_audio": "it-was-frege-in-the-1800-s-who-realized-that-doing-02929488.mp3"
+  },
+  {
+    "input_text": "The Boolean connectives can be represented by truth tables or logic gates.",
+    "input_data": {
+      "input_text": "The Boolean connectives can be represented by truth tables or logic gates.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-boolean-connectives-can-be-represented-by-110071dc.mp3",
+    "final_audio": "the-boolean-connectives-can-be-represented-by-110071dc.mp3"
+  },
+  {
+    "input_text": "Importantly, in classical logic, a implies b is equivalent to not a or b and is given by this truth table. This is not the case in intuitionistic logic for example. But for now we stick to classical logic, and soon I will make a video on non-classical logics. So all of math comes down to manipulation of these symbols.",
+    "input_data": {
+      "input_text": "Importantly, in classical logic, a implies b is equivalent to not a or b and is given by this truth table. This is not the case in intuitionistic logic for example. But for now we stick to classical logic, and soon I will make a video on non-classical logics. So all of math comes down to manipulation of these symbols.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "importantly-in-classical-logic-a-implies-b-is-037b241f.mp3",
+    "final_audio": "importantly-in-classical-logic-a-implies-b-is-037b241f.mp3"
+  },
+  {
+    "input_text": "We can divide these symbols into two groups, the logical and non-logical symbols. The logical symbols are common to all first order theories, and so proofs only involving the logical symbols apply to all possible structures. The non-logical symbols are specific to a given theory.",
+    "input_data": {
+      "input_text": "We can divide these symbols into two groups, the logical and non-logical symbols. The logical symbols are common to all first order theories, and so proofs only involving the logical symbols apply to all possible structures. The non-logical symbols are specific to a given theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-divide-these-symbols-into-two-groups-the-8d0aa9ba.mp3",
+    "final_audio": "we-can-divide-these-symbols-into-two-groups-the-8d0aa9ba.mp3"
+  },
+  {
+    "input_text": "For example if we are working with the theory of arithmetic, we would need the constant 0, the successor function, the addition or multiplication function, and perhaps the order relation.",
+    "input_data": {
+      "input_text": "For example if we are working with the theory of arithmetic, we would need the constant 0, the successor function, the addition or multiplication function, and perhaps the order relation.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-if-we-are-working-with-the-theory-of-285fb17b.mp3",
+    "final_audio": "for-example-if-we-are-working-with-the-theory-of-285fb17b.mp3"
+  },
+  {
+    "input_text": "If we work with the theory of graphs, we only need a single binary relation E, where aEb means that there is an edge between a and b.",
+    "input_data": {
+      "input_text": "If we work with the theory of graphs, we only need a single binary relation E, where aEb means that there is an edge between a and b.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-we-work-with-the-theory-of-graphs-we-only-need-2a0f6a1a.mp3",
+    "final_audio": "if-we-work-with-the-theory-of-graphs-we-only-need-2a0f6a1a.mp3"
+  },
+  {
+    "input_text": "It was Frege in the 1800's who realized that doing mathematics involved manipulations of the following set of symbols:",
+    "input_data": {
+      "input_text": "It was Frege in the 1800's who realized that doing mathematics involved manipulations of the following set of symbols:",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "it-was-frege-in-the-1800-s-who-realized-that-doing-ad233fc1.mp3",
+    "final_audio": "it-was-frege-in-the-1800-s-who-realized-that-doing-ad233fc1.mp3"
+  },
+  {
+    "input_text": "Constant symbols, such as numbers like 0, 1, e, or pi, or any other special element.",
+    "input_data": {
+      "input_text": "Constant symbols, such as numbers like 0, 1, e, or pi, or any other special element.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "constant-symbols-such-as-numbers-like-0-1-e-or-pi-3ca4a6fd.mp3",
+    "final_audio": "constant-symbols-such-as-numbers-like-0-1-e-or-pi-3ca4a6fd.mp3"
+  },
+  {
+    "input_text": "Function symbols, such as addition or multiplication.",
+    "input_data": {
+      "input_text": "Function symbols, such as addition or multiplication.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "function-symbols-such-as-addition-or-6aee6910.mp3",
+    "final_audio": "function-symbols-such-as-addition-or-6aee6910.mp3"
+  },
+  {
+    "input_text": "Relation symbols, such as less than or in.",
+    "input_data": {
+      "input_text": "Relation symbols, such as less than or in.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "relation-symbols-such-as-less-than-or-in-c02b14f4.mp3",
+    "final_audio": "relation-symbols-such-as-less-than-or-in-c02b14f4.mp3"
+  },
+  {
+    "input_text": "Variables, quantifiers, brackets, and the Boolean connectives.",
+    "input_data": {
+      "input_text": "Variables, quantifiers, brackets, and the Boolean connectives.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "variables-quantifiers-brackets-and-the-boolean-8b7ec2d6.mp3",
+    "final_audio": "variables-quantifiers-brackets-and-the-boolean-8b7ec2d6.mp3"
+  },
+  {
+    "input_text": "The Boolean connectives can be represented by truth tables or logic gates.",
+    "input_data": {
+      "input_text": "The Boolean connectives can be represented by truth tables or logic gates.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-boolean-connectives-can-be-represented-by-110071dc.mp3",
+    "final_audio": "the-boolean-connectives-can-be-represented-by-110071dc.mp3"
+  },
+  {
+    "input_text": "Importantly, in classical logic, a implies b is equivalent to not a or b",
+    "input_data": {
+      "input_text": "Importantly, in classical logic, a implies b is equivalent to not a or b",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "importantly-in-classical-logic-a-implies-b-is-b0ede4c1.mp3",
+    "final_audio": "importantly-in-classical-logic-a-implies-b-is-b0ede4c1.mp3"
+  },
+  {
+    "input_text": "and is given by this truth table.",
+    "input_data": {
+      "input_text": "and is given by this truth table.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-is-given-by-this-truth-table-f998cc44.mp3",
+    "final_audio": "and-is-given-by-this-truth-table-f998cc44.mp3"
+  },
+  {
+    "input_text": "This is not the case in intuitionistic logic for example. But for now we stick to classical logic, and soon I will make a video on non-classical logics. So all of math comes down to manipulation of these symbols.",
+    "input_data": {
+      "input_text": "This is not the case in intuitionistic logic for example. But for now we stick to classical logic, and soon I will make a video on non-classical logics. So all of math comes down to manipulation of these symbols.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-not-the-case-in-intuitionistic-logic-for-7034f288.mp3",
+    "final_audio": "this-is-not-the-case-in-intuitionistic-logic-for-7034f288.mp3"
+  },
+  {
+    "input_text": "We can divide these symbols into two groups, the logical and non-logical symbols. The logical symbols are common to all first order theories, and so proofs only involving the logical symbols apply to all possible structures. The non-logical symbols are specific to a given theory.",
+    "input_data": {
+      "input_text": "We can divide these symbols into two groups, the logical and non-logical symbols. The logical symbols are common to all first order theories, and so proofs only involving the logical symbols apply to all possible structures. The non-logical symbols are specific to a given theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-divide-these-symbols-into-two-groups-the-8d0aa9ba.mp3",
+    "final_audio": "we-can-divide-these-symbols-into-two-groups-the-8d0aa9ba.mp3"
+  },
+  {
+    "input_text": "For example if we are working with the theory of arithmetic,",
+    "input_data": {
+      "input_text": "For example if we are working with the theory of arithmetic,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-if-we-are-working-with-the-theory-of-96baed81.mp3",
+    "final_audio": "for-example-if-we-are-working-with-the-theory-of-96baed81.mp3"
+  },
+  {
+    "input_text": "we would need the constant 0,",
+    "input_data": {
+      "input_text": "we would need the constant 0,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-would-need-the-constant-0-89ff6d6b.mp3",
+    "final_audio": "we-would-need-the-constant-0-89ff6d6b.mp3"
+  },
+  {
+    "input_text": "the successor function,",
+    "input_data": {
+      "input_text": "the successor function,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-successor-function-a4e97fac.mp3",
+    "final_audio": "the-successor-function-a4e97fac.mp3"
+  },
+  {
+    "input_text": "It was Frege in the 1800's who realized that doing mathematics involved manipulations of the following set of symbols:",
+    "input_data": {
+      "input_text": "It was Frege in the 1800's who realized that doing mathematics involved manipulations of the following set of symbols:",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "it-was-frege-in-the-1800-s-who-realized-that-doing-ad233fc1.mp3",
+    "final_audio": "it-was-frege-in-the-1800-s-who-realized-that-doing-ad233fc1.mp3"
+  },
+  {
+    "input_text": "Constant symbols, such as numbers like 0, 1, e, or pi, or any other special element.",
+    "input_data": {
+      "input_text": "Constant symbols, such as numbers like 0, 1, e, or pi, or any other special element.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "constant-symbols-such-as-numbers-like-0-1-e-or-pi-3ca4a6fd.mp3",
+    "final_audio": "constant-symbols-such-as-numbers-like-0-1-e-or-pi-3ca4a6fd.mp3"
+  },
+  {
+    "input_text": "Function symbols, such as addition or multiplication.",
+    "input_data": {
+      "input_text": "Function symbols, such as addition or multiplication.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "function-symbols-such-as-addition-or-6aee6910.mp3",
+    "final_audio": "function-symbols-such-as-addition-or-6aee6910.mp3"
+  },
+  {
+    "input_text": "Relation symbols, such as less than or in.",
+    "input_data": {
+      "input_text": "Relation symbols, such as less than or in.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "relation-symbols-such-as-less-than-or-in-c02b14f4.mp3",
+    "final_audio": "relation-symbols-such-as-less-than-or-in-c02b14f4.mp3"
+  },
+  {
+    "input_text": "Variables, quantifiers, brackets, and the Boolean connectives.",
+    "input_data": {
+      "input_text": "Variables, quantifiers, brackets, and the Boolean connectives.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "variables-quantifiers-brackets-and-the-boolean-8b7ec2d6.mp3",
+    "final_audio": "variables-quantifiers-brackets-and-the-boolean-8b7ec2d6.mp3"
+  },
+  {
+    "input_text": "The Boolean connectives can be represented by truth tables or logic gates.",
+    "input_data": {
+      "input_text": "The Boolean connectives can be represented by truth tables or logic gates.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-boolean-connectives-can-be-represented-by-110071dc.mp3",
+    "final_audio": "the-boolean-connectives-can-be-represented-by-110071dc.mp3"
+  },
+  {
+    "input_text": "Importantly, in classical logic, a implies b is equivalent to not a or b",
+    "input_data": {
+      "input_text": "Importantly, in classical logic, a implies b is equivalent to not a or b",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "importantly-in-classical-logic-a-implies-b-is-b0ede4c1.mp3",
+    "final_audio": "importantly-in-classical-logic-a-implies-b-is-b0ede4c1.mp3"
+  },
+  {
+    "input_text": "and is given by this truth table.",
+    "input_data": {
+      "input_text": "and is given by this truth table.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-is-given-by-this-truth-table-f998cc44.mp3",
+    "final_audio": "and-is-given-by-this-truth-table-f998cc44.mp3"
+  },
+  {
+    "input_text": "This is not the case in intuitionistic logic for example. But for now we stick to classical logic, and soon I will make a video on non-classical logics. So all of math comes down to manipulation of these symbols.",
+    "input_data": {
+      "input_text": "This is not the case in intuitionistic logic for example. But for now we stick to classical logic, and soon I will make a video on non-classical logics. So all of math comes down to manipulation of these symbols.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-not-the-case-in-intuitionistic-logic-for-7034f288.mp3",
+    "final_audio": "this-is-not-the-case-in-intuitionistic-logic-for-7034f288.mp3"
+  },
+  {
+    "input_text": "We can divide these symbols into two groups, the logical and non-logical symbols. The logical symbols are common to all first order theories, and so proofs only involving the logical symbols apply to all possible structures. The non-logical symbols are specific to a given theory.",
+    "input_data": {
+      "input_text": "We can divide these symbols into two groups, the logical and non-logical symbols. The logical symbols are common to all first order theories, and so proofs only involving the logical symbols apply to all possible structures. The non-logical symbols are specific to a given theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-divide-these-symbols-into-two-groups-the-8d0aa9ba.mp3",
+    "final_audio": "we-can-divide-these-symbols-into-two-groups-the-8d0aa9ba.mp3"
+  },
+  {
+    "input_text": "For example if we are working with the theory of arithmetic,",
+    "input_data": {
+      "input_text": "For example if we are working with the theory of arithmetic,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-if-we-are-working-with-the-theory-of-96baed81.mp3",
+    "final_audio": "for-example-if-we-are-working-with-the-theory-of-96baed81.mp3"
+  },
+  {
+    "input_text": "we would need the constant 0,",
+    "input_data": {
+      "input_text": "we would need the constant 0,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-would-need-the-constant-0-89ff6d6b.mp3",
+    "final_audio": "we-would-need-the-constant-0-89ff6d6b.mp3"
+  },
+  {
+    "input_text": "the successor function,",
+    "input_data": {
+      "input_text": "the successor function,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-successor-function-a4e97fac.mp3",
+    "final_audio": "the-successor-function-a4e97fac.mp3"
+  },
+  {
+    "input_text": "the addition or multiplication function,",
+    "input_data": {
+      "input_text": "the addition or multiplication function,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-addition-or-multiplication-function-66ce91c1.mp3",
+    "final_audio": "the-addition-or-multiplication-function-66ce91c1.mp3"
+  },
+  {
+    "input_text": "and perhaps the order relation.",
+    "input_data": {
+      "input_text": "and perhaps the order relation.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-perhaps-the-order-relation-90397fb4.mp3",
+    "final_audio": "and-perhaps-the-order-relation-90397fb4.mp3"
+  },
+  {
+    "input_text": "It was Frege in the 1800's who realized that doing mathematics involved manipulations of the following set of symbols:",
+    "input_data": {
+      "input_text": "It was Frege in the 1800's who realized that doing mathematics involved manipulations of the following set of symbols:",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "it-was-frege-in-the-1800-s-who-realized-that-doing-ad233fc1.mp3",
+    "final_audio": "it-was-frege-in-the-1800-s-who-realized-that-doing-ad233fc1.mp3"
+  },
+  {
+    "input_text": "Constant symbols, such as numbers like 0, 1, e, or pi, or any other special element.",
+    "input_data": {
+      "input_text": "Constant symbols, such as numbers like 0, 1, e, or pi, or any other special element.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "constant-symbols-such-as-numbers-like-0-1-e-or-pi-3ca4a6fd.mp3",
+    "final_audio": "constant-symbols-such-as-numbers-like-0-1-e-or-pi-3ca4a6fd.mp3"
+  },
+  {
+    "input_text": "Function symbols, such as addition or multiplication.",
+    "input_data": {
+      "input_text": "Function symbols, such as addition or multiplication.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "function-symbols-such-as-addition-or-6aee6910.mp3",
+    "final_audio": "function-symbols-such-as-addition-or-6aee6910.mp3"
+  },
+  {
+    "input_text": "Relation symbols, such as less than or in.",
+    "input_data": {
+      "input_text": "Relation symbols, such as less than or in.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "relation-symbols-such-as-less-than-or-in-c02b14f4.mp3",
+    "final_audio": "relation-symbols-such-as-less-than-or-in-c02b14f4.mp3"
+  },
+  {
+    "input_text": "Variables, quantifiers, brackets, and the Boolean connectives.",
+    "input_data": {
+      "input_text": "Variables, quantifiers, brackets, and the Boolean connectives.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "variables-quantifiers-brackets-and-the-boolean-8b7ec2d6.mp3",
+    "final_audio": "variables-quantifiers-brackets-and-the-boolean-8b7ec2d6.mp3"
+  },
+  {
+    "input_text": "The Boolean connectives can be represented by truth tables or logic gates.",
+    "input_data": {
+      "input_text": "The Boolean connectives can be represented by truth tables or logic gates.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-boolean-connectives-can-be-represented-by-110071dc.mp3",
+    "final_audio": "the-boolean-connectives-can-be-represented-by-110071dc.mp3"
+  },
+  {
+    "input_text": "Importantly, in classical logic, a implies b is equivalent to not a or b",
+    "input_data": {
+      "input_text": "Importantly, in classical logic, a implies b is equivalent to not a or b",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "importantly-in-classical-logic-a-implies-b-is-b0ede4c1.mp3",
+    "final_audio": "importantly-in-classical-logic-a-implies-b-is-b0ede4c1.mp3"
+  },
+  {
+    "input_text": "and is given by this truth table.",
+    "input_data": {
+      "input_text": "and is given by this truth table.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-is-given-by-this-truth-table-f998cc44.mp3",
+    "final_audio": "and-is-given-by-this-truth-table-f998cc44.mp3"
+  },
+  {
+    "input_text": "This is not the case in intuitionistic logic for example. But for now we stick to classical logic, and soon I will make a video on non-classical logics. So all of math comes down to manipulation of these symbols.",
+    "input_data": {
+      "input_text": "This is not the case in intuitionistic logic for example. But for now we stick to classical logic, and soon I will make a video on non-classical logics. So all of math comes down to manipulation of these symbols.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-not-the-case-in-intuitionistic-logic-for-7034f288.mp3",
+    "final_audio": "this-is-not-the-case-in-intuitionistic-logic-for-7034f288.mp3"
+  },
+  {
+    "input_text": "We can divide these symbols into two groups, the logical and non-logical symbols. The logical symbols are common to all first order theories, and so proofs only involving the logical symbols apply to all possible structures. The non-logical symbols are specific to a given theory.",
+    "input_data": {
+      "input_text": "We can divide these symbols into two groups, the logical and non-logical symbols. The logical symbols are common to all first order theories, and so proofs only involving the logical symbols apply to all possible structures. The non-logical symbols are specific to a given theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-divide-these-symbols-into-two-groups-the-8d0aa9ba.mp3",
+    "final_audio": "we-can-divide-these-symbols-into-two-groups-the-8d0aa9ba.mp3"
+  },
+  {
+    "input_text": "For example if we are working with the theory of arithmetic,",
+    "input_data": {
+      "input_text": "For example if we are working with the theory of arithmetic,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-if-we-are-working-with-the-theory-of-96baed81.mp3",
+    "final_audio": "for-example-if-we-are-working-with-the-theory-of-96baed81.mp3"
+  },
+  {
+    "input_text": "we would need the constant 0,",
+    "input_data": {
+      "input_text": "we would need the constant 0,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-would-need-the-constant-0-89ff6d6b.mp3",
+    "final_audio": "we-would-need-the-constant-0-89ff6d6b.mp3"
+  },
+  {
+    "input_text": "the successor function,",
+    "input_data": {
+      "input_text": "the successor function,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-successor-function-a4e97fac.mp3",
+    "final_audio": "the-successor-function-a4e97fac.mp3"
+  },
+  {
+    "input_text": "the addition or multiplication function,",
+    "input_data": {
+      "input_text": "the addition or multiplication function,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-addition-or-multiplication-function-66ce91c1.mp3",
+    "final_audio": "the-addition-or-multiplication-function-66ce91c1.mp3"
+  },
+  {
+    "input_text": "and perhaps the order relation.",
+    "input_data": {
+      "input_text": "and perhaps the order relation.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-perhaps-the-order-relation-90397fb4.mp3",
+    "final_audio": "and-perhaps-the-order-relation-90397fb4.mp3"
+  },
+  {
+    "input_text": "It was Frege in the 1800's who realized that doing mathematics involved manipulations of the following set of symbols:",
+    "input_data": {
+      "input_text": "It was Frege in the 1800's who realized that doing mathematics involved manipulations of the following set of symbols:",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "it-was-frege-in-the-1800-s-who-realized-that-doing-ad233fc1.mp3",
+    "final_audio": "it-was-frege-in-the-1800-s-who-realized-that-doing-ad233fc1.mp3"
+  },
+  {
+    "input_text": "Constant symbols, such as numbers like 0, 1, e, or pi, or any other special element.",
+    "input_data": {
+      "input_text": "Constant symbols, such as numbers like 0, 1, e, or pi, or any other special element.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "constant-symbols-such-as-numbers-like-0-1-e-or-pi-3ca4a6fd.mp3",
+    "final_audio": "constant-symbols-such-as-numbers-like-0-1-e-or-pi-3ca4a6fd.mp3"
+  },
+  {
+    "input_text": "Function symbols, such as addition or multiplication.",
+    "input_data": {
+      "input_text": "Function symbols, such as addition or multiplication.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "function-symbols-such-as-addition-or-6aee6910.mp3",
+    "final_audio": "function-symbols-such-as-addition-or-6aee6910.mp3"
+  },
+  {
+    "input_text": "Relation symbols, such as less than or in.",
+    "input_data": {
+      "input_text": "Relation symbols, such as less than or in.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "relation-symbols-such-as-less-than-or-in-c02b14f4.mp3",
+    "final_audio": "relation-symbols-such-as-less-than-or-in-c02b14f4.mp3"
+  },
+  {
+    "input_text": "Variables, quantifiers, brackets, and the Boolean connectives.",
+    "input_data": {
+      "input_text": "Variables, quantifiers, brackets, and the Boolean connectives.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "variables-quantifiers-brackets-and-the-boolean-8b7ec2d6.mp3",
+    "final_audio": "variables-quantifiers-brackets-and-the-boolean-8b7ec2d6.mp3"
+  },
+  {
+    "input_text": "The Boolean connectives can be represented by truth tables or logic gates.",
+    "input_data": {
+      "input_text": "The Boolean connectives can be represented by truth tables or logic gates.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-boolean-connectives-can-be-represented-by-110071dc.mp3",
+    "final_audio": "the-boolean-connectives-can-be-represented-by-110071dc.mp3"
+  },
+  {
+    "input_text": "Importantly, in classical logic, a implies b is equivalent to not a or b",
+    "input_data": {
+      "input_text": "Importantly, in classical logic, a implies b is equivalent to not a or b",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "importantly-in-classical-logic-a-implies-b-is-b0ede4c1.mp3",
+    "final_audio": "importantly-in-classical-logic-a-implies-b-is-b0ede4c1.mp3"
+  },
+  {
+    "input_text": "and is given by this truth table.",
+    "input_data": {
+      "input_text": "and is given by this truth table.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-is-given-by-this-truth-table-f998cc44.mp3",
+    "final_audio": "and-is-given-by-this-truth-table-f998cc44.mp3"
+  },
+  {
+    "input_text": "This is not the case in intuitionistic logic for example. But for now we stick to classical logic, and soon I will make a video on non-classical logics. So all of math comes down to manipulation of these symbols.",
+    "input_data": {
+      "input_text": "This is not the case in intuitionistic logic for example. But for now we stick to classical logic, and soon I will make a video on non-classical logics. So all of math comes down to manipulation of these symbols.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-not-the-case-in-intuitionistic-logic-for-7034f288.mp3",
+    "final_audio": "this-is-not-the-case-in-intuitionistic-logic-for-7034f288.mp3"
+  },
+  {
+    "input_text": "It was Frege in the 1800's who realized that doing mathematics involved manipulations of the following set of symbols:",
+    "input_data": {
+      "input_text": "It was Frege in the 1800's who realized that doing mathematics involved manipulations of the following set of symbols:",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "it-was-frege-in-the-1800-s-who-realized-that-doing-ad233fc1.mp3",
+    "final_audio": "it-was-frege-in-the-1800-s-who-realized-that-doing-ad233fc1.mp3"
+  },
+  {
+    "input_text": "Constant symbols, such as numbers like 0, 1, e, or pi, or any other special element.",
+    "input_data": {
+      "input_text": "Constant symbols, such as numbers like 0, 1, e, or pi, or any other special element.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "constant-symbols-such-as-numbers-like-0-1-e-or-pi-3ca4a6fd.mp3",
+    "final_audio": "constant-symbols-such-as-numbers-like-0-1-e-or-pi-3ca4a6fd.mp3"
+  },
+  {
+    "input_text": "Function symbols, such as addition or multiplication.",
+    "input_data": {
+      "input_text": "Function symbols, such as addition or multiplication.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "function-symbols-such-as-addition-or-6aee6910.mp3",
+    "final_audio": "function-symbols-such-as-addition-or-6aee6910.mp3"
+  },
+  {
+    "input_text": "Relation symbols, such as less than or in.",
+    "input_data": {
+      "input_text": "Relation symbols, such as less than or in.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "relation-symbols-such-as-less-than-or-in-c02b14f4.mp3",
+    "final_audio": "relation-symbols-such-as-less-than-or-in-c02b14f4.mp3"
+  },
+  {
+    "input_text": "Variables, quantifiers, brackets, and the Boolean connectives.",
+    "input_data": {
+      "input_text": "Variables, quantifiers, brackets, and the Boolean connectives.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "variables-quantifiers-brackets-and-the-boolean-8b7ec2d6.mp3",
+    "final_audio": "variables-quantifiers-brackets-and-the-boolean-8b7ec2d6.mp3"
+  },
+  {
+    "input_text": "The Boolean connectives can be represented by truth tables or logic gates.",
+    "input_data": {
+      "input_text": "The Boolean connectives can be represented by truth tables or logic gates.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-boolean-connectives-can-be-represented-by-110071dc.mp3",
+    "final_audio": "the-boolean-connectives-can-be-represented-by-110071dc.mp3"
+  },
+  {
+    "input_text": "Importantly, in classical logic, a implies b is equivalent to not a or b",
+    "input_data": {
+      "input_text": "Importantly, in classical logic, a implies b is equivalent to not a or b",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "importantly-in-classical-logic-a-implies-b-is-b0ede4c1.mp3",
+    "final_audio": "importantly-in-classical-logic-a-implies-b-is-b0ede4c1.mp3"
+  },
+  {
+    "input_text": "and is given by this truth table.",
+    "input_data": {
+      "input_text": "and is given by this truth table.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-is-given-by-this-truth-table-f998cc44.mp3",
+    "final_audio": "and-is-given-by-this-truth-table-f998cc44.mp3"
+  },
+  {
+    "input_text": "This is not the case in intuitionistic logic for example. But for now we stick to classical logic, and soon I will make a video on non-classical logics. So all of math comes down to manipulation of these symbols.",
+    "input_data": {
+      "input_text": "This is not the case in intuitionistic logic for example. But for now we stick to classical logic, and soon I will make a video on non-classical logics. So all of math comes down to manipulation of these symbols.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-not-the-case-in-intuitionistic-logic-for-7034f288.mp3",
+    "final_audio": "this-is-not-the-case-in-intuitionistic-logic-for-7034f288.mp3"
+  },
+  {
+    "input_text": "We can divide these symbols into two groups, the logical and non-logical symbols. The logical symbols are common to all first order theories, and so proofs only involving the logical symbols apply to all possible structures. The non-logical symbols are specific to a given theory.",
+    "input_data": {
+      "input_text": "We can divide these symbols into two groups, the logical and non-logical symbols. The logical symbols are common to all first order theories, and so proofs only involving the logical symbols apply to all possible structures. The non-logical symbols are specific to a given theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-divide-these-symbols-into-two-groups-the-8d0aa9ba.mp3",
+    "final_audio": "we-can-divide-these-symbols-into-two-groups-the-8d0aa9ba.mp3"
+  },
+  {
+    "input_text": "For example if we are working with the theory of arithmetic,",
+    "input_data": {
+      "input_text": "For example if we are working with the theory of arithmetic,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-if-we-are-working-with-the-theory-of-96baed81.mp3",
+    "final_audio": "for-example-if-we-are-working-with-the-theory-of-96baed81.mp3"
+  },
+  {
+    "input_text": "we would need the constant 0,",
+    "input_data": {
+      "input_text": "we would need the constant 0,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-would-need-the-constant-0-89ff6d6b.mp3",
+    "final_audio": "we-would-need-the-constant-0-89ff6d6b.mp3"
+  },
+  {
+    "input_text": "the successor function,",
+    "input_data": {
+      "input_text": "the successor function,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-successor-function-a4e97fac.mp3",
+    "final_audio": "the-successor-function-a4e97fac.mp3"
+  },
+  {
+    "input_text": "the addition or multiplication function,",
+    "input_data": {
+      "input_text": "the addition or multiplication function,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-addition-or-multiplication-function-66ce91c1.mp3",
+    "final_audio": "the-addition-or-multiplication-function-66ce91c1.mp3"
+  },
+  {
+    "input_text": "and perhaps the order relation.",
+    "input_data": {
+      "input_text": "and perhaps the order relation.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-perhaps-the-order-relation-90397fb4.mp3",
+    "final_audio": "and-perhaps-the-order-relation-90397fb4.mp3"
+  },
+  {
+    "input_text": "If we work with the theory of graphs, we only need a single binary relation E,",
+    "input_data": {
+      "input_text": "If we work with the theory of graphs, we only need a single binary relation E,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-we-work-with-the-theory-of-graphs-we-only-need-51666a49.mp3",
+    "final_audio": "if-we-work-with-the-theory-of-graphs-we-only-need-51666a49.mp3"
+  },
+  {
+    "input_text": "First we fix our formal language L. It was Frege in the 1800's who realized that the act of doing mathematics simply involves the manipulations of the following sets of symbols: Constant symbols, which represent special elements of a given structure like 0, 1, e, pi or the root of some tree.",
+    "input_data": {
+      "input_text": "First we fix our formal language L. It was Frege in the 1800's who realized that the act of doing mathematics simply involves the manipulations of the following sets of symbols: Constant symbols, which represent special elements of a given structure like 0, 1, e, pi or the root of some tree.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "first-we-fix-our-formal-language-l-it-was-frege-in-3ac0e435.mp3",
+    "final_audio": "first-we-fix-our-formal-language-l-it-was-frege-in-3ac0e435.mp3"
+  },
+  {
+    "input_text": "Function symbols, such as successor, addition, multiplication.",
+    "input_data": {
+      "input_text": "Function symbols, such as successor, addition, multiplication.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "function-symbols-such-as-successor-addition-a66bd2e5.mp3",
+    "final_audio": "function-symbols-such-as-successor-addition-a66bd2e5.mp3"
+  },
+  {
+    "input_text": "Relation symbols, such as less than or in.",
+    "input_data": {
+      "input_text": "Relation symbols, such as less than or in.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "relation-symbols-such-as-less-than-or-in-c02b14f4.mp3",
+    "final_audio": "relation-symbols-such-as-less-than-or-in-c02b14f4.mp3"
+  },
+  {
+    "input_text": "Variables, quantifiers, brackets, and the Boolean connectives.",
+    "input_data": {
+      "input_text": "Variables, quantifiers, brackets, and the Boolean connectives.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "variables-quantifiers-brackets-and-the-boolean-8b7ec2d6.mp3",
+    "final_audio": "variables-quantifiers-brackets-and-the-boolean-8b7ec2d6.mp3"
+  },
+  {
+    "input_text": "The Boolean connectives can be represented by truth tables or logic gates. Where this symbol is the conjunction symbol: this is the represents disjunction and this is the classical implication symbol.",
+    "input_data": {
+      "input_text": "The Boolean connectives can be represented by truth tables or logic gates. Where this symbol is the conjunction symbol: this is the represents disjunction and this is the classical implication symbol.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-boolean-connectives-can-be-represented-by-927d437f.mp3",
+    "final_audio": "the-boolean-connectives-can-be-represented-by-927d437f.mp3"
+  },
+  {
+    "input_text": "Note that in classical logic, a implies b is equivalent to not a or b.",
+    "input_data": {
+      "input_text": "Note that in classical logic, a implies b is equivalent to not a or b.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "note-that-in-classical-logic-a-implies-b-is-6c4e3a4e.mp3",
+    "final_audio": "note-that-in-classical-logic-a-implies-b-is-6c4e3a4e.mp3"
+  },
+  {
+    "input_text": "This is not the case in intuitionistic logic for example. But for this video we will stick to classical logic, and soon I will make a video on non-classical logics and they give rise to different mathematical universes.",
+    "input_data": {
+      "input_text": "This is not the case in intuitionistic logic for example. But for this video we will stick to classical logic, and soon I will make a video on non-classical logics and they give rise to different mathematical universes.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-not-the-case-in-intuitionistic-logic-for-d5585291.mp3",
+    "final_audio": "this-is-not-the-case-in-intuitionistic-logic-for-d5585291.mp3"
+  },
+  {
+    "input_text": "We can divide these symbols into two groups, the logical and non-logical symbols. The logical symbols are common to all first order theories, and so proofs only involving the logical symbols apply to all possible first-order structures. The non-logical symbols are specific to a given theory,",
+    "input_data": {
+      "input_text": "We can divide these symbols into two groups, the logical and non-logical symbols. The logical symbols are common to all first order theories, and so proofs only involving the logical symbols apply to all possible first-order structures. The non-logical symbols are specific to a given theory,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-divide-these-symbols-into-two-groups-the-a29f4ced.mp3",
+    "final_audio": "we-can-divide-these-symbols-into-two-groups-the-a29f4ced.mp3"
+  },
+  {
+    "input_text": "for example if we are working with the theory of arithmetic, we only need the constant 0, the successor function, and the addition function.",
+    "input_data": {
+      "input_text": "for example if we are working with the theory of arithmetic, we only need the constant 0, the successor function, and the addition function.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-if-we-are-working-with-the-theory-of-2bcad836.mp3",
+    "final_audio": "for-example-if-we-are-working-with-the-theory-of-2bcad836.mp3"
+  },
+  {
+    "input_text": "First we fix our formal language L. It was Frege in the 1800's who realized that the act of doing mathematics simply involves the manipulations of the following sets of symbols: Constant symbols, which represent special elements of a given structure like 0, 1, e, pi or the root of some tree.",
+    "input_data": {
+      "input_text": "First we fix our formal language L. It was Frege in the 1800's who realized that the act of doing mathematics simply involves the manipulations of the following sets of symbols: Constant symbols, which represent special elements of a given structure like 0, 1, e, pi or the root of some tree.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "first-we-fix-our-formal-language-l-it-was-frege-in-3ac0e435.mp3",
+    "final_audio": "first-we-fix-our-formal-language-l-it-was-frege-in-3ac0e435.mp3"
+  },
+  {
+    "input_text": "Function symbols, such as successor, addition, multiplication.",
+    "input_data": {
+      "input_text": "Function symbols, such as successor, addition, multiplication.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "function-symbols-such-as-successor-addition-a66bd2e5.mp3",
+    "final_audio": "function-symbols-such-as-successor-addition-a66bd2e5.mp3"
+  },
+  {
+    "input_text": "Relation symbols, such as less than or in.",
+    "input_data": {
+      "input_text": "Relation symbols, such as less than or in.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "relation-symbols-such-as-less-than-or-in-c02b14f4.mp3",
+    "final_audio": "relation-symbols-such-as-less-than-or-in-c02b14f4.mp3"
+  },
+  {
+    "input_text": "Variables, quantifiers, brackets, and the Boolean connectives.",
+    "input_data": {
+      "input_text": "Variables, quantifiers, brackets, and the Boolean connectives.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "variables-quantifiers-brackets-and-the-boolean-8b7ec2d6.mp3",
+    "final_audio": "variables-quantifiers-brackets-and-the-boolean-8b7ec2d6.mp3"
+  },
+  {
+    "input_text": "The Boolean connectives can be represented by truth tables or logic gates. Where this symbol is the conjunction symbol: this is the represents disjunction and this is the classical implication symbol.",
+    "input_data": {
+      "input_text": "The Boolean connectives can be represented by truth tables or logic gates. Where this symbol is the conjunction symbol: this is the represents disjunction and this is the classical implication symbol.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-boolean-connectives-can-be-represented-by-927d437f.mp3",
+    "final_audio": "the-boolean-connectives-can-be-represented-by-927d437f.mp3"
+  },
+  {
+    "input_text": "Note that in classical logic, a implies b is equivalent to not a or b.",
+    "input_data": {
+      "input_text": "Note that in classical logic, a implies b is equivalent to not a or b.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "note-that-in-classical-logic-a-implies-b-is-6c4e3a4e.mp3",
+    "final_audio": "note-that-in-classical-logic-a-implies-b-is-6c4e3a4e.mp3"
+  },
+  {
+    "input_text": "This is not the case in intuitionistic logic for example. But for this video we will stick to classical logic, and soon I will make a video on non-classical logics and they give rise to different mathematical universes.",
+    "input_data": {
+      "input_text": "This is not the case in intuitionistic logic for example. But for this video we will stick to classical logic, and soon I will make a video on non-classical logics and they give rise to different mathematical universes.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-not-the-case-in-intuitionistic-logic-for-d5585291.mp3",
+    "final_audio": "this-is-not-the-case-in-intuitionistic-logic-for-d5585291.mp3"
+  },
+  {
+    "input_text": "We can divide these symbols into two groups, the logical and non-logical symbols. The logical symbols are common to all first order theories, and so proofs only involving the logical symbols apply to all possible first-order structures. The non-logical symbols are specific to a given theory,",
+    "input_data": {
+      "input_text": "We can divide these symbols into two groups, the logical and non-logical symbols. The logical symbols are common to all first order theories, and so proofs only involving the logical symbols apply to all possible first-order structures. The non-logical symbols are specific to a given theory,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-divide-these-symbols-into-two-groups-the-a29f4ced.mp3",
+    "final_audio": "we-can-divide-these-symbols-into-two-groups-the-a29f4ced.mp3"
+  },
+  {
+    "input_text": "for example if we are working with the theory of arithmetic, we only need the constant 0, the successor function, and the addition function.",
+    "input_data": {
+      "input_text": "for example if we are working with the theory of arithmetic, we only need the constant 0, the successor function, and the addition function.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-if-we-are-working-with-the-theory-of-2bcad836.mp3",
+    "final_audio": "for-example-if-we-are-working-with-the-theory-of-2bcad836.mp3"
+  },
+  {
+    "input_text": "Whereas, if we work with the theory of graphs, we only need a single binary relation E, where aEb means that there is an edge between a and b.",
+    "input_data": {
+      "input_text": "Whereas, if we work with the theory of graphs, we only need a single binary relation E, where aEb means that there is an edge between a and b.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "whereas-if-we-work-with-the-theory-of-graphs-we-19e223e3.mp3",
+    "final_audio": "whereas-if-we-work-with-the-theory-of-graphs-we-19e223e3.mp3"
+  },
+  {
+    "input_text": "WHAT IS MATH AND WHY IS IT INCOMPLETE? In this video we are going deep into mathematical logic to try and figure out what math is and where it's limits are.",
+    "input_data": {
+      "input_text": "WHAT IS MATH AND WHY IS IT INCOMPLETE? In this video we are going deep into mathematical logic to try and figure out what math is and where it's limits are.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "what-is-math-and-why-is-it-incomplete-in-this-2d0ce63b.mp3",
+    "final_audio": "what-is-math-and-why-is-it-incomplete-in-this-2d0ce63b.mp3"
+  },
+  {
+    "input_text": "The first important concept is the difference between syntax and semantics.",
+    "input_data": {
+      "input_text": "The first important concept is the difference between syntax and semantics.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-first-important-concept-is-the-difference-925d5c71.mp3",
+    "final_audio": "the-first-important-concept-is-the-difference-925d5c71.mp3"
+  },
+  {
+    "input_text": "The syntax deals with the sets of formulas themselves. It is a mechanical process which could be carried out by a machine.",
+    "input_data": {
+      "input_text": "The syntax deals with the sets of formulas themselves. It is a mechanical process which could be carried out by a machine.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-syntax-deals-with-the-sets-of-formulas-31677a78.mp3",
+    "final_audio": "the-syntax-deals-with-the-sets-of-formulas-31677a78.mp3"
+  },
+  {
+    "input_text": "The semantics deals with the interpretation of these symbols and is where our intuition lies. Here we can image a platonic world of mathematical structures.",
+    "input_data": {
+      "input_text": "The semantics deals with the interpretation of these symbols and is where our intuition lies. Here we can image a platonic world of mathematical structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-semantics-deals-with-the-interpretation-of-11e35fbc.mp3",
+    "final_audio": "the-semantics-deals-with-the-interpretation-of-11e35fbc.mp3"
+  },
+  {
+    "input_text": "Truth in the syntactical side is given by a valid proof in a deductive calculus. We represent this by this relation:",
+    "input_data": {
+      "input_text": "Truth in the syntactical side is given by a valid proof in a deductive calculus. We represent this by this relation:",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "truth-in-the-syntactical-side-is-given-by-a-valid-937d88ca.mp3",
+    "final_audio": "truth-in-the-syntactical-side-is-given-by-a-valid-937d88ca.mp3"
+  },
+  {
+    "input_text": "and it means that there is a formal proof of phi from Sigma. Proofs are computational processes which can be visualized by a proof-tree.",
+    "input_data": {
+      "input_text": "and it means that there is a formal proof of phi from Sigma. Proofs are computational processes which can be visualized by a proof-tree.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-it-means-that-there-is-a-formal-proof-of-phi-c9d07496.mp3",
+    "final_audio": "and-it-means-that-there-is-a-formal-proof-of-phi-c9d07496.mp3"
+  },
+  {
+    "input_text": "Truth in the semantical side is based on Tarki's definition of truth. Namely that something is true iff it is true in all models. Here this relation:",
+    "input_data": {
+      "input_text": "Truth in the semantical side is based on Tarki's definition of truth. Namely that something is true iff it is true in all models. Here this relation:",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "truth-in-the-semantical-side-is-based-on-tarki-s-d7313f54.mp3",
+    "final_audio": "truth-in-the-semantical-side-is-based-on-tarki-s-d7313f54.mp3"
+  },
+  {
+    "input_text": "which is read as Sigma models phi, means that in every structure where Sigma is satisfied phi is also satisfied. In other words, there is no structure in the mathemtatical universe, which satisfies Sigma but does not satisfy phi.",
+    "input_data": {
+      "input_text": "which is read as Sigma models phi, means that in every structure where Sigma is satisfied phi is also satisfied. In other words, there is no structure in the mathemtatical universe, which satisfies Sigma but does not satisfy phi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "which-is-read-as-sigma-models-phi-means-that-in-e8f0b577.mp3",
+    "final_audio": "which-is-read-as-sigma-models-phi-means-that-in-e8f0b577.mp3"
+  },
+  {
+    "input_text": "For example, if we have an order relation in our vocabulary and Sigma is the set of sentences expressing that the order relation is transitive, meaning that for all a, b and c: if a is less than b and b is less than c then a is less than c,",
+    "input_data": {
+      "input_text": "For example, if we have an order relation in our vocabulary and Sigma is the set of sentences expressing that the order relation is transitive, meaning that for all a, b and c: if a is less than b and b is less than c then a is less than c,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-if-we-have-an-order-relation-in-our-8e0a5f65.mp3",
+    "final_audio": "for-example-if-we-have-an-order-relation-in-our-8e0a5f65.mp3"
+  },
+  {
+    "input_text": "and irreflexive, meaning that for all a: a is not less than a,",
+    "input_data": {
+      "input_text": "and irreflexive, meaning that for all a: a is not less than a,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-irreflexive-meaning-that-for-all-a-a-is-not-f9225f55.mp3",
+    "final_audio": "and-irreflexive-meaning-that-for-all-a-a-is-not-f9225f55.mp3"
+  },
+  {
+    "input_text": "and we let phi be the sentence expressing that the order relation is assymetric: meaning that for all a, b: if a is less than b then b is not less than a.",
+    "input_data": {
+      "input_text": "and we let phi be the sentence expressing that the order relation is assymetric: meaning that for all a, b: if a is less than b then b is not less than a.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-we-let-phi-be-the-sentence-expressing-that-the-79ab34fb.mp3",
+    "final_audio": "and-we-let-phi-be-the-sentence-expressing-that-the-79ab34fb.mp3"
+  },
+  {
+    "input_text": "then we can show that indeed Sigma models phi, since all possible transitive and irreflexive structure are also assymetic. So, we have two different worlds, the mechanical world of syntax and the intuitive world of semantics. It is natural to wonder what is the relation between these worlds.",
+    "input_data": {
+      "input_text": "then we can show that indeed Sigma models phi, since all possible transitive and irreflexive structure are also assymetic. So, we have two different worlds, the mechanical world of syntax and the intuitive world of semantics. It is natural to wonder what is the relation between these worlds.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-we-can-show-that-indeed-sigma-models-phi-0c7d635f.mp3",
+    "final_audio": "then-we-can-show-that-indeed-sigma-models-phi-0c7d635f.mp3"
+  },
+  {
+    "input_text": "In 1929, Godel proved that for First order logic, these two relations are equivalent. To understand this, we will have to dive into the basics of mathematical logic.",
+    "input_data": {
+      "input_text": "In 1929, Godel proved that for First order logic, these two relations are equivalent. To understand this, we will have to dive into the basics of mathematical logic.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-1929-godel-proved-that-for-first-order-logic-13bdadfa.mp3",
+    "final_audio": "in-1929-godel-proved-that-for-first-order-logic-13bdadfa.mp3"
+  },
+  {
+    "input_text": "First we fix our formal language L. It was Frege in the 1800's who realized that the act of doing mathematics simply involves the manipulations of the following sets of symbols:",
+    "input_data": {
+      "input_text": "First we fix our formal language L. It was Frege in the 1800's who realized that the act of doing mathematics simply involves the manipulations of the following sets of symbols:",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "first-we-fix-our-formal-language-l-it-was-frege-in-e33b5d5f.mp3",
+    "final_audio": "first-we-fix-our-formal-language-l-it-was-frege-in-e33b5d5f.mp3"
+  },
+  {
+    "input_text": "Constant symbols, which represent special elements of a given structure like 0, 1, e, pi or the root of some tree.",
+    "input_data": {
+      "input_text": "Constant symbols, which represent special elements of a given structure like 0, 1, e, pi or the root of some tree.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "constant-symbols-which-represent-special-elements-4a9b6cf4.mp3",
+    "final_audio": "constant-symbols-which-represent-special-elements-4a9b6cf4.mp3"
+  },
+  {
+    "input_text": "Function symbols, such as successor, addition, multiplication.",
+    "input_data": {
+      "input_text": "Function symbols, such as successor, addition, multiplication.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "function-symbols-such-as-successor-addition-a66bd2e5.mp3",
+    "final_audio": "function-symbols-such-as-successor-addition-a66bd2e5.mp3"
+  },
+  {
+    "input_text": "Relation symbols, such as less than or in.",
+    "input_data": {
+      "input_text": "Relation symbols, such as less than or in.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "relation-symbols-such-as-less-than-or-in-c02b14f4.mp3",
+    "final_audio": "relation-symbols-such-as-less-than-or-in-c02b14f4.mp3"
+  },
+  {
+    "input_text": "Variables, quantifiers, and brackets.",
+    "input_data": {
+      "input_text": "Variables, quantifiers, and brackets.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "variables-quantifiers-and-brackets-555e8ab4.mp3",
+    "final_audio": "variables-quantifiers-and-brackets-555e8ab4.mp3"
+  },
+  {
+    "input_text": "The boolean connectives,",
+    "input_data": {
+      "input_text": "The boolean connectives,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-boolean-connectives-813fc2d5.mp3",
+    "final_audio": "the-boolean-connectives-813fc2d5.mp3"
+  },
+  {
+    "input_text": "of negation,",
+    "input_data": {
+      "input_text": "of negation,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "of-negation-9d2ea85e.mp3",
+    "final_audio": "of-negation-9d2ea85e.mp3"
+  },
+  {
+    "input_text": "conjunctions,",
+    "input_data": {
+      "input_text": "conjunctions,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "conjunctions-06aad47c.mp3",
+    "final_audio": "conjunctions-06aad47c.mp3"
+  },
+  {
+    "input_text": "disjunction",
+    "input_data": {
+      "input_text": "disjunction",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "disjunction-f398a0d3.mp3",
+    "final_audio": "disjunction-f398a0d3.mp3"
+  },
+  {
+    "input_text": "and implication.",
+    "input_data": {
+      "input_text": "and implication.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-implication-0c004324.mp3",
+    "final_audio": "and-implication-0c004324.mp3"
+  },
+  {
+    "input_text": "The Boolean connectives can be represented by truth tables or logic gates.",
+    "input_data": {
+      "input_text": "The Boolean connectives can be represented by truth tables or logic gates.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-boolean-connectives-can-be-represented-by-110071dc.mp3",
+    "final_audio": "the-boolean-connectives-can-be-represented-by-110071dc.mp3"
+  },
+  {
+    "input_text": "Note that in classical logic, a implies b is equivalent to not a or b.",
+    "input_data": {
+      "input_text": "Note that in classical logic, a implies b is equivalent to not a or b.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "note-that-in-classical-logic-a-implies-b-is-6c4e3a4e.mp3",
+    "final_audio": "note-that-in-classical-logic-a-implies-b-is-6c4e3a4e.mp3"
+  },
+  {
+    "input_text": "This is not the case in intuitionistic logic for example. But for this video we will stick to classical logic, and soon I will make a video on non-classical logics and they give rise to different mathematical universes.",
+    "input_data": {
+      "input_text": "This is not the case in intuitionistic logic for example. But for this video we will stick to classical logic, and soon I will make a video on non-classical logics and they give rise to different mathematical universes.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-not-the-case-in-intuitionistic-logic-for-d5585291.mp3",
+    "final_audio": "this-is-not-the-case-in-intuitionistic-logic-for-d5585291.mp3"
+  },
+  {
+    "input_text": "We can divide these symbols into two groups, the logical and non-logical symbols. The logical symbols are common to all first order theories, and so proofs only involving the logical symbols apply to all possible first-order structures. The non-logical symbols are specific to a given theory,",
+    "input_data": {
+      "input_text": "We can divide these symbols into two groups, the logical and non-logical symbols. The logical symbols are common to all first order theories, and so proofs only involving the logical symbols apply to all possible first-order structures. The non-logical symbols are specific to a given theory,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-divide-these-symbols-into-two-groups-the-a29f4ced.mp3",
+    "final_audio": "we-can-divide-these-symbols-into-two-groups-the-a29f4ced.mp3"
+  },
+  {
+    "input_text": "for example if we are working with the theory of arithmetic, we only need the constant 0, the successor function, and the addition function.",
+    "input_data": {
+      "input_text": "for example if we are working with the theory of arithmetic, we only need the constant 0, the successor function, and the addition function.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-if-we-are-working-with-the-theory-of-2bcad836.mp3",
+    "final_audio": "for-example-if-we-are-working-with-the-theory-of-2bcad836.mp3"
+  },
+  {
+    "input_text": "Whereas, if we work with the theory of graphs, we only need a single binary relation E, where aEb means that there is an edge between a and b.",
+    "input_data": {
+      "input_text": "Whereas, if we work with the theory of graphs, we only need a single binary relation E, where aEb means that there is an edge between a and b.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "whereas-if-we-work-with-the-theory-of-graphs-we-19e223e3.mp3",
+    "final_audio": "whereas-if-we-work-with-the-theory-of-graphs-we-19e223e3.mp3"
+  },
+  {
+    "input_text": "Once we have fixed our vocabulary, we can define the well-formed terms and well-formed formulas. This is somewhat similar to English.",
+    "input_data": {
+      "input_text": "Once we have fixed our vocabulary, we can define the well-formed terms and well-formed formulas. This is somewhat similar to English.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "once-we-have-fixed-our-vocabulary-we-can-define-e03a58bf.mp3",
+    "final_audio": "once-we-have-fixed-our-vocabulary-we-can-define-e03a58bf.mp3"
+  },
+  {
+    "input_text": "If we image the set of all possible combinations of letters in the alphabet, most will be meaningless.",
+    "input_data": {
+      "input_text": "If we image the set of all possible combinations of letters in the alphabet, most will be meaningless.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-we-image-the-set-of-all-possible-combinations-a8df14c9.mp3",
+    "final_audio": "if-we-image-the-set-of-all-possible-combinations-a8df14c9.mp3"
+  },
+  {
+    "input_text": "However, some combinations of letters form words.",
+    "input_data": {
+      "input_text": "However, some combinations of letters form words.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "however-some-combinations-of-letters-form-words-c292a17f.mp3",
+    "final_audio": "however-some-combinations-of-letters-form-words-c292a17f.mp3"
+  },
+  {
+    "input_text": "Here we define the terms recursively,",
+    "input_data": {
+      "input_text": "Here we define the terms recursively,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "here-we-define-the-terms-recursively-7e405334.mp3",
+    "final_audio": "here-we-define-the-terms-recursively-7e405334.mp3"
+  },
+  {
+    "input_text": "where in the base case we say that the set of terms consists of: 1. All constants in the language,",
+    "input_data": {
+      "input_text": "where in the base case we say that the set of terms consists of: 1. All constants in the language,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "where-in-the-base-case-we-say-that-the-set-of-3632cd3b.mp3",
+    "final_audio": "where-in-the-base-case-we-say-that-the-set-of-3632cd3b.mp3"
+  },
+  {
+    "input_text": "and 2. All variables in the language.",
+    "input_data": {
+      "input_text": "and 2. All variables in the language.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-2-all-variables-in-the-language-4a636905.mp3",
+    "final_audio": "and-2-all-variables-in-the-language-4a636905.mp3"
+  },
+  {
+    "input_text": "Then if we have a function symbol F, which expects n-inputs, then given n terms t_1 through t_n, the term Ft_1 through t_n is also a term.",
+    "input_data": {
+      "input_text": "Then if we have a function symbol F, which expects n-inputs, then given n terms t_1 through t_n, the term Ft_1 through t_n is also a term.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-if-we-have-a-function-symbol-f-which-expects-ecda4850.mp3",
+    "final_audio": "then-if-we-have-a-function-symbol-f-which-expects-ecda4850.mp3"
+  },
+  {
+    "input_text": "So all of the following are examples of terms in the language of arithmetic.",
+    "input_data": {
+      "input_text": "So all of the following are examples of terms in the language of arithmetic.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-all-of-the-following-are-examples-of-terms-in-c4c844a1.mp3",
+    "final_audio": "so-all-of-the-following-are-examples-of-terms-in-c4c844a1.mp3"
+  },
+  {
+    "input_text": "Note that terms without variables, which are known as closed terms simply point to specific elements of the structure.",
+    "input_data": {
+      "input_text": "Note that terms without variables, which are known as closed terms simply point to specific elements of the structure.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "note-that-terms-without-variables-which-are-known-68c24c23.mp3",
+    "final_audio": "note-that-terms-without-variables-which-are-known-68c24c23.mp3"
+  },
+  {
+    "input_text": "So in the theory of arithmetic, they simply point to numbers.",
+    "input_data": {
+      "input_text": "So in the theory of arithmetic, they simply point to numbers.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-in-the-theory-of-arithmetic-they-simply-point-4a116268.mp3",
+    "final_audio": "so-in-the-theory-of-arithmetic-they-simply-point-4a116268.mp3"
+  },
+  {
+    "input_text": "Once we have our terms, we can combine them to create well-formed formulas. Similar to English, well-formed formulas are special combinations of terms that are grammatically correct.",
+    "input_data": {
+      "input_text": "Once we have our terms, we can combine them to create well-formed formulas. Similar to English, well-formed formulas are special combinations of terms that are grammatically correct.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "once-we-have-our-terms-we-can-combine-them-to-adc122fa.mp3",
+    "final_audio": "once-we-have-our-terms-we-can-combine-them-to-adc122fa.mp3"
+  },
+  {
+    "input_text": "Again, these are defined recursively, where in the base case we have the relation terms, of the form: R t_1 through t_n, where R is n-ary.",
+    "input_data": {
+      "input_text": "Again, these are defined recursively, where in the base case we have the relation terms, of the form: R t_1 through t_n, where R is n-ary.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "again-these-are-defined-recursively-where-in-the-88b8e7a1.mp3",
+    "final_audio": "again-these-are-defined-recursively-where-in-the-88b8e7a1.mp3"
+  },
+  {
+    "input_text": "Note we are being general here, and most relations are binary. In form, these are the same as the functional terms, but instead of pointing to specific elements of the structure, they make a claim about the structure, which may or may not be true.",
+    "input_data": {
+      "input_text": "Note we are being general here, and most relations are binary. In form, these are the same as the functional terms, but instead of pointing to specific elements of the structure, they make a claim about the structure, which may or may not be true.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "note-we-are-being-general-here-and-most-relations-6377ffdb.mp3",
+    "final_audio": "note-we-are-being-general-here-and-most-relations-6377ffdb.mp3"
+  },
+  {
+    "input_text": "For example, the following are atomic formulas in the theory of arithmetic: 1+1=3. And 3 times 5 is less than 2 plus 8 times 12.",
+    "input_data": {
+      "input_text": "For example, the following are atomic formulas in the theory of arithmetic: 1+1=3. And 3 times 5 is less than 2 plus 8 times 12.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-the-following-are-atomic-formulas-in-6ab762cf.mp3",
+    "final_audio": "for-example-the-following-are-atomic-formulas-in-6ab762cf.mp3"
+  },
+  {
+    "input_text": "Then we can inductively define the non-atomic formulas using the Boolean connectives and the quantifiers. So if phi and psi are terms,",
+    "input_data": {
+      "input_text": "Then we can inductively define the non-atomic formulas using the Boolean connectives and the quantifiers. So if phi and psi are terms,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-we-can-inductively-define-the-non-atomic-221972d6.mp3",
+    "final_audio": "then-we-can-inductively-define-the-non-atomic-221972d6.mp3"
+  },
+  {
+    "input_text": "then so is phi and psi,",
+    "input_data": {
+      "input_text": "then so is phi and psi,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-so-is-phi-and-psi-25cf604b.mp3",
+    "final_audio": "then-so-is-phi-and-psi-25cf604b.mp3"
+  },
+  {
+    "input_text": "so is for all x phi, etc.",
+    "input_data": {
+      "input_text": "so is for all x phi, etc.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-is-for-all-x-phi-etc-464f89a3.mp3",
+    "final_audio": "so-is-for-all-x-phi-etc-464f89a3.mp3"
+  },
+  {
+    "input_text": "Now we are ready to define what a mathematical structure is, and how we construct a bridge between the worlds of syntax and semantics.",
+    "input_data": {
+      "input_text": "Now we are ready to define what a mathematical structure is, and how we construct a bridge between the worlds of syntax and semantics.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-we-are-ready-to-define-what-a-mathematical-c9bdd56e.mp3",
+    "final_audio": "now-we-are-ready-to-define-what-a-mathematical-c9bdd56e.mp3"
+  },
+  {
+    "input_text": "A mathematical structure M is defined algebraically as follows.",
+    "input_data": {
+      "input_text": "A mathematical structure M is defined algebraically as follows.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "a-mathematical-structure-m-is-defined-f0be911e.mp3",
+    "final_audio": "a-mathematical-structure-m-is-defined-f0be911e.mp3"
+  },
+  {
+    "input_text": "There is a set M, called the domain of the structure.",
+    "input_data": {
+      "input_text": "There is a set M, called the domain of the structure.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "there-is-a-set-m-called-the-domain-of-the-4cfaaecb.mp3",
+    "final_audio": "there-is-a-set-m-called-the-domain-of-the-4cfaaecb.mp3"
+  },
+  {
+    "input_text": "So, again for the theory of arithmetic, this would just be the set of natural numbers. For a graph this would be the set of vertices, etc. This is the domain over which the quantifiers range.",
+    "input_data": {
+      "input_text": "So, again for the theory of arithmetic, this would just be the set of natural numbers. For a graph this would be the set of vertices, etc. This is the domain over which the quantifiers range.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-again-for-the-theory-of-arithmetic-this-would-b695e545.mp3",
+    "final_audio": "so-again-for-the-theory-of-arithmetic-this-would-b695e545.mp3"
+  },
+  {
+    "input_text": "So in arithmetic, when we say for all x there exists a y such that x is less than y,",
+    "input_data": {
+      "input_text": "So in arithmetic, when we say for all x there exists a y such that x is less than y,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-in-arithmetic-when-we-say-for-all-x-there-f05af622.mp3",
+    "final_audio": "so-in-arithmetic-when-we-say-for-all-x-there-f05af622.mp3"
+  },
+  {
+    "input_text": "the quantifiers range over the natural numbers and this says that for all numbers, there is a bigger number,",
+    "input_data": {
+      "input_text": "the quantifiers range over the natural numbers and this says that for all numbers, there is a bigger number,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-quantifiers-range-over-the-natural-numbers-and-619db3f6.mp3",
+    "final_audio": "the-quantifiers-range-over-the-natural-numbers-and-619db3f6.mp3"
+  },
+  {
+    "input_text": "whereas in the theory of graphs, the quantifiers range over the set of vertices in the graph, if we change the less than relation to the graph edge relation, this expresses that all vertices have an outgoing edge.",
+    "input_data": {
+      "input_text": "whereas in the theory of graphs, the quantifiers range over the set of vertices in the graph, if we change the less than relation to the graph edge relation, this expresses that all vertices have an outgoing edge.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "whereas-in-the-theory-of-graphs-the-quantifiers-1ce36f33.mp3",
+    "final_audio": "whereas-in-the-theory-of-graphs-the-quantifiers-1ce36f33.mp3"
+  },
+  {
+    "input_text": "Then we have a set of constant symbols, function symbols and relation symbols specific to this theory.",
+    "input_data": {
+      "input_text": "Then we have a set of constant symbols, function symbols and relation symbols specific to this theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-we-have-a-set-of-constant-symbols-function-841b44d4.mp3",
+    "final_audio": "then-we-have-a-set-of-constant-symbols-function-841b44d4.mp3"
+  },
+  {
+    "input_text": "The bridge between the syntax and the semantics is given by an interpretation function, which is a special map, sending each symbol to its interpretation,",
+    "input_data": {
+      "input_text": "The bridge between the syntax and the semantics is given by an interpretation function, which is a special map, sending each symbol to its interpretation,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-bridge-between-the-syntax-and-the-semantics-is-baae355c.mp3",
+    "final_audio": "the-bridge-between-the-syntax-and-the-semantics-is-baae355c.mp3"
+  },
+  {
+    "input_text": "such that constant symbols are mapped to elements in the domain,",
+    "input_data": {
+      "input_text": "such that constant symbols are mapped to elements in the domain,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "such-that-constant-symbols-are-mapped-to-elements-fbc3c8f7.mp3",
+    "final_audio": "such-that-constant-symbols-are-mapped-to-elements-fbc3c8f7.mp3"
+  },
+  {
+    "input_text": "function symbols are mapped to functions in the structure,",
+    "input_data": {
+      "input_text": "function symbols are mapped to functions in the structure,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "function-symbols-are-mapped-to-functions-in-the-0e899c30.mp3",
+    "final_audio": "function-symbols-are-mapped-to-functions-in-the-0e899c30.mp3"
+  },
+  {
+    "input_text": "and relation symbols to subsets of the domain.",
+    "input_data": {
+      "input_text": "and relation symbols to subsets of the domain.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-relation-symbols-to-subsets-of-the-domain-02411f24.mp3",
+    "final_audio": "and-relation-symbols-to-subsets-of-the-domain-02411f24.mp3"
+  },
+  {
+    "input_text": "Where functions can be seen as tuples, where inputs are mapped uniquely to an output. For example, the addition function will map to the set of all possible triples a, b, c, where a plus b equals c.",
+    "input_data": {
+      "input_text": "Where functions can be seen as tuples, where inputs are mapped uniquely to an output. For example, the addition function will map to the set of all possible triples a, b, c, where a plus b equals c.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "where-functions-can-be-seen-as-tuples-where-inputs-8478514c.mp3",
+    "final_audio": "where-functions-can-be-seen-as-tuples-where-inputs-8478514c.mp3"
+  },
+  {
+    "input_text": "Similarly, relation symbols will be mapped to all tuples satisfying the axioms imposed on the relation symbol. For example the less than relation in the theory of arithmetic, will map to all pairs a, b such that a is less than b.",
+    "input_data": {
+      "input_text": "Similarly, relation symbols will be mapped to all tuples satisfying the axioms imposed on the relation symbol. For example the less than relation in the theory of arithmetic, will map to all pairs a, b such that a is less than b.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "similarly-relation-symbols-will-be-mapped-to-all-fd737fda.mp3",
+    "final_audio": "similarly-relation-symbols-will-be-mapped-to-all-fd737fda.mp3"
+  },
+  {
+    "input_text": "This is a bit of a contrived map, but this is our bridge between the mechanical world of syntax, where the symbols have no inherent meaning, and the intuitive world of semantics where mathematical structures exist.",
+    "input_data": {
+      "input_text": "This is a bit of a contrived map, but this is our bridge between the mechanical world of syntax, where the symbols have no inherent meaning, and the intuitive world of semantics where mathematical structures exist.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-a-bit-of-a-contrived-map-but-this-is-our-2a00081a.mp3",
+    "final_audio": "this-is-a-bit-of-a-contrived-map-but-this-is-our-2a00081a.mp3"
+  },
+  {
+    "input_text": "Finally, we need a variable assignment, which will map the set of free variables to specific elements in the domain. To motivate this, we show how formulas with free variables, serve a completely different purpose to formulas without free variables.",
+    "input_data": {
+      "input_text": "Finally, we need a variable assignment, which will map the set of free variables to specific elements in the domain. To motivate this, we show how formulas with free variables, serve a completely different purpose to formulas without free variables.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "finally-we-need-a-variable-assignment-which-will-2f0ac293.mp3",
+    "final_audio": "finally-we-need-a-variable-assignment-which-will-2f0ac293.mp3"
+  },
+  {
+    "input_text": "Where a free variable is one which is not bounded by a quantifier. For example, there exists an x such that x plus x equals y. Here x is bounded by the existential quantifier and so it is not free, but y is free.",
+    "input_data": {
+      "input_text": "Where a free variable is one which is not bounded by a quantifier. For example, there exists an x such that x plus x equals y. Here x is bounded by the existential quantifier and so it is not free, but y is free.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "where-a-free-variable-is-one-which-is-not-bounded-dbe7707e.mp3",
+    "final_audio": "where-a-free-variable-is-one-which-is-not-bounded-dbe7707e.mp3"
+  },
+  {
+    "input_text": "Formulas without free variables, such as 1 plus 1 equals 2, or for all x there exists y where x is greater than y are known as sentences, and they make a claims about the structure in question, which are either true or false in the structure. Formulas with free variables, such as x is less than y, or there exists an x such that x plus x equals y, are sometimes true and sometimes false, depending on what x and y refer to. Formulas with free variables are used for definitions.",
+    "input_data": {
+      "input_text": "Formulas without free variables, such as 1 plus 1 equals 2, or for all x there exists y where x is greater than y are known as sentences, and they make a claims about the structure in question, which are either true or false in the structure. Formulas with free variables, such as x is less than y, or there exists an x such that x plus x equals y, are sometimes true and sometimes false, depending on what x and y refer to. Formulas with free variables are used for definitions.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "formulas-without-free-variables-such-as-1-plus-1-48b827a4.mp3",
+    "final_audio": "formulas-without-free-variables-such-as-1-plus-1-48b827a4.mp3"
+  },
+  {
+    "input_text": "For example, in the structure of the natural numbers, this formula defines the set of even numbers, since it is true if and only if we instantiate y by an even number. So, we can define E equals the set of y such that there exists an x such that x plus x equals y.",
+    "input_data": {
+      "input_text": "For example, in the structure of the natural numbers, this formula defines the set of even numbers, since it is true if and only if we instantiate y by an even number. So, we can define E equals the set of y such that there exists an x such that x plus x equals y.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-in-the-structure-of-the-natural-c91ff386.mp3",
+    "final_audio": "for-example-in-the-structure-of-the-natural-c91ff386.mp3"
+  },
+  {
+    "input_text": "So, a mathematical structure is defined as the pair M, Phi, where M is as before, and Phi is a map from the free variables in the formulas to elements in the domain.",
+    "input_data": {
+      "input_text": "So, a mathematical structure is defined as the pair M, Phi, where M is as before, and Phi is a map from the free variables in the formulas to elements in the domain.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-a-mathematical-structure-is-defined-as-the-pair-d750c919.mp3",
+    "final_audio": "so-a-mathematical-structure-is-defined-as-the-pair-d750c919.mp3"
+  },
+  {
+    "input_text": "Now we can define the satisfaction relation, which is the definition of truth in the semantical world.",
+    "input_data": {
+      "input_text": "Now we can define the satisfaction relation, which is the definition of truth in the semantical world.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-we-can-define-the-satisfaction-relation-which-8d6a3653.mp3",
+    "final_audio": "now-we-can-define-the-satisfaction-relation-which-8d6a3653.mp3"
+  },
+  {
+    "input_text": "So, when we say 1 plus 2 equals 3, we check whether the terms 1 plus 2 and 3 evaluate to the same element in the structure.",
+    "input_data": {
+      "input_text": "So, when we say 1 plus 2 equals 3, we check whether the terms 1 plus 2 and 3 evaluate to the same element in the structure.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-when-we-say-1-plus-2-equals-3-we-check-whether-10cff291.mp3",
+    "final_audio": "so-when-we-say-1-plus-2-equals-3-we-check-whether-10cff291.mp3"
+  },
+  {
+    "input_text": "On the right hand side, we simply map 3 to its interpretation, which is just the number 3.",
+    "input_data": {
+      "input_text": "On the right hand side, we simply map 3 to its interpretation, which is just the number 3.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "on-the-right-hand-side-we-simply-map-3-to-its-950723bf.mp3",
+    "final_audio": "on-the-right-hand-side-we-simply-map-3-to-its-950723bf.mp3"
+  },
+  {
+    "input_text": "On the left we have a function term, so we map the components to their interpretations, and then evaluate the result of the function.",
+    "input_data": {
+      "input_text": "On the left we have a function term, so we map the components to their interpretations, and then evaluate the result of the function.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "on-the-left-we-have-a-function-term-so-we-map-the-6cc738d5.mp3",
+    "final_audio": "on-the-left-we-have-a-function-term-so-we-map-the-6cc738d5.mp3"
+  },
+  {
+    "input_text": "Similar for other atomic formulas, such as 2 plus 3 is less than 4 times 3. We evaluate the terms on each side, and check whether the result exists in the subset of pairs of numbers in the relation.",
+    "input_data": {
+      "input_text": "Similar for other atomic formulas, such as 2 plus 3 is less than 4 times 3. We evaluate the terms on each side, and check whether the result exists in the subset of pairs of numbers in the relation.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "similar-for-other-atomic-formulas-such-as-2-plus-3-ed607df9.mp3",
+    "final_audio": "similar-for-other-atomic-formulas-such-as-2-plus-3-ed607df9.mp3"
+  },
+  {
+    "input_text": "Then, for boolean combinations, the definition of truth is given recursively as we would expect. So phi and psi is true in a structure if and only if both phi and psi individually are true in the structure.",
+    "input_data": {
+      "input_text": "Then, for boolean combinations, the definition of truth is given recursively as we would expect. So phi and psi is true in a structure if and only if both phi and psi individually are true in the structure.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-for-boolean-combinations-the-definition-of-3ed14e2f.mp3",
+    "final_audio": "then-for-boolean-combinations-the-definition-of-3ed14e2f.mp3"
+  },
+  {
+    "input_text": "For the quantifiers, an expression for all x phi x evaluates to true, if no matter which value we choose for x, it turns out to be true. For example, for all x, x plus 1 squared equals x squared plus 2x plus 1 is true of all natural numbers, and so will be true in N.",
+    "input_data": {
+      "input_text": "For the quantifiers, an expression for all x phi x evaluates to true, if no matter which value we choose for x, it turns out to be true. For example, for all x, x plus 1 squared equals x squared plus 2x plus 1 is true of all natural numbers, and so will be true in N.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-the-quantifiers-an-expression-for-all-x-phi-x-0ea68d1f.mp3",
+    "final_audio": "for-the-quantifiers-an-expression-for-all-x-phi-x-0ea68d1f.mp3"
+  }
+]

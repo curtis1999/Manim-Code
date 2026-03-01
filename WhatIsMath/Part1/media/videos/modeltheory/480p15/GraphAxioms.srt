@@ -1,0 +1,144 @@
+1
+00:00:00,000 --> 00:00:04,022
+We need to define axioms to determine the behaviour of this edge
+
+2
+00:00:04,122 --> 00:00:08,918
+relation E. Without any axioms, every possible combination of points and all
+
+3
+00:00:09,018 --> 00:00:13,170
+possible arrows drawn between them is a model of our empty theory.
+
+4
+00:00:13,266 --> 00:00:16,756
+An axiom can be any First Order Logic sentence. For
+
+5
+00:00:16,856 --> 00:00:21,473
+example, we can consider this formula phi, expressing transitivity,
+
+6
+00:00:21,600 --> 00:00:24,244
+meaning that if there is some path between nodes,
+
+7
+00:00:24,344 --> 00:00:26,933
+then there is a direct path between these nodes.
+
+8
+00:00:28,133 --> 00:00:33,015
+Or this sentence psi expressing irreflexivity, which enforces that any
+
+9
+00:00:33,115 --> 00:00:37,071
+model of it must not contain any self-referential arrows.
+
+10
+00:00:37,200 --> 00:00:40,495
+We can combine the sentences, and consider the collection
+
+11
+00:00:40,595 --> 00:00:43,415
+of all structures which satisfy both phi and psi,
+
+12
+00:00:43,515 --> 00:00:47,287
+i.e. the collection of all transitive and irreflexive structures.
+
+13
+00:00:47,333 --> 00:00:51,358
+In general, given any collection of sentences Sigma, this is the
+
+14
+00:00:51,458 --> 00:00:54,516
+model set of Sigma, and it is the set of possible
+
+15
+00:00:54,616 --> 00:00:58,126
+structures which satisfy each of the sentences in Sigma.
+
+16
+00:00:58,200 --> 00:01:02,844
+Note that if Sigma contains an unsatisfiable sentence, such as x
+
+17
+00:01:02,944 --> 00:01:06,328
+does not equal x, then Mod Sigma will be empty.
+
+18
+00:01:06,466 --> 00:01:10,698
+And the soundness of First order logic, tells us that if our set
+
+19
+00:01:10,798 --> 00:01:15,774
+of sentences Sigma is consistent, meaning that one cannot prove phi and not
+
+20
+00:01:15,874 --> 00:01:19,632
+phi for any formula phi as hard as you try, then there is
+
+21
+00:01:19,732 --> 00:01:24,234
+at least one model out there which satisfies every formula in Sigma.
+
+22
+00:01:24,333 --> 00:01:26,544
+We see that this is based on a platonistic
+
+23
+00:01:26,644 --> 00:01:30,616
+vision of mathematics, where mathematical structures are pre-existing, and
+
+24
+00:01:30,716 --> 00:01:33,532
+we can characterize them using first order sentences.
+
+25
+00:01:33,600 --> 00:01:35,908
+If we start to study the general structure of
+
+26
+00:01:36,008 --> 00:01:38,583
+the models satisfying phi and psi, we might notice
+
+27
+00:01:38,683 --> 00:01:41,206
+some things in common to all of these structures.
+
+28
+00:01:41,266 --> 00:01:47,331
+For example we may notice that in none of them do we have aEb and bEa.
+
+29
+00:01:47,400 --> 00:01:50,309
+We can easily see why, since if we did have such
+
+30
+00:01:50,409 --> 00:01:54,760
+an edge in a transitive and irreflexive structure, then by transitivity
+
+31
+00:01:54,860 --> 00:01:57,331
+we should have a direct path from a to a.
+
+32
+00:01:57,466 --> 00:02:01,102
+But then the structure is not irreflexive, a contradiction.
+
+33
+00:02:01,266 --> 00:02:06,285
+So, we see that adding this sentence chi expressing
+
+34
+00:02:06,385 --> 00:02:11,906
+asymmetry, is redundant, in the sense that Mod(phi, psi,
+
+35
+00:02:12,006 --> 00:02:15,821
+chi) is exactly equal to Mod(phi, psi).
+
+36
+00:02:15,933 --> 00:02:22,625
+We denote this by saying the set phi, psi models chi.
+

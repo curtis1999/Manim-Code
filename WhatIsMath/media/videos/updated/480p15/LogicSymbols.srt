@@ -1,0 +1,120 @@
+1
+00:00:00,000 --> 00:00:02,602
+First we fix our formal language L. It was Frege in
+
+2
+00:00:02,702 --> 00:00:05,993
+the 1800's who realized that the act of doing mathematics simply
+
+3
+00:00:06,093 --> 00:00:09,173
+involves the manipulations of the following sets of symbols:
+
+4
+00:00:09,266 --> 00:00:13,137
+Constant symbols, which represent special elements of a given structure like
+
+5
+00:00:13,237 --> 00:00:15,070
+0, 1, e, pi or the root of some tree.
+
+6
+00:00:15,133 --> 00:00:20,519
+Function symbols, such as successor, addition, multiplication.
+
+7
+00:00:20,600 --> 00:00:24,078
+Relation symbols, such as less than or in.
+
+8
+00:00:24,200 --> 00:00:27,522
+Variables, quantifiers, and brackets.
+
+9
+00:00:27,600 --> 00:00:29,302
+The boolean connectives,
+
+10
+00:00:29,400 --> 00:00:30,788
+of negation,
+
+11
+00:00:30,866 --> 00:00:32,203
+conjunctions,
+
+12
+00:00:32,333 --> 00:00:33,826
+disjunction
+
+13
+00:00:33,933 --> 00:00:35,923
+and implication.
+
+14
+00:00:36,533 --> 00:00:38,642
+The Boolean connectives can be represented
+
+15
+00:00:38,742 --> 00:00:40,273
+by truth tables or logic gates.
+
+16
+00:00:40,333 --> 00:00:46,215
+Note that in classical logic, a implies b is equivalent to not a or b.
+
+17
+00:00:46,266 --> 00:00:49,061
+This is not the case in intuitionistic logic for example.
+
+18
+00:00:49,161 --> 00:00:51,703
+But for this video we will stick to classical logic,
+
+19
+00:00:51,803 --> 00:00:54,344
+and soon I will make a video on non-classical logics
+
+20
+00:00:54,444 --> 00:00:57,138
+and they give rise to different mathematical universes.
+
+21
+00:00:57,200 --> 00:01:00,127
+We can divide these symbols into two groups, the logical
+
+22
+00:01:00,227 --> 00:01:03,478
+and non-logical symbols. The logical symbols are common to all
+
+23
+00:01:03,578 --> 00:01:06,830
+first order theories, and so proofs only involving the logical
+
+24
+00:01:06,930 --> 00:01:10,993
+symbols apply to all possible first-order structures. The non-logical symbols
+
+25
+00:01:11,093 --> 00:01:12,668
+are specific to a given theory,
+
+26
+00:01:12,733 --> 00:01:15,948
+for example if we are working with the theory of arithmetic, we
+
+27
+00:01:16,048 --> 00:01:19,947
+only need the constant 0, the successor function, and the addition function.
+
+28
+00:01:20,000 --> 00:01:22,524
+Whereas, if we work with the theory of graphs, we
+
+29
+00:01:22,624 --> 00:01:25,362
+only need a single binary relation E, where aEb means
+
+30
+00:01:25,462 --> 00:01:27,397
+that there is an edge between a and b.
+

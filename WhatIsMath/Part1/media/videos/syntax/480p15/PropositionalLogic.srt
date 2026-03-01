@@ -1,0 +1,112 @@
+1
+00:00:00,000 --> 00:00:03,087
+To understand the relation between these two worlds,
+
+2
+00:00:03,187 --> 00:00:06,151
+let's first consider the simple world of classical
+
+3
+00:00:06,251 --> 00:00:09,277
+propositional logic, also known as 0th order logic.
+
+4
+00:00:09,333 --> 00:00:12,252
+Here we have a set of propositional variables,
+
+5
+00:00:12,352 --> 00:00:14,483
+which can either be true or false.
+
+6
+00:00:15,066 --> 00:00:18,024
+These serve as the atoms of our logic, which
+
+7
+00:00:18,124 --> 00:00:22,195
+we can combine using the Boolean connectives of conjunction,
+
+8
+00:00:22,295 --> 00:00:26,852
+disjunction, implication and negation to form proposition formulas.
+
+9
+00:00:26,933 --> 00:00:30,635
+The connectives are governed by truth tables, where conjunction,
+
+10
+00:00:30,735 --> 00:00:33,546
+disjunction, and negation are as we would expect.
+
+11
+00:00:33,600 --> 00:00:40,153
+In classical logic, implication is equivalent to 'not p or q', meaning that p
+
+12
+00:00:40,253 --> 00:00:44,732
+implies q is true either if p is false, or q is true.
+
+13
+00:00:44,800 --> 00:00:49,417
+Note that there are non-classical logics which interpret these symbols differently,
+
+14
+00:00:49,517 --> 00:00:53,281
+especially implication and negation. We will cover this in the bonus
+
+15
+00:00:53,381 --> 00:00:56,350
+video at the end, for now we stick to classical logic.
+
+16
+00:00:57,400 --> 00:01:01,883
+So, given an arbitrary propositional formula, like this one,
+
+17
+00:01:01,983 --> 00:01:05,397
+we can easily evaluate it using a truth table.
+
+18
+00:01:05,466 --> 00:01:08,573
+Meaning that we list every possible combination of 0 and
+
+19
+00:01:08,673 --> 00:01:12,123
+1 for the propositional variables involved in the formula, and
+
+20
+00:01:12,223 --> 00:01:15,502
+then compute the output using the rules of the connectives.
+
+21
+00:01:15,600 --> 00:01:18,993
+If all rows evaluate to 1, as is the case with
+
+22
+00:01:19,093 --> 00:01:23,702
+this formula, then we say that the formula is logically valid.
+
+23
+00:01:23,800 --> 00:01:25,971
+If all rows evaluate to 0, then
+
+24
+00:01:26,071 --> 00:01:28,976
+we say that the formula is unsatisfiable.
+
+25
+00:01:29,133 --> 00:01:34,701
+And if at least one row is true, then we say that it is satisfiable.
+
+26
+00:01:34,866 --> 00:01:37,749
+We see that each row in the truth table represents
+
+27
+00:01:37,849 --> 00:01:41,866
+a specific interpretation of the propositional variables. So each row
+
+28
+00:01:41,966 --> 00:01:44,849
+can be seen as a possible world or interpretation.
+

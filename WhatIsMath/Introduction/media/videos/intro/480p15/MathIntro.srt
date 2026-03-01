@@ -1,0 +1,64 @@
+1
+00:00:00,000 --> 00:00:04,371
+In this video series, we are going to go deep into mathematical logic
+
+2
+00:00:04,471 --> 00:00:08,259
+to try to figure out what math is, and where its limits are.
+
+3
+00:00:10,933 --> 00:00:14,919
+In the first video, we will cover syntax vs. semantics, define
+
+4
+00:00:15,019 --> 00:00:19,532
+what a formal proof is, and the definition of mathematical structures.
+
+5
+00:00:19,600 --> 00:00:25,485
+In the second video, we will cover basic set theory, since theories
+
+6
+00:00:25,585 --> 00:00:31,202
+are defined using sets, and yet sets are defined using a theory.
+
+7
+00:00:31,266 --> 00:00:36,017
+In the third video, we will cover Skolem's paradox, showing how
+
+8
+00:00:36,117 --> 00:00:41,485
+first order logic cannot fully capture or determine certain properties.
+
+9
+00:00:41,533 --> 00:00:45,797
+In the fourth video, we will cover the deductive completeness of
+
+10
+00:00:45,897 --> 00:00:50,367
+first order logic, providing a bridge between syntax and semantics.
+
+11
+00:00:50,466 --> 00:00:53,225
+In the fifth video, we will see the basics
+
+12
+00:00:53,325 --> 00:00:57,445
+of primitive recursion, decidability, and the Halting problem.
+
+13
+00:00:57,533 --> 00:01:00,329
+Finally, we will cover Godel's incompleteness
+
+14
+00:01:00,429 --> 00:01:02,710
+theorem and discuss its implications.
+
+15
+00:01:02,800 --> 00:01:06,550
+As a bonus video, we will cover non-classical logics, and
+
+16
+00:01:06,650 --> 00:01:10,536
+see how they give rise to different visions of mathematics.
+

@@ -1,0 +1,268 @@
+1
+00:00:00,000 --> 00:00:03,950
+First order logic is an expansion of propositional logic, where we
+
+2
+00:00:04,050 --> 00:00:07,632
+add variables and quantifiers to our set of logical symbols.
+
+3
+00:00:09,666 --> 00:00:13,068
+We also add certain constant, function and relation
+
+4
+00:00:13,168 --> 00:00:16,227
+symbols, which are specific to a given theory.
+
+5
+00:00:16,333 --> 00:00:20,383
+For example, if we want to study the natural numbers, we add the
+
+6
+00:00:20,483 --> 00:00:24,599
+constant 0, the successor function S, which just maps n to n plus
+
+7
+00:00:24,699 --> 00:00:29,268
+1, the addition and multiplication function, and the less than relation.
+
+8
+00:00:29,333 --> 00:00:32,753
+But if we want to study graphs, all we would need
+
+9
+00:00:32,853 --> 00:00:37,279
+is a single binary relation E expressing an edge between nodes.
+
+10
+00:00:37,333 --> 00:00:39,825
+These symbols which are specific to a
+
+11
+00:00:39,925 --> 00:00:43,189
+given theory are called the non-logical symbols,
+
+12
+00:00:43,266 --> 00:00:46,014
+and these are the logical symbols.
+
+13
+00:00:46,066 --> 00:00:49,231
+If we restrict ourselves to the logical symbols, then
+
+14
+00:00:49,331 --> 00:00:51,633
+we are in the domain of pure logic, and
+
+15
+00:00:51,733 --> 00:00:55,083
+whatever we prove applies to all first order structures.
+
+16
+00:00:55,133 --> 00:00:57,623
+The syntax of first order logic is
+
+17
+00:00:57,723 --> 00:01:00,519
+given by the so-called logical axioms.
+
+18
+00:01:00,600 --> 00:01:03,003
+We note that we have just added three
+
+19
+00:01:03,103 --> 00:01:06,116
+axioms to the axioms of propositional logic...
+
+20
+00:01:06,200 --> 00:01:11,107
+which determine how the forall quantifiers work. Note that since exists x P
+
+21
+00:01:11,207 --> 00:01:15,847
+x, where P is some arbitrary property like being even, is equivalent to
+
+22
+00:01:15,947 --> 00:01:19,453
+not forall x not P x. If there is an even number, then
+
+23
+00:01:19,553 --> 00:01:23,125
+we know that not all numbers are odd, so this is why we
+
+24
+00:01:23,225 --> 00:01:27,598
+technically only need to add the forall quantifier to the language.
+
+25
+00:01:27,666 --> 00:01:30,930
+One can show that this set of axioms is once again
+
+26
+00:01:31,030 --> 00:01:34,966
+sound and complete, but this time for first order logic, and
+
+27
+00:01:35,066 --> 00:01:37,858
+we will see this proof in the fourth video.
+
+28
+00:01:37,933 --> 00:01:41,794
+Often the equality relation is taken to be a logical symbol. In
+
+29
+00:01:41,894 --> 00:01:45,442
+this case, we need to add the following five axioms to our
+
+30
+00:01:45,542 --> 00:01:50,032
+list of logical axioms which define the behaviour of the equality symbol.
+
+31
+00:01:50,133 --> 00:01:55,444
+These axioms are hard to argue against, everything is equal to itself, if a
+
+32
+00:01:55,544 --> 00:01:59,123
+is equal to b then b is also equal to a, and so on.
+
+33
+00:02:00,200 --> 00:02:03,187
+Now we are ready to move to the semantics of
+
+34
+00:02:03,287 --> 00:02:06,836
+FOL. Again we fix our language, which again means we
+
+35
+00:02:06,936 --> 00:02:10,836
+pick a set of constant, function and relations symbols...
+
+36
+00:02:10,933 --> 00:02:13,497
+and we can define a structure,
+
+37
+00:02:13,600 --> 00:02:16,304
+which is represented by this fancy M, and
+
+38
+00:02:16,404 --> 00:02:18,698
+is equal to this tuple of elements.
+
+39
+00:02:18,800 --> 00:02:21,886
+This is the domain or universe of the structure...
+
+40
+00:02:22,466 --> 00:02:26,415
+and these are the 'interpretations' of the symbols in the language.
+
+41
+00:02:26,466 --> 00:02:30,546
+Constants are interpreted as specific elements in the structure...
+
+42
+00:02:30,666 --> 00:02:34,018
+and functions and relations are interpreted as subsets
+
+43
+00:02:34,118 --> 00:02:36,574
+of tuples of elements of the structures.
+
+44
+00:02:38,200 --> 00:02:41,286
+This is a bit abstract, so lets consider the example of the
+
+45
+00:02:41,386 --> 00:02:45,283
+standard structure of arithmetic, which is essentially just a number line.
+
+46
+00:02:45,333 --> 00:02:48,080
+Again we work within the language of arithmetic.
+
+47
+00:02:48,133 --> 00:02:52,134
+So, the universe is the set of natural numbers.
+
+48
+00:02:52,200 --> 00:02:55,260
+We can visualize this structure as a the number line,
+
+49
+00:02:55,360 --> 00:02:58,242
+and as we would expect, the interpretation of 0 is
+
+50
+00:02:58,342 --> 00:03:00,746
+just the first element in the number line.
+
+51
+00:03:00,800 --> 00:03:06,189
+The interpretations of the relations and functions are harder to visualize. But
+
+52
+00:03:06,289 --> 00:03:10,358
+formally we interpret the less than symbol as the set of all
+
+53
+00:03:10,458 --> 00:03:14,388
+pairs of natural numbers (x,y) such that x is less than y.
+
+54
+00:03:14,533 --> 00:03:17,929
+The successor function will map to the set of all pairs of
+
+55
+00:03:18,029 --> 00:03:21,486
+numbers such that the second is one greater than the first.
+
+56
+00:03:21,600 --> 00:03:25,959
+Similarly for the addition function, it maps to the set of
+
+57
+00:03:26,059 --> 00:03:29,650
+all triples (x,y,z) such that x plus y equals z.
+
+58
+00:03:29,800 --> 00:03:33,739
+So in general the interpretation function s is the bridge between
+
+59
+00:03:33,839 --> 00:03:37,593
+syntax and semantics, where s is a function which maps symbols
+
+60
+00:03:37,693 --> 00:03:41,446
+in a formal language, either to elements, or subsets of tuples
+
+61
+00:03:41,546 --> 00:03:44,119
+of elements of the domain of the structure.
+
+62
+00:03:45,200 --> 00:03:49,674
+This is a strange and abstract idea, to get a better understanding,
+
+63
+00:03:49,774 --> 00:03:54,112
+let us move to perhaps the simplest theory, the theory of graphs.
+
+64
+00:03:54,200 --> 00:03:59,220
+The language has a single binary relation E, and models are arbitrary sets
+
+65
+00:03:59,320 --> 00:04:03,164
+of points, which may or may not be connected by an arrow.
+
+66
+00:04:03,200 --> 00:04:07,214
+Where given nodes a and b, a E b if and
+
+67
+00:04:07,314 --> 00:04:11,224
+only if there is an arrow from a to b.
+

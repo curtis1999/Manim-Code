@@ -1,0 +1,288 @@
+1
+00:00:00,000 --> 00:00:04,079
+A mathematical structure M is defined algebraically as follows.
+
+2
+00:00:04,200 --> 00:00:07,626
+There is a set M, called the domain of the structure.
+
+3
+00:00:07,666 --> 00:00:11,217
+So, again for the theory of arithmetic, this would just be the
+
+4
+00:00:11,317 --> 00:00:14,573
+set of natural numbers. For a graph this would be the set
+
+5
+00:00:14,673 --> 00:00:18,694
+of vertices, etc. This is the domain over which the quantifiers range.
+
+6
+00:00:18,733 --> 00:00:21,791
+So in arithmetic, when we say for all x there
+
+7
+00:00:21,891 --> 00:00:24,458
+exists a y such that x is less than y,
+
+8
+00:00:24,533 --> 00:00:27,831
+the quantifiers range over the natural numbers and this says
+
+9
+00:00:27,931 --> 00:00:30,493
+that for all numbers, there is a bigger number,
+
+10
+00:00:30,533 --> 00:00:33,860
+whereas in the theory of graphs, the quantifiers range over
+
+11
+00:00:33,960 --> 00:00:36,532
+the set of vertices in the graph, if we change
+
+12
+00:00:36,632 --> 00:00:39,727
+the less than relation to the graph edge relation, this
+
+13
+00:00:39,827 --> 00:00:42,632
+expresses that all vertices have an outgoing edge.
+
+14
+00:00:42,666 --> 00:00:45,633
+Then we have a set of constant symbols, function
+
+15
+00:00:45,733 --> 00:00:49,018
+symbols and relation symbols specific to this theory.
+
+16
+00:00:49,133 --> 00:00:51,989
+The bridge between the syntax and the semantics is
+
+17
+00:00:52,089 --> 00:00:55,240
+given by an interpretation function, which is a special
+
+18
+00:00:55,340 --> 00:00:58,019
+map, sending each symbol to its interpretation,
+
+19
+00:00:59,066 --> 00:01:02,571
+such that constant symbols are mapped to elements in the domain,
+
+20
+00:01:02,666 --> 00:01:06,406
+function symbols are mapped to functions in the structure,
+
+21
+00:01:06,533 --> 00:01:11,631
+and relation symbols to subsets of the domain.
+
+22
+00:01:11,733 --> 00:01:16,436
+Where functions can be seen as tuples, where inputs are mapped uniquely to
+
+23
+00:01:16,536 --> 00:01:20,850
+an output. For example, the addition function will map to the set of
+
+24
+00:01:20,950 --> 00:01:24,354
+all possible triples a, b, c, where a plus b equals c.
+
+25
+00:01:24,400 --> 00:01:29,068
+Similarly, relation symbols will be mapped to all tuples satisfying the
+
+26
+00:01:29,168 --> 00:01:33,365
+axioms imposed on the relation symbol. For example the less than
+
+27
+00:01:33,465 --> 00:01:37,328
+relation in the theory of arithmetic, will map to all pairs
+
+28
+00:01:37,428 --> 00:01:39,477
+a, b such that a is less than b.
+
+29
+00:01:39,533 --> 00:01:41,425
+This is a bit of a contrived map, but
+
+30
+00:01:41,525 --> 00:01:44,118
+this is our bridge between the mechanical world of
+
+31
+00:01:44,218 --> 00:01:47,080
+syntax, where the symbols have no inherent meaning, and
+
+32
+00:01:47,180 --> 00:01:50,796
+the intuitive world of semantics where mathematical structures exist.
+
+33
+00:01:50,866 --> 00:01:53,790
+Finally, we need a variable assignment, which will map the
+
+34
+00:01:53,890 --> 00:01:56,762
+set of free variables to specific elements in the domain.
+
+35
+00:01:56,862 --> 00:01:59,838
+To motivate this, we show how formulas with free variables,
+
+36
+00:01:59,938 --> 00:02:03,592
+serve a completely different purpose to formulas without free variables.
+
+37
+00:02:03,666 --> 00:02:07,232
+Where a free variable is one which is not bounded by
+
+38
+00:02:07,332 --> 00:02:11,179
+a quantifier. For example, there exists an x such that x
+
+39
+00:02:11,279 --> 00:02:14,916
+plus x equals y. Here x is bounded by the existential
+
+40
+00:02:15,016 --> 00:02:18,299
+quantifier and so it is not free, but y is free.
+
+41
+00:02:18,333 --> 00:02:22,543
+Formulas without free variables, such as 1 plus 1 equals 2, or for all
+
+42
+00:02:22,643 --> 00:02:26,607
+x there exists y where x is greater than y are known as sentences,
+
+43
+00:02:26,707 --> 00:02:31,349
+and they make a claims about the structure in question, which are either true
+
+44
+00:02:31,449 --> 00:02:35,906
+or false in the structure. Formulas with free variables, such as x is less
+
+45
+00:02:36,006 --> 00:02:39,416
+than y, or there exists an x such that x plus x equals y,
+
+46
+00:02:39,516 --> 00:02:44,034
+are sometimes true and sometimes false, depending on what x and y refer to.
+
+47
+00:02:44,134 --> 00:02:47,359
+Formulas with free variables are used for definitions.
+
+48
+00:02:47,400 --> 00:02:52,987
+For example, in the structure of the natural numbers, this formula defines the set
+
+49
+00:02:53,087 --> 00:02:57,495
+of even numbers, since it is true if and only if we instantiate y
+
+50
+00:02:57,595 --> 00:03:01,518
+by an even number. So, we can define E equals the set of y
+
+51
+00:03:01,618 --> 00:03:05,402
+such that there exists an x such that x plus x equals y.
+
+52
+00:03:05,466 --> 00:03:09,252
+So, a mathematical structure is defined as the pair M, Phi,
+
+53
+00:03:09,352 --> 00:03:12,085
+where M is as before, and Phi is a map from
+
+54
+00:03:12,185 --> 00:03:16,102
+the free variables in the formulas to elements in the domain.
+
+55
+00:03:16,200 --> 00:03:19,664
+Now we can define the satisfaction relation, which is
+
+56
+00:03:19,764 --> 00:03:22,891
+the definition of truth in the semantical world.
+
+57
+00:03:22,933 --> 00:03:27,587
+So, when we say 1 plus 2 equals 3, we check whether the terms
+
+58
+00:03:27,687 --> 00:03:32,341
+1 plus 2 and 3 evaluate to the same element in the structure.
+
+59
+00:03:32,400 --> 00:03:34,337
+On the right hand side, we simply map 3
+
+60
+00:03:34,437 --> 00:03:36,949
+to its interpretation, which is just the number 3.
+
+61
+00:03:37,000 --> 00:03:39,700
+On the left we have a function term, so we map the
+
+62
+00:03:39,800 --> 00:03:44,292
+components to their interpretations, and then evaluate the result of the function.
+
+63
+00:03:44,400 --> 00:03:48,308
+Similar for other atomic formulas, such as 2 plus 3 is less than
+
+64
+00:03:48,408 --> 00:03:52,317
+4 times 3. We evaluate the terms on each side, and check whether
+
+65
+00:03:52,417 --> 00:03:56,577
+the result exists in the subset of pairs of numbers in the relation.
+
+66
+00:03:56,666 --> 00:04:01,228
+Then, for boolean combinations, the definition of truth is given recursively as we
+
+67
+00:04:01,328 --> 00:04:04,526
+would expect. So phi and psi is true in a structure if and
+
+68
+00:04:04,626 --> 00:04:08,165
+only if both phi and psi individually are true in the structure.
+
+69
+00:04:08,266 --> 00:04:14,348
+For the quantifiers, an expression for all x phi x evaluates to true, if no
+
+70
+00:04:14,448 --> 00:04:20,365
+matter which value we choose for x, it turns out to be true. For example,
+
+71
+00:04:20,465 --> 00:04:25,475
+for all x, x plus 1 squared equals x squared plus 2x plus 1 is
+
+72
+00:04:25,575 --> 00:04:29,926
+true of all natural numbers, and so will be true in N.
+

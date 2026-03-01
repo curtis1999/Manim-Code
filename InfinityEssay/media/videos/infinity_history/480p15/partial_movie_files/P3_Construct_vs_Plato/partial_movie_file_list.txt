@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P3_Construct_vs_Plato/1584795214_241529293_1199769106.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P3_Construct_vs_Plato/4072820271_2727135660_4087003916.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P3_Construct_vs_Plato/4072820271_3250207340_3080914266.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P3_Construct_vs_Plato/4072820271_1648004906_3052220221.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P3_Construct_vs_Plato/4072820271_1026230232_1674530291.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P3_Construct_vs_Plato/4072820271_3616136011_2704047099.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P3_Construct_vs_Plato/4072820271_2354908415_1104630848.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P3_Construct_vs_Plato/4072820271_2570480615_2843198853.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P3_Construct_vs_Plato/4072820271_2885783473_4253535204.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P3_Construct_vs_Plato/4072820271_3997526545_948832490.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P3_Construct_vs_Plato/4072820271_2428774157_4133647675.mp4'

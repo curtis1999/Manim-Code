@@ -1,0 +1,52 @@
+1
+00:00:00,000 --> 00:00:02,704
+WHAT IS MATH AND WHY IS IT INCOMPLETE? Speaking very
+
+2
+00:00:02,804 --> 00:00:07,018
+generally, mathematicians try to describe certain mathematical objects. And make
+
+3
+00:00:07,118 --> 00:00:10,901
+claims about their structure and relation to other mathematical objects.
+
+4
+00:00:11,001 --> 00:00:13,921
+For much of human history this was grounded in geometry,
+
+5
+00:00:14,021 --> 00:00:16,618
+where proofs were grounded in geometric intuition.
+
+6
+00:00:16,733 --> 00:00:18,693
+As time went on, math became more abstract
+
+7
+00:00:18,793 --> 00:00:20,998
+and allowed us to describe more complicated and
+
+8
+00:00:21,098 --> 00:00:23,843
+abstract structures moving us further from our intuitions.
+
+9
+00:00:25,000 --> 00:00:28,286
+But what do we mean by describe a mathematical object? What is
+
+10
+00:00:28,386 --> 00:00:32,655
+the precise definition of a mathematical object? Which objects are considered to
+
+11
+00:00:32,755 --> 00:00:35,714
+be part of the mathematical universe, and which are not?
+
+12
+00:00:36,866 --> 00:00:38,960
+To understand these questions we will have
+
+13
+00:00:39,060 --> 00:00:41,416
+to understand the basics of mathematical logic.
+

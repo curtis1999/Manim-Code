@@ -1,0 +1,184 @@
+1
+00:00:00,000 --> 00:00:04,432
+The syntax of classical propositional logic is given by a calculus. There
+
+2
+00:00:04,532 --> 00:00:08,282
+are many calculi which turn out to be equivalent, but each has
+
+3
+00:00:08,382 --> 00:00:12,255
+a set of axioms, which are just some logically valid formulas...
+
+4
+00:00:12,333 --> 00:00:16,021
+...and rules of inference, which allow us to derive new
+
+5
+00:00:16,121 --> 00:00:19,808
+formulas from a set of premises while preserving truth.
+
+6
+00:00:19,866 --> 00:00:24,307
+The most concise calculus is the Hilbert style calculus, which has
+
+7
+00:00:24,407 --> 00:00:28,229
+the following 3 axioms, and the only rule of inference is
+
+8
+00:00:28,329 --> 00:00:31,876
+Modus Ponens, which says that if you have phi and you
+
+9
+00:00:31,976 --> 00:00:35,178
+have phi implies psi, then you can conclude psi.
+
+10
+00:00:35,266 --> 00:00:39,263
+These axioms seem random at first, and you may notice that
+
+11
+00:00:39,363 --> 00:00:43,855
+conjunction and disjunction do not appear, but one can prove that
+
+12
+00:00:43,955 --> 00:00:48,306
+they are both necessary and sufficient for propositional logic.
+
+13
+00:00:49,400 --> 00:00:53,021
+Once we have our calculus, we can start to construct proofs.
+
+14
+00:00:53,121 --> 00:00:56,866
+We can visualize proofs as trees, where the leaves are axioms,
+
+15
+00:00:56,966 --> 00:00:59,905
+and we combine nodes using our rule of inference.
+
+16
+00:01:01,133 --> 00:01:05,743
+Proofs can also be seen as computer programs. Where the axioms can be
+
+17
+00:01:05,843 --> 00:01:10,385
+used as inputs, and modus ponens is seen as running a given program.
+
+18
+00:01:10,466 --> 00:01:14,824
+Since phi implies psi can be interpreted as a computer
+
+19
+00:01:14,924 --> 00:01:19,117
+program which if given phi as input, can output psi.
+
+20
+00:01:19,266 --> 00:01:23,456
+So, an application of Modus Ponens is akin to running a computer
+
+21
+00:01:23,556 --> 00:01:28,417
+program. The complexity, and therefore power, comes from the fact that the
+
+22
+00:01:28,517 --> 00:01:31,836
+input formula phi, can be seen as a program itself.
+
+23
+00:01:31,933 --> 00:01:34,890
+So we can pass programs as input to other programs. I
+
+24
+00:01:34,990 --> 00:01:37,890
+will cover this in more detail in a later video, but
+
+25
+00:01:37,990 --> 00:01:40,947
+for now just know that the world of syntax deals with
+
+26
+00:01:41,047 --> 00:01:44,293
+formal proofs, and proofs can be carried out by computers.
+
+27
+00:01:45,333 --> 00:01:49,256
+There are two main questions we can ask about our calculus.
+
+28
+00:01:49,333 --> 00:01:53,350
+The first is whether we can trust it. Meaning if we prove something
+
+29
+00:01:53,450 --> 00:01:56,730
+in our calculus, how do we know that it is really true?
+
+30
+00:01:56,800 --> 00:01:59,955
+In propositional logic this is easy to check,
+
+31
+00:02:00,055 --> 00:02:03,282
+since each of the axioms is logically valid...
+
+32
+00:02:03,333 --> 00:02:07,935
+...again this means that each row in their truth table evaluates to 1.
+
+33
+00:02:08,133 --> 00:02:12,681
+And clearly Modus Ponens preserves truth. So whatever we prove will
+
+34
+00:02:12,781 --> 00:02:16,705
+be logically valid. This means that our calculus is sound.
+
+35
+00:02:17,800 --> 00:02:20,610
+The second question is whether this list
+
+36
+00:02:20,710 --> 00:02:23,812
+is sufficient to prove all valid statements?
+
+37
+00:02:23,866 --> 00:02:27,428
+So, if we come across some arbitrary formula phi, and we
+
+38
+00:02:27,528 --> 00:02:31,090
+check the truth table, and see that all rows evaluate to
+
+39
+00:02:31,190 --> 00:02:34,294
+1, can we guarantee that there is a proof of phi?
+
+40
+00:02:34,400 --> 00:02:38,097
+Perhaps there is some valid statement out there which no matter
+
+41
+00:02:38,197 --> 00:02:41,232
+how hard we try, we cannot prove. Perhaps we need to
+
+42
+00:02:41,332 --> 00:02:44,487
+add more axioms? This is the question of completeness.
+
+43
+00:02:44,533 --> 00:02:47,785
+It turns out that this set of axioms is complete and we
+
+44
+00:02:47,885 --> 00:02:51,199
+will see a stronger version of this in the fourth video.
+
+45
+00:02:51,266 --> 00:02:55,751
+So, this simple calculus can only prove logically valid
+
+46
+00:02:55,851 --> 00:03:00,753
+statements, and it can prove all logically valid statements.
+

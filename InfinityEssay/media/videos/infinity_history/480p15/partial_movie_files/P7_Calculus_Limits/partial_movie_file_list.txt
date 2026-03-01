@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P7_Calculus_Limits/1584795214_1222572416_223132457.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P7_Calculus_Limits/4072820271_2972440582_466967643.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P7_Calculus_Limits/4072820271_648517366_2212761408.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P7_Calculus_Limits/4072820271_2721399028_1367981523.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P7_Calculus_Limits/4072820271_3082106425_2326195877.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P7_Calculus_Limits/4072820271_127070374_2049579110.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P7_Calculus_Limits/4072820271_4171684559_519100072.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P7_Calculus_Limits/4072820271_2408024828_3723046897.mp4'

@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:04,397
+So, we have seen that the syntax of propositional logic is given
+
+2
+00:00:04,497 --> 00:00:08,964
+by a formal calculus, and that the semantics is extremely simple.
+
+3
+00:00:09,000 --> 00:00:13,027
+Models are just given by truth tables.
+
+4
+00:00:13,600 --> 00:00:16,886
+Things get much more interesting when we move to
+
+5
+00:00:16,986 --> 00:00:20,556
+first order logic, since first order logic is strong
+
+6
+00:00:20,656 --> 00:00:25,777
+enough to define mathematical theories and their corresponding structures.
+

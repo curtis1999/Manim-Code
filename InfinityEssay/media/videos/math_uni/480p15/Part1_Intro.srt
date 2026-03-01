@@ -1,0 +1,12 @@
+1
+00:00:04,000 --> 00:00:07,552
+What is the mathematical Universe? What are the objects which exist
+
+2
+00:00:07,652 --> 00:00:10,496
+in it? And which do not? To answer these questions, we
+
+3
+00:00:10,596 --> 00:00:13,931
+will first have to understand the basics of mathematical logic.
+

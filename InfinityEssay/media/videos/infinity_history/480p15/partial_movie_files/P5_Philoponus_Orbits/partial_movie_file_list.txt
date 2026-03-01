@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P5_Philoponus_Orbits/1584795214_3932839867_223132457.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P5_Philoponus_Orbits/4072820271_3729086131_2285492754.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P5_Philoponus_Orbits/4072820271_2765632984_2779589796.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P5_Philoponus_Orbits/4072820271_928402124_1131268938.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P5_Philoponus_Orbits/4072820271_4145102333_1838780234.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P5_Philoponus_Orbits/4072820271_1734327179_463587401.mp4'

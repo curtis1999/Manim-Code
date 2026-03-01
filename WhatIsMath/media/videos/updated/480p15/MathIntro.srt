@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:01,866
+WHAT IS MATH AND WHY IS IT INCOMPLETE? In this video
+
+2
+00:00:01,966 --> 00:00:04,098
+we are going deep into mathematical logic to try and figure
+
+3
+00:00:04,198 --> 00:00:05,725
+out what math is and where it's limits are.
+

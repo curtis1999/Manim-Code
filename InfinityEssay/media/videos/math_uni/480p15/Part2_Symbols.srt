@@ -1,0 +1,132 @@
+1
+00:00:01,000 --> 00:00:04,051
+It was Frege in the 19th century, who first realized
+
+2
+00:00:04,151 --> 00:00:08,658
+that mathematics involved manipulations involving a specific set of symbols.
+
+3
+00:00:08,733 --> 00:00:11,250
+These included the logical symbols such as the
+
+4
+00:00:11,350 --> 00:00:15,346
+boolean connectives: conjunction, disjunction, implication and negation:
+
+5
+00:00:15,400 --> 00:00:18,095
+The quantifiers forall and exists
+
+6
+00:00:18,133 --> 00:00:18,999
+The variables
+
+7
+00:00:19,066 --> 00:00:20,037
+And finally brackets
+
+8
+00:00:20,133 --> 00:00:22,593
+The non-logical symbols include the constants,
+
+9
+00:00:22,693 --> 00:00:24,709
+function symbols and relation symbols:
+
+10
+00:00:24,800 --> 00:00:27,960
+The reason for the distinction, is that the non-logical symbols are
+
+11
+00:00:28,060 --> 00:00:30,637
+specific to a given theory. So, if we just restrict our
+
+12
+00:00:30,737 --> 00:00:33,411
+attention to the logical symbols, we are in the domain of
+
+13
+00:00:33,511 --> 00:00:36,428
+logic, since whatever we prove holds in all possible theories.
+
+14
+00:00:36,466 --> 00:00:38,863
+Now, if we restrict ourselves further, omitting the
+
+15
+00:00:38,963 --> 00:00:40,870
+quantifiers, then we are in the domain of
+
+16
+00:00:40,970 --> 00:00:43,367
+Propositional logic, also known as 0th order logic.
+
+17
+00:00:43,466 --> 00:00:45,565
+In fact we can prove that if we only use
+
+18
+00:00:45,665 --> 00:00:48,643
+implies and negation we don't lose any expressive power.
+
+19
+00:00:49,733 --> 00:00:52,081
+Here we can write down a propositional sentence phi
+
+20
+00:00:52,181 --> 00:00:55,249
+by combining propositional variables according to the connectives.
+
+21
+00:00:55,333 --> 00:00:57,618
+In classical logic, to check if phi is true, we can
+
+22
+00:00:57,718 --> 00:01:00,097
+simply create the truth table and check if there is a
+
+23
+00:01:00,197 --> 00:01:03,043
+satisfying assignment, that is, a row where our formulas are 1.
+
+24
+00:01:04,200 --> 00:01:06,123
+We can check if it is valid, by checking if all
+
+25
+00:01:06,223 --> 00:01:08,275
+of the rows evaluate to 1. This truth table can be
+
+26
+00:01:08,375 --> 00:01:10,212
+seen as a model in which this sentence holds.
+
+27
+00:01:11,266 --> 00:01:13,306
+In classical logic, this truth assignment is black and white. Display the truth table
+
+28
+00:01:13,406 --> 00:01:14,614
+for phi implies psi, a 2 by 2 matrix with 1s and 0s.
+
+29
+00:01:14,666 --> 00:01:16,794
+We can generalize to create a many-valued logic, where the
+
+30
+00:01:16,894 --> 00:01:19,061
+concept of truth is stretched out over an arbitrary number.
+
+31
+00:01:19,161 --> 00:01:20,444
+Extend the matrix one box at a time.
+
+32
+00:01:20,533 --> 00:01:21,516
+It can even be a real number between 0 and 1. Now make
+
+33
+00:01:21,616 --> 00:01:23,202
+there be an open interval and display something resembling a color selection window.
+

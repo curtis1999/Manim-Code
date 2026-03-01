@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:03,196
+In this video we cover two different ways of looking at math.
+
+2
+00:00:03,296 --> 00:00:06,438
+On the one side, we have the mechanical world of syntax, and
+
+3
+00:00:06,538 --> 00:00:09,356
+on the other we have the intuitive world of semantics.
+
+4
+00:00:09,466 --> 00:00:14,112
+Each side has its own definition of truth. In the world of syntax, a
+
+5
+00:00:14,212 --> 00:00:18,439
+statement is true if and only if we have a formal proof of it.
+
+6
+00:00:18,539 --> 00:00:23,394
+This relation means that there is a proof of phi assuming all of Sigma.
+
+7
+00:00:23,466 --> 00:00:28,353
+In the semantical side, truth is given by Tarski's definition of truth.
+
+8
+00:00:28,453 --> 00:00:32,215
+Namely that something is true if and only if it is true
+
+9
+00:00:32,315 --> 00:00:36,640
+in all models. We denote by this relation, that in all possible
+
+10
+00:00:36,740 --> 00:00:40,502
+worlds where Sigma is satisfied, phi is also satisfied.
+

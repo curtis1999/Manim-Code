@@ -1,0 +1,100 @@
+1
+00:00:01,000 --> 00:00:03,507
+The syntax is the set's of formulas themselves,
+
+2
+00:00:03,607 --> 00:00:05,837
+and they are governed by a formal calculus
+
+3
+00:00:06,066 --> 00:00:08,735
+The semantics is the interpretation of these symbols.
+
+4
+00:00:08,800 --> 00:00:11,732
+Truth in the syntactical side is given by a valid
+
+5
+00:00:11,832 --> 00:00:15,322
+proof in a deductive calculus. Here Sigma proves phi means
+
+6
+00:00:15,422 --> 00:00:18,168
+that there is a proof of phi using the logical
+
+7
+00:00:18,268 --> 00:00:21,944
+axioms and premises in Sigma following the rules of inference
+
+8
+00:00:22,066 --> 00:00:25,362
+This is a mechanical process which can be visualized as a tree
+
+9
+00:00:25,400 --> 00:00:28,346
+Truth in the semantical side is based on Tarki's definition of
+
+10
+00:00:28,446 --> 00:00:30,999
+truth. Namely that something is true iff it is true in
+
+11
+00:00:31,099 --> 00:00:34,094
+all models. Here Sigma models phi means that in every structure
+
+12
+00:00:34,194 --> 00:00:37,190
+where Sigma is satisfied -- i.e. each sentence in Sigma happens
+
+13
+00:00:37,290 --> 00:00:38,909
+to be true-- phi is also satisfied.
+
+14
+00:00:39,066 --> 00:00:42,274
+For example, if we have an order relation in our vocabulary and
+
+15
+00:00:42,374 --> 00:00:45,793
+Sigma is the set of sentences expressing that the order relation is
+
+16
+00:00:45,893 --> 00:00:49,573
+transitive and irreflexive, then we can show that it is also assymetric.
+
+17
+00:00:49,673 --> 00:00:53,302
+So, any structure satisfying each of the two conditions in Sigma, which
+
+18
+00:00:53,402 --> 00:00:57,083
+happens in any irreflexive partially ordered set, such as a number line,
+
+19
+00:00:57,183 --> 00:00:59,551
+or a tree, or a lattice, will also satisfy phi.
+
+20
+00:00:59,666 --> 00:01:03,036
+Another way to see this, is that there is no structure in the
+
+21
+00:01:03,136 --> 00:01:07,472
+mathematical universe, which makes Sigma true but which makes phi false. It is
+
+22
+00:01:07,572 --> 00:01:11,112
+natural to wonder what is the relation between these two worlds.
+
+23
+00:01:12,200 --> 00:01:15,818
+In 1929, Godel proved that these two relations are equivalent
+
+24
+00:01:15,918 --> 00:01:19,170
+for First order logic. To understand this, we will have
+
+25
+00:01:19,270 --> 00:01:21,974
+to dive into the basics of mathematical logic.
+

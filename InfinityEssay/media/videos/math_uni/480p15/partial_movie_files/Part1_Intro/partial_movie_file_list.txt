@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/math_uni/480p15/partial_movie_files/Part1_Intro/1811001883_2120938948_729892282.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/math_uni/480p15/partial_movie_files/Part1_Intro/2638490564_4129944940_729892282.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/math_uni/480p15/partial_movie_files/Part1_Intro/2519150197_1415838049_1920045103.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/math_uni/480p15/partial_movie_files/Part1_Intro/2011983586_789064381_1127523533.mp4'

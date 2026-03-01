@@ -1,0 +1,2417 @@
+[
+  {
+    "input_text": "In this video we cover two different ways of looking at math. On the one side, we have the mechanical world of syntax, and on the other we have the intuitive world of semantics.",
+    "input_data": {
+      "input_text": "In this video we cover two different ways of looking at math. On the one side, we have the mechanical world of syntax, and on the other we have the intuitive world of semantics.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-this-video-we-cover-two-different-ways-of-680e4748.mp3",
+    "final_audio": "in-this-video-we-cover-two-different-ways-of-680e4748.mp3"
+  },
+  {
+    "input_text": "Each side has its own definition of truth. In the world of syntax, a statement is true if and only if we have a formal proof of it. This relation means that there is a proof of phi assuming all of Sigma.",
+    "input_data": {
+      "input_text": "Each side has its own definition of truth. In the world of syntax, a statement is true if and only if we have a formal proof of it. This relation means that there is a proof of phi assuming all of Sigma.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "each-side-has-its-own-definition-of-truth-in-the-4eb9fd5b.mp3",
+    "final_audio": "each-side-has-its-own-definition-of-truth-in-the-4eb9fd5b.mp3"
+  },
+  {
+    "input_text": "In the semantical side, truth is given by Tarski's definition of truth. Namely that something is true if and only if it is true in all models. We denote by this relation, that in all possible worlds where Sigma is satisfied, phi is also satisfied.",
+    "input_data": {
+      "input_text": "In the semantical side, truth is given by Tarski's definition of truth. Namely that something is true if and only if it is true in all models. We denote by this relation, that in all possible worlds where Sigma is satisfied, phi is also satisfied.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-the-semantical-side-truth-is-given-by-tarski-s-57630412.mp3",
+    "final_audio": "in-the-semantical-side-truth-is-given-by-tarski-s-57630412.mp3"
+  },
+  {
+    "input_text": "To understand the relation between these two worlds, let's first consider the simple world of classical propositional logic, also known as 0th order logic.",
+    "input_data": {
+      "input_text": "To understand the relation between these two worlds, let's first consider the simple world of classical propositional logic, also known as 0th order logic.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "to-understand-the-relation-between-these-two-04515d35.mp3",
+    "final_audio": "to-understand-the-relation-between-these-two-04515d35.mp3"
+  },
+  {
+    "input_text": "Here we have a set of propositional variables, which can either be true or false.",
+    "input_data": {
+      "input_text": "Here we have a set of propositional variables, which can either be true or false.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "here-we-have-a-set-of-propositional-variables-74d4f1c9.mp3",
+    "final_audio": "here-we-have-a-set-of-propositional-variables-74d4f1c9.mp3"
+  },
+  {
+    "input_text": "To understand the relation between these two worlds, let's first consider the simple world of classical propositional logic, also known as 0th order logic.",
+    "input_data": {
+      "input_text": "To understand the relation between these two worlds, let's first consider the simple world of classical propositional logic, also known as 0th order logic.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "to-understand-the-relation-between-these-two-04515d35.mp3",
+    "final_audio": "to-understand-the-relation-between-these-two-04515d35.mp3"
+  },
+  {
+    "input_text": "Here we have a set of propositional variables, which can either be true or false.",
+    "input_data": {
+      "input_text": "Here we have a set of propositional variables, which can either be true or false.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "here-we-have-a-set-of-propositional-variables-74d4f1c9.mp3",
+    "final_audio": "here-we-have-a-set-of-propositional-variables-74d4f1c9.mp3"
+  },
+  {
+    "input_text": "These serve as the atoms of our logic, which we can combine using the Boolean connectives of conjunction, disjunction, implication and negation to form proposition formulas.",
+    "input_data": {
+      "input_text": "These serve as the atoms of our logic, which we can combine using the Boolean connectives of conjunction, disjunction, implication and negation to form proposition formulas.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "these-serve-as-the-atoms-of-our-logic-which-we-can-dd04faf8.mp3",
+    "final_audio": "these-serve-as-the-atoms-of-our-logic-which-we-can-dd04faf8.mp3"
+  },
+  {
+    "input_text": "The connectives are governed by truth tables, where conjunction, disjunction, and negation are as we would expect.",
+    "input_data": {
+      "input_text": "The connectives are governed by truth tables, where conjunction, disjunction, and negation are as we would expect.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-connectives-are-governed-by-truth-tables-where-cb0ce2cc.mp3",
+    "final_audio": "the-connectives-are-governed-by-truth-tables-where-cb0ce2cc.mp3"
+  },
+  {
+    "input_text": "In classical logic, implication is equivalent to 'not p or q', meaning that p implies q is true either if p is false, or q is true.",
+    "input_data": {
+      "input_text": "In classical logic, implication is equivalent to 'not p or q', meaning that p implies q is true either if p is false, or q is true.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-classical-logic-implication-is-equivalent-to-04fd87b3.mp3",
+    "final_audio": "in-classical-logic-implication-is-equivalent-to-04fd87b3.mp3"
+  },
+  {
+    "input_text": "Note that there are non-classical logics which interpret these symbols differently, especially implication and negation. We will cover this in the bonus video at the end, for now we stick to classical logic.",
+    "input_data": {
+      "input_text": "Note that there are non-classical logics which interpret these symbols differently, especially implication and negation. We will cover this in the bonus video at the end, for now we stick to classical logic.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "note-that-there-are-non-classical-logics-which-1ba45516.mp3",
+    "final_audio": "note-that-there-are-non-classical-logics-which-1ba45516.mp3"
+  },
+  {
+    "input_text": "So, given an arbitrary propositional formula, like this one, we can easily evaluate it using a truth table.",
+    "input_data": {
+      "input_text": "So, given an arbitrary propositional formula, like this one, we can easily evaluate it using a truth table.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-given-an-arbitrary-propositional-formula-like-a28da36a.mp3",
+    "final_audio": "so-given-an-arbitrary-propositional-formula-like-a28da36a.mp3"
+  },
+  {
+    "input_text": "Meaning that we list every possible combination of 0 and 1 for the propositional variables involved in the formula, and then compute the output using the rules of the connectives.",
+    "input_data": {
+      "input_text": "Meaning that we list every possible combination of 0 and 1 for the propositional variables involved in the formula, and then compute the output using the rules of the connectives.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "meaning-that-we-list-every-possible-combination-of-1b638acc.mp3",
+    "final_audio": "meaning-that-we-list-every-possible-combination-of-1b638acc.mp3"
+  },
+  {
+    "input_text": "If all rows evaluate to 1, as is the case with this formula, then we say that the formula is logically valid.",
+    "input_data": {
+      "input_text": "If all rows evaluate to 1, as is the case with this formula, then we say that the formula is logically valid.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-all-rows-evaluate-to-1-as-is-the-case-with-this-9bbf185f.mp3",
+    "final_audio": "if-all-rows-evaluate-to-1-as-is-the-case-with-this-9bbf185f.mp3"
+  },
+  {
+    "input_text": "If all rows evaluate to 0, then we say that the formula is unsatisfiable.",
+    "input_data": {
+      "input_text": "If all rows evaluate to 0, then we say that the formula is unsatisfiable.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-all-rows-evaluate-to-0-then-we-say-that-the-28f47aa2.mp3",
+    "final_audio": "if-all-rows-evaluate-to-0-then-we-say-that-the-28f47aa2.mp3"
+  },
+  {
+    "input_text": "And if at least one row is true, then we say that it is satisfiable.",
+    "input_data": {
+      "input_text": "And if at least one row is true, then we say that it is satisfiable.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-if-at-least-one-row-is-true-then-we-say-that-be3f7283.mp3",
+    "final_audio": "and-if-at-least-one-row-is-true-then-we-say-that-be3f7283.mp3"
+  },
+  {
+    "input_text": "We see that each row in the truth table represents a specific interpretation of the propositional variables. So each row can be seen as a possible world or interpretation.",
+    "input_data": {
+      "input_text": "We see that each row in the truth table represents a specific interpretation of the propositional variables. So each row can be seen as a possible world or interpretation.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-see-that-each-row-in-the-truth-table-represents-2d9000fa.mp3",
+    "final_audio": "we-see-that-each-row-in-the-truth-table-represents-2d9000fa.mp3"
+  },
+  {
+    "input_text": "To understand the relation between these two worlds, let's first consider the simple world of classical propositional logic, also known as 0th order logic.",
+    "input_data": {
+      "input_text": "To understand the relation between these two worlds, let's first consider the simple world of classical propositional logic, also known as 0th order logic.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "to-understand-the-relation-between-these-two-04515d35.mp3",
+    "final_audio": "to-understand-the-relation-between-these-two-04515d35.mp3"
+  },
+  {
+    "input_text": "Here we have a set of propositional variables, which can either be true or false.",
+    "input_data": {
+      "input_text": "Here we have a set of propositional variables, which can either be true or false.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "here-we-have-a-set-of-propositional-variables-74d4f1c9.mp3",
+    "final_audio": "here-we-have-a-set-of-propositional-variables-74d4f1c9.mp3"
+  },
+  {
+    "input_text": "These serve as the atoms of our logic, which we can combine using the Boolean connectives of conjunction, disjunction, implication and negation to form proposition formulas.",
+    "input_data": {
+      "input_text": "These serve as the atoms of our logic, which we can combine using the Boolean connectives of conjunction, disjunction, implication and negation to form proposition formulas.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "these-serve-as-the-atoms-of-our-logic-which-we-can-dd04faf8.mp3",
+    "final_audio": "these-serve-as-the-atoms-of-our-logic-which-we-can-dd04faf8.mp3"
+  },
+  {
+    "input_text": "The connectives are governed by truth tables, where conjunction, disjunction, and negation are as we would expect.",
+    "input_data": {
+      "input_text": "The connectives are governed by truth tables, where conjunction, disjunction, and negation are as we would expect.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-connectives-are-governed-by-truth-tables-where-cb0ce2cc.mp3",
+    "final_audio": "the-connectives-are-governed-by-truth-tables-where-cb0ce2cc.mp3"
+  },
+  {
+    "input_text": "In classical logic, implication is equivalent to 'not p or q', meaning that p implies q is true either if p is false, or q is true.",
+    "input_data": {
+      "input_text": "In classical logic, implication is equivalent to 'not p or q', meaning that p implies q is true either if p is false, or q is true.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-classical-logic-implication-is-equivalent-to-04fd87b3.mp3",
+    "final_audio": "in-classical-logic-implication-is-equivalent-to-04fd87b3.mp3"
+  },
+  {
+    "input_text": "Note that there are non-classical logics which interpret these symbols differently, especially implication and negation. We will cover this in the bonus video at the end, for now we stick to classical logic.",
+    "input_data": {
+      "input_text": "Note that there are non-classical logics which interpret these symbols differently, especially implication and negation. We will cover this in the bonus video at the end, for now we stick to classical logic.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "note-that-there-are-non-classical-logics-which-1ba45516.mp3",
+    "final_audio": "note-that-there-are-non-classical-logics-which-1ba45516.mp3"
+  },
+  {
+    "input_text": "So, given an arbitrary propositional formula, like this one, we can easily evaluate it using a truth table.",
+    "input_data": {
+      "input_text": "So, given an arbitrary propositional formula, like this one, we can easily evaluate it using a truth table.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-given-an-arbitrary-propositional-formula-like-a28da36a.mp3",
+    "final_audio": "so-given-an-arbitrary-propositional-formula-like-a28da36a.mp3"
+  },
+  {
+    "input_text": "Meaning that we list every possible combination of 0 and 1 for the propositional variables involved, and then compute the output using the rules of the connectives.",
+    "input_data": {
+      "input_text": "Meaning that we list every possible combination of 0 and 1 for the propositional variables involved, and then compute the output using the rules of the connectives.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "meaning-that-we-list-every-possible-combination-of-2f310849.mp3",
+    "final_audio": "meaning-that-we-list-every-possible-combination-of-2f310849.mp3"
+  },
+  {
+    "input_text": "If all rows evaluate to 1, as is the case with this formula, then we say that the formula is logically valid.",
+    "input_data": {
+      "input_text": "If all rows evaluate to 1, as is the case with this formula, then we say that the formula is logically valid.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-all-rows-evaluate-to-1-as-is-the-case-with-this-9bbf185f.mp3",
+    "final_audio": "if-all-rows-evaluate-to-1-as-is-the-case-with-this-9bbf185f.mp3"
+  },
+  {
+    "input_text": "If all rows evaluate to 0, then we say that the formula is unsatisfiable.",
+    "input_data": {
+      "input_text": "If all rows evaluate to 0, then we say that the formula is unsatisfiable.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-all-rows-evaluate-to-0-then-we-say-that-the-28f47aa2.mp3",
+    "final_audio": "if-all-rows-evaluate-to-0-then-we-say-that-the-28f47aa2.mp3"
+  },
+  {
+    "input_text": "And if at least one row is true, then we say that it is satisfiable.",
+    "input_data": {
+      "input_text": "And if at least one row is true, then we say that it is satisfiable.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-if-at-least-one-row-is-true-then-we-say-that-be3f7283.mp3",
+    "final_audio": "and-if-at-least-one-row-is-true-then-we-say-that-be3f7283.mp3"
+  },
+  {
+    "input_text": "We see that each row in the truth table represents a specific interpretation of the propositional variables. So each row can be seen as a possible world or interpretation.",
+    "input_data": {
+      "input_text": "We see that each row in the truth table represents a specific interpretation of the propositional variables. So each row can be seen as a possible world or interpretation.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-see-that-each-row-in-the-truth-table-represents-2d9000fa.mp3",
+    "final_audio": "we-see-that-each-row-in-the-truth-table-represents-2d9000fa.mp3"
+  },
+  {
+    "input_text": "The syntax of classical propositional logic is given by a calculus. There are many calculi which turn out to be equivalent, but each has a set of axioms, which are just some logically valid formulas...",
+    "input_data": {
+      "input_text": "The syntax of classical propositional logic is given by a calculus. There are many calculi which turn out to be equivalent, but each has a set of axioms, which are just some logically valid formulas...",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-syntax-of-classical-propositional-logic-is-f615db14.mp3",
+    "final_audio": "the-syntax-of-classical-propositional-logic-is-f615db14.mp3"
+  },
+  {
+    "input_text": "...and rules of inference, which allow us to derive new formulas from a set of premises while preserving truth.",
+    "input_data": {
+      "input_text": "...and rules of inference, which allow us to derive new formulas from a set of premises while preserving truth.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-rules-of-inference-which-allow-us-to-derive-4f3514cd.mp3",
+    "final_audio": "and-rules-of-inference-which-allow-us-to-derive-4f3514cd.mp3"
+  },
+  {
+    "input_text": "The most concise calculus is the Hilbert style calculus, which has the following 3 axioms, and the only rule of inference is Modus Ponens, which says that if you have phi and you have phi implies psi, then you can conclude psi.",
+    "input_data": {
+      "input_text": "The most concise calculus is the Hilbert style calculus, which has the following 3 axioms, and the only rule of inference is Modus Ponens, which says that if you have phi and you have phi implies psi, then you can conclude psi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-most-concise-calculus-is-the-hilbert-style-4175a0fd.mp3",
+    "final_audio": "the-most-concise-calculus-is-the-hilbert-style-4175a0fd.mp3"
+  },
+  {
+    "input_text": "These axioms seem random at first, and you may notice that conjunction and disjunction do not appear, but one can prove that they are both necessary and sufficient for propositional logic.",
+    "input_data": {
+      "input_text": "These axioms seem random at first, and you may notice that conjunction and disjunction do not appear, but one can prove that they are both necessary and sufficient for propositional logic.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "these-axioms-seem-random-at-first-and-you-may-c5bc798f.mp3",
+    "final_audio": "these-axioms-seem-random-at-first-and-you-may-c5bc798f.mp3"
+  },
+  {
+    "input_text": "Once we have our calculus, we can start to construct proofs. We can visualize proofs as trees, where the leaves are axioms, and we combine nodes using our rule of inference.",
+    "input_data": {
+      "input_text": "Once we have our calculus, we can start to construct proofs. We can visualize proofs as trees, where the leaves are axioms, and we combine nodes using our rule of inference.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "once-we-have-our-calculus-we-can-start-to-f400f26b.mp3",
+    "final_audio": "once-we-have-our-calculus-we-can-start-to-f400f26b.mp3"
+  },
+  {
+    "input_text": "Proofs can also be seen as computer programs. Where the axioms can be used as inputs, and modus ponens is seen as running a given program.",
+    "input_data": {
+      "input_text": "Proofs can also be seen as computer programs. Where the axioms can be used as inputs, and modus ponens is seen as running a given program.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "proofs-can-also-be-seen-as-computer-programs-where-c5b6d2a2.mp3",
+    "final_audio": "proofs-can-also-be-seen-as-computer-programs-where-c5b6d2a2.mp3"
+  },
+  {
+    "input_text": "Since phi implies psi can be interpreted as a computer program which if given phi as input, can output psi.",
+    "input_data": {
+      "input_text": "Since phi implies psi can be interpreted as a computer program which if given phi as input, can output psi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "since-phi-implies-psi-can-be-interpreted-as-a-49951ef0.mp3",
+    "final_audio": "since-phi-implies-psi-can-be-interpreted-as-a-49951ef0.mp3"
+  },
+  {
+    "input_text": "So, an application of Modus Ponens is akin to running a computer program. The complexity, and therefore power, comes from the fact that the input formula phi, can be seen as a program itself.",
+    "input_data": {
+      "input_text": "So, an application of Modus Ponens is akin to running a computer program. The complexity, and therefore power, comes from the fact that the input formula phi, can be seen as a program itself.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-an-application-of-modus-ponens-is-akin-to-37cfcf79.mp3",
+    "final_audio": "so-an-application-of-modus-ponens-is-akin-to-37cfcf79.mp3"
+  },
+  {
+    "input_text": "So we can pass programs as input to other programs. I will cover this in more detail in a later video, but for now just know that the world of syntax deals with formal proofs, and proofs can be carried out by computers.",
+    "input_data": {
+      "input_text": "So we can pass programs as input to other programs. I will cover this in more detail in a later video, but for now just know that the world of syntax deals with formal proofs, and proofs can be carried out by computers.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-we-can-pass-programs-as-input-to-other-programs-489d50bb.mp3",
+    "final_audio": "so-we-can-pass-programs-as-input-to-other-programs-489d50bb.mp3"
+  },
+  {
+    "input_text": "The syntax of classical propositional logic is given by a calculus. There are many calculi which turn out to be equivalent, but each has a set of axioms, which are just some logically valid formulas...",
+    "input_data": {
+      "input_text": "The syntax of classical propositional logic is given by a calculus. There are many calculi which turn out to be equivalent, but each has a set of axioms, which are just some logically valid formulas...",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-syntax-of-classical-propositional-logic-is-f615db14.mp3",
+    "final_audio": "the-syntax-of-classical-propositional-logic-is-f615db14.mp3"
+  },
+  {
+    "input_text": "...and rules of inference, which allow us to derive new formulas from a set of premises while preserving truth.",
+    "input_data": {
+      "input_text": "...and rules of inference, which allow us to derive new formulas from a set of premises while preserving truth.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-rules-of-inference-which-allow-us-to-derive-4f3514cd.mp3",
+    "final_audio": "and-rules-of-inference-which-allow-us-to-derive-4f3514cd.mp3"
+  },
+  {
+    "input_text": "The most concise calculus is the Hilbert style calculus, which has the following 3 axioms, and the only rule of inference is Modus Ponens, which says that if you have phi and you have phi implies psi, then you can conclude psi.",
+    "input_data": {
+      "input_text": "The most concise calculus is the Hilbert style calculus, which has the following 3 axioms, and the only rule of inference is Modus Ponens, which says that if you have phi and you have phi implies psi, then you can conclude psi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-most-concise-calculus-is-the-hilbert-style-4175a0fd.mp3",
+    "final_audio": "the-most-concise-calculus-is-the-hilbert-style-4175a0fd.mp3"
+  },
+  {
+    "input_text": "These axioms seem random at first, and you may notice that conjunction and disjunction do not appear, but one can prove that they are both necessary and sufficient for propositional logic.",
+    "input_data": {
+      "input_text": "These axioms seem random at first, and you may notice that conjunction and disjunction do not appear, but one can prove that they are both necessary and sufficient for propositional logic.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "these-axioms-seem-random-at-first-and-you-may-c5bc798f.mp3",
+    "final_audio": "these-axioms-seem-random-at-first-and-you-may-c5bc798f.mp3"
+  },
+  {
+    "input_text": "Once we have our calculus, we can start to construct proofs. We can visualize proofs as trees, where the leaves are axioms, and we combine nodes using our rule of inference.",
+    "input_data": {
+      "input_text": "Once we have our calculus, we can start to construct proofs. We can visualize proofs as trees, where the leaves are axioms, and we combine nodes using our rule of inference.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "once-we-have-our-calculus-we-can-start-to-f400f26b.mp3",
+    "final_audio": "once-we-have-our-calculus-we-can-start-to-f400f26b.mp3"
+  },
+  {
+    "input_text": "Proofs can also be seen as computer programs. Where the axioms can be used as inputs, and modus ponens is seen as running a given program.",
+    "input_data": {
+      "input_text": "Proofs can also be seen as computer programs. Where the axioms can be used as inputs, and modus ponens is seen as running a given program.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "proofs-can-also-be-seen-as-computer-programs-where-c5b6d2a2.mp3",
+    "final_audio": "proofs-can-also-be-seen-as-computer-programs-where-c5b6d2a2.mp3"
+  },
+  {
+    "input_text": "Since phi implies psi can be interpreted as a computer program which if given phi as input, can output psi.",
+    "input_data": {
+      "input_text": "Since phi implies psi can be interpreted as a computer program which if given phi as input, can output psi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "since-phi-implies-psi-can-be-interpreted-as-a-49951ef0.mp3",
+    "final_audio": "since-phi-implies-psi-can-be-interpreted-as-a-49951ef0.mp3"
+  },
+  {
+    "input_text": "So, an application of Modus Ponens is akin to running a computer program. The complexity, and therefore power, comes from the fact that the input formula phi, can be seen as a program itself.",
+    "input_data": {
+      "input_text": "So, an application of Modus Ponens is akin to running a computer program. The complexity, and therefore power, comes from the fact that the input formula phi, can be seen as a program itself.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-an-application-of-modus-ponens-is-akin-to-37cfcf79.mp3",
+    "final_audio": "so-an-application-of-modus-ponens-is-akin-to-37cfcf79.mp3"
+  },
+  {
+    "input_text": "So we can pass programs as input to other programs. I will cover this in more detail in a later video, but for now just know that the world of syntax deals with formal proofs, and proofs can be carried out by computers.",
+    "input_data": {
+      "input_text": "So we can pass programs as input to other programs. I will cover this in more detail in a later video, but for now just know that the world of syntax deals with formal proofs, and proofs can be carried out by computers.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-we-can-pass-programs-as-input-to-other-programs-489d50bb.mp3",
+    "final_audio": "so-we-can-pass-programs-as-input-to-other-programs-489d50bb.mp3"
+  },
+  {
+    "input_text": "There are two main questions we can ask about our calculus.",
+    "input_data": {
+      "input_text": "There are two main questions we can ask about our calculus.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "there-are-two-main-questions-we-can-ask-about-our-b8b48b54.mp3",
+    "final_audio": "there-are-two-main-questions-we-can-ask-about-our-b8b48b54.mp3"
+  },
+  {
+    "input_text": "The first is whether we can trust it. Meaning if we prove something in our calculus, how do we know that it is really true?",
+    "input_data": {
+      "input_text": "The first is whether we can trust it. Meaning if we prove something in our calculus, how do we know that it is really true?",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-first-is-whether-we-can-trust-it-meaning-if-we-731f9096.mp3",
+    "final_audio": "the-first-is-whether-we-can-trust-it-meaning-if-we-731f9096.mp3"
+  },
+  {
+    "input_text": "In propositional logic this is easy to check, since each of the axioms is logically valid...",
+    "input_data": {
+      "input_text": "In propositional logic this is easy to check, since each of the axioms is logically valid...",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-propositional-logic-this-is-easy-to-check-since-90e46fbc.mp3",
+    "final_audio": "in-propositional-logic-this-is-easy-to-check-since-90e46fbc.mp3"
+  },
+  {
+    "input_text": "...again this means that each row in their truth table evaluates to 1.",
+    "input_data": {
+      "input_text": "...again this means that each row in their truth table evaluates to 1.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "again-this-means-that-each-row-in-their-truth-9a71cab1.mp3",
+    "final_audio": "again-this-means-that-each-row-in-their-truth-9a71cab1.mp3"
+  },
+  {
+    "input_text": "And clearly Modus Ponens preserves truth. So whatever we prove will be logically valid. This means that our calculus is sound.",
+    "input_data": {
+      "input_text": "And clearly Modus Ponens preserves truth. So whatever we prove will be logically valid. This means that our calculus is sound.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-clearly-modus-ponens-preserves-truth-so-d2f3d067.mp3",
+    "final_audio": "and-clearly-modus-ponens-preserves-truth-so-d2f3d067.mp3"
+  },
+  {
+    "input_text": "The second question is whether this list is sufficient to prove all valid statements?",
+    "input_data": {
+      "input_text": "The second question is whether this list is sufficient to prove all valid statements?",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-second-question-is-whether-this-list-is-274c20ff.mp3",
+    "final_audio": "the-second-question-is-whether-this-list-is-274c20ff.mp3"
+  },
+  {
+    "input_text": "So, if we come across some arbitrary formula phi, and we check the truth table, and see that all rows evaluate to 1, can we guarantee that there is a proof of phi?",
+    "input_data": {
+      "input_text": "So, if we come across some arbitrary formula phi, and we check the truth table, and see that all rows evaluate to 1, can we guarantee that there is a proof of phi?",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-if-we-come-across-some-arbitrary-formula-phi-3c2fef16.mp3",
+    "final_audio": "so-if-we-come-across-some-arbitrary-formula-phi-3c2fef16.mp3"
+  },
+  {
+    "input_text": "Perhaps there is some valid statement out there which no matter how hard we try, we cannot prove. Perhaps we need to add more axioms? This is the question of completeness.",
+    "input_data": {
+      "input_text": "Perhaps there is some valid statement out there which no matter how hard we try, we cannot prove. Perhaps we need to add more axioms? This is the question of completeness.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "perhaps-there-is-some-valid-statement-out-there-c2a8c621.mp3",
+    "final_audio": "perhaps-there-is-some-valid-statement-out-there-c2a8c621.mp3"
+  },
+  {
+    "input_text": "It turns out that this set of axioms is complete and we will see a stronger version of this in the fourth video.",
+    "input_data": {
+      "input_text": "It turns out that this set of axioms is complete and we will see a stronger version of this in the fourth video.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "it-turns-out-that-this-set-of-axioms-is-complete-61c676a1.mp3",
+    "final_audio": "it-turns-out-that-this-set-of-axioms-is-complete-61c676a1.mp3"
+  },
+  {
+    "input_text": "So, this simple calculus can only prove logically valid statements, and it can prove all logically valid statements.",
+    "input_data": {
+      "input_text": "So, this simple calculus can only prove logically valid statements, and it can prove all logically valid statements.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-this-simple-calculus-can-only-prove-logically-5b8671a7.mp3",
+    "final_audio": "so-this-simple-calculus-can-only-prove-logically-5b8671a7.mp3"
+  },
+  {
+    "input_text": "So, we have seen that the syntax of propositional logic is given by a formal calculus, and that the semantics is extremely simple.",
+    "input_data": {
+      "input_text": "So, we have seen that the syntax of propositional logic is given by a formal calculus, and that the semantics is extremely simple.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-we-have-seen-that-the-syntax-of-propositional-a0a33f31.mp3",
+    "final_audio": "so-we-have-seen-that-the-syntax-of-propositional-a0a33f31.mp3"
+  },
+  {
+    "input_text": "Models are just given by truth tables.",
+    "input_data": {
+      "input_text": "Models are just given by truth tables.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "models-are-just-given-by-truth-tables-b7841302.mp3",
+    "final_audio": "models-are-just-given-by-truth-tables-b7841302.mp3"
+  },
+  {
+    "input_text": "Things get much more interesting when we move to first order logic, since first order logic is strong enough to define mathematical theories and their corresponding structures.",
+    "input_data": {
+      "input_text": "Things get much more interesting when we move to first order logic, since first order logic is strong enough to define mathematical theories and their corresponding structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "things-get-much-more-interesting-when-we-move-to-05ce62a6.mp3",
+    "final_audio": "things-get-much-more-interesting-when-we-move-to-05ce62a6.mp3"
+  },
+  {
+    "input_text": "So, we have seen that the syntax of propositional logic is given by a formal calculus, and that the semantics is extremely simple.",
+    "input_data": {
+      "input_text": "So, we have seen that the syntax of propositional logic is given by a formal calculus, and that the semantics is extremely simple.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-we-have-seen-that-the-syntax-of-propositional-a0a33f31.mp3",
+    "final_audio": "so-we-have-seen-that-the-syntax-of-propositional-a0a33f31.mp3"
+  },
+  {
+    "input_text": "Models are just given by truth tables.",
+    "input_data": {
+      "input_text": "Models are just given by truth tables.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "models-are-just-given-by-truth-tables-b7841302.mp3",
+    "final_audio": "models-are-just-given-by-truth-tables-b7841302.mp3"
+  },
+  {
+    "input_text": "Things get much more interesting when we move to first order logic, since first order logic is strong enough to define mathematical theories and their corresponding structures.",
+    "input_data": {
+      "input_text": "Things get much more interesting when we move to first order logic, since first order logic is strong enough to define mathematical theories and their corresponding structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "things-get-much-more-interesting-when-we-move-to-05ce62a6.mp3",
+    "final_audio": "things-get-much-more-interesting-when-we-move-to-05ce62a6.mp3"
+  },
+  {
+    "input_text": "First order logic is an expansion of propositional logic, where we add in symbols for variables, and quantifiers.",
+    "input_data": {
+      "input_text": "First order logic is an expansion of propositional logic, where we add in symbols for variables, and quantifiers.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "first-order-logic-is-an-expansion-of-propositional-df563a6e.mp3",
+    "final_audio": "first-order-logic-is-an-expansion-of-propositional-df563a6e.mp3"
+  },
+  {
+    "input_text": "The syntactical changes are quite minor, we just need to add three more axioms to our calculus and we can show that we once again obtain a sound and complete calculus, but this time for first order logic.",
+    "input_data": {
+      "input_text": "The syntactical changes are quite minor, we just need to add three more axioms to our calculus and we can show that we once again obtain a sound and complete calculus, but this time for first order logic.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-syntactical-changes-are-quite-minor-we-just-34e12557.mp3",
+    "final_audio": "the-syntactical-changes-are-quite-minor-we-just-34e12557.mp3"
+  },
+  {
+    "input_text": "This may not seem like a big change, but the ability to quantify over variables turns out to be key for formalizing math.",
+    "input_data": {
+      "input_text": "This may not seem like a big change, but the ability to quantify over variables turns out to be key for formalizing math.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-may-not-seem-like-a-big-change-but-the-a5cb914e.mp3",
+    "final_audio": "this-may-not-seem-like-a-big-change-but-the-a5cb914e.mp3"
+  },
+  {
+    "input_text": "It was Frege in the 1800's who realized that the act of doing mathematics simply involves the manipulations of the following sets of symbols: Constant symbols, which represent special elements of a given structure like 0, 1, e, pi, or the root of some tree. Function symbols, such as successor, addition, multiplication. Relation symbols, such as less than, or in. Variables, quantifiers, brackets and the Boolean connectives.",
+    "input_data": {
+      "input_text": "It was Frege in the 1800's who realized that the act of doing mathematics simply involves the manipulations of the following sets of symbols: Constant symbols, which represent special elements of a given structure like 0, 1, e, pi, or the root of some tree. Function symbols, such as successor, addition, multiplication. Relation symbols, such as less than, or in. Variables, quantifiers, brackets and the Boolean connectives.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "it-was-frege-in-the-1800-s-who-realized-that-the-36c2e834.mp3",
+    "final_audio": "it-was-frege-in-the-1800-s-who-realized-that-the-36c2e834.mp3"
+  },
+  {
+    "input_text": "We can divide these symbols into two groups, the logical and non-logical symbols. The logical symbols are common to all first order theories, and so proofs only involving the logical symbols apply to all possible first-order structures, and are in the domain of pure logic.",
+    "input_data": {
+      "input_text": "We can divide these symbols into two groups, the logical and non-logical symbols. The logical symbols are common to all first order theories, and so proofs only involving the logical symbols apply to all possible first-order structures, and are in the domain of pure logic.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-divide-these-symbols-into-two-groups-the-56efdd77.mp3",
+    "final_audio": "we-can-divide-these-symbols-into-two-groups-the-56efdd77.mp3"
+  },
+  {
+    "input_text": "The non-logical symbols are specific to a given theory. For example if we are working with the theory of arithmetic, we need the constant 0, the less than relation and the successor, addition and multiplication functions.",
+    "input_data": {
+      "input_text": "The non-logical symbols are specific to a given theory. For example if we are working with the theory of arithmetic, we need the constant 0, the less than relation and the successor, addition and multiplication functions.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-non-logical-symbols-are-specific-to-a-given-d3d82f12.mp3",
+    "final_audio": "the-non-logical-symbols-are-specific-to-a-given-d3d82f12.mp3"
+  },
+  {
+    "input_text": "Whereas, if we work with the theory of graphs, we only need a single binary relation E, where a E b means that there is an edge between a and b.",
+    "input_data": {
+      "input_text": "Whereas, if we work with the theory of graphs, we only need a single binary relation E, where a E b means that there is an edge between a and b.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "whereas-if-we-work-with-the-theory-of-graphs-we-5d8593d2.mp3",
+    "final_audio": "whereas-if-we-work-with-the-theory-of-graphs-we-5d8593d2.mp3"
+  },
+  {
+    "input_text": "The language of a given theory is simply the set of constants, functions and relations it uses, and all of the logical symbols and logical axioms are taken as granted by a mathematician.",
+    "input_data": {
+      "input_text": "The language of a given theory is simply the set of constants, functions and relations it uses, and all of the logical symbols and logical axioms are taken as granted by a mathematician.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-language-of-a-given-theory-is-simply-the-set-55a614d9.mp3",
+    "final_audio": "the-language-of-a-given-theory-is-simply-the-set-55a614d9.mp3"
+  },
+  {
+    "input_text": "So, once we have fixed a language L, where these represent arbitrary constants, functions and relations...",
+    "input_data": {
+      "input_text": "So, once we have fixed a language L, where these represent arbitrary constants, functions and relations...",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-once-we-have-fixed-a-language-l-where-these-d3316e8f.mp3",
+    "final_audio": "so-once-we-have-fixed-a-language-l-where-these-d3316e8f.mp3"
+  },
+  {
+    "input_text": "...we can define a mathematical structure M as this tuple.",
+    "input_data": {
+      "input_text": "...we can define a mathematical structure M as this tuple.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-define-a-mathematical-structure-m-as-this-93e7dbc3.mp3",
+    "final_audio": "we-can-define-a-mathematical-structure-m-as-this-93e7dbc3.mp3"
+  },
+  {
+    "input_text": "This is the domain or universe of the structure...",
+    "input_data": {
+      "input_text": "This is the domain or universe of the structure...",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-the-domain-or-universe-of-the-structure-55b3a5cb.mp3",
+    "final_audio": "this-is-the-domain-or-universe-of-the-structure-55b3a5cb.mp3"
+  },
+  {
+    "input_text": "...and these are the 'interpretations' of the symbols in the language.",
+    "input_data": {
+      "input_text": "...and these are the 'interpretations' of the symbols in the language.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-these-are-the-interpretations-of-the-symbols-c26fb156.mp3",
+    "final_audio": "and-these-are-the-interpretations-of-the-symbols-c26fb156.mp3"
+  },
+  {
+    "input_text": "Constants are interpreted as specific elements in the structure...",
+    "input_data": {
+      "input_text": "Constants are interpreted as specific elements in the structure...",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "constants-are-interpreted-as-specific-elements-in-e5375816.mp3",
+    "final_audio": "constants-are-interpreted-as-specific-elements-in-e5375816.mp3"
+  },
+  {
+    "input_text": "...and functions and relations are interpreted as subsets of tuples of elements of the structures.",
+    "input_data": {
+      "input_text": "...and functions and relations are interpreted as subsets of tuples of elements of the structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-functions-and-relations-are-interpreted-as-f7a2fbca.mp3",
+    "final_audio": "and-functions-and-relations-are-interpreted-as-f7a2fbca.mp3"
+  },
+  {
+    "input_text": "This is a bit abstract, so lets consider the example of the standard structure of arithmetic, which is essentially just a number line.",
+    "input_data": {
+      "input_text": "This is a bit abstract, so lets consider the example of the standard structure of arithmetic, which is essentially just a number line.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-a-bit-abstract-so-lets-consider-the-3ac2693c.mp3",
+    "final_audio": "this-is-a-bit-abstract-so-lets-consider-the-3ac2693c.mp3"
+  },
+  {
+    "input_text": "The language has the constant 0, it has the successor function, which as the name suggests just maps an element to its successor, addition, multiplication, and it has the less than relation.",
+    "input_data": {
+      "input_text": "The language has the constant 0, it has the successor function, which as the name suggests just maps an element to its successor, addition, multiplication, and it has the less than relation.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-language-has-the-constant-0-it-has-the-1eabef94.mp3",
+    "final_audio": "the-language-has-the-constant-0-it-has-the-1eabef94.mp3"
+  },
+  {
+    "input_text": "So, the universe is the set of natural numbers.",
+    "input_data": {
+      "input_text": "So, the universe is the set of natural numbers.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-the-universe-is-the-set-of-natural-numbers-e98cc7a8.mp3",
+    "final_audio": "so-the-universe-is-the-set-of-natural-numbers-e98cc7a8.mp3"
+  },
+  {
+    "input_text": "We can visualize this structure as a number line, and as we would expect, the interpretation of 0 is just the first element in the number line.",
+    "input_data": {
+      "input_text": "We can visualize this structure as a number line, and as we would expect, the interpretation of 0 is just the first element in the number line.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-visualize-this-structure-as-a-number-line-7562960c.mp3",
+    "final_audio": "we-can-visualize-this-structure-as-a-number-line-7562960c.mp3"
+  },
+  {
+    "input_text": "The interpretations of the relations and functions are harder to visualize. But formally we interpret the less than symbol as the set of all pairs of natural numbers (x,y) such that x is less than y.",
+    "input_data": {
+      "input_text": "The interpretations of the relations and functions are harder to visualize. But formally we interpret the less than symbol as the set of all pairs of natural numbers (x,y) such that x is less than y.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-interpretations-of-the-relations-and-functions-9b645271.mp3",
+    "final_audio": "the-interpretations-of-the-relations-and-functions-9b645271.mp3"
+  },
+  {
+    "input_text": "Similarly, the addition symbol for example would be interpreted as the set of all triples (x,y,z) such that x plus y equals z.",
+    "input_data": {
+      "input_text": "Similarly, the addition symbol for example would be interpreted as the set of all triples (x,y,z) such that x plus y equals z.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "similarly-the-addition-symbol-for-example-would-be-7154265d.mp3",
+    "final_audio": "similarly-the-addition-symbol-for-example-would-be-7154265d.mp3"
+  },
+  {
+    "input_text": "So in general the interpretation function s is the bridge between syntax and semantics, where s is a function which maps symbols in a formal language, either to elements, or subsets of tuples of elements of the domain of the structure.",
+    "input_data": {
+      "input_text": "So in general the interpretation function s is the bridge between syntax and semantics, where s is a function which maps symbols in a formal language, either to elements, or subsets of tuples of elements of the domain of the structure.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-in-general-the-interpretation-function-s-is-the-9ef91586.mp3",
+    "final_audio": "so-in-general-the-interpretation-function-s-is-the-9ef91586.mp3"
+  },
+  {
+    "input_text": "This is a strange and abstract idea, to get a better understanding, let us move to perhaps the simplest theory, the theory of graphs.",
+    "input_data": {
+      "input_text": "This is a strange and abstract idea, to get a better understanding, let us move to perhaps the simplest theory, the theory of graphs.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-a-strange-and-abstract-idea-to-get-a-7bcc64df.mp3",
+    "final_audio": "this-is-a-strange-and-abstract-idea-to-get-a-7bcc64df.mp3"
+  },
+  {
+    "input_text": "The language has a single binary relation E, and models are arbitrary sets of points, which may or may not be connected by an arrow.",
+    "input_data": {
+      "input_text": "The language has a single binary relation E, and models are arbitrary sets of points, which may or may not be connected by an arrow.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-language-has-a-single-binary-relation-e-and-c4e9f818.mp3",
+    "final_audio": "the-language-has-a-single-binary-relation-e-and-c4e9f818.mp3"
+  },
+  {
+    "input_text": "Where given nodes a and b, a E b if and only if there is an arrow from a to b.",
+    "input_data": {
+      "input_text": "Where given nodes a and b, a E b if and only if there is an arrow from a to b.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "where-given-nodes-a-and-b-a-e-b-if-and-only-if-b77f7c9b.mp3",
+    "final_audio": "where-given-nodes-a-and-b-a-e-b-if-and-only-if-b77f7c9b.mp3"
+  },
+  {
+    "input_text": "First order logic is an expansion of propositional logic, where we add variables and quantifiers to our set of logical symbols.",
+    "input_data": {
+      "input_text": "First order logic is an expansion of propositional logic, where we add variables and quantifiers to our set of logical symbols.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "first-order-logic-is-an-expansion-of-propositional-ee4b157b.mp3",
+    "final_audio": "first-order-logic-is-an-expansion-of-propositional-ee4b157b.mp3"
+  },
+  {
+    "input_text": "We also add certain constant, function and relation symbols, which are specific to a given theory.",
+    "input_data": {
+      "input_text": "We also add certain constant, function and relation symbols, which are specific to a given theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-also-add-certain-constant-function-and-relation-9aa1d65e.mp3",
+    "final_audio": "we-also-add-certain-constant-function-and-relation-9aa1d65e.mp3"
+  },
+  {
+    "input_text": "For example, if we want to study the natural numbers, we add the constant 0, the successor function S, which just maps n to n plus 1, the addition and multiplication function, and the less than relation.",
+    "input_data": {
+      "input_text": "For example, if we want to study the natural numbers, we add the constant 0, the successor function S, which just maps n to n plus 1, the addition and multiplication function, and the less than relation.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-if-we-want-to-study-the-natural-ea2fd571.mp3",
+    "final_audio": "for-example-if-we-want-to-study-the-natural-ea2fd571.mp3"
+  },
+  {
+    "input_text": "But if we want to study graphs, all we would need is a single binary relation E expressing an edge between nodes.",
+    "input_data": {
+      "input_text": "But if we want to study graphs, all we would need is a single binary relation E expressing an edge between nodes.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-if-we-want-to-study-graphs-all-we-would-need-a07bd094.mp3",
+    "final_audio": "but-if-we-want-to-study-graphs-all-we-would-need-a07bd094.mp3"
+  },
+  {
+    "input_text": "These symbols which are specific to a given theory are called the non-logical symbols, and these are the logical symbols.",
+    "input_data": {
+      "input_text": "These symbols which are specific to a given theory are called the non-logical symbols, and these are the logical symbols.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "these-symbols-which-are-specific-to-a-given-theory-accb06dd.mp3",
+    "final_audio": "these-symbols-which-are-specific-to-a-given-theory-accb06dd.mp3"
+  },
+  {
+    "input_text": "If we restrict ourselves to the logical symbols, then we are in the domain of pure logic, and whatever we prove applies to all first order structures.",
+    "input_data": {
+      "input_text": "If we restrict ourselves to the logical symbols, then we are in the domain of pure logic, and whatever we prove applies to all first order structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-we-restrict-ourselves-to-the-logical-symbols-92dd969b.mp3",
+    "final_audio": "if-we-restrict-ourselves-to-the-logical-symbols-92dd969b.mp3"
+  },
+  {
+    "input_text": "The syntax of first order logic is given by the so-called logical axioms.",
+    "input_data": {
+      "input_text": "The syntax of first order logic is given by the so-called logical axioms.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-syntax-of-first-order-logic-is-given-by-the-so-02e53d0c.mp3",
+    "final_audio": "the-syntax-of-first-order-logic-is-given-by-the-so-02e53d0c.mp3"
+  },
+  {
+    "input_text": "We note that we have just added three axioms to the axioms of propositional logic...",
+    "input_data": {
+      "input_text": "We note that we have just added three axioms to the axioms of propositional logic...",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-note-that-we-have-just-added-three-axioms-to-1e7b20b3.mp3",
+    "final_audio": "we-note-that-we-have-just-added-three-axioms-to-1e7b20b3.mp3"
+  },
+  {
+    "input_text": "...which determine how the forall quantifiers work. Note that since exists x P x, where P is some arbitrary property like being even, is equivalent to not forall x not P x. If there is an even number, then we know that not all numbers are odd, so this is why we technically only need to add the forall quantifier to the language.",
+    "input_data": {
+      "input_text": "...which determine how the forall quantifiers work. Note that since exists x P x, where P is some arbitrary property like being even, is equivalent to not forall x not P x. If there is an even number, then we know that not all numbers are odd, so this is why we technically only need to add the forall quantifier to the language.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "which-determine-how-the-forall-quantifiers-work-d7a8ee00.mp3",
+    "final_audio": "which-determine-how-the-forall-quantifiers-work-d7a8ee00.mp3"
+  },
+  {
+    "input_text": "One can show that this set of axioms is once again sound and complete, but this time for first order logic, and we will see this proof in the fourth video.",
+    "input_data": {
+      "input_text": "One can show that this set of axioms is once again sound and complete, but this time for first order logic, and we will see this proof in the fourth video.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "one-can-show-that-this-set-of-axioms-is-once-again-a962bb5e.mp3",
+    "final_audio": "one-can-show-that-this-set-of-axioms-is-once-again-a962bb5e.mp3"
+  },
+  {
+    "input_text": "Often the equality relation is taken to be a logical symbol. In this case, we need to add the following five axioms to our list of logical axioms which define the behaviour of the equality symbol.",
+    "input_data": {
+      "input_text": "Often the equality relation is taken to be a logical symbol. In this case, we need to add the following five axioms to our list of logical axioms which define the behaviour of the equality symbol.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "often-the-equality-relation-is-taken-to-be-a-41a85bb7.mp3",
+    "final_audio": "often-the-equality-relation-is-taken-to-be-a-41a85bb7.mp3"
+  },
+  {
+    "input_text": "These axioms are hard to argue against, everything is equal to itself, if a is equal to b then b is also equal to a, and so on.",
+    "input_data": {
+      "input_text": "These axioms are hard to argue against, everything is equal to itself, if a is equal to b then b is also equal to a, and so on.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "these-axioms-are-hard-to-argue-against-everything-a4c09b26.mp3",
+    "final_audio": "these-axioms-are-hard-to-argue-against-everything-a4c09b26.mp3"
+  },
+  {
+    "input_text": "Now we are ready to move to the semantics of FOL. Again we fix our language, which again means we pick a set of constant, function and relations symbols...",
+    "input_data": {
+      "input_text": "Now we are ready to move to the semantics of FOL. Again we fix our language, which again means we pick a set of constant, function and relations symbols...",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-we-are-ready-to-move-to-the-semantics-of-fol-15e04892.mp3",
+    "final_audio": "now-we-are-ready-to-move-to-the-semantics-of-fol-15e04892.mp3"
+  },
+  {
+    "input_text": "...and we can define a structure, which is represented by this fancy M, and is equal to this tuple of elements.",
+    "input_data": {
+      "input_text": "...and we can define a structure, which is represented by this fancy M, and is equal to this tuple of elements.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-we-can-define-a-structure-which-is-represented-e69cd6fb.mp3",
+    "final_audio": "and-we-can-define-a-structure-which-is-represented-e69cd6fb.mp3"
+  },
+  {
+    "input_text": "This is the domain or universe of the structure...",
+    "input_data": {
+      "input_text": "This is the domain or universe of the structure...",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-the-domain-or-universe-of-the-structure-55b3a5cb.mp3",
+    "final_audio": "this-is-the-domain-or-universe-of-the-structure-55b3a5cb.mp3"
+  },
+  {
+    "input_text": "...and these are the 'interpretations' of the symbols in the language.",
+    "input_data": {
+      "input_text": "...and these are the 'interpretations' of the symbols in the language.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-these-are-the-interpretations-of-the-symbols-c26fb156.mp3",
+    "final_audio": "and-these-are-the-interpretations-of-the-symbols-c26fb156.mp3"
+  },
+  {
+    "input_text": "Constants are interpreted as specific elements in the structure...",
+    "input_data": {
+      "input_text": "Constants are interpreted as specific elements in the structure...",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "constants-are-interpreted-as-specific-elements-in-e5375816.mp3",
+    "final_audio": "constants-are-interpreted-as-specific-elements-in-e5375816.mp3"
+  },
+  {
+    "input_text": "...and functions and relations are interpreted as subsets of tuples of elements of the structures.",
+    "input_data": {
+      "input_text": "...and functions and relations are interpreted as subsets of tuples of elements of the structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-functions-and-relations-are-interpreted-as-f7a2fbca.mp3",
+    "final_audio": "and-functions-and-relations-are-interpreted-as-f7a2fbca.mp3"
+  },
+  {
+    "input_text": "This is a bit abstract, so lets consider the example of the standard structure of arithmetic, which is essentially just a number line.",
+    "input_data": {
+      "input_text": "This is a bit abstract, so lets consider the example of the standard structure of arithmetic, which is essentially just a number line.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-a-bit-abstract-so-lets-consider-the-3ac2693c.mp3",
+    "final_audio": "this-is-a-bit-abstract-so-lets-consider-the-3ac2693c.mp3"
+  },
+  {
+    "input_text": "The language has the constant 0, it has the successor function, which as the name suggests just maps an element to its successor, addition, multiplication, and it has the less than relation.",
+    "input_data": {
+      "input_text": "The language has the constant 0, it has the successor function, which as the name suggests just maps an element to its successor, addition, multiplication, and it has the less than relation.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-language-has-the-constant-0-it-has-the-1eabef94.mp3",
+    "final_audio": "the-language-has-the-constant-0-it-has-the-1eabef94.mp3"
+  },
+  {
+    "input_text": "So, the universe is the set of natural numbers.",
+    "input_data": {
+      "input_text": "So, the universe is the set of natural numbers.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-the-universe-is-the-set-of-natural-numbers-e98cc7a8.mp3",
+    "final_audio": "so-the-universe-is-the-set-of-natural-numbers-e98cc7a8.mp3"
+  },
+  {
+    "input_text": "We can visualize this structure as a the number line, and as we would expect, the interpretation of 0 is just the first element in the number line.",
+    "input_data": {
+      "input_text": "We can visualize this structure as a the number line, and as we would expect, the interpretation of 0 is just the first element in the number line.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-visualize-this-structure-as-a-the-number-fe1e891d.mp3",
+    "final_audio": "we-can-visualize-this-structure-as-a-the-number-fe1e891d.mp3"
+  },
+  {
+    "input_text": "The interpretations of the relations and functions are harder to visualize. But formally we interpret the less than symbol as the set of all pairs of natural numbers (x,y) such that x is less than y.",
+    "input_data": {
+      "input_text": "The interpretations of the relations and functions are harder to visualize. But formally we interpret the less than symbol as the set of all pairs of natural numbers (x,y) such that x is less than y.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-interpretations-of-the-relations-and-functions-9b645271.mp3",
+    "final_audio": "the-interpretations-of-the-relations-and-functions-9b645271.mp3"
+  },
+  {
+    "input_text": "Similarly, the addition symbol for example would be interpreted as the set of all triples (x,y,z) such that x plus y equals z.",
+    "input_data": {
+      "input_text": "Similarly, the addition symbol for example would be interpreted as the set of all triples (x,y,z) such that x plus y equals z.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "similarly-the-addition-symbol-for-example-would-be-7154265d.mp3",
+    "final_audio": "similarly-the-addition-symbol-for-example-would-be-7154265d.mp3"
+  },
+  {
+    "input_text": "So in general the interpretation function s is the bridge between syntax and semantics, where s is a function which maps symbols in a formal language, either to elements, or subsets of tuples of elements of the domain of the structure.",
+    "input_data": {
+      "input_text": "So in general the interpretation function s is the bridge between syntax and semantics, where s is a function which maps symbols in a formal language, either to elements, or subsets of tuples of elements of the domain of the structure.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-in-general-the-interpretation-function-s-is-the-9ef91586.mp3",
+    "final_audio": "so-in-general-the-interpretation-function-s-is-the-9ef91586.mp3"
+  },
+  {
+    "input_text": "This is a strange and abstract idea, to get a better understanding, let us move to perhaps the simplest theory, the theory of graphs.",
+    "input_data": {
+      "input_text": "This is a strange and abstract idea, to get a better understanding, let us move to perhaps the simplest theory, the theory of graphs.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-a-strange-and-abstract-idea-to-get-a-7bcc64df.mp3",
+    "final_audio": "this-is-a-strange-and-abstract-idea-to-get-a-7bcc64df.mp3"
+  },
+  {
+    "input_text": "The language has a single binary relation E, and models are arbitrary sets of points, which may or may not be connected by an arrow.",
+    "input_data": {
+      "input_text": "The language has a single binary relation E, and models are arbitrary sets of points, which may or may not be connected by an arrow.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-language-has-a-single-binary-relation-e-and-c4e9f818.mp3",
+    "final_audio": "the-language-has-a-single-binary-relation-e-and-c4e9f818.mp3"
+  },
+  {
+    "input_text": "Where given nodes a and b, a E b if and only if there is an arrow from a to b.",
+    "input_data": {
+      "input_text": "Where given nodes a and b, a E b if and only if there is an arrow from a to b.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "where-given-nodes-a-and-b-a-e-b-if-and-only-if-b77f7c9b.mp3",
+    "final_audio": "where-given-nodes-a-and-b-a-e-b-if-and-only-if-b77f7c9b.mp3"
+  },
+  {
+    "input_text": "First order logic is an expansion of propositional logic, where we add variables and quantifiers to our set of logical symbols.",
+    "input_data": {
+      "input_text": "First order logic is an expansion of propositional logic, where we add variables and quantifiers to our set of logical symbols.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "first-order-logic-is-an-expansion-of-propositional-ee4b157b.mp3",
+    "final_audio": "first-order-logic-is-an-expansion-of-propositional-ee4b157b.mp3"
+  },
+  {
+    "input_text": "We also add certain constant, function and relation symbols, which are specific to a given theory.",
+    "input_data": {
+      "input_text": "We also add certain constant, function and relation symbols, which are specific to a given theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-also-add-certain-constant-function-and-relation-9aa1d65e.mp3",
+    "final_audio": "we-also-add-certain-constant-function-and-relation-9aa1d65e.mp3"
+  },
+  {
+    "input_text": "For example, if we want to study the natural numbers, we add the constant 0, the successor function S, which just maps n to n plus 1, the addition and multiplication function, and the less than relation.",
+    "input_data": {
+      "input_text": "For example, if we want to study the natural numbers, we add the constant 0, the successor function S, which just maps n to n plus 1, the addition and multiplication function, and the less than relation.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-if-we-want-to-study-the-natural-ea2fd571.mp3",
+    "final_audio": "for-example-if-we-want-to-study-the-natural-ea2fd571.mp3"
+  },
+  {
+    "input_text": "But if we want to study graphs, all we would need is a single binary relation E expressing an edge between nodes.",
+    "input_data": {
+      "input_text": "But if we want to study graphs, all we would need is a single binary relation E expressing an edge between nodes.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-if-we-want-to-study-graphs-all-we-would-need-a07bd094.mp3",
+    "final_audio": "but-if-we-want-to-study-graphs-all-we-would-need-a07bd094.mp3"
+  },
+  {
+    "input_text": "These symbols which are specific to a given theory are called the non-logical symbols,",
+    "input_data": {
+      "input_text": "These symbols which are specific to a given theory are called the non-logical symbols,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "these-symbols-which-are-specific-to-a-given-theory-0b7ac331.mp3",
+    "final_audio": "these-symbols-which-are-specific-to-a-given-theory-0b7ac331.mp3"
+  },
+  {
+    "input_text": "and these are the logical symbols.",
+    "input_data": {
+      "input_text": "and these are the logical symbols.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-these-are-the-logical-symbols-66cf8e66.mp3",
+    "final_audio": "and-these-are-the-logical-symbols-66cf8e66.mp3"
+  },
+  {
+    "input_text": "If we restrict ourselves to the logical symbols, then we are in the domain of pure logic, and whatever we prove applies to all first order structures.",
+    "input_data": {
+      "input_text": "If we restrict ourselves to the logical symbols, then we are in the domain of pure logic, and whatever we prove applies to all first order structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-we-restrict-ourselves-to-the-logical-symbols-92dd969b.mp3",
+    "final_audio": "if-we-restrict-ourselves-to-the-logical-symbols-92dd969b.mp3"
+  },
+  {
+    "input_text": "The syntax of first order logic is given by the so-called logical axioms.",
+    "input_data": {
+      "input_text": "The syntax of first order logic is given by the so-called logical axioms.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-syntax-of-first-order-logic-is-given-by-the-so-02e53d0c.mp3",
+    "final_audio": "the-syntax-of-first-order-logic-is-given-by-the-so-02e53d0c.mp3"
+  },
+  {
+    "input_text": "We note that we have just added three axioms to the axioms of propositional logic...",
+    "input_data": {
+      "input_text": "We note that we have just added three axioms to the axioms of propositional logic...",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-note-that-we-have-just-added-three-axioms-to-1e7b20b3.mp3",
+    "final_audio": "we-note-that-we-have-just-added-three-axioms-to-1e7b20b3.mp3"
+  },
+  {
+    "input_text": "which determine how the forall quantifiers work. Note that since exists x P x, where P is some arbitrary property like being even, is equivalent to not forall x not P x. If there is an even number, then we know that not all numbers are odd, so this is why we technically only need to add the forall quantifier to the language.",
+    "input_data": {
+      "input_text": "which determine how the forall quantifiers work. Note that since exists x P x, where P is some arbitrary property like being even, is equivalent to not forall x not P x. If there is an even number, then we know that not all numbers are odd, so this is why we technically only need to add the forall quantifier to the language.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "which-determine-how-the-forall-quantifiers-work-69c005de.mp3",
+    "final_audio": "which-determine-how-the-forall-quantifiers-work-69c005de.mp3"
+  },
+  {
+    "input_text": "One can show that this set of axioms is once again sound and complete, but this time for first order logic, and we will see this proof in the fourth video.",
+    "input_data": {
+      "input_text": "One can show that this set of axioms is once again sound and complete, but this time for first order logic, and we will see this proof in the fourth video.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "one-can-show-that-this-set-of-axioms-is-once-again-a962bb5e.mp3",
+    "final_audio": "one-can-show-that-this-set-of-axioms-is-once-again-a962bb5e.mp3"
+  },
+  {
+    "input_text": "Often the equality relation is taken to be a logical symbol. In this case, we need to add the following five axioms to our list of logical axioms which define the behaviour of the equality symbol.",
+    "input_data": {
+      "input_text": "Often the equality relation is taken to be a logical symbol. In this case, we need to add the following five axioms to our list of logical axioms which define the behaviour of the equality symbol.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "often-the-equality-relation-is-taken-to-be-a-41a85bb7.mp3",
+    "final_audio": "often-the-equality-relation-is-taken-to-be-a-41a85bb7.mp3"
+  },
+  {
+    "input_text": "These axioms are hard to argue against, everything is equal to itself, if a is equal to b then b is also equal to a, and so on.",
+    "input_data": {
+      "input_text": "These axioms are hard to argue against, everything is equal to itself, if a is equal to b then b is also equal to a, and so on.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "these-axioms-are-hard-to-argue-against-everything-a4c09b26.mp3",
+    "final_audio": "these-axioms-are-hard-to-argue-against-everything-a4c09b26.mp3"
+  },
+  {
+    "input_text": "Now we are ready to move to the semantics of FOL. Again we fix our language, which again means we pick a set of constant, function and relations symbols...",
+    "input_data": {
+      "input_text": "Now we are ready to move to the semantics of FOL. Again we fix our language, which again means we pick a set of constant, function and relations symbols...",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-we-are-ready-to-move-to-the-semantics-of-fol-15e04892.mp3",
+    "final_audio": "now-we-are-ready-to-move-to-the-semantics-of-fol-15e04892.mp3"
+  },
+  {
+    "input_text": "and we can define a structure,",
+    "input_data": {
+      "input_text": "and we can define a structure,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-we-can-define-a-structure-d82cdf44.mp3",
+    "final_audio": "and-we-can-define-a-structure-d82cdf44.mp3"
+  },
+  {
+    "input_text": "which is represented by this fancy M, and is equal to this tuple of elements.",
+    "input_data": {
+      "input_text": "which is represented by this fancy M, and is equal to this tuple of elements.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "which-is-represented-by-this-fancy-m-and-is-equal-7e31269d.mp3",
+    "final_audio": "which-is-represented-by-this-fancy-m-and-is-equal-7e31269d.mp3"
+  },
+  {
+    "input_text": "This is the domain or universe of the structure...",
+    "input_data": {
+      "input_text": "This is the domain or universe of the structure...",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-the-domain-or-universe-of-the-structure-55b3a5cb.mp3",
+    "final_audio": "this-is-the-domain-or-universe-of-the-structure-55b3a5cb.mp3"
+  },
+  {
+    "input_text": "and these are the 'interpretations' of the symbols in the language.",
+    "input_data": {
+      "input_text": "and these are the 'interpretations' of the symbols in the language.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-these-are-the-interpretations-of-the-symbols-4fc4bee8.mp3",
+    "final_audio": "and-these-are-the-interpretations-of-the-symbols-4fc4bee8.mp3"
+  },
+  {
+    "input_text": "Constants are interpreted as specific elements in the structure...",
+    "input_data": {
+      "input_text": "Constants are interpreted as specific elements in the structure...",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "constants-are-interpreted-as-specific-elements-in-e5375816.mp3",
+    "final_audio": "constants-are-interpreted-as-specific-elements-in-e5375816.mp3"
+  },
+  {
+    "input_text": "and functions and relations are interpreted as subsets of tuples of elements of the structures.",
+    "input_data": {
+      "input_text": "and functions and relations are interpreted as subsets of tuples of elements of the structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-functions-and-relations-are-interpreted-as-adb5bf2e.mp3",
+    "final_audio": "and-functions-and-relations-are-interpreted-as-adb5bf2e.mp3"
+  },
+  {
+    "input_text": "This is a bit abstract, so lets consider the example of the standard structure of arithmetic, which is essentially just a number line.",
+    "input_data": {
+      "input_text": "This is a bit abstract, so lets consider the example of the standard structure of arithmetic, which is essentially just a number line.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-a-bit-abstract-so-lets-consider-the-3ac2693c.mp3",
+    "final_audio": "this-is-a-bit-abstract-so-lets-consider-the-3ac2693c.mp3"
+  },
+  {
+    "input_text": "Again we work within the language of arithmetic.",
+    "input_data": {
+      "input_text": "Again we work within the language of arithmetic.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "again-we-work-within-the-language-of-arithmetic-285a9be2.mp3",
+    "final_audio": "again-we-work-within-the-language-of-arithmetic-285a9be2.mp3"
+  },
+  {
+    "input_text": "So, the universe is the set of natural numbers.",
+    "input_data": {
+      "input_text": "So, the universe is the set of natural numbers.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-the-universe-is-the-set-of-natural-numbers-e98cc7a8.mp3",
+    "final_audio": "so-the-universe-is-the-set-of-natural-numbers-e98cc7a8.mp3"
+  },
+  {
+    "input_text": "We can visualize this structure as a the number line, and as we would expect, the interpretation of 0 is just the first element in the number line.",
+    "input_data": {
+      "input_text": "We can visualize this structure as a the number line, and as we would expect, the interpretation of 0 is just the first element in the number line.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-visualize-this-structure-as-a-the-number-fe1e891d.mp3",
+    "final_audio": "we-can-visualize-this-structure-as-a-the-number-fe1e891d.mp3"
+  },
+  {
+    "input_text": "The interpretations of the relations and functions are harder to visualize. But formally we interpret the less than symbol as the set of all pairs of natural numbers (x,y) such that x is less than y.",
+    "input_data": {
+      "input_text": "The interpretations of the relations and functions are harder to visualize. But formally we interpret the less than symbol as the set of all pairs of natural numbers (x,y) such that x is less than y.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-interpretations-of-the-relations-and-functions-9b645271.mp3",
+    "final_audio": "the-interpretations-of-the-relations-and-functions-9b645271.mp3"
+  },
+  {
+    "input_text": "The successor function will map to the set of all pairs of numbers such that the second is one greater than the first.",
+    "input_data": {
+      "input_text": "The successor function will map to the set of all pairs of numbers such that the second is one greater than the first.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-successor-function-will-map-to-the-set-of-all-1689e0b5.mp3",
+    "final_audio": "the-successor-function-will-map-to-the-set-of-all-1689e0b5.mp3"
+  },
+  {
+    "input_text": "Similarly for the addition function, it maps to the set of all triples (x,y,z) such that x plus y equals z.",
+    "input_data": {
+      "input_text": "Similarly for the addition function, it maps to the set of all triples (x,y,z) such that x plus y equals z.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "similarly-for-the-addition-function-it-maps-to-the-5cccf25d.mp3",
+    "final_audio": "similarly-for-the-addition-function-it-maps-to-the-5cccf25d.mp3"
+  },
+  {
+    "input_text": "So in general the interpretation function s is the bridge between syntax and semantics, where s is a function which maps symbols in a formal language, either to elements, or subsets of tuples of elements of the domain of the structure.",
+    "input_data": {
+      "input_text": "So in general the interpretation function s is the bridge between syntax and semantics, where s is a function which maps symbols in a formal language, either to elements, or subsets of tuples of elements of the domain of the structure.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-in-general-the-interpretation-function-s-is-the-9ef91586.mp3",
+    "final_audio": "so-in-general-the-interpretation-function-s-is-the-9ef91586.mp3"
+  },
+  {
+    "input_text": "This is a strange and abstract idea, to get a better understanding, let us move to perhaps the simplest theory, the theory of graphs.",
+    "input_data": {
+      "input_text": "This is a strange and abstract idea, to get a better understanding, let us move to perhaps the simplest theory, the theory of graphs.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-a-strange-and-abstract-idea-to-get-a-7bcc64df.mp3",
+    "final_audio": "this-is-a-strange-and-abstract-idea-to-get-a-7bcc64df.mp3"
+  },
+  {
+    "input_text": "The language has a single binary relation E, and models are arbitrary sets of points, which may or may not be connected by an arrow.",
+    "input_data": {
+      "input_text": "The language has a single binary relation E, and models are arbitrary sets of points, which may or may not be connected by an arrow.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-language-has-a-single-binary-relation-e-and-c4e9f818.mp3",
+    "final_audio": "the-language-has-a-single-binary-relation-e-and-c4e9f818.mp3"
+  },
+  {
+    "input_text": "Where given nodes a and b, a E b if and only if there is an arrow from a to b.",
+    "input_data": {
+      "input_text": "Where given nodes a and b, a E b if and only if there is an arrow from a to b.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "where-given-nodes-a-and-b-a-e-b-if-and-only-if-b77f7c9b.mp3",
+    "final_audio": "where-given-nodes-a-and-b-a-e-b-if-and-only-if-b77f7c9b.mp3"
+  },
+  {
+    "input_text": "We need to define axioms to determine the behaviour of this edge relation E. Without any axioms, every possible combination of points and all possible arrows drawn between them is a model of our empty theory.",
+    "input_data": {
+      "input_text": "We need to define axioms to determine the behaviour of this edge relation E. Without any axioms, every possible combination of points and all possible arrows drawn between them is a model of our empty theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-need-to-define-axioms-to-determine-the-91a063b4.mp3",
+    "final_audio": "we-need-to-define-axioms-to-determine-the-91a063b4.mp3"
+  },
+  {
+    "input_text": "An axiom can be any First Order Logic sentence. For example, we can consider this formula phi, expressing transitivity,",
+    "input_data": {
+      "input_text": "An axiom can be any First Order Logic sentence. For example, we can consider this formula phi, expressing transitivity,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "an-axiom-can-be-any-first-order-logic-sentence-for-7735489a.mp3",
+    "final_audio": "an-axiom-can-be-any-first-order-logic-sentence-for-7735489a.mp3"
+  },
+  {
+    "input_text": "meaning that if there is some path between nodes, then there is a direct path between these nodes.",
+    "input_data": {
+      "input_text": "meaning that if there is some path between nodes, then there is a direct path between these nodes.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "meaning-that-if-there-is-some-path-between-nodes-992343b0.mp3",
+    "final_audio": "meaning-that-if-there-is-some-path-between-nodes-992343b0.mp3"
+  },
+  {
+    "input_text": "Or this sentence psi expressing irreflexivity, which enforces that any model of it must not contain any self-referential arrows.",
+    "input_data": {
+      "input_text": "Or this sentence psi expressing irreflexivity, which enforces that any model of it must not contain any self-referential arrows.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "or-this-sentence-psi-expressing-irreflexivity-2b7545a6.mp3",
+    "final_audio": "or-this-sentence-psi-expressing-irreflexivity-2b7545a6.mp3"
+  },
+  {
+    "input_text": "We can combine the sentences, and consider the collection of all structures which satisfy both phi and psi, i.e. the collection of all transitive and irreflexive structures.",
+    "input_data": {
+      "input_text": "We can combine the sentences, and consider the collection of all structures which satisfy both phi and psi, i.e. the collection of all transitive and irreflexive structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-combine-the-sentences-and-consider-the-480208bf.mp3",
+    "final_audio": "we-can-combine-the-sentences-and-consider-the-480208bf.mp3"
+  },
+  {
+    "input_text": "In general, given any collection of sentences Sigma, this is the model set of Sigma, and it is the set of possible structures which satisfy each of the sentences in Sigma.",
+    "input_data": {
+      "input_text": "In general, given any collection of sentences Sigma, this is the model set of Sigma, and it is the set of possible structures which satisfy each of the sentences in Sigma.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-general-given-any-collection-of-sentences-sigma-1a5a34ce.mp3",
+    "final_audio": "in-general-given-any-collection-of-sentences-sigma-1a5a34ce.mp3"
+  },
+  {
+    "input_text": "Note that if Sigma contains an unsatisfiable sentence, such as x does not equal x, then Mod Sigma will be empty.",
+    "input_data": {
+      "input_text": "Note that if Sigma contains an unsatisfiable sentence, such as x does not equal x, then Mod Sigma will be empty.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "note-that-if-sigma-contains-an-unsatisfiable-893926a7.mp3",
+    "final_audio": "note-that-if-sigma-contains-an-unsatisfiable-893926a7.mp3"
+  },
+  {
+    "input_text": "And the soundness of First order logic, tells us that if our set of sentences Sigma is consistent, meaning that one cannot prove phi and not phi for any formula phi as hard as you try, then there is at least one model out there which satisfies every formula in Sigma.",
+    "input_data": {
+      "input_text": "And the soundness of First order logic, tells us that if our set of sentences Sigma is consistent, meaning that one cannot prove phi and not phi for any formula phi as hard as you try, then there is at least one model out there which satisfies every formula in Sigma.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-the-soundness-of-first-order-logic-tells-us-0367b9a6.mp3",
+    "final_audio": "and-the-soundness-of-first-order-logic-tells-us-0367b9a6.mp3"
+  },
+  {
+    "input_text": "We see that this is based on a platonistic vision of mathematics, where mathematical structures are pre-existing, and we can characterize them using first order sentences.",
+    "input_data": {
+      "input_text": "We see that this is based on a platonistic vision of mathematics, where mathematical structures are pre-existing, and we can characterize them using first order sentences.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-see-that-this-is-based-on-a-platonistic-vision-365313ed.mp3",
+    "final_audio": "we-see-that-this-is-based-on-a-platonistic-vision-365313ed.mp3"
+  },
+  {
+    "input_text": "If we start to study the general structure of the models satisfying phi and psi, we might notice some things in common to all of these structures.",
+    "input_data": {
+      "input_text": "If we start to study the general structure of the models satisfying phi and psi, we might notice some things in common to all of these structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-we-start-to-study-the-general-structure-of-the-5c164649.mp3",
+    "final_audio": "if-we-start-to-study-the-general-structure-of-the-5c164649.mp3"
+  },
+  {
+    "input_text": "For example we may notice that in none of them do we have aEb and bEa.",
+    "input_data": {
+      "input_text": "For example we may notice that in none of them do we have aEb and bEa.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-we-may-notice-that-in-none-of-them-do-c901f544.mp3",
+    "final_audio": "for-example-we-may-notice-that-in-none-of-them-do-c901f544.mp3"
+  },
+  {
+    "input_text": "We can easily see why, since if we did have such an edge in a transitive and irreflexive structure, then by transitivity we should have a direct path from a to a.",
+    "input_data": {
+      "input_text": "We can easily see why, since if we did have such an edge in a transitive and irreflexive structure, then by transitivity we should have a direct path from a to a.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-easily-see-why-since-if-we-did-have-such-an-b0fe4f44.mp3",
+    "final_audio": "we-can-easily-see-why-since-if-we-did-have-such-an-b0fe4f44.mp3"
+  },
+  {
+    "input_text": "But then the structure is not irreflexive, a contradiction.",
+    "input_data": {
+      "input_text": "But then the structure is not irreflexive, a contradiction.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-then-the-structure-is-not-irreflexive-a-bc539e95.mp3",
+    "final_audio": "but-then-the-structure-is-not-irreflexive-a-bc539e95.mp3"
+  },
+  {
+    "input_text": "So, we see that adding this sentence chi expressing asymmetry, is redundant, in the sense that Mod(phi, psi, chi) is exactly equal to Mod(phi, psi).",
+    "input_data": {
+      "input_text": "So, we see that adding this sentence chi expressing asymmetry, is redundant, in the sense that Mod(phi, psi, chi) is exactly equal to Mod(phi, psi).",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-we-see-that-adding-this-sentence-chi-expressing-89508b1d.mp3",
+    "final_audio": "so-we-see-that-adding-this-sentence-chi-expressing-89508b1d.mp3"
+  },
+  {
+    "input_text": "We denote this by saying the set phi, psi models chi.",
+    "input_data": {
+      "input_text": "We denote this by saying the set phi, psi models chi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-denote-this-by-saying-the-set-phi-psi-models-054287d8.mp3",
+    "final_audio": "we-denote-this-by-saying-the-set-phi-psi-models-054287d8.mp3"
+  }
+]

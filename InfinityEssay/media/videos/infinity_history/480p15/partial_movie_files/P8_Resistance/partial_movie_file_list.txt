@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P8_Resistance/1584795214_1294489372_223132457.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P8_Resistance/4072820271_3261474998_2119631136.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P8_Resistance/4072820271_2986532218_3427367242.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P8_Resistance/4072820271_3734477978_2620117034.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P8_Resistance/4072820271_2428774157_3642255907.mp4'

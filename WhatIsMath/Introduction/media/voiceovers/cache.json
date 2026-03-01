@@ -1,0 +1,392 @@
+[
+  {
+    "input_text": "In this video series, we are going to go deep into mathematical logic to try to figure out what math is, and where its limits are.",
+    "input_data": {
+      "input_text": "In this video series, we are going to go deep into mathematical logic to try to figure out what math is, and where its limits are.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-this-video-series-we-are-going-to-go-deep-into-0b7f7857.mp3",
+    "final_audio": "in-this-video-series-we-are-going-to-go-deep-into-0b7f7857.mp3"
+  },
+  {
+    "input_text": "In this video series, we are going to go deep into mathematical logic to try to figure out what math is, and where its limits are.",
+    "input_data": {
+      "input_text": "In this video series, we are going to go deep into mathematical logic to try to figure out what math is, and where its limits are.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-this-video-series-we-are-going-to-go-deep-into-0b7f7857.mp3",
+    "final_audio": "in-this-video-series-we-are-going-to-go-deep-into-0b7f7857.mp3"
+  },
+  {
+    "input_text": "In the first video, we will cover syntax vs. semantics, define what a formal proof is, and the definition of mathematical structures.",
+    "input_data": {
+      "input_text": "In the first video, we will cover syntax vs. semantics, define what a formal proof is, and the definition of mathematical structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-the-first-video-we-will-cover-syntax-vs-4f3e11a8.mp3",
+    "final_audio": "in-the-first-video-we-will-cover-syntax-vs-4f3e11a8.mp3"
+  },
+  {
+    "input_text": "In the second video, we will cover basic set theory, since theories are defined using sets, and yet sets are defined using a theory.",
+    "input_data": {
+      "input_text": "In the second video, we will cover basic set theory, since theories are defined using sets, and yet sets are defined using a theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-the-second-video-we-will-cover-basic-set-theory-3f289c5f.mp3",
+    "final_audio": "in-the-second-video-we-will-cover-basic-set-theory-3f289c5f.mp3"
+  },
+  {
+    "input_text": "In the third video, we will cover Skolem's paradox, showing how first order logic cannot fully capture or determine certain properties.",
+    "input_data": {
+      "input_text": "In the third video, we will cover Skolem's paradox, showing how first order logic cannot fully capture or determine certain properties.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-the-third-video-we-will-cover-skolem-s-paradox-08caec3a.mp3",
+    "final_audio": "in-the-third-video-we-will-cover-skolem-s-paradox-08caec3a.mp3"
+  },
+  {
+    "input_text": "In the fourth video, we will cover the deductive completeness of first order logic, providing a bridge between syntax and semantics.",
+    "input_data": {
+      "input_text": "In the fourth video, we will cover the deductive completeness of first order logic, providing a bridge between syntax and semantics.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-the-fourth-video-we-will-cover-the-deductive-cb7152da.mp3",
+    "final_audio": "in-the-fourth-video-we-will-cover-the-deductive-cb7152da.mp3"
+  },
+  {
+    "input_text": "In the fifth video, we will see the basics of primitive recursion, decidability, and the Halting problem.",
+    "input_data": {
+      "input_text": "In the fifth video, we will see the basics of primitive recursion, decidability, and the Halting problem.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-the-fifth-video-we-will-see-the-basics-of-b9f06b52.mp3",
+    "final_audio": "in-the-fifth-video-we-will-see-the-basics-of-b9f06b52.mp3"
+  },
+  {
+    "input_text": "Finally, we will cover Godel's incompleteness theorem and discuss its implications.",
+    "input_data": {
+      "input_text": "Finally, we will cover Godel's incompleteness theorem and discuss its implications.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "finally-we-will-cover-godel-s-incompleteness-a045f624.mp3",
+    "final_audio": "finally-we-will-cover-godel-s-incompleteness-a045f624.mp3"
+  },
+  {
+    "input_text": "As a bonus video, we will cover non-classical logics, and see how they give rise to different visions of mathematics.",
+    "input_data": {
+      "input_text": "As a bonus video, we will cover non-classical logics, and see how they give rise to different visions of mathematics.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "as-a-bonus-video-we-will-cover-non-classical-0fccaf83.mp3",
+    "final_audio": "as-a-bonus-video-we-will-cover-non-classical-0fccaf83.mp3"
+  },
+  {
+    "input_text": "In this video series, we are going to go deep into mathematical logic to try to figure out what math is, and where its limits are.",
+    "input_data": {
+      "input_text": "In this video series, we are going to go deep into mathematical logic to try to figure out what math is, and where its limits are.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-this-video-series-we-are-going-to-go-deep-into-0b7f7857.mp3",
+    "final_audio": "in-this-video-series-we-are-going-to-go-deep-into-0b7f7857.mp3"
+  },
+  {
+    "input_text": "In the first video, we will cover syntax vs. semantics, define what a formal proof is, and the definition of mathematical structures.",
+    "input_data": {
+      "input_text": "In the first video, we will cover syntax vs. semantics, define what a formal proof is, and the definition of mathematical structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-the-first-video-we-will-cover-syntax-vs-4f3e11a8.mp3",
+    "final_audio": "in-the-first-video-we-will-cover-syntax-vs-4f3e11a8.mp3"
+  },
+  {
+    "input_text": "In the second video, we will cover basic set theory, since theories are defined using sets, and yet sets are defined using a theory.",
+    "input_data": {
+      "input_text": "In the second video, we will cover basic set theory, since theories are defined using sets, and yet sets are defined using a theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-the-second-video-we-will-cover-basic-set-theory-3f289c5f.mp3",
+    "final_audio": "in-the-second-video-we-will-cover-basic-set-theory-3f289c5f.mp3"
+  },
+  {
+    "input_text": "In the third video, we will cover Skolem's paradox, showing how first order logic cannot fully capture or determine certain properties.",
+    "input_data": {
+      "input_text": "In the third video, we will cover Skolem's paradox, showing how first order logic cannot fully capture or determine certain properties.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-the-third-video-we-will-cover-skolem-s-paradox-08caec3a.mp3",
+    "final_audio": "in-the-third-video-we-will-cover-skolem-s-paradox-08caec3a.mp3"
+  },
+  {
+    "input_text": "In the fourth video, we will cover the deductive completeness of first order logic, providing a bridge between syntax and semantics.",
+    "input_data": {
+      "input_text": "In the fourth video, we will cover the deductive completeness of first order logic, providing a bridge between syntax and semantics.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-the-fourth-video-we-will-cover-the-deductive-cb7152da.mp3",
+    "final_audio": "in-the-fourth-video-we-will-cover-the-deductive-cb7152da.mp3"
+  },
+  {
+    "input_text": "In the fifth video, we will see the basics of primitive recursion, decidability, and the Halting problem.",
+    "input_data": {
+      "input_text": "In the fifth video, we will see the basics of primitive recursion, decidability, and the Halting problem.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-the-fifth-video-we-will-see-the-basics-of-b9f06b52.mp3",
+    "final_audio": "in-the-fifth-video-we-will-see-the-basics-of-b9f06b52.mp3"
+  },
+  {
+    "input_text": "Finally, we will cover Godel's incompleteness theorem and discuss its implications.",
+    "input_data": {
+      "input_text": "Finally, we will cover Godel's incompleteness theorem and discuss its implications.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "finally-we-will-cover-godel-s-incompleteness-a045f624.mp3",
+    "final_audio": "finally-we-will-cover-godel-s-incompleteness-a045f624.mp3"
+  },
+  {
+    "input_text": "As a bonus video, we will cover non-classical logics, and see how they give rise to different visions of mathematics.",
+    "input_data": {
+      "input_text": "As a bonus video, we will cover non-classical logics, and see how they give rise to different visions of mathematics.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "as-a-bonus-video-we-will-cover-non-classical-0fccaf83.mp3",
+    "final_audio": "as-a-bonus-video-we-will-cover-non-classical-0fccaf83.mp3"
+  },
+  {
+    "input_text": "In this video series, we are going to go deep into mathematical logic to try to figure out what math is, and where its limits are.",
+    "input_data": {
+      "input_text": "In this video series, we are going to go deep into mathematical logic to try to figure out what math is, and where its limits are.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-this-video-series-we-are-going-to-go-deep-into-0b7f7857.mp3",
+    "final_audio": "in-this-video-series-we-are-going-to-go-deep-into-0b7f7857.mp3"
+  },
+  {
+    "input_text": "In this video series, we are going to go deep into mathematical logic to try to figure out what math is, and where its limits are.",
+    "input_data": {
+      "input_text": "In this video series, we are going to go deep into mathematical logic to try to figure out what math is, and where its limits are.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-this-video-series-we-are-going-to-go-deep-into-0b7f7857.mp3",
+    "final_audio": "in-this-video-series-we-are-going-to-go-deep-into-0b7f7857.mp3"
+  },
+  {
+    "input_text": "In the first video, we will cover syntax vs. semantics, define what a formal proof is, and the definition of mathematical structures.",
+    "input_data": {
+      "input_text": "In the first video, we will cover syntax vs. semantics, define what a formal proof is, and the definition of mathematical structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-the-first-video-we-will-cover-syntax-vs-4f3e11a8.mp3",
+    "final_audio": "in-the-first-video-we-will-cover-syntax-vs-4f3e11a8.mp3"
+  },
+  {
+    "input_text": "In the second video, we will cover basic set theory, since theories are defined using sets, and yet sets are defined using a theory.",
+    "input_data": {
+      "input_text": "In the second video, we will cover basic set theory, since theories are defined using sets, and yet sets are defined using a theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-the-second-video-we-will-cover-basic-set-theory-3f289c5f.mp3",
+    "final_audio": "in-the-second-video-we-will-cover-basic-set-theory-3f289c5f.mp3"
+  },
+  {
+    "input_text": "In the third video, we will cover Skolem's paradox, showing how first order logic cannot fully capture or determine certain properties.",
+    "input_data": {
+      "input_text": "In the third video, we will cover Skolem's paradox, showing how first order logic cannot fully capture or determine certain properties.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-the-third-video-we-will-cover-skolem-s-paradox-08caec3a.mp3",
+    "final_audio": "in-the-third-video-we-will-cover-skolem-s-paradox-08caec3a.mp3"
+  },
+  {
+    "input_text": "In the fourth video, we will cover the deductive completeness of first order logic, providing a bridge between syntax and semantics.",
+    "input_data": {
+      "input_text": "In the fourth video, we will cover the deductive completeness of first order logic, providing a bridge between syntax and semantics.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-the-fourth-video-we-will-cover-the-deductive-cb7152da.mp3",
+    "final_audio": "in-the-fourth-video-we-will-cover-the-deductive-cb7152da.mp3"
+  },
+  {
+    "input_text": "In the fifth video, we will see the basics of primitive recursion, decidability, and the Halting problem.",
+    "input_data": {
+      "input_text": "In the fifth video, we will see the basics of primitive recursion, decidability, and the Halting problem.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-the-fifth-video-we-will-see-the-basics-of-b9f06b52.mp3",
+    "final_audio": "in-the-fifth-video-we-will-see-the-basics-of-b9f06b52.mp3"
+  },
+  {
+    "input_text": "Finally, we will cover Godel's incompleteness theorem and discuss its implications.",
+    "input_data": {
+      "input_text": "Finally, we will cover Godel's incompleteness theorem and discuss its implications.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "finally-we-will-cover-godel-s-incompleteness-a045f624.mp3",
+    "final_audio": "finally-we-will-cover-godel-s-incompleteness-a045f624.mp3"
+  },
+  {
+    "input_text": "As a bonus video, we will cover non-classical logics, and see how they give rise to different visions of mathematics.",
+    "input_data": {
+      "input_text": "As a bonus video, we will cover non-classical logics, and see how they give rise to different visions of mathematics.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "as-a-bonus-video-we-will-cover-non-classical-0fccaf83.mp3",
+    "final_audio": "as-a-bonus-video-we-will-cover-non-classical-0fccaf83.mp3"
+  }
+]

@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P10_Cantor_Intro/1584795214_2050241654_223132457.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P10_Cantor_Intro/4072820271_3908831606_2608727536.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P10_Cantor_Intro/4072820271_2050419799_1241824235.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P10_Cantor_Intro/4072820271_1270620707_4064290095.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P10_Cantor_Intro/4072820271_2179968690_2995998481.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P10_Cantor_Intro/4072820271_740085325_514598065.mp4'
+file 'file:C:/Users/Admin/MANIM/InfinityEssay/media/videos/infinity_history/480p15/partial_movie_files/P10_Cantor_Intro/4072820271_1734327179_2200611007.mp4'

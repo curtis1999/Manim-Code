@@ -1,0 +1,108 @@
+1
+00:00:00,000 --> 00:00:02,043
+It was Frege in the 1800's who realized that doing
+
+2
+00:00:02,143 --> 00:00:04,915
+mathematics involved manipulations of the following set of symbols:
+
+3
+00:00:05,015 --> 00:00:07,657
+Constant symbols, such as numbers like 0, 1,
+
+4
+00:00:07,757 --> 00:00:10,087
+e, or pi, or any other special element.
+
+5
+00:00:10,187 --> 00:00:12,830
+Function symbols, such as addition or multiplication.
+
+6
+00:00:12,930 --> 00:00:16,409
+Relation symbols, such as less than or in.
+
+7
+00:00:16,509 --> 00:00:20,223
+Variables, quantifiers, brackets, and the Boolean connectives.
+
+8
+00:00:20,323 --> 00:00:22,432
+The Boolean connectives can be represented
+
+9
+00:00:22,532 --> 00:00:24,063
+by truth tables or logic gates.
+
+10
+00:00:24,163 --> 00:00:27,009
+Importantly, in classical logic, a implies b
+
+11
+00:00:27,109 --> 00:00:28,817
+is equivalent to not a or b
+
+12
+00:00:28,917 --> 00:00:30,358
+and is given by this truth table.
+
+13
+00:00:30,458 --> 00:00:33,443
+This is not the case in intuitionistic logic for example.
+
+14
+00:00:33,543 --> 00:00:36,095
+But for now we stick to classical logic, and soon
+
+15
+00:00:36,195 --> 00:00:38,855
+I will make a video on non-classical logics. So all
+
+16
+00:00:38,955 --> 00:00:41,669
+of math comes down to manipulation of these symbols.
+
+17
+00:00:41,769 --> 00:00:45,994
+We can divide these symbols into two groups, the logical and non-logical
+
+18
+00:00:46,094 --> 00:00:50,320
+symbols. The logical symbols are common to all first order theories, and
+
+19
+00:00:50,420 --> 00:00:55,005
+so proofs only involving the logical symbols apply to all possible structures.
+
+20
+00:00:55,105 --> 00:00:58,309
+The non-logical symbols are specific to a given theory.
+
+21
+00:00:58,409 --> 00:01:00,922
+For example if we are working with the theory of arithmetic,
+
+22
+00:01:01,022 --> 00:01:02,071
+we would need the constant 0,
+
+23
+00:01:02,171 --> 00:01:02,985
+the successor function,
+
+24
+00:01:04,085 --> 00:01:05,526
+the addition or multiplication function,
+
+25
+00:01:06,626 --> 00:01:07,702
+and perhaps the order relation.
+
+26
+00:01:07,802 --> 00:01:09,346
+If we work with the theory of graphs,
+
+27
+00:01:09,446 --> 00:01:11,124
+we only need a single binary relation E,
+
