@@ -1,0 +1,172 @@
+1
+00:00:00,000 --> 00:00:02,771
+On the one hand we have the syntax, which can be
+
+2
+00:00:02,871 --> 00:00:06,840
+seen as manipulations of symbols being governed by a special theorem
+
+3
+00:00:06,940 --> 00:00:11,028
+proving computer, which takes in axioms as input and outputs theorems.
+
+4
+00:00:12,133 --> 00:00:14,897
+Once it has proven a theorem, we can feed this
+
+5
+00:00:14,997 --> 00:00:18,198
+theorem back into it's inputs to prove more theorems.
+
+6
+00:00:18,333 --> 00:00:21,329
+If chi is such a theorem and Sigma is out set of
+
+7
+00:00:21,429 --> 00:00:25,716
+axioms then we denote this situation by this relation, which is read
+
+8
+00:00:25,816 --> 00:00:29,328
+as Sigma proves chi. The theory of a given set of axioms
+
+9
+00:00:29,428 --> 00:00:32,940
+is the set of all such theorems, which in our analogy is
+
+10
+00:00:33,040 --> 00:00:37,198
+the set of all possible outputs from our theorem proving computer.
+
+11
+00:00:37,266 --> 00:00:40,923
+On the other side we have the intuitive world of semantics, where
+
+12
+00:00:41,023 --> 00:00:45,027
+truth is based on Tarki's definition of truth, namely that something is
+
+13
+00:00:45,127 --> 00:00:47,801
+true if and only if it is true in all models. We
+
+14
+00:00:47,901 --> 00:00:51,095
+will now attempt to make this precise, which may be a bit
+
+15
+00:00:51,195 --> 00:00:53,754
+boring, but it leads us to interesting places.
+
+16
+00:00:53,800 --> 00:00:57,303
+Formally, a structure --which we denote which this fancy
+
+17
+00:00:57,403 --> 00:00:59,812
+M-- is given by this tuple of elements.
+
+18
+00:00:59,933 --> 00:01:02,244
+This is some arbitrary set, and denotes
+
+19
+00:01:02,344 --> 00:01:04,718
+the universe or domain of the structure.
+
+20
+00:01:04,866 --> 00:01:08,005
+And these are the interpretations of the symbols of the language.
+
+21
+00:01:09,200 --> 00:01:12,052
+In math there are certain symbols which are known as
+
+22
+00:01:12,152 --> 00:01:16,821
+the logical symbols which include variables, quantifiers, Boolean connectives --such
+
+23
+00:01:16,921 --> 00:01:21,079
+as conjunction, disjunction, implication and negation-- and brackets. For a
+
+24
+00:01:21,179 --> 00:01:24,486
+mathematician, these exist in the background world of logic.
+
+25
+00:01:24,533 --> 00:01:27,254
+Then there are certain symbols know as the non-logical symbols
+
+26
+00:01:27,354 --> 00:01:30,212
+which are the constants --like 0,1,e,pi etc., functions --such as
+
+27
+00:01:30,312 --> 00:01:33,397
+addition multiplication and relations--such as <, or the set theoretic
+
+28
+00:01:33,497 --> 00:01:36,173
+membership relation. These are the set of symbols specific to
+
+29
+00:01:36,273 --> 00:01:39,085
+a given mathematical theory. As we saw earlier, constants simply
+
+30
+00:01:39,185 --> 00:01:41,360
+get interpreted as certain elements of the domain.
+
+31
+00:01:41,400 --> 00:01:45,690
+The formal definition of the interpretations of function and relation symbols is a
+
+32
+00:01:45,790 --> 00:01:49,170
+bit strange at first, as they get interpreted as a sets of tuples
+
+33
+00:01:49,270 --> 00:01:53,453
+which satisfy a given relationship. For example, the less than relation would be
+
+34
+00:01:53,553 --> 00:01:57,415
+the set of all pairs of natural numbers (a,b) such that the interpretation
+
+35
+00:01:57,515 --> 00:01:59,664
+of a is less than the interpretation of b.
+
+36
+00:01:59,733 --> 00:02:03,101
+We could represent this on the number line by drawing every
+
+37
+00:02:03,201 --> 00:02:06,451
+possible arrow between nodes which is going to the right.
+
+38
+00:02:06,533 --> 00:02:09,079
+Earlier I said that function symbols can be
+
+39
+00:02:09,179 --> 00:02:12,649
+interpreted as computer programs, well, formally they will
+
+40
+00:02:12,749 --> 00:02:15,419
+be interpreted as a special type of relation.
+
+41
+00:02:15,466 --> 00:02:18,965
+For example the plus symbols will be interpreted as the set
+
+42
+00:02:19,065 --> 00:02:23,296
+of triples (a,b,c) such that a+b=c. They are special relations, because
+
+43
+00:02:23,396 --> 00:02:27,017
+we know that the output is uniquely determined by the inputs.
+

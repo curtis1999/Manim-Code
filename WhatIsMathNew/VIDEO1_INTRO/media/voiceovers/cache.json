@@ -1,0 +1,1892 @@
+[
+  {
+    "input_text": "On the one hand we have the syntax, which can be seen as manipulations of symbols being governed by a special theorem proving computer, which takes in axioms as input and outputs theorems.",
+    "input_data": {
+      "input_text": "On the one hand we have the syntax, which can be seen as manipulations of symbols being governed by a special theorem proving computer, which takes in axioms as input and outputs theorems.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "on-the-one-hand-we-have-the-syntax-which-can-be-9258d51f.mp3",
+    "final_audio": "on-the-one-hand-we-have-the-syntax-which-can-be-9258d51f.mp3"
+  },
+  {
+    "input_text": "Once it has proven a theorem, we can feed this theorem back into it's inputs to prove more theorems.",
+    "input_data": {
+      "input_text": "Once it has proven a theorem, we can feed this theorem back into it's inputs to prove more theorems.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "once-it-has-proven-a-theorem-we-can-feed-this-cf5405e5.mp3",
+    "final_audio": "once-it-has-proven-a-theorem-we-can-feed-this-cf5405e5.mp3"
+  },
+  {
+    "input_text": "If chi is such a theorem and Sigma is out set of axioms then we denote this situation by this relation, which is read as Sigma proves chi. The theory of a given set of axioms is the set of all such theorems, which in our analogy is the set of all possible outputs from our theorem proving computer.",
+    "input_data": {
+      "input_text": "If chi is such a theorem and Sigma is out set of axioms then we denote this situation by this relation, which is read as Sigma proves chi. The theory of a given set of axioms is the set of all such theorems, which in our analogy is the set of all possible outputs from our theorem proving computer.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-chi-is-such-a-theorem-and-sigma-is-out-set-of-0230a050.mp3",
+    "final_audio": "if-chi-is-such-a-theorem-and-sigma-is-out-set-of-0230a050.mp3"
+  },
+  {
+    "input_text": "On the other side we have the intuitive world of semantics, where truth is based on Tarki's definition of truth, namely that something is true if and only if it is true in all models. We will now attempt to make this precise, which may be a bit boring, but it leads us to interesting places.",
+    "input_data": {
+      "input_text": "On the other side we have the intuitive world of semantics, where truth is based on Tarki's definition of truth, namely that something is true if and only if it is true in all models. We will now attempt to make this precise, which may be a bit boring, but it leads us to interesting places.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "on-the-other-side-we-have-the-intuitive-world-of-67f07ec4.mp3",
+    "final_audio": "on-the-other-side-we-have-the-intuitive-world-of-67f07ec4.mp3"
+  },
+  {
+    "input_text": "Formally, a structure --which we denote which this fancy M-- is given by this tuple of elements.",
+    "input_data": {
+      "input_text": "Formally, a structure --which we denote which this fancy M-- is given by this tuple of elements.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "formally-a-structure-which-we-denote-which-this-e54029ce.mp3",
+    "final_audio": "formally-a-structure-which-we-denote-which-this-e54029ce.mp3"
+  },
+  {
+    "input_text": "This is some arbitrary set, and denotes the universe or domain of the structure.",
+    "input_data": {
+      "input_text": "This is some arbitrary set, and denotes the universe or domain of the structure.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-some-arbitrary-set-and-denotes-the-c0bc0d71.mp3",
+    "final_audio": "this-is-some-arbitrary-set-and-denotes-the-c0bc0d71.mp3"
+  },
+  {
+    "input_text": "And these are the interpretations of the symbols of the language.",
+    "input_data": {
+      "input_text": "And these are the interpretations of the symbols of the language.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-these-are-the-interpretations-of-the-symbols-db4e4fc7.mp3",
+    "final_audio": "and-these-are-the-interpretations-of-the-symbols-db4e4fc7.mp3"
+  },
+  {
+    "input_text": "In math there are certain symbols which are known as the logical symbols which include variables, quantifiers, Boolean connectives --such as conjunction, disjunction, implication and negation-- and brackets. For a mathematician, these exist in the background world of logic.",
+    "input_data": {
+      "input_text": "In math there are certain symbols which are known as the logical symbols which include variables, quantifiers, Boolean connectives --such as conjunction, disjunction, implication and negation-- and brackets. For a mathematician, these exist in the background world of logic.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-math-there-are-certain-symbols-which-are-known-6df6be41.mp3",
+    "final_audio": "in-math-there-are-certain-symbols-which-are-known-6df6be41.mp3"
+  },
+  {
+    "input_text": "Then there are certain symbols know as the non-logical symbols which are the constants --like 0,1,e,pi etc., functions --such as addition multiplication and relations--such as <, or the set theoretic membership relation. These are the set of symbols specific to a given mathematical theory. As we saw earlier, constants simply get interpreted as certain elements of the domain.",
+    "input_data": {
+      "input_text": "Then there are certain symbols know as the non-logical symbols which are the constants --like 0,1,e,pi etc., functions --such as addition multiplication and relations--such as <, or the set theoretic membership relation. These are the set of symbols specific to a given mathematical theory. As we saw earlier, constants simply get interpreted as certain elements of the domain.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-there-are-certain-symbols-know-as-the-non-62b9e871.mp3",
+    "final_audio": "then-there-are-certain-symbols-know-as-the-non-62b9e871.mp3"
+  },
+  {
+    "input_text": "The formal definition of the interpretations of function and relation symbols is a bit strange at first, as they get interpreted as a sets of tuples which satisfy a given relationship. For example, the less than relation would be the set of all pairs of natural numbers (a,b) such that the interpretation of a is less than the interpretation of b.",
+    "input_data": {
+      "input_text": "The formal definition of the interpretations of function and relation symbols is a bit strange at first, as they get interpreted as a sets of tuples which satisfy a given relationship. For example, the less than relation would be the set of all pairs of natural numbers (a,b) such that the interpretation of a is less than the interpretation of b.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-formal-definition-of-the-interpretations-of-e6ff48f5.mp3",
+    "final_audio": "the-formal-definition-of-the-interpretations-of-e6ff48f5.mp3"
+  },
+  {
+    "input_text": "We could represent this on the number line by drawing every possible arrow between nodes which is going to the right.",
+    "input_data": {
+      "input_text": "We could represent this on the number line by drawing every possible arrow between nodes which is going to the right.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-could-represent-this-on-the-number-line-by-ad9febc0.mp3",
+    "final_audio": "we-could-represent-this-on-the-number-line-by-ad9febc0.mp3"
+  },
+  {
+    "input_text": "Earlier I said that function symbols can be interpreted as computer programs, well, formally they will be interpreted as a special type of relation.",
+    "input_data": {
+      "input_text": "Earlier I said that function symbols can be interpreted as computer programs, well, formally they will be interpreted as a special type of relation.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "earlier-i-said-that-function-symbols-can-be-ca9f7d98.mp3",
+    "final_audio": "earlier-i-said-that-function-symbols-can-be-ca9f7d98.mp3"
+  },
+  {
+    "input_text": "For example the plus symbols will be interpreted as the set of triples (a,b,c) such that a+b=c. They are special relations, because we know that the output is uniquely determined by the inputs.",
+    "input_data": {
+      "input_text": "For example the plus symbols will be interpreted as the set of triples (a,b,c) such that a+b=c. They are special relations, because we know that the output is uniquely determined by the inputs.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-the-plus-symbols-will-be-interpreted-1cd7bd75.mp3",
+    "final_audio": "for-example-the-plus-symbols-will-be-interpreted-1cd7bd75.mp3"
+  },
+  {
+    "input_text": "In this video series we will go deep into mathematical logic to try and figure out what math is, and what it's limits are.",
+    "input_data": {
+      "input_text": "In this video series we will go deep into mathematical logic to try and figure out what math is, and what it's limits are.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-this-video-series-we-will-go-deep-into-076e04c4.mp3",
+    "final_audio": "in-this-video-series-we-will-go-deep-into-076e04c4.mp3"
+  },
+  {
+    "input_text": "For much of history math was essentially geometry, in the sense that everything we proved was grounded in some form of geometric intuition.",
+    "input_data": {
+      "input_text": "For much of history math was essentially geometry, in the sense that everything we proved was grounded in some form of geometric intuition.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-much-of-history-math-was-essentially-geometry-2cdd4ec7.mp3",
+    "final_audio": "for-much-of-history-math-was-essentially-geometry-2cdd4ec7.mp3"
+  },
+  {
+    "input_text": "Its not hard to imagine triangles, squares and circles, and as we start to study them, we can start to notice certain patterns, find different ways classify the shapes and we can find certain surprising relations between different shapes.",
+    "input_data": {
+      "input_text": "Its not hard to imagine triangles, squares and circles, and as we start to study them, we can start to notice certain patterns, find different ways classify the shapes and we can find certain surprising relations between different shapes.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "its-not-hard-to-imagine-triangles-squares-and-bb4e38db.mp3",
+    "final_audio": "its-not-hard-to-imagine-triangles-squares-and-bb4e38db.mp3"
+  },
+  {
+    "input_text": "However, infinity is hiding even within a simple triangle, as was shown by the pythagoreans that the square root of two --which is the length of the long side of any unit right angle triangle-- is incommensurable meaning that its decimal expansion is endless.",
+    "input_data": {
+      "input_text": "However, infinity is hiding even within a simple triangle, as was shown by the pythagoreans that the square root of two --which is the length of the long side of any unit right angle triangle-- is incommensurable meaning that its decimal expansion is endless.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "however-infinity-is-hiding-even-within-a-simple-d606efa9.mp3",
+    "final_audio": "however-infinity-is-hiding-even-within-a-simple-d606efa9.mp3"
+  },
+  {
+    "input_text": "But from the point of view of a logician, both of these formulas are the simplest possible. They are at the bottom of the complexity hierarchy.",
+    "input_data": {
+      "input_text": "But from the point of view of a logician, both of these formulas are the simplest possible. They are at the bottom of the complexity hierarchy.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-from-the-point-of-view-of-a-logician-both-of-c020a82f.mp3",
+    "final_audio": "but-from-the-point-of-view-of-a-logician-both-of-c020a82f.mp3"
+  },
+  {
+    "input_text": "Using quantifiers, which are these symbols and are read as for all, and exists,",
+    "input_data": {
+      "input_text": "Using quantifiers, which are these symbols and are read as for all, and exists,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "using-quantifiers-which-are-these-symbols-and-are-fbb95b2d.mp3",
+    "final_audio": "using-quantifiers-which-are-these-symbols-and-are-fbb95b2d.mp3"
+  },
+  {
+    "input_text": "We can create more complicated formulas. For example, consider this equation, which states that the sum of the first n odd numbers is equal to n-squared. Meaning that 1 plus 3 plus 5 plus dot dot dot n-times, then it is equal to n squared.",
+    "input_data": {
+      "input_text": "We can create more complicated formulas. For example, consider this equation, which states that the sum of the first n odd numbers is equal to n-squared. Meaning that 1 plus 3 plus 5 plus dot dot dot n-times, then it is equal to n squared.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-create-more-complicated-formulas-for-d9abd13e.mp3",
+    "final_audio": "we-can-create-more-complicated-formulas-for-d9abd13e.mp3"
+  },
+  {
+    "input_text": "This is some random pattern which one notices if one looks for patterns in the natural numbers for long enough. We can convince ourselves that it is true by going through each possible value of n.",
+    "input_data": {
+      "input_text": "This is some random pattern which one notices if one looks for patterns in the natural numbers for long enough. We can convince ourselves that it is true by going through each possible value of n.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-some-random-pattern-which-one-notices-if-e54615af.mp3",
+    "final_audio": "this-is-some-random-pattern-which-one-notices-if-e54615af.mp3"
+  },
+  {
+    "input_text": "Since one is equal to 1 squared.",
+    "input_data": {
+      "input_text": "Since one is equal to 1 squared.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "since-one-is-equal-to-1-squared-e6271219.mp3",
+    "final_audio": "since-one-is-equal-to-1-squared-e6271219.mp3"
+  },
+  {
+    "input_text": "1 plus 3 is equal to 2 squared,",
+    "input_data": {
+      "input_text": "1 plus 3 is equal to 2 squared,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "1-plus-3-is-equal-to-2-squared-2817ea34.mp3",
+    "final_audio": "1-plus-3-is-equal-to-2-squared-2817ea34.mp3"
+  },
+  {
+    "input_text": "1 plus 3 plus 5 is equal to 3 squared etc.",
+    "input_data": {
+      "input_text": "1 plus 3 plus 5 is equal to 3 squared etc.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "1-plus-3-plus-5-is-equal-to-3-squared-etc-59472f7d.mp3",
+    "final_audio": "1-plus-3-plus-5-is-equal-to-3-squared-etc-59472f7d.mp3"
+  },
+  {
+    "input_text": "It seems to always hold, but how do we know that there is not some weird number, just beyond our grasp which breaks this pattern? Well, to evaluate a formula such as this one, we use the principle of mathematical induction.",
+    "input_data": {
+      "input_text": "It seems to always hold, but how do we know that there is not some weird number, just beyond our grasp which breaks this pattern? Well, to evaluate a formula such as this one, we use the principle of mathematical induction.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "it-seems-to-always-hold-but-how-do-we-know-that-538f34b4.mp3",
+    "final_audio": "it-seems-to-always-hold-but-how-do-we-know-that-538f34b4.mp3"
+  },
+  {
+    "input_text": "Meaning that we check if it holds for n equals 1,",
+    "input_data": {
+      "input_text": "Meaning that we check if it holds for n equals 1,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "meaning-that-we-check-if-it-holds-for-n-equals-1-6a8c2153.mp3",
+    "final_audio": "meaning-that-we-check-if-it-holds-for-n-equals-1-6a8c2153.mp3"
+  },
+  {
+    "input_text": "and check that if it holds for k, then it holds for k plus 1.",
+    "input_data": {
+      "input_text": "and check that if it holds for k, then it holds for k plus 1.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-check-that-if-it-holds-for-k-then-it-holds-for-a64b6d8f.mp3",
+    "final_audio": "and-check-that-if-it-holds-for-k-then-it-holds-for-a64b6d8f.mp3"
+  },
+  {
+    "input_text": "This can be seen using dominoes.",
+    "input_data": {
+      "input_text": "This can be seen using dominoes.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-can-be-seen-using-dominoes-7bc0d486.mp3",
+    "final_audio": "this-can-be-seen-using-dominoes-7bc0d486.mp3"
+  },
+  {
+    "input_text": "I will now say, if we know that we will push the first domino over, and we know that given any domino,",
+    "input_data": {
+      "input_text": "I will now say, if we know that we will push the first domino over, and we know that given any domino,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "i-will-now-say-if-we-know-that-we-will-push-the-35d029a0.mp3",
+    "final_audio": "i-will-now-say-if-we-know-that-we-will-push-the-35d029a0.mp3"
+  },
+  {
+    "input_text": "if it falls over, then the next domino is guaranteed to fall as well,",
+    "input_data": {
+      "input_text": "if it falls over, then the next domino is guaranteed to fall as well,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-it-falls-over-then-the-next-domino-is-d0daa040.mp3",
+    "final_audio": "if-it-falls-over-then-the-next-domino-is-d0daa040.mp3"
+  },
+  {
+    "input_text": "then we can conclude that every domino will eventually fall, even if there are infinitely many.",
+    "input_data": {
+      "input_text": "then we can conclude that every domino will eventually fall, even if there are infinitely many.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-we-can-conclude-that-every-domino-will-ce0b8b43.mp3",
+    "final_audio": "then-we-can-conclude-that-every-domino-will-ce0b8b43.mp3"
+  },
+  {
+    "input_text": "In this video series we will go deep into mathematical logic to try and figure out what math is, and what it's limits are.",
+    "input_data": {
+      "input_text": "In this video series we will go deep into mathematical logic to try and figure out what math is, and what it's limits are.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-this-video-series-we-will-go-deep-into-076e04c4.mp3",
+    "final_audio": "in-this-video-series-we-will-go-deep-into-076e04c4.mp3"
+  },
+  {
+    "input_text": "For much of history math was essentially geometry, in the sense that everything we proved was grounded in some form of geometric intuition.",
+    "input_data": {
+      "input_text": "For much of history math was essentially geometry, in the sense that everything we proved was grounded in some form of geometric intuition.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-much-of-history-math-was-essentially-geometry-2cdd4ec7.mp3",
+    "final_audio": "for-much-of-history-math-was-essentially-geometry-2cdd4ec7.mp3"
+  },
+  {
+    "input_text": "Its not hard to imagine triangles, squares and circles, and as we start to study them, we can start to notice certain patterns, find different ways classify the shapes and we can find certain surprising relations between different shapes.",
+    "input_data": {
+      "input_text": "Its not hard to imagine triangles, squares and circles, and as we start to study them, we can start to notice certain patterns, find different ways classify the shapes and we can find certain surprising relations between different shapes.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "its-not-hard-to-imagine-triangles-squares-and-bb4e38db.mp3",
+    "final_audio": "its-not-hard-to-imagine-triangles-squares-and-bb4e38db.mp3"
+  },
+  {
+    "input_text": "However, infinity is hiding even within a simple triangle, as was shown by the pythagoreans that the square root of two --which is the length of the long side of any unit right angle triangle-- is incommensurable meaning that its decimal expansion is endless.",
+    "input_data": {
+      "input_text": "However, infinity is hiding even within a simple triangle, as was shown by the pythagoreans that the square root of two --which is the length of the long side of any unit right angle triangle-- is incommensurable meaning that its decimal expansion is endless.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "however-infinity-is-hiding-even-within-a-simple-d606efa9.mp3",
+    "final_audio": "however-infinity-is-hiding-even-within-a-simple-d606efa9.mp3"
+  },
+  {
+    "input_text": "But from the point of view of a logician, formulas such as 1 plus 2 equals 3, or Euler's identity are the simplest possible. They are at the bottom of the complexity hierarchy.",
+    "input_data": {
+      "input_text": "But from the point of view of a logician, formulas such as 1 plus 2 equals 3, or Euler's identity are the simplest possible. They are at the bottom of the complexity hierarchy.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-from-the-point-of-view-of-a-logician-formulas-4029c1a8.mp3",
+    "final_audio": "but-from-the-point-of-view-of-a-logician-formulas-4029c1a8.mp3"
+  },
+  {
+    "input_text": "Using quantifiers, which are these symbols and are read as for all, and exists,",
+    "input_data": {
+      "input_text": "Using quantifiers, which are these symbols and are read as for all, and exists,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "using-quantifiers-which-are-these-symbols-and-are-fbb95b2d.mp3",
+    "final_audio": "using-quantifiers-which-are-these-symbols-and-are-fbb95b2d.mp3"
+  },
+  {
+    "input_text": "We can create more complicated formulas. For example, consider this equation, which states that the sum of the first n odd numbers is equal to n-squared. Meaning that 1 plus 3 plus 5 plus dot dot dot n-times, then it is equal to n squared.",
+    "input_data": {
+      "input_text": "We can create more complicated formulas. For example, consider this equation, which states that the sum of the first n odd numbers is equal to n-squared. Meaning that 1 plus 3 plus 5 plus dot dot dot n-times, then it is equal to n squared.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-create-more-complicated-formulas-for-d9abd13e.mp3",
+    "final_audio": "we-can-create-more-complicated-formulas-for-d9abd13e.mp3"
+  },
+  {
+    "input_text": "This is some random pattern which one notices if one looks for patterns in the natural numbers for long enough. We can convince ourselves that it is true by going through each possible value of n.",
+    "input_data": {
+      "input_text": "This is some random pattern which one notices if one looks for patterns in the natural numbers for long enough. We can convince ourselves that it is true by going through each possible value of n.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-some-random-pattern-which-one-notices-if-e54615af.mp3",
+    "final_audio": "this-is-some-random-pattern-which-one-notices-if-e54615af.mp3"
+  },
+  {
+    "input_text": "Since one is equal to 1 squared.",
+    "input_data": {
+      "input_text": "Since one is equal to 1 squared.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "since-one-is-equal-to-1-squared-e6271219.mp3",
+    "final_audio": "since-one-is-equal-to-1-squared-e6271219.mp3"
+  },
+  {
+    "input_text": "1 plus 3 is equal to 2 squared,",
+    "input_data": {
+      "input_text": "1 plus 3 is equal to 2 squared,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "1-plus-3-is-equal-to-2-squared-2817ea34.mp3",
+    "final_audio": "1-plus-3-is-equal-to-2-squared-2817ea34.mp3"
+  },
+  {
+    "input_text": "1 plus 3 plus 5 is equal to 3 squared etc.",
+    "input_data": {
+      "input_text": "1 plus 3 plus 5 is equal to 3 squared etc.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "1-plus-3-plus-5-is-equal-to-3-squared-etc-59472f7d.mp3",
+    "final_audio": "1-plus-3-plus-5-is-equal-to-3-squared-etc-59472f7d.mp3"
+  },
+  {
+    "input_text": "It seems to always hold, but how do we know that there is not some weird number, just beyond our grasp which breaks this pattern?",
+    "input_data": {
+      "input_text": "It seems to always hold, but how do we know that there is not some weird number, just beyond our grasp which breaks this pattern?",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "it-seems-to-always-hold-but-how-do-we-know-that-e1c3e679.mp3",
+    "final_audio": "it-seems-to-always-hold-but-how-do-we-know-that-e1c3e679.mp3"
+  },
+  {
+    "input_text": "Well, to evaluate a formula such as this one, we use the principle of mathematical induction.",
+    "input_data": {
+      "input_text": "Well, to evaluate a formula such as this one, we use the principle of mathematical induction.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "well-to-evaluate-a-formula-such-as-this-one-we-use-14c5a1af.mp3",
+    "final_audio": "well-to-evaluate-a-formula-such-as-this-one-we-use-14c5a1af.mp3"
+  },
+  {
+    "input_text": "Meaning that we check if it holds for n equals 1,",
+    "input_data": {
+      "input_text": "Meaning that we check if it holds for n equals 1,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "meaning-that-we-check-if-it-holds-for-n-equals-1-6a8c2153.mp3",
+    "final_audio": "meaning-that-we-check-if-it-holds-for-n-equals-1-6a8c2153.mp3"
+  },
+  {
+    "input_text": "and check that if it holds for k, then it holds for k plus 1.",
+    "input_data": {
+      "input_text": "and check that if it holds for k, then it holds for k plus 1.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-check-that-if-it-holds-for-k-then-it-holds-for-a64b6d8f.mp3",
+    "final_audio": "and-check-that-if-it-holds-for-k-then-it-holds-for-a64b6d8f.mp3"
+  },
+  {
+    "input_text": "This can be seen using dominoes.",
+    "input_data": {
+      "input_text": "This can be seen using dominoes.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-can-be-seen-using-dominoes-7bc0d486.mp3",
+    "final_audio": "this-can-be-seen-using-dominoes-7bc0d486.mp3"
+  },
+  {
+    "input_text": "I will now say, if we know that we will push the first domino over, and we know that given any domino,",
+    "input_data": {
+      "input_text": "I will now say, if we know that we will push the first domino over, and we know that given any domino,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "i-will-now-say-if-we-know-that-we-will-push-the-35d029a0.mp3",
+    "final_audio": "i-will-now-say-if-we-know-that-we-will-push-the-35d029a0.mp3"
+  },
+  {
+    "input_text": "if it falls over, then the next domino is guaranteed to fall as well,",
+    "input_data": {
+      "input_text": "if it falls over, then the next domino is guaranteed to fall as well,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-it-falls-over-then-the-next-domino-is-d0daa040.mp3",
+    "final_audio": "if-it-falls-over-then-the-next-domino-is-d0daa040.mp3"
+  },
+  {
+    "input_text": "then we can conclude that every domino will eventually fall, even if there are infinitely many.",
+    "input_data": {
+      "input_text": "then we can conclude that every domino will eventually fall, even if there are infinitely many.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-we-can-conclude-that-every-domino-will-ce0b8b43.mp3",
+    "final_audio": "then-we-can-conclude-that-every-domino-will-ce0b8b43.mp3"
+  },
+  {
+    "input_text": "In this video series we will go deep into mathematical logic to try and figure out what math is, and what it's limits are.",
+    "input_data": {
+      "input_text": "In this video series we will go deep into mathematical logic to try and figure out what math is, and what it's limits are.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-this-video-series-we-will-go-deep-into-076e04c4.mp3",
+    "final_audio": "in-this-video-series-we-will-go-deep-into-076e04c4.mp3"
+  },
+  {
+    "input_text": "For much of history math was essentially geometry, in the sense that everything we proved was grounded in some form of geometric intuition.",
+    "input_data": {
+      "input_text": "For much of history math was essentially geometry, in the sense that everything we proved was grounded in some form of geometric intuition.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-much-of-history-math-was-essentially-geometry-2cdd4ec7.mp3",
+    "final_audio": "for-much-of-history-math-was-essentially-geometry-2cdd4ec7.mp3"
+  },
+  {
+    "input_text": "Its not hard to imagine triangles, squares and circles, and as we start to study them, we can start to notice certain patterns, find different ways classify the shapes and we can find certain surprising relations between different shapes.",
+    "input_data": {
+      "input_text": "Its not hard to imagine triangles, squares and circles, and as we start to study them, we can start to notice certain patterns, find different ways classify the shapes and we can find certain surprising relations between different shapes.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "its-not-hard-to-imagine-triangles-squares-and-bb4e38db.mp3",
+    "final_audio": "its-not-hard-to-imagine-triangles-squares-and-bb4e38db.mp3"
+  },
+  {
+    "input_text": "However, infinity is hiding even within a simple triangle, as was shown by the pythagoreans that the square root of two --which is the length of the long side of any unit right angle triangle-- is incommensurable meaning that its decimal expansion is endless.",
+    "input_data": {
+      "input_text": "However, infinity is hiding even within a simple triangle, as was shown by the pythagoreans that the square root of two --which is the length of the long side of any unit right angle triangle-- is incommensurable meaning that its decimal expansion is endless.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "however-infinity-is-hiding-even-within-a-simple-d606efa9.mp3",
+    "final_audio": "however-infinity-is-hiding-even-within-a-simple-d606efa9.mp3"
+  },
+  {
+    "input_text": "So, as math, it has become further abstracted from our intuitions. By allowing more abstract ideas --such as infinity or square root of negative 1-- into mathematics allowed math to be more applicable but it comes at the cost of making math harder to wrap our heads around.",
+    "input_data": {
+      "input_text": "So, as math, it has become further abstracted from our intuitions. By allowing more abstract ideas --such as infinity or square root of negative 1-- into mathematics allowed math to be more applicable but it comes at the cost of making math harder to wrap our heads around.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-as-math-it-has-become-further-abstracted-from-cd3af122.mp3",
+    "final_audio": "so-as-math-it-has-become-further-abstracted-from-cd3af122.mp3"
+  },
+  {
+    "input_text": "I will soon make a whole video on the history of math. For now I will just say that in the 1800's mathematics had developed far beyond the intuitive realm of geometry.",
+    "input_data": {
+      "input_text": "I will soon make a whole video on the history of math. For now I will just say that in the 1800's mathematics had developed far beyond the intuitive realm of geometry.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "i-will-soon-make-a-whole-video-on-the-history-of-b030fb5c.mp3",
+    "final_audio": "i-will-soon-make-a-whole-video-on-the-history-of-b030fb5c.mp3"
+  },
+  {
+    "input_text": "Calculus had been developed which accepted the idea of points at infinity, algebra had developed significantly, and many had started to accept the existence of imaginary numbers as legitimate mathematical objects.",
+    "input_data": {
+      "input_text": "Calculus had been developed which accepted the idea of points at infinity, algebra had developed significantly, and many had started to accept the existence of imaginary numbers as legitimate mathematical objects.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "calculus-had-been-developed-which-accepted-the-b689c077.mp3",
+    "final_audio": "calculus-had-been-developed-which-accepted-the-b689c077.mp3"
+  },
+  {
+    "input_text": "However, math had branched out in so many different ways that there was no longer a simple answer to the question of: What is math?. In the 1800's people started to ground mathematics in the logic.",
+    "input_data": {
+      "input_text": "However, math had branched out in so many different ways that there was no longer a simple answer to the question of: What is math?. In the 1800's people started to ground mathematics in the logic.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "however-math-had-branched-out-in-so-many-different-9d578949.mp3",
+    "final_audio": "however-math-had-branched-out-in-so-many-different-9d578949.mp3"
+  },
+  {
+    "input_text": "To understand this, let us return to the easy stuff and consider 1+2=3. When viewed in one way, this is just an arbitrary string of five symbols.",
+    "input_data": {
+      "input_text": "To understand this, let us return to the easy stuff and consider 1+2=3. When viewed in one way, this is just an arbitrary string of five symbols.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "to-understand-this-let-us-return-to-the-easy-stuff-45273d2a.mp3",
+    "final_audio": "to-understand-this-let-us-return-to-the-easy-stuff-45273d2a.mp3"
+  },
+  {
+    "input_text": "It get's its meaning when interpreted in a structure like the natural number line, where the numbers get interpreted as we expect.",
+    "input_data": {
+      "input_text": "It get's its meaning when interpreted in a structure like the natural number line, where the numbers get interpreted as we expect.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "it-get-s-its-meaning-when-interpreted-in-a-65339cad.mp3",
+    "final_audio": "it-get-s-its-meaning-when-interpreted-in-a-65339cad.mp3"
+  },
+  {
+    "input_text": "The plus sign can be interpreted as a function --which we can see as a computer program-- which takes in two inputs and has a well-defined output.",
+    "input_data": {
+      "input_text": "The plus sign can be interpreted as a function --which we can see as a computer program-- which takes in two inputs and has a well-defined output.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-plus-sign-can-be-interpreted-as-a-function-8d81f7db.mp3",
+    "final_audio": "the-plus-sign-can-be-interpreted-as-a-function-8d81f7db.mp3"
+  },
+  {
+    "input_text": "The equality symbol just checks that the two sides of the equation map to this same element in the line, so we say that the equation holds.",
+    "input_data": {
+      "input_text": "The equality symbol just checks that the two sides of the equation map to this same element in the line, so we say that the equation holds.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-equality-symbol-just-checks-that-the-two-sides-07b9b7c7.mp3",
+    "final_audio": "the-equality-symbol-just-checks-that-the-two-sides-07b9b7c7.mp3"
+  },
+  {
+    "input_text": "Now, if we consider a more complicated equation such as Euler's identity, we see that this equation is meaningless in the natural number line, since the intended interpretations of each of the constants involved do not exist in the natural number line.",
+    "input_data": {
+      "input_text": "Now, if we consider a more complicated equation such as Euler's identity, we see that this equation is meaningless in the natural number line, since the intended interpretations of each of the constants involved do not exist in the natural number line.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-if-we-consider-a-more-complicated-equation-a6640355.mp3",
+    "final_audio": "now-if-we-consider-a-more-complicated-equation-a6640355.mp3"
+  },
+  {
+    "input_text": "To understand this equation, we require a more complex structure known as the complex plane.",
+    "input_data": {
+      "input_text": "To understand this equation, we require a more complex structure known as the complex plane.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "to-understand-this-equation-we-require-a-more-e36cc8d9.mp3",
+    "final_audio": "to-understand-this-equation-we-require-a-more-e36cc8d9.mp3"
+  },
+  {
+    "input_text": "However, once we have done this, we can evaluate it in the same way as 1+2=3. We just have map the constants to their representations in the structure,",
+    "input_data": {
+      "input_text": "However, once we have done this, we can evaluate it in the same way as 1+2=3. We just have map the constants to their representations in the structure,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "however-once-we-have-done-this-we-can-evaluate-it-b227710c.mp3",
+    "final_audio": "however-once-we-have-done-this-we-can-evaluate-it-b227710c.mp3"
+  },
+  {
+    "input_text": "and then perform the complex exponentiations function, and we can observe that the left side hand side evaluates to the same point in the structure as the interpretation of the right hand side.",
+    "input_data": {
+      "input_text": "and then perform the complex exponentiations function, and we can observe that the left side hand side evaluates to the same point in the structure as the interpretation of the right hand side.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-then-perform-the-complex-exponentiations-c0456a32.mp3",
+    "final_audio": "and-then-perform-the-complex-exponentiations-c0456a32.mp3"
+  },
+  {
+    "input_text": "3 Blue 1 Brown made an excellent video explaining why this equality holds --you can check that video out here--.",
+    "input_data": {
+      "input_text": "3 Blue 1 Brown made an excellent video explaining why this equality holds --you can check that video out here--.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "3-blue-1-brown-made-an-excellent-video-explaining-8fc28466.mp3",
+    "final_audio": "3-blue-1-brown-made-an-excellent-video-explaining-8fc28466.mp3"
+  },
+  {
+    "input_text": "But from the point of view of a logician, both of these formulas are the simplest possible. They are at the bottom of the complexity hierarchy.",
+    "input_data": {
+      "input_text": "But from the point of view of a logician, both of these formulas are the simplest possible. They are at the bottom of the complexity hierarchy.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-from-the-point-of-view-of-a-logician-both-of-c020a82f.mp3",
+    "final_audio": "but-from-the-point-of-view-of-a-logician-both-of-c020a82f.mp3"
+  },
+  {
+    "input_text": "Using quantifiers, which are these symbols and are read as for all, and exists,",
+    "input_data": {
+      "input_text": "Using quantifiers, which are these symbols and are read as for all, and exists,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "using-quantifiers-which-are-these-symbols-and-are-fbb95b2d.mp3",
+    "final_audio": "using-quantifiers-which-are-these-symbols-and-are-fbb95b2d.mp3"
+  },
+  {
+    "input_text": "We can create more complicated formulas using quantifiers. For example, consider this equation, which states that the sum of the first n odd numbers is equal to n-squared. Meaning that 1 plus 3 plus 5 plus dot dot dot n-times, then it is equal to n squared.",
+    "input_data": {
+      "input_text": "We can create more complicated formulas using quantifiers. For example, consider this equation, which states that the sum of the first n odd numbers is equal to n-squared. Meaning that 1 plus 3 plus 5 plus dot dot dot n-times, then it is equal to n squared.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-create-more-complicated-formulas-using-06ed930f.mp3",
+    "final_audio": "we-can-create-more-complicated-formulas-using-06ed930f.mp3"
+  },
+  {
+    "input_text": "This is some random pattern which one notices if one looks for patterns in the natural numbers for long enough. We can convince ourselves that it is true by going through each possible value of n.",
+    "input_data": {
+      "input_text": "This is some random pattern which one notices if one looks for patterns in the natural numbers for long enough. We can convince ourselves that it is true by going through each possible value of n.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-some-random-pattern-which-one-notices-if-e54615af.mp3",
+    "final_audio": "this-is-some-random-pattern-which-one-notices-if-e54615af.mp3"
+  },
+  {
+    "input_text": "Since one is equal to 1 squared.",
+    "input_data": {
+      "input_text": "Since one is equal to 1 squared.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "since-one-is-equal-to-1-squared-e6271219.mp3",
+    "final_audio": "since-one-is-equal-to-1-squared-e6271219.mp3"
+  },
+  {
+    "input_text": "1 plus 3 is equal to 2 squared,",
+    "input_data": {
+      "input_text": "1 plus 3 is equal to 2 squared,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "1-plus-3-is-equal-to-2-squared-2817ea34.mp3",
+    "final_audio": "1-plus-3-is-equal-to-2-squared-2817ea34.mp3"
+  },
+  {
+    "input_text": "1 plus 3 plus 5 is equal to 3 squared etc.",
+    "input_data": {
+      "input_text": "1 plus 3 plus 5 is equal to 3 squared etc.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "1-plus-3-plus-5-is-equal-to-3-squared-etc-59472f7d.mp3",
+    "final_audio": "1-plus-3-plus-5-is-equal-to-3-squared-etc-59472f7d.mp3"
+  },
+  {
+    "input_text": "It seems to always hold, but how do we know that there is not some weird number, just beyond our grasp which breaks this pattern?",
+    "input_data": {
+      "input_text": "It seems to always hold, but how do we know that there is not some weird number, just beyond our grasp which breaks this pattern?",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "it-seems-to-always-hold-but-how-do-we-know-that-e1c3e679.mp3",
+    "final_audio": "it-seems-to-always-hold-but-how-do-we-know-that-e1c3e679.mp3"
+  },
+  {
+    "input_text": "Well, to evaluate a formula such as this one, we use the principle of mathematical induction.",
+    "input_data": {
+      "input_text": "Well, to evaluate a formula such as this one, we use the principle of mathematical induction.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "well-to-evaluate-a-formula-such-as-this-one-we-use-14c5a1af.mp3",
+    "final_audio": "well-to-evaluate-a-formula-such-as-this-one-we-use-14c5a1af.mp3"
+  },
+  {
+    "input_text": "Meaning that we check if it holds for n equals 1,",
+    "input_data": {
+      "input_text": "Meaning that we check if it holds for n equals 1,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "meaning-that-we-check-if-it-holds-for-n-equals-1-6a8c2153.mp3",
+    "final_audio": "meaning-that-we-check-if-it-holds-for-n-equals-1-6a8c2153.mp3"
+  },
+  {
+    "input_text": "and check that if it holds for k, then it holds for k plus 1.",
+    "input_data": {
+      "input_text": "and check that if it holds for k, then it holds for k plus 1.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-check-that-if-it-holds-for-k-then-it-holds-for-a64b6d8f.mp3",
+    "final_audio": "and-check-that-if-it-holds-for-k-then-it-holds-for-a64b6d8f.mp3"
+  },
+  {
+    "input_text": "This can be seen using dominoes.",
+    "input_data": {
+      "input_text": "This can be seen using dominoes.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-can-be-seen-using-dominoes-7bc0d486.mp3",
+    "final_audio": "this-can-be-seen-using-dominoes-7bc0d486.mp3"
+  },
+  {
+    "input_text": "I will now say, if we know that we will push the first domino over, and we know that given any domino,",
+    "input_data": {
+      "input_text": "I will now say, if we know that we will push the first domino over, and we know that given any domino,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "i-will-now-say-if-we-know-that-we-will-push-the-35d029a0.mp3",
+    "final_audio": "i-will-now-say-if-we-know-that-we-will-push-the-35d029a0.mp3"
+  },
+  {
+    "input_text": "if it falls over, then the next domino is guaranteed to fall as well,",
+    "input_data": {
+      "input_text": "if it falls over, then the next domino is guaranteed to fall as well,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-it-falls-over-then-the-next-domino-is-d0daa040.mp3",
+    "final_audio": "if-it-falls-over-then-the-next-domino-is-d0daa040.mp3"
+  },
+  {
+    "input_text": "then we can conclude that every domino will eventually fall, even if there are infinitely many.",
+    "input_data": {
+      "input_text": "then we can conclude that every domino will eventually fall, even if there are infinitely many.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-we-can-conclude-that-every-domino-will-ce0b8b43.mp3",
+    "final_audio": "then-we-can-conclude-that-every-domino-will-ce0b8b43.mp3"
+  },
+  {
+    "input_text": "In this video series we will go deep into mathematical logic to try and figure out what math is, and what it's limits are.",
+    "input_data": {
+      "input_text": "In this video series we will go deep into mathematical logic to try and figure out what math is, and what it's limits are.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-this-video-series-we-will-go-deep-into-076e04c4.mp3",
+    "final_audio": "in-this-video-series-we-will-go-deep-into-076e04c4.mp3"
+  },
+  {
+    "input_text": "For much of history math was essentially geometry, in the sense that everything we proved was grounded in some form of geometric intuition.",
+    "input_data": {
+      "input_text": "For much of history math was essentially geometry, in the sense that everything we proved was grounded in some form of geometric intuition.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-much-of-history-math-was-essentially-geometry-2cdd4ec7.mp3",
+    "final_audio": "for-much-of-history-math-was-essentially-geometry-2cdd4ec7.mp3"
+  },
+  {
+    "input_text": "Its not hard to imagine triangles, squares and circles, and as we start to study them, we can start to notice certain patterns, find different ways classify the shapes and we can find certain surprising relations between different shapes.",
+    "input_data": {
+      "input_text": "Its not hard to imagine triangles, squares and circles, and as we start to study them, we can start to notice certain patterns, find different ways classify the shapes and we can find certain surprising relations between different shapes.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "its-not-hard-to-imagine-triangles-squares-and-bb4e38db.mp3",
+    "final_audio": "its-not-hard-to-imagine-triangles-squares-and-bb4e38db.mp3"
+  },
+  {
+    "input_text": "However, infinity is hiding even within a simple triangle, as was shown by the pythagoreans that the square root of two --which is the length of the long side of any unit right angle triangle-- is incommensurable meaning that its decimal expansion is endless.",
+    "input_data": {
+      "input_text": "However, infinity is hiding even within a simple triangle, as was shown by the pythagoreans that the square root of two --which is the length of the long side of any unit right angle triangle-- is incommensurable meaning that its decimal expansion is endless.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "however-infinity-is-hiding-even-within-a-simple-d606efa9.mp3",
+    "final_audio": "however-infinity-is-hiding-even-within-a-simple-d606efa9.mp3"
+  },
+  {
+    "input_text": "Allowing more abstract ideas into mathematics broadened the scope of math, and made it more applicable in the real world. But this came at the cost of making math harder to wrap our heads around.",
+    "input_data": {
+      "input_text": "Allowing more abstract ideas into mathematics broadened the scope of math, and made it more applicable in the real world. But this came at the cost of making math harder to wrap our heads around.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "allowing-more-abstract-ideas-into-mathematics-6ff07d3f.mp3",
+    "final_audio": "allowing-more-abstract-ideas-into-mathematics-6ff07d3f.mp3"
+  },
+  {
+    "input_text": "In this video series we will go deep into mathematical logic to try and figure out what math is, and what it's limits are.",
+    "input_data": {
+      "input_text": "In this video series we will go deep into mathematical logic to try and figure out what math is, and what it's limits are.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-this-video-series-we-will-go-deep-into-076e04c4.mp3",
+    "final_audio": "in-this-video-series-we-will-go-deep-into-076e04c4.mp3"
+  },
+  {
+    "input_text": "For much of history math was essentially geometry, in the sense that everything we proved was grounded in some form of geometric intuition.",
+    "input_data": {
+      "input_text": "For much of history math was essentially geometry, in the sense that everything we proved was grounded in some form of geometric intuition.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-much-of-history-math-was-essentially-geometry-2cdd4ec7.mp3",
+    "final_audio": "for-much-of-history-math-was-essentially-geometry-2cdd4ec7.mp3"
+  },
+  {
+    "input_text": "Its not hard to imagine triangles, squares and circles, and as we start to study them, we can start to notice certain patterns, find different ways classify the shapes and we can find certain surprising relations between different shapes.",
+    "input_data": {
+      "input_text": "Its not hard to imagine triangles, squares and circles, and as we start to study them, we can start to notice certain patterns, find different ways classify the shapes and we can find certain surprising relations between different shapes.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "its-not-hard-to-imagine-triangles-squares-and-bb4e38db.mp3",
+    "final_audio": "its-not-hard-to-imagine-triangles-squares-and-bb4e38db.mp3"
+  },
+  {
+    "input_text": "However, infinity is hiding even within a simple triangle, as was shown by the pythagoreans that the square root of two --which is the length of the long side of any unit right angle triangle-- is incommensurable meaning that its decimal expansion is endless.",
+    "input_data": {
+      "input_text": "However, infinity is hiding even within a simple triangle, as was shown by the pythagoreans that the square root of two --which is the length of the long side of any unit right angle triangle-- is incommensurable meaning that its decimal expansion is endless.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "however-infinity-is-hiding-even-within-a-simple-d606efa9.mp3",
+    "final_audio": "however-infinity-is-hiding-even-within-a-simple-d606efa9.mp3"
+  },
+  {
+    "input_text": "Allowing more abstract ideas into mathematics broadened the scope of math, and made it more applicable in the real world. But this came at the cost of making math harder to wrap our heads around.",
+    "input_data": {
+      "input_text": "Allowing more abstract ideas into mathematics broadened the scope of math, and made it more applicable in the real world. But this came at the cost of making math harder to wrap our heads around.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "allowing-more-abstract-ideas-into-mathematics-6ff07d3f.mp3",
+    "final_audio": "allowing-more-abstract-ideas-into-mathematics-6ff07d3f.mp3"
+  },
+  {
+    "input_text": "For now I will just say that in the 1800's mathematics had developed far beyond the intuitive realm of geometry.",
+    "input_data": {
+      "input_text": "For now I will just say that in the 1800's mathematics had developed far beyond the intuitive realm of geometry.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-now-i-will-just-say-that-in-the-1800-s-cf944cb5.mp3",
+    "final_audio": "for-now-i-will-just-say-that-in-the-1800-s-cf944cb5.mp3"
+  },
+  {
+    "input_text": "However, math had branched out in so many different ways, that it was hard to pin down what math was. This prompted people in the 1800's to attempt to ground mathematics in the logic.",
+    "input_data": {
+      "input_text": "However, math had branched out in so many different ways, that it was hard to pin down what math was. This prompted people in the 1800's to attempt to ground mathematics in the logic.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "however-math-had-branched-out-in-so-many-different-b0f7d8d1.mp3",
+    "final_audio": "however-math-had-branched-out-in-so-many-different-b0f7d8d1.mp3"
+  },
+  {
+    "input_text": "In this video series we will go deep into mathematical logic to try and figure out what math is, and what it's limits are.",
+    "input_data": {
+      "input_text": "In this video series we will go deep into mathematical logic to try and figure out what math is, and what it's limits are.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-this-video-series-we-will-go-deep-into-076e04c4.mp3",
+    "final_audio": "in-this-video-series-we-will-go-deep-into-076e04c4.mp3"
+  },
+  {
+    "input_text": "For much of history math was essentially geometry, in the sense that everything we proved was grounded in some form of geometric intuition.",
+    "input_data": {
+      "input_text": "For much of history math was essentially geometry, in the sense that everything we proved was grounded in some form of geometric intuition.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-much-of-history-math-was-essentially-geometry-2cdd4ec7.mp3",
+    "final_audio": "for-much-of-history-math-was-essentially-geometry-2cdd4ec7.mp3"
+  },
+  {
+    "input_text": "Its not hard to imagine triangles, squares and circles, and as we start to study them, we can start to notice certain patterns, find different ways classify the shapes and we can find certain surprising relations between different shapes.",
+    "input_data": {
+      "input_text": "Its not hard to imagine triangles, squares and circles, and as we start to study them, we can start to notice certain patterns, find different ways classify the shapes and we can find certain surprising relations between different shapes.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "its-not-hard-to-imagine-triangles-squares-and-bb4e38db.mp3",
+    "final_audio": "its-not-hard-to-imagine-triangles-squares-and-bb4e38db.mp3"
+  },
+  {
+    "input_text": "However, infinity is hiding even within a simple triangle, as was shown by the pythagoreans that the square root of two --which is the length of the long side of any unit right angle triangle-- is incommensurable meaning that its decimal expansion is endless.",
+    "input_data": {
+      "input_text": "However, infinity is hiding even within a simple triangle, as was shown by the pythagoreans that the square root of two --which is the length of the long side of any unit right angle triangle-- is incommensurable meaning that its decimal expansion is endless.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "however-infinity-is-hiding-even-within-a-simple-d606efa9.mp3",
+    "final_audio": "however-infinity-is-hiding-even-within-a-simple-d606efa9.mp3"
+  },
+  {
+    "input_text": "Allowing more abstract ideas into mathematics broadened the scope of math, and made it more applicable in the real world. But this came at the cost of making math harder to wrap our heads around.",
+    "input_data": {
+      "input_text": "Allowing more abstract ideas into mathematics broadened the scope of math, and made it more applicable in the real world. But this came at the cost of making math harder to wrap our heads around.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "allowing-more-abstract-ideas-into-mathematics-6ff07d3f.mp3",
+    "final_audio": "allowing-more-abstract-ideas-into-mathematics-6ff07d3f.mp3"
+  },
+  {
+    "input_text": "For now I will just say that in the 1800's mathematics had developed far beyond the intuitive realm of geometry.",
+    "input_data": {
+      "input_text": "For now I will just say that in the 1800's mathematics had developed far beyond the intuitive realm of geometry.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-now-i-will-just-say-that-in-the-1800-s-cf944cb5.mp3",
+    "final_audio": "for-now-i-will-just-say-that-in-the-1800-s-cf944cb5.mp3"
+  },
+  {
+    "input_text": "However, math had branched out in so many different ways, that it was hard to pin down what math was. This prompted people in the 1800's to attempt to ground mathematics in the logic.",
+    "input_data": {
+      "input_text": "However, math had branched out in so many different ways, that it was hard to pin down what math was. This prompted people in the 1800's to attempt to ground mathematics in the logic.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "however-math-had-branched-out-in-so-many-different-b0f7d8d1.mp3",
+    "final_audio": "however-math-had-branched-out-in-so-many-different-b0f7d8d1.mp3"
+  },
+  {
+    "input_text": "To understand this, let us return to the easy stuff and consider 1+2=3. When viewed in one way, this is just an arbitrary string of five symbols.",
+    "input_data": {
+      "input_text": "To understand this, let us return to the easy stuff and consider 1+2=3. When viewed in one way, this is just an arbitrary string of five symbols.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "to-understand-this-let-us-return-to-the-easy-stuff-45273d2a.mp3",
+    "final_audio": "to-understand-this-let-us-return-to-the-easy-stuff-45273d2a.mp3"
+  },
+  {
+    "input_text": "It get's its meaning when interpreted in a structure like the natural number line, where the numbers get interpreted as we expect.",
+    "input_data": {
+      "input_text": "It get's its meaning when interpreted in a structure like the natural number line, where the numbers get interpreted as we expect.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "it-get-s-its-meaning-when-interpreted-in-a-65339cad.mp3",
+    "final_audio": "it-get-s-its-meaning-when-interpreted-in-a-65339cad.mp3"
+  },
+  {
+    "input_text": "The plus sign can be interpreted as a function --which we can see as a computer program-- which takes in two inputs and has a well-defined output.",
+    "input_data": {
+      "input_text": "The plus sign can be interpreted as a function --which we can see as a computer program-- which takes in two inputs and has a well-defined output.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-plus-sign-can-be-interpreted-as-a-function-8d81f7db.mp3",
+    "final_audio": "the-plus-sign-can-be-interpreted-as-a-function-8d81f7db.mp3"
+  },
+  {
+    "input_text": "The equality symbol just checks that the two sides of the equation map to this same element in the line, so we say that the equation holds.",
+    "input_data": {
+      "input_text": "The equality symbol just checks that the two sides of the equation map to this same element in the line, so we say that the equation holds.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-equality-symbol-just-checks-that-the-two-sides-07b9b7c7.mp3",
+    "final_audio": "the-equality-symbol-just-checks-that-the-two-sides-07b9b7c7.mp3"
+  },
+  {
+    "input_text": "Now, if we consider a more complicated equation such as Euler's identity, we see that this equation is meaningless in the natural number line, since the intended interpretations of each of the constants involved do not exist in the natural number line.",
+    "input_data": {
+      "input_text": "Now, if we consider a more complicated equation such as Euler's identity, we see that this equation is meaningless in the natural number line, since the intended interpretations of each of the constants involved do not exist in the natural number line.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-if-we-consider-a-more-complicated-equation-a6640355.mp3",
+    "final_audio": "now-if-we-consider-a-more-complicated-equation-a6640355.mp3"
+  },
+  {
+    "input_text": "To understand this equation, we require a more complex structure known as the complex plane.",
+    "input_data": {
+      "input_text": "To understand this equation, we require a more complex structure known as the complex plane.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "to-understand-this-equation-we-require-a-more-e36cc8d9.mp3",
+    "final_audio": "to-understand-this-equation-we-require-a-more-e36cc8d9.mp3"
+  },
+  {
+    "input_text": "However, once we have done this, we can evaluate it in the same way as 1+2=3. We just have map the constants to their representations in the structure,",
+    "input_data": {
+      "input_text": "However, once we have done this, we can evaluate it in the same way as 1+2=3. We just have map the constants to their representations in the structure,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "however-once-we-have-done-this-we-can-evaluate-it-b227710c.mp3",
+    "final_audio": "however-once-we-have-done-this-we-can-evaluate-it-b227710c.mp3"
+  },
+  {
+    "input_text": "and then perform the complex exponentiations function, and we can observe that the left side hand side evaluates to the same point in the structure as the interpretation of the right hand side.",
+    "input_data": {
+      "input_text": "and then perform the complex exponentiations function, and we can observe that the left side hand side evaluates to the same point in the structure as the interpretation of the right hand side.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-then-perform-the-complex-exponentiations-c0456a32.mp3",
+    "final_audio": "and-then-perform-the-complex-exponentiations-c0456a32.mp3"
+  },
+  {
+    "input_text": "3 Blue 1 Brown made an excellent video explaining why this equality holds --you can check that video out here--.",
+    "input_data": {
+      "input_text": "3 Blue 1 Brown made an excellent video explaining why this equality holds --you can check that video out here--.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "3-blue-1-brown-made-an-excellent-video-explaining-8fc28466.mp3",
+    "final_audio": "3-blue-1-brown-made-an-excellent-video-explaining-8fc28466.mp3"
+  },
+  {
+    "input_text": "But from the point of view of a logician, both of these formulas are the simplest possible. They are at the bottom of the complexity hierarchy.",
+    "input_data": {
+      "input_text": "But from the point of view of a logician, both of these formulas are the simplest possible. They are at the bottom of the complexity hierarchy.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-from-the-point-of-view-of-a-logician-both-of-c020a82f.mp3",
+    "final_audio": "but-from-the-point-of-view-of-a-logician-both-of-c020a82f.mp3"
+  },
+  {
+    "input_text": "Using quantifiers, which are these symbols and are read as for all, and exists,",
+    "input_data": {
+      "input_text": "Using quantifiers, which are these symbols and are read as for all, and exists,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "using-quantifiers-which-are-these-symbols-and-are-fbb95b2d.mp3",
+    "final_audio": "using-quantifiers-which-are-these-symbols-and-are-fbb95b2d.mp3"
+  },
+  {
+    "input_text": "We can create more complicated formulas using quantifiers. For example, consider this equation, which states that the sum of the first n odd numbers is equal to n-squared. Meaning that 1 plus 3 plus 5 plus dot dot dot n-times, then it is equal to n squared.",
+    "input_data": {
+      "input_text": "We can create more complicated formulas using quantifiers. For example, consider this equation, which states that the sum of the first n odd numbers is equal to n-squared. Meaning that 1 plus 3 plus 5 plus dot dot dot n-times, then it is equal to n squared.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-create-more-complicated-formulas-using-06ed930f.mp3",
+    "final_audio": "we-can-create-more-complicated-formulas-using-06ed930f.mp3"
+  },
+  {
+    "input_text": "This is some random pattern which one notices if one looks for patterns in the natural numbers for long enough. We can convince ourselves that it is true by going through each possible value of n.",
+    "input_data": {
+      "input_text": "This is some random pattern which one notices if one looks for patterns in the natural numbers for long enough. We can convince ourselves that it is true by going through each possible value of n.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-some-random-pattern-which-one-notices-if-e54615af.mp3",
+    "final_audio": "this-is-some-random-pattern-which-one-notices-if-e54615af.mp3"
+  },
+  {
+    "input_text": "Since one is equal to 1 squared.",
+    "input_data": {
+      "input_text": "Since one is equal to 1 squared.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "since-one-is-equal-to-1-squared-e6271219.mp3",
+    "final_audio": "since-one-is-equal-to-1-squared-e6271219.mp3"
+  },
+  {
+    "input_text": "1 plus 3 is equal to 2 squared,",
+    "input_data": {
+      "input_text": "1 plus 3 is equal to 2 squared,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "1-plus-3-is-equal-to-2-squared-2817ea34.mp3",
+    "final_audio": "1-plus-3-is-equal-to-2-squared-2817ea34.mp3"
+  },
+  {
+    "input_text": "1 plus 3 plus 5 is equal to 3 squared etc.",
+    "input_data": {
+      "input_text": "1 plus 3 plus 5 is equal to 3 squared etc.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "1-plus-3-plus-5-is-equal-to-3-squared-etc-59472f7d.mp3",
+    "final_audio": "1-plus-3-plus-5-is-equal-to-3-squared-etc-59472f7d.mp3"
+  },
+  {
+    "input_text": "It seems to always hold, but how do we know that there is not some weird number, just beyond our grasp which breaks this pattern?",
+    "input_data": {
+      "input_text": "It seems to always hold, but how do we know that there is not some weird number, just beyond our grasp which breaks this pattern?",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "it-seems-to-always-hold-but-how-do-we-know-that-e1c3e679.mp3",
+    "final_audio": "it-seems-to-always-hold-but-how-do-we-know-that-e1c3e679.mp3"
+  },
+  {
+    "input_text": "Well, to evaluate a formula such as this one, we use the principle of mathematical induction.",
+    "input_data": {
+      "input_text": "Well, to evaluate a formula such as this one, we use the principle of mathematical induction.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "well-to-evaluate-a-formula-such-as-this-one-we-use-14c5a1af.mp3",
+    "final_audio": "well-to-evaluate-a-formula-such-as-this-one-we-use-14c5a1af.mp3"
+  },
+  {
+    "input_text": "Meaning that we check if it holds for n equals 1,",
+    "input_data": {
+      "input_text": "Meaning that we check if it holds for n equals 1,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "meaning-that-we-check-if-it-holds-for-n-equals-1-6a8c2153.mp3",
+    "final_audio": "meaning-that-we-check-if-it-holds-for-n-equals-1-6a8c2153.mp3"
+  },
+  {
+    "input_text": "and check that if it holds for k, then it holds for k plus 1.",
+    "input_data": {
+      "input_text": "and check that if it holds for k, then it holds for k plus 1.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-check-that-if-it-holds-for-k-then-it-holds-for-a64b6d8f.mp3",
+    "final_audio": "and-check-that-if-it-holds-for-k-then-it-holds-for-a64b6d8f.mp3"
+  },
+  {
+    "input_text": "This can be seen using dominoes.",
+    "input_data": {
+      "input_text": "This can be seen using dominoes.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-can-be-seen-using-dominoes-7bc0d486.mp3",
+    "final_audio": "this-can-be-seen-using-dominoes-7bc0d486.mp3"
+  },
+  {
+    "input_text": "I will now say, if we know that we will push the first domino over,",
+    "input_data": {
+      "input_text": "I will now say, if we know that we will push the first domino over,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "i-will-now-say-if-we-know-that-we-will-push-the-8a95dc73.mp3",
+    "final_audio": "i-will-now-say-if-we-know-that-we-will-push-the-8a95dc73.mp3"
+  },
+  {
+    "input_text": "and we know that given any domino,",
+    "input_data": {
+      "input_text": "and we know that given any domino,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-we-know-that-given-any-domino-feed5017.mp3",
+    "final_audio": "and-we-know-that-given-any-domino-feed5017.mp3"
+  },
+  {
+    "input_text": "if it falls over, then the next domino is guaranteed to fall as well,",
+    "input_data": {
+      "input_text": "if it falls over, then the next domino is guaranteed to fall as well,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-it-falls-over-then-the-next-domino-is-d0daa040.mp3",
+    "final_audio": "if-it-falls-over-then-the-next-domino-is-d0daa040.mp3"
+  },
+  {
+    "input_text": "then we can conclude that every domino will eventually fall, even if there are infinitely many.",
+    "input_data": {
+      "input_text": "then we can conclude that every domino will eventually fall, even if there are infinitely many.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-we-can-conclude-that-every-domino-will-ce0b8b43.mp3",
+    "final_audio": "then-we-can-conclude-that-every-domino-will-ce0b8b43.mp3"
+  }
+]

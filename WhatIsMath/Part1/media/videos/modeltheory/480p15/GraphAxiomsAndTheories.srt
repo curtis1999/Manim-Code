@@ -1,0 +1,220 @@
+1
+00:00:00,000 --> 00:00:02,142
+We need to define axioms to determine
+
+2
+00:00:02,242 --> 00:00:04,445
+the behaviour of this edge relation E.
+
+3
+00:00:04,533 --> 00:00:08,085
+Without any axioms, every possible combination of points and all possible
+
+4
+00:00:08,185 --> 00:00:10,937
+arrows drawn between them is a model of our empty theory.
+
+5
+00:00:11,000 --> 00:00:14,322
+An axiom can be any FOL sentence.
+
+6
+00:00:14,400 --> 00:00:16,128
+For example, we can consider
+
+7
+00:00:16,228 --> 00:00:18,871
+this formula phi, expressing transitivity,
+
+8
+00:00:19,000 --> 00:00:21,644
+meaning that if there is some path between nodes,
+
+9
+00:00:21,744 --> 00:00:24,333
+then there is a direct path between these nodes.
+
+10
+00:00:25,466 --> 00:00:30,348
+Or this sentence psi expressing irreflexivity, which enforces that any
+
+11
+00:00:30,448 --> 00:00:34,405
+model of it must not contain any self-referential arrows.
+
+12
+00:00:34,533 --> 00:00:37,829
+We can combine the sentences, and consider the collection
+
+13
+00:00:37,929 --> 00:00:40,748
+of all structures which satisfy both phi and psi,
+
+14
+00:00:40,848 --> 00:00:44,621
+i.e. the collection of all transitive and irreflexive structures.
+
+15
+00:00:44,666 --> 00:00:48,691
+In general, given any collection of sentences Sigma, this is the
+
+16
+00:00:48,791 --> 00:00:51,850
+model set of Sigma, and it is the set of possible
+
+17
+00:00:51,950 --> 00:00:55,459
+structures which satisfy each of the sentences in Sigma.
+
+18
+00:00:55,533 --> 00:01:00,254
+Note that if Sigma contains an unsatisfiable sentence, such as x
+
+19
+00:01:00,354 --> 00:01:03,870
+is not equal to x, then Mod Sigma will be empty.
+
+20
+00:01:03,933 --> 00:01:06,814
+And the soundness of First order logic, tells us
+
+21
+00:01:06,914 --> 00:01:09,919
+that if our set of sentence Sigma is consistent...
+
+22
+00:01:10,000 --> 00:01:12,233
+then there is at least one model out
+
+23
+00:01:12,333 --> 00:01:15,150
+there which satisfies every formula in Sigma.
+
+24
+00:01:15,200 --> 00:01:17,441
+We see that this is based on a platonistic
+
+25
+00:01:17,541 --> 00:01:21,343
+vision of mathematics, where mathematical structures are pre-existing,
+
+26
+00:01:22,400 --> 00:01:26,113
+and we can characterize them using first order sentences.
+
+27
+00:01:28,200 --> 00:01:30,992
+If we start to study the general structure of
+
+28
+00:01:31,092 --> 00:01:34,655
+the models in Mod({phi,psi}), we might notice some things
+
+29
+00:01:34,755 --> 00:01:37,033
+in common to all of these structures.
+
+30
+00:01:37,133 --> 00:01:43,198
+For example we may notice that in none of them do we have aEb and bEa.
+
+31
+00:01:43,266 --> 00:01:45,550
+We can easily see why, since if we did have
+
+32
+00:01:45,650 --> 00:01:48,600
+such an edge in a transitive and irreflexive structure,
+
+33
+00:01:48,666 --> 00:01:53,085
+then by transitivity we should have a direct path a to a.
+
+34
+00:01:53,200 --> 00:01:56,835
+But then the structure is not irreflexive, a contradiction.
+
+35
+00:01:58,000 --> 00:01:59,592
+So, we see that adding this
+
+36
+00:01:59,692 --> 00:02:02,602
+sentence chi expressing assymetry, is redundant,
+
+37
+00:02:02,666 --> 00:02:08,339
+in the sense that Mod(phi,psi,chi) = Mod(phi,psi).
+
+38
+00:02:08,400 --> 00:02:14,830
+We denote this by {phi,psi} models chi.
+
+39
+00:02:14,866 --> 00:02:18,621
+Recall that the deductive completeness of our calculus gives
+
+40
+00:02:18,721 --> 00:02:21,127
+us a guarantee that there is a proof of
+
+41
+00:02:21,227 --> 00:02:24,275
+chi from the axioms using phi,psi as assumptions.
+
+42
+00:02:25,333 --> 00:02:30,082
+Moving back to the world of syntax, as mentioned earlier, this
+
+43
+00:02:30,182 --> 00:02:34,619
+can be seen as a computational process, where at first the
+
+44
+00:02:34,719 --> 00:02:38,764
+axioms are put in, and derive a new formula like chi.
+
+45
+00:02:38,800 --> 00:02:43,728
+Once we have derived chi, we can use
+
+46
+00:02:43,828 --> 00:02:48,757
+it to prove more theorems and so on.
+
+47
+00:02:48,866 --> 00:02:53,076
+In this scenario, we would say that phi and psi are axioms,
+
+48
+00:02:53,133 --> 00:02:56,847
+and the consequences of phi and psi are theorems.
+
+49
+00:02:56,933 --> 00:03:01,169
+The theory of {phi,psi} is the set of all such theorems.
+
+50
+00:03:01,266 --> 00:03:04,907
+And note that as a consequence of soundness, all of these
+
+51
+00:03:05,007 --> 00:03:09,107
+theorems are satisfied in every model which satisfy phi and psi.
+
+52
+00:03:09,200 --> 00:03:13,062
+I.e. each theorem is satisfied in every transitive and irreflexive
+
+53
+00:03:13,162 --> 00:03:15,883
+structure. So we can see that the theorems of a
+
+54
+00:03:15,983 --> 00:03:18,945
+given set of sentences Sigma are exactly the set of
+
+55
+00:03:19,045 --> 00:03:21,586
+sentences satisfied by every model of Sigma.
+

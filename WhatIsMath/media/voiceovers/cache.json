@@ -3283,5 +3283,365 @@
     },
     "original_audio": "for-the-quantifiers-an-expression-for-all-x-phi-x-0ea68d1f.mp3",
     "final_audio": "for-the-quantifiers-an-expression-for-all-x-phi-x-0ea68d1f.mp3"
+  },
+  {
+    "input_text": "The first important concept is the difference between syntax and semantics.",
+    "input_data": {
+      "input_text": "The first important concept is the difference between syntax and semantics.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-first-important-concept-is-the-difference-925d5c71.mp3",
+    "final_audio": "the-first-important-concept-is-the-difference-925d5c71.mp3"
+  },
+  {
+    "input_text": "The syntax deals with the sets of formulas themselves. It is a mechanical process which could be carried out by a machine.",
+    "input_data": {
+      "input_text": "The syntax deals with the sets of formulas themselves. It is a mechanical process which could be carried out by a machine.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-syntax-deals-with-the-sets-of-formulas-31677a78.mp3",
+    "final_audio": "the-syntax-deals-with-the-sets-of-formulas-31677a78.mp3"
+  },
+  {
+    "input_text": "The semantics deals with the interpretation of these symbols and is where our intuition lies. Here we can image a platonic world of mathematical structures.",
+    "input_data": {
+      "input_text": "The semantics deals with the interpretation of these symbols and is where our intuition lies. Here we can image a platonic world of mathematical structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-semantics-deals-with-the-interpretation-of-11e35fbc.mp3",
+    "final_audio": "the-semantics-deals-with-the-interpretation-of-11e35fbc.mp3"
+  },
+  {
+    "input_text": "Truth in the syntactical side is given by a valid proof in a deductive calculus. We represent this by this relation:",
+    "input_data": {
+      "input_text": "Truth in the syntactical side is given by a valid proof in a deductive calculus. We represent this by this relation:",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "truth-in-the-syntactical-side-is-given-by-a-valid-937d88ca.mp3",
+    "final_audio": "truth-in-the-syntactical-side-is-given-by-a-valid-937d88ca.mp3"
+  },
+  {
+    "input_text": "and it means that there is a formal proof of phi from Sigma. Proofs are computational processes which can be visualized by a proof-tree.",
+    "input_data": {
+      "input_text": "and it means that there is a formal proof of phi from Sigma. Proofs are computational processes which can be visualized by a proof-tree.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-it-means-that-there-is-a-formal-proof-of-phi-c9d07496.mp3",
+    "final_audio": "and-it-means-that-there-is-a-formal-proof-of-phi-c9d07496.mp3"
+  },
+  {
+    "input_text": "Truth in the semantical side is based on Tarki's definition of truth. Namely that something is true iff it is true in all models. Here this relation:",
+    "input_data": {
+      "input_text": "Truth in the semantical side is based on Tarki's definition of truth. Namely that something is true iff it is true in all models. Here this relation:",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "truth-in-the-semantical-side-is-based-on-tarki-s-d7313f54.mp3",
+    "final_audio": "truth-in-the-semantical-side-is-based-on-tarki-s-d7313f54.mp3"
+  },
+  {
+    "input_text": "which is read as Sigma models phi, means that in every structure where Sigma is satisfied phi is also satisfied. In other words, there is no structure in the mathemtatical universe, which satisfies Sigma but does not satisfy phi.",
+    "input_data": {
+      "input_text": "which is read as Sigma models phi, means that in every structure where Sigma is satisfied phi is also satisfied. In other words, there is no structure in the mathemtatical universe, which satisfies Sigma but does not satisfy phi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "which-is-read-as-sigma-models-phi-means-that-in-e8f0b577.mp3",
+    "final_audio": "which-is-read-as-sigma-models-phi-means-that-in-e8f0b577.mp3"
+  },
+  {
+    "input_text": "For example, if we have an order relation in our vocabulary and Sigma is the set of sentences expressing that the order relation is transitive, meaning that for all a, b and c: if a is less than b and b is less than c then a is less than c,",
+    "input_data": {
+      "input_text": "For example, if we have an order relation in our vocabulary and Sigma is the set of sentences expressing that the order relation is transitive, meaning that for all a, b and c: if a is less than b and b is less than c then a is less than c,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-if-we-have-an-order-relation-in-our-8e0a5f65.mp3",
+    "final_audio": "for-example-if-we-have-an-order-relation-in-our-8e0a5f65.mp3"
+  },
+  {
+    "input_text": "and irreflexive, meaning that for all a: a is not less than a,",
+    "input_data": {
+      "input_text": "and irreflexive, meaning that for all a: a is not less than a,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-irreflexive-meaning-that-for-all-a-a-is-not-f9225f55.mp3",
+    "final_audio": "and-irreflexive-meaning-that-for-all-a-a-is-not-f9225f55.mp3"
+  },
+  {
+    "input_text": "and we let phi be the sentence expressing that the order relation is assymetric: meaning that for all a, b: if a is less than b then b is not less than a.",
+    "input_data": {
+      "input_text": "and we let phi be the sentence expressing that the order relation is assymetric: meaning that for all a, b: if a is less than b then b is not less than a.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-we-let-phi-be-the-sentence-expressing-that-the-79ab34fb.mp3",
+    "final_audio": "and-we-let-phi-be-the-sentence-expressing-that-the-79ab34fb.mp3"
+  },
+  {
+    "input_text": "then we can show that indeed Sigma models phi, since all possible transitive and irreflexive structure are also assymetic. So, we have two different worlds, the mechanical world of syntax and the intuitive world of semantics. It is natural to wonder what is the relation between these worlds.",
+    "input_data": {
+      "input_text": "then we can show that indeed Sigma models phi, since all possible transitive and irreflexive structure are also assymetic. So, we have two different worlds, the mechanical world of syntax and the intuitive world of semantics. It is natural to wonder what is the relation between these worlds.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-we-can-show-that-indeed-sigma-models-phi-0c7d635f.mp3",
+    "final_audio": "then-we-can-show-that-indeed-sigma-models-phi-0c7d635f.mp3"
+  },
+  {
+    "input_text": "In 1929, Godel proved that for First order logic, these two relations are equivalent. To understand this, we will have to dive into the basics of mathematical logic.",
+    "input_data": {
+      "input_text": "In 1929, Godel proved that for First order logic, these two relations are equivalent. To understand this, we will have to dive into the basics of mathematical logic.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-1929-godel-proved-that-for-first-order-logic-13bdadfa.mp3",
+    "final_audio": "in-1929-godel-proved-that-for-first-order-logic-13bdadfa.mp3"
+  },
+  {
+    "input_text": "The first important concept is the difference between syntax and semantics.",
+    "input_data": {
+      "input_text": "The first important concept is the difference between syntax and semantics.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-first-important-concept-is-the-difference-925d5c71.mp3",
+    "final_audio": "the-first-important-concept-is-the-difference-925d5c71.mp3"
+  },
+  {
+    "input_text": "The syntax deals with the sets of formulas themselves. It is a mechanical process which could be carried out by a machine.",
+    "input_data": {
+      "input_text": "The syntax deals with the sets of formulas themselves. It is a mechanical process which could be carried out by a machine.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-syntax-deals-with-the-sets-of-formulas-31677a78.mp3",
+    "final_audio": "the-syntax-deals-with-the-sets-of-formulas-31677a78.mp3"
+  },
+  {
+    "input_text": "The semantics deals with the interpretation of these symbols and is where our intuition lies. Here we can image a platonic world of mathematical structures.",
+    "input_data": {
+      "input_text": "The semantics deals with the interpretation of these symbols and is where our intuition lies. Here we can image a platonic world of mathematical structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-semantics-deals-with-the-interpretation-of-11e35fbc.mp3",
+    "final_audio": "the-semantics-deals-with-the-interpretation-of-11e35fbc.mp3"
+  },
+  {
+    "input_text": "Truth in the syntactical side is given by a valid proof in a deductive calculus. We represent this by this relation:",
+    "input_data": {
+      "input_text": "Truth in the syntactical side is given by a valid proof in a deductive calculus. We represent this by this relation:",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "truth-in-the-syntactical-side-is-given-by-a-valid-937d88ca.mp3",
+    "final_audio": "truth-in-the-syntactical-side-is-given-by-a-valid-937d88ca.mp3"
+  },
+  {
+    "input_text": "and it means that there is a formal proof of phi from Sigma. Proofs are computational processes which can be visualized by a proof-tree.",
+    "input_data": {
+      "input_text": "and it means that there is a formal proof of phi from Sigma. Proofs are computational processes which can be visualized by a proof-tree.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-it-means-that-there-is-a-formal-proof-of-phi-c9d07496.mp3",
+    "final_audio": "and-it-means-that-there-is-a-formal-proof-of-phi-c9d07496.mp3"
+  },
+  {
+    "input_text": "Truth in the semantical side is based on Tarki's definition of truth. Namely that something is true iff it is true in all models. Here this relation:",
+    "input_data": {
+      "input_text": "Truth in the semantical side is based on Tarki's definition of truth. Namely that something is true iff it is true in all models. Here this relation:",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "truth-in-the-semantical-side-is-based-on-tarki-s-d7313f54.mp3",
+    "final_audio": "truth-in-the-semantical-side-is-based-on-tarki-s-d7313f54.mp3"
+  },
+  {
+    "input_text": "which is read as Sigma models phi, means that in every structure where Sigma is satisfied phi is also satisfied. In other words, there is no structure in the mathemtatical universe, which satisfies Sigma but does not satisfy phi.",
+    "input_data": {
+      "input_text": "which is read as Sigma models phi, means that in every structure where Sigma is satisfied phi is also satisfied. In other words, there is no structure in the mathemtatical universe, which satisfies Sigma but does not satisfy phi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "which-is-read-as-sigma-models-phi-means-that-in-e8f0b577.mp3",
+    "final_audio": "which-is-read-as-sigma-models-phi-means-that-in-e8f0b577.mp3"
+  },
+  {
+    "input_text": "For example, if we have an order relation in our vocabulary and Sigma is the set of sentences expressing that the order relation is transitive, meaning that for all a, b and c: if a is less than b and b is less than c then a is less than c,",
+    "input_data": {
+      "input_text": "For example, if we have an order relation in our vocabulary and Sigma is the set of sentences expressing that the order relation is transitive, meaning that for all a, b and c: if a is less than b and b is less than c then a is less than c,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-if-we-have-an-order-relation-in-our-8e0a5f65.mp3",
+    "final_audio": "for-example-if-we-have-an-order-relation-in-our-8e0a5f65.mp3"
+  },
+  {
+    "input_text": "and irreflexive, meaning that for all a: a is not less than a,",
+    "input_data": {
+      "input_text": "and irreflexive, meaning that for all a: a is not less than a,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-irreflexive-meaning-that-for-all-a-a-is-not-f9225f55.mp3",
+    "final_audio": "and-irreflexive-meaning-that-for-all-a-a-is-not-f9225f55.mp3"
+  },
+  {
+    "input_text": "and we let phi be the sentence expressing that the order relation is assymetric: meaning that for all a, b: if a is less than b then b is not less than a.",
+    "input_data": {
+      "input_text": "and we let phi be the sentence expressing that the order relation is assymetric: meaning that for all a, b: if a is less than b then b is not less than a.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-we-let-phi-be-the-sentence-expressing-that-the-79ab34fb.mp3",
+    "final_audio": "and-we-let-phi-be-the-sentence-expressing-that-the-79ab34fb.mp3"
+  },
+  {
+    "input_text": "then we can show that indeed Sigma models phi, since all possible transitive and irreflexive structure are also assymetic. So, we have two different worlds, the mechanical world of syntax and the intuitive world of semantics. It is natural to wonder what is the relation between these worlds.",
+    "input_data": {
+      "input_text": "then we can show that indeed Sigma models phi, since all possible transitive and irreflexive structure are also assymetic. So, we have two different worlds, the mechanical world of syntax and the intuitive world of semantics. It is natural to wonder what is the relation between these worlds.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-we-can-show-that-indeed-sigma-models-phi-0c7d635f.mp3",
+    "final_audio": "then-we-can-show-that-indeed-sigma-models-phi-0c7d635f.mp3"
+  },
+  {
+    "input_text": "In 1929, Godel proved that for First order logic, these two relations are equivalent. To understand this, we will have to dive into the basics of mathematical logic.",
+    "input_data": {
+      "input_text": "In 1929, Godel proved that for First order logic, these two relations are equivalent. To understand this, we will have to dive into the basics of mathematical logic.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-1929-godel-proved-that-for-first-order-logic-13bdadfa.mp3",
+    "final_audio": "in-1929-godel-proved-that-for-first-order-logic-13bdadfa.mp3"
   }
 ]

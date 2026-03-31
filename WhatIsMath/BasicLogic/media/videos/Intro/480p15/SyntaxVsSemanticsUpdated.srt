@@ -1,0 +1,128 @@
+1
+00:00:00,000 --> 00:00:01,775
+We can look at math from two
+
+2
+00:00:01,875 --> 00:00:05,594
+different points of view. Syntactically and Semantically.
+
+3
+00:00:06,666 --> 00:00:10,001
+The world of syntax is a formal and mechanical world
+
+4
+00:00:10,101 --> 00:00:13,436
+where truth is given by proofs in a formal calculus.
+
+5
+00:00:13,600 --> 00:00:16,817
+Which is just a specific set of axioms
+
+6
+00:00:16,933 --> 00:00:19,849
+written in a formal language, which can be combined
+
+7
+00:00:19,949 --> 00:00:23,337
+according to certain rules of inference to generate proofs.
+
+8
+00:00:24,000 --> 00:00:27,856
+The semantics is the intuitive world in which the symbols
+
+9
+00:00:27,956 --> 00:00:32,020
+of our logical language get interpreted into. Similar to how
+
+10
+00:00:32,120 --> 00:00:36,463
+English words are just words which describe things that actually
+
+11
+00:00:36,563 --> 00:00:40,211
+exist in the world. If viewed platonically, we can see
+
+12
+00:00:40,311 --> 00:00:46,249
+mathematical formulas as describing properties of pre-existing structures which enhabit
+
+13
+00:00:46,349 --> 00:00:47,984
+a perfect world of forms.
+
+14
+00:00:48,133 --> 00:00:52,014
+This platonistic view of math is not shared by everyone. Some
+
+15
+00:00:52,114 --> 00:00:55,604
+hold a formalist view of math, in which they ignore the
+
+16
+00:00:55,704 --> 00:00:59,912
+semantic side of math choosing instead to work entirely within the
+
+17
+00:01:00,012 --> 00:01:04,350
+confines of syntax. Others hold a constructivist view of math, where
+
+18
+00:01:04,450 --> 00:01:07,614
+we have to be able to construct or at least define
+
+19
+00:01:07,714 --> 00:01:11,203
+a mathematical object before we can say that it exists.
+
+20
+00:01:11,266 --> 00:01:14,647
+But the branch of mathematics which deals with the relation
+
+21
+00:01:14,747 --> 00:01:18,305
+between the syntax and the semantics --known as Model Theory--
+
+22
+00:01:18,405 --> 00:01:21,667
+makes the most sense when viewed from the platonic world.
+
+23
+00:01:21,733 --> 00:01:25,865
+There are different languages within which we can define our logic:
+
+24
+00:01:25,933 --> 00:01:28,889
+Propositional or 0th order logic,
+
+25
+00:01:28,933 --> 00:01:30,949
+FOL
+
+26
+00:01:31,000 --> 00:01:34,609
+and finally Higher OL's.
+
+27
+00:01:34,666 --> 00:01:39,124
+Of these FOL is used to build or define mathematics. This is because
+
+28
+00:01:39,224 --> 00:01:44,619
+FOL is strong enough to describe most mathematical structures well enough, and not
+
+29
+00:01:44,719 --> 00:01:49,177
+so strong that we can no longer define a complete and sound calculus
+
+30
+00:01:49,277 --> 00:01:52,930
+for it. We will see what this means later in this video.
+
+31
+00:01:53,000 --> 00:01:54,889
+But, we will start simple by
+
+32
+00:01:54,989 --> 00:01:58,228
+understanding the basic of propositional logic.
+

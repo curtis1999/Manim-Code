@@ -1,0 +1,284 @@
+1
+00:00:00,000 --> 00:00:03,626
+In this video series we will go deep into mathematical logic to
+
+2
+00:00:03,726 --> 00:00:07,057
+try and figure out what math is, and what it's limits are.
+
+3
+00:00:07,133 --> 00:00:11,435
+For much of history math was essentially geometry, in the sense that
+
+4
+00:00:11,535 --> 00:00:15,967
+everything we proved was grounded in some form of geometric intuition.
+
+5
+00:00:16,066 --> 00:00:18,944
+Its not hard to imagine triangles, squares and circles, and
+
+6
+00:00:19,044 --> 00:00:21,063
+as we start to study them, we can start to
+
+7
+00:00:21,163 --> 00:00:24,495
+notice certain patterns, find different ways classify the shapes and
+
+8
+00:00:24,595 --> 00:00:27,826
+we can find certain surprising relations between different shapes.
+
+9
+00:00:27,866 --> 00:00:31,779
+However, infinity is hiding even within a simple triangle, as was
+
+10
+00:00:31,879 --> 00:00:35,545
+shown by the pythagoreans that the square root of two --which
+
+11
+00:00:35,645 --> 00:00:38,508
+is the length of the long side of any unit right
+
+12
+00:00:38,608 --> 00:00:43,570
+angle triangle-- is incommensurable meaning that its decimal expansion is endless.
+
+13
+00:00:44,666 --> 00:00:49,053
+Allowing more abstract ideas into mathematics broadened the scope of math, and
+
+14
+00:00:49,153 --> 00:00:52,447
+made it more applicable in the real world. But this came at
+
+15
+00:00:52,547 --> 00:00:55,668
+the cost of making math harder to wrap our heads around.
+
+16
+00:00:56,800 --> 00:00:59,032
+For now I will just say that in the 1800's
+
+17
+00:00:59,132 --> 00:01:02,864
+mathematics had developed far beyond the intuitive realm of geometry.
+
+18
+00:01:02,933 --> 00:01:07,045
+However, math had branched out in so many different ways, that it
+
+19
+00:01:07,145 --> 00:01:10,868
+was hard to pin down what math was. This prompted people in
+
+20
+00:01:10,968 --> 00:01:14,562
+the 1800's to attempt to ground mathematics in the logic.
+
+21
+00:01:15,666 --> 00:01:18,419
+To understand this, let us return to the easy
+
+22
+00:01:18,519 --> 00:01:21,525
+stuff and consider 1+2=3. When viewed in one way,
+
+23
+00:01:21,625 --> 00:01:24,631
+this is just an arbitrary string of five symbols.
+
+24
+00:01:24,666 --> 00:01:27,716
+It get's its meaning when interpreted in a structure like the
+
+25
+00:01:27,816 --> 00:01:31,227
+natural number line, where the numbers get interpreted as we expect.
+
+26
+00:01:31,333 --> 00:01:33,786
+The plus sign can be interpreted as a function
+
+27
+00:01:33,886 --> 00:01:36,451
+--which we can see as a computer program-- which
+
+28
+00:01:36,551 --> 00:01:39,226
+takes in two inputs and has a well-defined output.
+
+29
+00:01:39,266 --> 00:01:42,662
+The equality symbol just checks that the two sides of the equation map to
+
+30
+00:01:42,762 --> 00:01:45,775
+this same element in the line, so we say that the equation holds.
+
+31
+00:01:46,866 --> 00:01:49,932
+Now, if we consider a more complicated equation such as Euler's
+
+32
+00:01:50,032 --> 00:01:53,198
+identity, we see that this equation is meaningless in the natural
+
+33
+00:01:53,298 --> 00:01:56,816
+number line, since the intended interpretations of each of the constants
+
+34
+00:01:56,916 --> 00:01:59,279
+involved do not exist in the natural number line.
+
+35
+00:01:59,333 --> 00:02:01,676
+To understand this equation, we require a more
+
+36
+00:02:01,776 --> 00:02:04,065
+complex structure known as the complex plane.
+
+37
+00:02:04,133 --> 00:02:06,992
+However, once we have done this, we can evaluate it
+
+38
+00:02:07,092 --> 00:02:09,430
+in the same way as 1+2=3. We just have map
+
+39
+00:02:09,530 --> 00:02:12,679
+the constants to their representations in the structure,
+
+40
+00:02:12,800 --> 00:02:16,174
+and then perform the complex exponentiations function, and we can observe
+
+41
+00:02:16,274 --> 00:02:18,839
+that the left side hand side evaluates to the same point
+
+42
+00:02:18,939 --> 00:02:21,790
+in the structure as the interpretation of the right hand side.
+
+43
+00:02:22,933 --> 00:02:26,363
+3 Blue 1 Brown made an excellent video explaining why
+
+44
+00:02:26,463 --> 00:02:30,225
+this equality holds --you can check that video out here--.
+
+45
+00:02:31,266 --> 00:02:33,650
+But from the point of view of a logician,
+
+46
+00:02:33,750 --> 00:02:36,921
+both of these formulas are the simplest possible. They
+
+47
+00:02:37,021 --> 00:02:39,708
+are at the bottom of the complexity hierarchy.
+
+48
+00:02:40,800 --> 00:02:44,597
+Using quantifiers, which are these symbols and
+
+49
+00:02:44,697 --> 00:02:47,308
+are read as for all, and exists,
+
+50
+00:02:48,400 --> 00:02:53,807
+We can create more complicated formulas using quantifiers. For example, consider this
+
+51
+00:02:53,907 --> 00:02:57,824
+equation, which states that the sum of the first n odd numbers
+
+52
+00:02:57,924 --> 00:03:01,452
+is equal to n-squared. Meaning that 1 plus 3 plus 5 plus
+
+53
+00:03:01,552 --> 00:03:04,757
+dot dot dot n-times, then it is equal to n squared.
+
+54
+00:03:04,800 --> 00:03:08,172
+This is some random pattern which one notices if one looks for
+
+55
+00:03:08,272 --> 00:03:12,318
+patterns in the natural numbers for long enough. We can convince ourselves
+
+56
+00:03:12,418 --> 00:03:15,566
+that it is true by going through each possible value of n.
+
+57
+00:03:15,666 --> 00:03:18,805
+Since one is equal to 1 squared.
+
+58
+00:03:18,866 --> 00:03:21,770
+1 plus 3 is equal to 2 squared,
+
+59
+00:03:21,866 --> 00:03:26,965
+1 plus 3 plus 5 is equal to 3 squared etc.
+
+60
+00:03:27,000 --> 00:03:30,285
+It seems to always hold, but how do we know that there is
+
+61
+00:03:30,385 --> 00:03:34,501
+not some weird number, just beyond our grasp which breaks this pattern?
+
+62
+00:03:34,600 --> 00:03:36,794
+Well, to evaluate a formula such as this
+
+63
+00:03:36,894 --> 00:03:39,776
+one, we use the principle of mathematical induction.
+
+64
+00:03:39,866 --> 00:03:43,711
+Meaning that we check if it holds for n equals 1,
+
+65
+00:03:43,800 --> 00:03:48,323
+and check that if it holds for k, then it holds for k plus 1.
+
+66
+00:03:50,933 --> 00:03:53,445
+This can be seen using dominoes.
+
+67
+00:03:53,533 --> 00:03:56,568
+I will now say, if we know that we will push the first domino over,
+
+68
+00:03:56,666 --> 00:03:58,813
+and we know that given any domino,
+
+69
+00:03:58,866 --> 00:04:02,841
+if it falls over, then the next domino is guaranteed to fall as well,
+
+70
+00:04:02,933 --> 00:04:06,035
+then we can conclude that every domino will
+
+71
+00:04:06,135 --> 00:04:09,834
+eventually fall, even if there are infinitely many.
+

@@ -2413,5 +2413,3500 @@
     },
     "original_audio": "we-denote-this-by-saying-the-set-phi-psi-models-054287d8.mp3",
     "final_audio": "we-denote-this-by-saying-the-set-phi-psi-models-054287d8.mp3"
+  },
+  {
+    "input_text": "We need to define axioms to determine the behaviour of this edge relation E.",
+    "input_data": {
+      "input_text": "We need to define axioms to determine the behaviour of this edge relation E.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-need-to-define-axioms-to-determine-the-f8cf75e0.mp3",
+    "final_audio": "we-need-to-define-axioms-to-determine-the-f8cf75e0.mp3"
+  },
+  {
+    "input_text": "Without any axioms, every possible combination of points and all possible arrows drawn between them is a model of our empty theory.",
+    "input_data": {
+      "input_text": "Without any axioms, every possible combination of points and all possible arrows drawn between them is a model of our empty theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "without-any-axioms-every-possible-combination-of-96d1cf98.mp3",
+    "final_audio": "without-any-axioms-every-possible-combination-of-96d1cf98.mp3"
+  },
+  {
+    "input_text": "An axiom can be any FOL sentence. For example, we can consider this formula phi, expressing transitivity,",
+    "input_data": {
+      "input_text": "An axiom can be any FOL sentence. For example, we can consider this formula phi, expressing transitivity,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "an-axiom-can-be-any-fol-sentence-for-example-we-660bff8f.mp3",
+    "final_audio": "an-axiom-can-be-any-fol-sentence-for-example-we-660bff8f.mp3"
+  },
+  {
+    "input_text": "meaning that if there is some path between nodes, then there is a direct path between these nodes.",
+    "input_data": {
+      "input_text": "meaning that if there is some path between nodes, then there is a direct path between these nodes.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "meaning-that-if-there-is-some-path-between-nodes-992343b0.mp3",
+    "final_audio": "meaning-that-if-there-is-some-path-between-nodes-992343b0.mp3"
+  },
+  {
+    "input_text": "Or this sentence psi expressing irreflexitivity, which enforces that any model of it must not contain any self-referential arrows.",
+    "input_data": {
+      "input_text": "Or this sentence psi expressing irreflexitivity, which enforces that any model of it must not contain any self-referential arrows.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "or-this-sentence-psi-expressing-irreflexitivity-6d49f377.mp3",
+    "final_audio": "or-this-sentence-psi-expressing-irreflexitivity-6d49f377.mp3"
+  },
+  {
+    "input_text": "We can combine the sentences, and consider the collection of all structures which satisfy both phi and psi, i.e. the collection of all transitive and irreflexive structures.",
+    "input_data": {
+      "input_text": "We can combine the sentences, and consider the collection of all structures which satisfy both phi and psi, i.e. the collection of all transitive and irreflexive structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-combine-the-sentences-and-consider-the-480208bf.mp3",
+    "final_audio": "we-can-combine-the-sentences-and-consider-the-480208bf.mp3"
+  },
+  {
+    "input_text": "In general, given any collection of sentences Sigma, this is the model set of Sigma, and it is the set of possible structures which satisfy each of the sentences in Sigma.",
+    "input_data": {
+      "input_text": "In general, given any collection of sentences Sigma, this is the model set of Sigma, and it is the set of possible structures which satisfy each of the sentences in Sigma.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-general-given-any-collection-of-sentences-sigma-1a5a34ce.mp3",
+    "final_audio": "in-general-given-any-collection-of-sentences-sigma-1a5a34ce.mp3"
+  },
+  {
+    "input_text": "Note that if Sigma contains an unsatisfiable sentence, such as x is not equal to x, then Mod Sigma will be empty.",
+    "input_data": {
+      "input_text": "Note that if Sigma contains an unsatisfiable sentence, such as x is not equal to x, then Mod Sigma will be empty.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "note-that-if-sigma-contains-an-unsatisfiable-644ffa37.mp3",
+    "final_audio": "note-that-if-sigma-contains-an-unsatisfiable-644ffa37.mp3"
+  },
+  {
+    "input_text": "And the soundness of First order logic, tells us that if our set of sentence Sigma is consistent... then there is at least one model out there which satisfies every formula in Sigma.",
+    "input_data": {
+      "input_text": "And the soundness of First order logic, tells us that if our set of sentence Sigma is consistent... then there is at least one model out there which satisfies every formula in Sigma.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-the-soundness-of-first-order-logic-tells-us-82687711.mp3",
+    "final_audio": "and-the-soundness-of-first-order-logic-tells-us-82687711.mp3"
+  },
+  {
+    "input_text": "We see that this is based on a platonistic vision of mathematics, where mathematical structures are pre-existing, and we can characterize them using first order sentences.",
+    "input_data": {
+      "input_text": "We see that this is based on a platonistic vision of mathematics, where mathematical structures are pre-existing, and we can characterize them using first order sentences.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-see-that-this-is-based-on-a-platonistic-vision-365313ed.mp3",
+    "final_audio": "we-see-that-this-is-based-on-a-platonistic-vision-365313ed.mp3"
+  },
+  {
+    "input_text": "If we start to study the general structure of the models in Mod({phi,psi}), we might notice some things in common to all of these structures.",
+    "input_data": {
+      "input_text": "If we start to study the general structure of the models in Mod({phi,psi}), we might notice some things in common to all of these structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-we-start-to-study-the-general-structure-of-the-bdef0e6e.mp3",
+    "final_audio": "if-we-start-to-study-the-general-structure-of-the-bdef0e6e.mp3"
+  },
+  {
+    "input_text": "For example we may notice that in none of them do we have aEb and bEa.",
+    "input_data": {
+      "input_text": "For example we may notice that in none of them do we have aEb and bEa.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-we-may-notice-that-in-none-of-them-do-c901f544.mp3",
+    "final_audio": "for-example-we-may-notice-that-in-none-of-them-do-c901f544.mp3"
+  },
+  {
+    "input_text": "We can easily see why, since if we did have such an edge in a transitive and irreflexive structure,",
+    "input_data": {
+      "input_text": "We can easily see why, since if we did have such an edge in a transitive and irreflexive structure,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-easily-see-why-since-if-we-did-have-such-an-b2f240c1.mp3",
+    "final_audio": "we-can-easily-see-why-since-if-we-did-have-such-an-b2f240c1.mp3"
+  },
+  {
+    "input_text": "then by transitivity we should have a direct path a to a.",
+    "input_data": {
+      "input_text": "then by transitivity we should have a direct path a to a.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-by-transitivity-we-should-have-a-direct-path-ef9dd743.mp3",
+    "final_audio": "then-by-transitivity-we-should-have-a-direct-path-ef9dd743.mp3"
+  },
+  {
+    "input_text": "But then the structure is not irreflexive, a contradiction.",
+    "input_data": {
+      "input_text": "But then the structure is not irreflexive, a contradiction.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-then-the-structure-is-not-irreflexive-a-bc539e95.mp3",
+    "final_audio": "but-then-the-structure-is-not-irreflexive-a-bc539e95.mp3"
+  },
+  {
+    "input_text": "So, we see that adding this sentence chi expressing assymetry, is redundant,",
+    "input_data": {
+      "input_text": "So, we see that adding this sentence chi expressing assymetry, is redundant,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-we-see-that-adding-this-sentence-chi-expressing-89768502.mp3",
+    "final_audio": "so-we-see-that-adding-this-sentence-chi-expressing-89768502.mp3"
+  },
+  {
+    "input_text": "in the sense that Mod(phi,psi,chi) = Mod(phi,psi). We denote this by {phi,psi} models chi.",
+    "input_data": {
+      "input_text": "in the sense that Mod(phi,psi,chi) = Mod(phi,psi). We denote this by {phi,psi} models chi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-the-sense-that-mod-phi-psi-chi-mod-phi-psi-we-1b7f7ab9.mp3",
+    "final_audio": "in-the-sense-that-mod-phi-psi-chi-mod-phi-psi-we-1b7f7ab9.mp3"
+  },
+  {
+    "input_text": "Recall that the deductive completeness of our calculus gives us a guarantee that there is a proof of chi from the axioms using phi,psi as assumptions.",
+    "input_data": {
+      "input_text": "Recall that the deductive completeness of our calculus gives us a guarantee that there is a proof of chi from the axioms using phi,psi as assumptions.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "recall-that-the-deductive-completeness-of-our-c678ef19.mp3",
+    "final_audio": "recall-that-the-deductive-completeness-of-our-c678ef19.mp3"
+  },
+  {
+    "input_text": "Moving back to the world of syntax, we can consider the set such consequences of phi and psi.",
+    "input_data": {
+      "input_text": "Moving back to the world of syntax, we can consider the set such consequences of phi and psi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "moving-back-to-the-world-of-syntax-we-can-consider-09a38bba.mp3",
+    "final_audio": "moving-back-to-the-world-of-syntax-we-can-consider-09a38bba.mp3"
+  },
+  {
+    "input_text": "In this scenario, we would say that phi and psi are axioms,",
+    "input_data": {
+      "input_text": "In this scenario, we would say that phi and psi are axioms,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-this-scenario-we-would-say-that-phi-and-psi-are-b4be294e.mp3",
+    "final_audio": "in-this-scenario-we-would-say-that-phi-and-psi-are-b4be294e.mp3"
+  },
+  {
+    "input_text": "and the consequences of phi and psi are theorems.",
+    "input_data": {
+      "input_text": "and the consequences of phi and psi are theorems.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-the-consequences-of-phi-and-psi-are-theorems-5024e596.mp3",
+    "final_audio": "and-the-consequences-of-phi-and-psi-are-theorems-5024e596.mp3"
+  },
+  {
+    "input_text": "We need to define axioms to determine the behaviour of this edge relation E.",
+    "input_data": {
+      "input_text": "We need to define axioms to determine the behaviour of this edge relation E.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-need-to-define-axioms-to-determine-the-f8cf75e0.mp3",
+    "final_audio": "we-need-to-define-axioms-to-determine-the-f8cf75e0.mp3"
+  },
+  {
+    "input_text": "Without any axioms, every possible combination of points and all possible arrows drawn between them is a model of our empty theory.",
+    "input_data": {
+      "input_text": "Without any axioms, every possible combination of points and all possible arrows drawn between them is a model of our empty theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "without-any-axioms-every-possible-combination-of-96d1cf98.mp3",
+    "final_audio": "without-any-axioms-every-possible-combination-of-96d1cf98.mp3"
+  },
+  {
+    "input_text": "An axiom can be any FOL sentence. For example, we can consider this formula phi, expressing transitivity,",
+    "input_data": {
+      "input_text": "An axiom can be any FOL sentence. For example, we can consider this formula phi, expressing transitivity,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "an-axiom-can-be-any-fol-sentence-for-example-we-660bff8f.mp3",
+    "final_audio": "an-axiom-can-be-any-fol-sentence-for-example-we-660bff8f.mp3"
+  },
+  {
+    "input_text": "meaning that if there is some path between nodes, then there is a direct path between these nodes.",
+    "input_data": {
+      "input_text": "meaning that if there is some path between nodes, then there is a direct path between these nodes.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "meaning-that-if-there-is-some-path-between-nodes-992343b0.mp3",
+    "final_audio": "meaning-that-if-there-is-some-path-between-nodes-992343b0.mp3"
+  },
+  {
+    "input_text": "Or this sentence psi expressing irreflexitivity, which enforces that any model of it must not contain any self-referential arrows.",
+    "input_data": {
+      "input_text": "Or this sentence psi expressing irreflexitivity, which enforces that any model of it must not contain any self-referential arrows.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "or-this-sentence-psi-expressing-irreflexitivity-6d49f377.mp3",
+    "final_audio": "or-this-sentence-psi-expressing-irreflexitivity-6d49f377.mp3"
+  },
+  {
+    "input_text": "We can combine the sentences, and consider the collection of all structures which satisfy both phi and psi, i.e. the collection of all transitive and irreflexive structures.",
+    "input_data": {
+      "input_text": "We can combine the sentences, and consider the collection of all structures which satisfy both phi and psi, i.e. the collection of all transitive and irreflexive structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-combine-the-sentences-and-consider-the-480208bf.mp3",
+    "final_audio": "we-can-combine-the-sentences-and-consider-the-480208bf.mp3"
+  },
+  {
+    "input_text": "In general, given any collection of sentences Sigma, this is the model set of Sigma, and it is the set of possible structures which satisfy each of the sentences in Sigma.",
+    "input_data": {
+      "input_text": "In general, given any collection of sentences Sigma, this is the model set of Sigma, and it is the set of possible structures which satisfy each of the sentences in Sigma.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-general-given-any-collection-of-sentences-sigma-1a5a34ce.mp3",
+    "final_audio": "in-general-given-any-collection-of-sentences-sigma-1a5a34ce.mp3"
+  },
+  {
+    "input_text": "Note that if Sigma contains an unsatisfiable sentence, such as x is not equal to x, then Mod Sigma will be empty.",
+    "input_data": {
+      "input_text": "Note that if Sigma contains an unsatisfiable sentence, such as x is not equal to x, then Mod Sigma will be empty.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "note-that-if-sigma-contains-an-unsatisfiable-644ffa37.mp3",
+    "final_audio": "note-that-if-sigma-contains-an-unsatisfiable-644ffa37.mp3"
+  },
+  {
+    "input_text": "And the soundness of First order logic, tells us that if our set of sentence Sigma is consistent... then there is at least one model out there which satisfies every formula in Sigma.",
+    "input_data": {
+      "input_text": "And the soundness of First order logic, tells us that if our set of sentence Sigma is consistent... then there is at least one model out there which satisfies every formula in Sigma.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-the-soundness-of-first-order-logic-tells-us-82687711.mp3",
+    "final_audio": "and-the-soundness-of-first-order-logic-tells-us-82687711.mp3"
+  },
+  {
+    "input_text": "We see that this is based on a platonistic vision of mathematics, where mathematical structures are pre-existing, and we can characterize them using first order sentences.",
+    "input_data": {
+      "input_text": "We see that this is based on a platonistic vision of mathematics, where mathematical structures are pre-existing, and we can characterize them using first order sentences.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-see-that-this-is-based-on-a-platonistic-vision-365313ed.mp3",
+    "final_audio": "we-see-that-this-is-based-on-a-platonistic-vision-365313ed.mp3"
+  },
+  {
+    "input_text": "If we start to study the general structure of the models in Mod({phi,psi}), we might notice some things in common to all of these structures.",
+    "input_data": {
+      "input_text": "If we start to study the general structure of the models in Mod({phi,psi}), we might notice some things in common to all of these structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-we-start-to-study-the-general-structure-of-the-bdef0e6e.mp3",
+    "final_audio": "if-we-start-to-study-the-general-structure-of-the-bdef0e6e.mp3"
+  },
+  {
+    "input_text": "For example we may notice that in none of them do we have aEb and bEa.",
+    "input_data": {
+      "input_text": "For example we may notice that in none of them do we have aEb and bEa.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-we-may-notice-that-in-none-of-them-do-c901f544.mp3",
+    "final_audio": "for-example-we-may-notice-that-in-none-of-them-do-c901f544.mp3"
+  },
+  {
+    "input_text": "We can easily see why, since if we did have such an edge in a transitive and irreflexive structure,",
+    "input_data": {
+      "input_text": "We can easily see why, since if we did have such an edge in a transitive and irreflexive structure,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-easily-see-why-since-if-we-did-have-such-an-b2f240c1.mp3",
+    "final_audio": "we-can-easily-see-why-since-if-we-did-have-such-an-b2f240c1.mp3"
+  },
+  {
+    "input_text": "then by transitivity we should have a direct path a to a.",
+    "input_data": {
+      "input_text": "then by transitivity we should have a direct path a to a.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-by-transitivity-we-should-have-a-direct-path-ef9dd743.mp3",
+    "final_audio": "then-by-transitivity-we-should-have-a-direct-path-ef9dd743.mp3"
+  },
+  {
+    "input_text": "But then the structure is not irreflexive, a contradiction.",
+    "input_data": {
+      "input_text": "But then the structure is not irreflexive, a contradiction.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-then-the-structure-is-not-irreflexive-a-bc539e95.mp3",
+    "final_audio": "but-then-the-structure-is-not-irreflexive-a-bc539e95.mp3"
+  },
+  {
+    "input_text": "So, we see that adding this sentence chi expressing assymetry, is redundant,",
+    "input_data": {
+      "input_text": "So, we see that adding this sentence chi expressing assymetry, is redundant,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-we-see-that-adding-this-sentence-chi-expressing-89768502.mp3",
+    "final_audio": "so-we-see-that-adding-this-sentence-chi-expressing-89768502.mp3"
+  },
+  {
+    "input_text": "in the sense that Mod(phi,psi,chi) = Mod(phi,psi). We denote this by {phi,psi} models chi.",
+    "input_data": {
+      "input_text": "in the sense that Mod(phi,psi,chi) = Mod(phi,psi). We denote this by {phi,psi} models chi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-the-sense-that-mod-phi-psi-chi-mod-phi-psi-we-1b7f7ab9.mp3",
+    "final_audio": "in-the-sense-that-mod-phi-psi-chi-mod-phi-psi-we-1b7f7ab9.mp3"
+  },
+  {
+    "input_text": "Recall that the deductive completeness of our calculus gives us a guarantee that there is a proof of chi from the axioms using phi,psi as assumptions.",
+    "input_data": {
+      "input_text": "Recall that the deductive completeness of our calculus gives us a guarantee that there is a proof of chi from the axioms using phi,psi as assumptions.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "recall-that-the-deductive-completeness-of-our-c678ef19.mp3",
+    "final_audio": "recall-that-the-deductive-completeness-of-our-c678ef19.mp3"
+  },
+  {
+    "input_text": "Moving back to the world of syntax, we can consider the set such consequences of phi and psi.",
+    "input_data": {
+      "input_text": "Moving back to the world of syntax, we can consider the set such consequences of phi and psi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "moving-back-to-the-world-of-syntax-we-can-consider-09a38bba.mp3",
+    "final_audio": "moving-back-to-the-world-of-syntax-we-can-consider-09a38bba.mp3"
+  },
+  {
+    "input_text": "In this scenario, we would say that phi and psi are axioms,",
+    "input_data": {
+      "input_text": "In this scenario, we would say that phi and psi are axioms,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-this-scenario-we-would-say-that-phi-and-psi-are-b4be294e.mp3",
+    "final_audio": "in-this-scenario-we-would-say-that-phi-and-psi-are-b4be294e.mp3"
+  },
+  {
+    "input_text": "and the consequences of phi and psi are theorems.",
+    "input_data": {
+      "input_text": "and the consequences of phi and psi are theorems.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-the-consequences-of-phi-and-psi-are-theorems-5024e596.mp3",
+    "final_audio": "and-the-consequences-of-phi-and-psi-are-theorems-5024e596.mp3"
+  },
+  {
+    "input_text": "We need to define axioms to determine the behaviour of this edge relation E.",
+    "input_data": {
+      "input_text": "We need to define axioms to determine the behaviour of this edge relation E.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-need-to-define-axioms-to-determine-the-f8cf75e0.mp3",
+    "final_audio": "we-need-to-define-axioms-to-determine-the-f8cf75e0.mp3"
+  },
+  {
+    "input_text": "Without any axioms, every possible combination of points and all possible arrows drawn between them is a model of our empty theory.",
+    "input_data": {
+      "input_text": "Without any axioms, every possible combination of points and all possible arrows drawn between them is a model of our empty theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "without-any-axioms-every-possible-combination-of-96d1cf98.mp3",
+    "final_audio": "without-any-axioms-every-possible-combination-of-96d1cf98.mp3"
+  },
+  {
+    "input_text": "An axiom can be any FOL sentence. For example, we can consider this formula phi, expressing transitivity,",
+    "input_data": {
+      "input_text": "An axiom can be any FOL sentence. For example, we can consider this formula phi, expressing transitivity,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "an-axiom-can-be-any-fol-sentence-for-example-we-660bff8f.mp3",
+    "final_audio": "an-axiom-can-be-any-fol-sentence-for-example-we-660bff8f.mp3"
+  },
+  {
+    "input_text": "meaning that if there is some path between nodes, then there is a direct path between these nodes.",
+    "input_data": {
+      "input_text": "meaning that if there is some path between nodes, then there is a direct path between these nodes.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "meaning-that-if-there-is-some-path-between-nodes-992343b0.mp3",
+    "final_audio": "meaning-that-if-there-is-some-path-between-nodes-992343b0.mp3"
+  },
+  {
+    "input_text": "Or this sentence psi expressing irreflexitivity, which enforces that any model of it must not contain any self-referential arrows.",
+    "input_data": {
+      "input_text": "Or this sentence psi expressing irreflexitivity, which enforces that any model of it must not contain any self-referential arrows.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "or-this-sentence-psi-expressing-irreflexitivity-6d49f377.mp3",
+    "final_audio": "or-this-sentence-psi-expressing-irreflexitivity-6d49f377.mp3"
+  },
+  {
+    "input_text": "We can combine the sentences, and consider the collection of all structures which satisfy both phi and psi, i.e. the collection of all transitive and irreflexive structures.",
+    "input_data": {
+      "input_text": "We can combine the sentences, and consider the collection of all structures which satisfy both phi and psi, i.e. the collection of all transitive and irreflexive structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-combine-the-sentences-and-consider-the-480208bf.mp3",
+    "final_audio": "we-can-combine-the-sentences-and-consider-the-480208bf.mp3"
+  },
+  {
+    "input_text": "In general, given any collection of sentences Sigma, this is the model set of Sigma, and it is the set of possible structures which satisfy each of the sentences in Sigma.",
+    "input_data": {
+      "input_text": "In general, given any collection of sentences Sigma, this is the model set of Sigma, and it is the set of possible structures which satisfy each of the sentences in Sigma.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-general-given-any-collection-of-sentences-sigma-1a5a34ce.mp3",
+    "final_audio": "in-general-given-any-collection-of-sentences-sigma-1a5a34ce.mp3"
+  },
+  {
+    "input_text": "Note that if Sigma contains an unsatisfiable sentence, such as x is not equal to x, then Mod Sigma will be empty.",
+    "input_data": {
+      "input_text": "Note that if Sigma contains an unsatisfiable sentence, such as x is not equal to x, then Mod Sigma will be empty.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "note-that-if-sigma-contains-an-unsatisfiable-644ffa37.mp3",
+    "final_audio": "note-that-if-sigma-contains-an-unsatisfiable-644ffa37.mp3"
+  },
+  {
+    "input_text": "And the soundness of First order logic, tells us that if our set of sentence Sigma is consistent... then there is at least one model out there which satisfies every formula in Sigma.",
+    "input_data": {
+      "input_text": "And the soundness of First order logic, tells us that if our set of sentence Sigma is consistent... then there is at least one model out there which satisfies every formula in Sigma.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-the-soundness-of-first-order-logic-tells-us-82687711.mp3",
+    "final_audio": "and-the-soundness-of-first-order-logic-tells-us-82687711.mp3"
+  },
+  {
+    "input_text": "We see that this is based on a platonistic vision of mathematics, where mathematical structures are pre-existing, and we can characterize them using first order sentences.",
+    "input_data": {
+      "input_text": "We see that this is based on a platonistic vision of mathematics, where mathematical structures are pre-existing, and we can characterize them using first order sentences.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-see-that-this-is-based-on-a-platonistic-vision-365313ed.mp3",
+    "final_audio": "we-see-that-this-is-based-on-a-platonistic-vision-365313ed.mp3"
+  },
+  {
+    "input_text": "If we start to study the general structure of the models in Mod({phi,psi}), we might notice some things in common to all of these structures.",
+    "input_data": {
+      "input_text": "If we start to study the general structure of the models in Mod({phi,psi}), we might notice some things in common to all of these structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-we-start-to-study-the-general-structure-of-the-bdef0e6e.mp3",
+    "final_audio": "if-we-start-to-study-the-general-structure-of-the-bdef0e6e.mp3"
+  },
+  {
+    "input_text": "For example we may notice that in none of them do we have aEb and bEa.",
+    "input_data": {
+      "input_text": "For example we may notice that in none of them do we have aEb and bEa.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-we-may-notice-that-in-none-of-them-do-c901f544.mp3",
+    "final_audio": "for-example-we-may-notice-that-in-none-of-them-do-c901f544.mp3"
+  },
+  {
+    "input_text": "We can easily see why, since if we did have such an edge in a transitive and irreflexive structure,",
+    "input_data": {
+      "input_text": "We can easily see why, since if we did have such an edge in a transitive and irreflexive structure,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-easily-see-why-since-if-we-did-have-such-an-b2f240c1.mp3",
+    "final_audio": "we-can-easily-see-why-since-if-we-did-have-such-an-b2f240c1.mp3"
+  },
+  {
+    "input_text": "then by transitivity we should have a direct path a to a.",
+    "input_data": {
+      "input_text": "then by transitivity we should have a direct path a to a.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-by-transitivity-we-should-have-a-direct-path-ef9dd743.mp3",
+    "final_audio": "then-by-transitivity-we-should-have-a-direct-path-ef9dd743.mp3"
+  },
+  {
+    "input_text": "But then the structure is not irreflexive, a contradiction.",
+    "input_data": {
+      "input_text": "But then the structure is not irreflexive, a contradiction.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-then-the-structure-is-not-irreflexive-a-bc539e95.mp3",
+    "final_audio": "but-then-the-structure-is-not-irreflexive-a-bc539e95.mp3"
+  },
+  {
+    "input_text": "So, we see that adding this sentence chi expressing assymetry, is redundant,",
+    "input_data": {
+      "input_text": "So, we see that adding this sentence chi expressing assymetry, is redundant,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-we-see-that-adding-this-sentence-chi-expressing-89768502.mp3",
+    "final_audio": "so-we-see-that-adding-this-sentence-chi-expressing-89768502.mp3"
+  },
+  {
+    "input_text": "in the sense that Mod(phi,psi,chi) = Mod(phi,psi). We denote this by {phi,psi} models chi.",
+    "input_data": {
+      "input_text": "in the sense that Mod(phi,psi,chi) = Mod(phi,psi). We denote this by {phi,psi} models chi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-the-sense-that-mod-phi-psi-chi-mod-phi-psi-we-1b7f7ab9.mp3",
+    "final_audio": "in-the-sense-that-mod-phi-psi-chi-mod-phi-psi-we-1b7f7ab9.mp3"
+  },
+  {
+    "input_text": "Recall that the deductive completeness of our calculus gives us a guarantee that there is a proof of chi from the axioms using phi,psi as assumptions.",
+    "input_data": {
+      "input_text": "Recall that the deductive completeness of our calculus gives us a guarantee that there is a proof of chi from the axioms using phi,psi as assumptions.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "recall-that-the-deductive-completeness-of-our-c678ef19.mp3",
+    "final_audio": "recall-that-the-deductive-completeness-of-our-c678ef19.mp3"
+  },
+  {
+    "input_text": "Moving back to the world of syntax, we can consider the set such consequences of phi and psi.",
+    "input_data": {
+      "input_text": "Moving back to the world of syntax, we can consider the set such consequences of phi and psi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "moving-back-to-the-world-of-syntax-we-can-consider-09a38bba.mp3",
+    "final_audio": "moving-back-to-the-world-of-syntax-we-can-consider-09a38bba.mp3"
+  },
+  {
+    "input_text": "In this scenario, we would say that phi and psi are axioms,",
+    "input_data": {
+      "input_text": "In this scenario, we would say that phi and psi are axioms,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-this-scenario-we-would-say-that-phi-and-psi-are-b4be294e.mp3",
+    "final_audio": "in-this-scenario-we-would-say-that-phi-and-psi-are-b4be294e.mp3"
+  },
+  {
+    "input_text": "and the consequences of phi and psi are theorems.",
+    "input_data": {
+      "input_text": "and the consequences of phi and psi are theorems.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-the-consequences-of-phi-and-psi-are-theorems-5024e596.mp3",
+    "final_audio": "and-the-consequences-of-phi-and-psi-are-theorems-5024e596.mp3"
+  },
+  {
+    "input_text": "The theory of {phi,psi} is the set of all such theorems.",
+    "input_data": {
+      "input_text": "The theory of {phi,psi} is the set of all such theorems.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-theory-of-phi-psi-is-the-set-of-all-such-876cdc36.mp3",
+    "final_audio": "the-theory-of-phi-psi-is-the-set-of-all-such-876cdc36.mp3"
+  },
+  {
+    "input_text": "And note that as a consequence of soundness, all of these theorems are satisfied in every model which satisfy phi and psi.",
+    "input_data": {
+      "input_text": "And note that as a consequence of soundness, all of these theorems are satisfied in every model which satisfy phi and psi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-note-that-as-a-consequence-of-soundness-all-of-cb0df1a0.mp3",
+    "final_audio": "and-note-that-as-a-consequence-of-soundness-all-of-cb0df1a0.mp3"
+  },
+  {
+    "input_text": "I.e. each theorem is satisfied in every transitive and irreflexive structure. So we can see that the theorems of a given set of sentences Sigma are exactly the set of sentences satisfied by every model of Sigma.",
+    "input_data": {
+      "input_text": "I.e. each theorem is satisfied in every transitive and irreflexive structure. So we can see that the theorems of a given set of sentences Sigma are exactly the set of sentences satisfied by every model of Sigma.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "i-e-each-theorem-is-satisfied-in-every-transitive-a2e97919.mp3",
+    "final_audio": "i-e-each-theorem-is-satisfied-in-every-transitive-a2e97919.mp3"
+  },
+  {
+    "input_text": "We need to define axioms to determine the behaviour of this edge relation E.",
+    "input_data": {
+      "input_text": "We need to define axioms to determine the behaviour of this edge relation E.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-need-to-define-axioms-to-determine-the-f8cf75e0.mp3",
+    "final_audio": "we-need-to-define-axioms-to-determine-the-f8cf75e0.mp3"
+  },
+  {
+    "input_text": "Without any axioms, every possible combination of points and all possible arrows drawn between them is a model of our empty theory.",
+    "input_data": {
+      "input_text": "Without any axioms, every possible combination of points and all possible arrows drawn between them is a model of our empty theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "without-any-axioms-every-possible-combination-of-96d1cf98.mp3",
+    "final_audio": "without-any-axioms-every-possible-combination-of-96d1cf98.mp3"
+  },
+  {
+    "input_text": "An axiom can be any FOL sentence. For example, we can consider this formula phi, expressing transitivity,",
+    "input_data": {
+      "input_text": "An axiom can be any FOL sentence. For example, we can consider this formula phi, expressing transitivity,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "an-axiom-can-be-any-fol-sentence-for-example-we-660bff8f.mp3",
+    "final_audio": "an-axiom-can-be-any-fol-sentence-for-example-we-660bff8f.mp3"
+  },
+  {
+    "input_text": "meaning that if there is some path between nodes, then there is a direct path between these nodes.",
+    "input_data": {
+      "input_text": "meaning that if there is some path between nodes, then there is a direct path between these nodes.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "meaning-that-if-there-is-some-path-between-nodes-992343b0.mp3",
+    "final_audio": "meaning-that-if-there-is-some-path-between-nodes-992343b0.mp3"
+  },
+  {
+    "input_text": "Or this sentence psi expressing irreflexivity, which enforces that any model of it must not contain any self-referential arrows.",
+    "input_data": {
+      "input_text": "Or this sentence psi expressing irreflexivity, which enforces that any model of it must not contain any self-referential arrows.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "or-this-sentence-psi-expressing-irreflexivity-2b7545a6.mp3",
+    "final_audio": "or-this-sentence-psi-expressing-irreflexivity-2b7545a6.mp3"
+  },
+  {
+    "input_text": "We can combine the sentences, and consider the collection of all structures which satisfy both phi and psi, i.e. the collection of all transitive and irreflexive structures.",
+    "input_data": {
+      "input_text": "We can combine the sentences, and consider the collection of all structures which satisfy both phi and psi, i.e. the collection of all transitive and irreflexive structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-combine-the-sentences-and-consider-the-480208bf.mp3",
+    "final_audio": "we-can-combine-the-sentences-and-consider-the-480208bf.mp3"
+  },
+  {
+    "input_text": "In general, given any collection of sentences Sigma, this is the model set of Sigma, and it is the set of possible structures which satisfy each of the sentences in Sigma.",
+    "input_data": {
+      "input_text": "In general, given any collection of sentences Sigma, this is the model set of Sigma, and it is the set of possible structures which satisfy each of the sentences in Sigma.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-general-given-any-collection-of-sentences-sigma-1a5a34ce.mp3",
+    "final_audio": "in-general-given-any-collection-of-sentences-sigma-1a5a34ce.mp3"
+  },
+  {
+    "input_text": "Note that if Sigma contains an unsatisfiable sentence, such as x is not equal to x, then Mod Sigma will be empty.",
+    "input_data": {
+      "input_text": "Note that if Sigma contains an unsatisfiable sentence, such as x is not equal to x, then Mod Sigma will be empty.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "note-that-if-sigma-contains-an-unsatisfiable-644ffa37.mp3",
+    "final_audio": "note-that-if-sigma-contains-an-unsatisfiable-644ffa37.mp3"
+  },
+  {
+    "input_text": "We need to define axioms to determine the behaviour of this edge relation E.",
+    "input_data": {
+      "input_text": "We need to define axioms to determine the behaviour of this edge relation E.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-need-to-define-axioms-to-determine-the-f8cf75e0.mp3",
+    "final_audio": "we-need-to-define-axioms-to-determine-the-f8cf75e0.mp3"
+  },
+  {
+    "input_text": "Without any axioms, every possible combination of points and all possible arrows drawn between them is a model of our empty theory.",
+    "input_data": {
+      "input_text": "Without any axioms, every possible combination of points and all possible arrows drawn between them is a model of our empty theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "without-any-axioms-every-possible-combination-of-96d1cf98.mp3",
+    "final_audio": "without-any-axioms-every-possible-combination-of-96d1cf98.mp3"
+  },
+  {
+    "input_text": "An axiom can be any FOL sentence. For example, we can consider this formula phi, expressing transitivity,",
+    "input_data": {
+      "input_text": "An axiom can be any FOL sentence. For example, we can consider this formula phi, expressing transitivity,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "an-axiom-can-be-any-fol-sentence-for-example-we-660bff8f.mp3",
+    "final_audio": "an-axiom-can-be-any-fol-sentence-for-example-we-660bff8f.mp3"
+  },
+  {
+    "input_text": "meaning that if there is some path between nodes, then there is a direct path between these nodes.",
+    "input_data": {
+      "input_text": "meaning that if there is some path between nodes, then there is a direct path between these nodes.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "meaning-that-if-there-is-some-path-between-nodes-992343b0.mp3",
+    "final_audio": "meaning-that-if-there-is-some-path-between-nodes-992343b0.mp3"
+  },
+  {
+    "input_text": "Or this sentence psi expressing irreflexivity, which enforces that any model of it must not contain any self-referential arrows.",
+    "input_data": {
+      "input_text": "Or this sentence psi expressing irreflexivity, which enforces that any model of it must not contain any self-referential arrows.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "or-this-sentence-psi-expressing-irreflexivity-2b7545a6.mp3",
+    "final_audio": "or-this-sentence-psi-expressing-irreflexivity-2b7545a6.mp3"
+  },
+  {
+    "input_text": "We can combine the sentences, and consider the collection of all structures which satisfy both phi and psi, i.e. the collection of all transitive and irreflexive structures.",
+    "input_data": {
+      "input_text": "We can combine the sentences, and consider the collection of all structures which satisfy both phi and psi, i.e. the collection of all transitive and irreflexive structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-combine-the-sentences-and-consider-the-480208bf.mp3",
+    "final_audio": "we-can-combine-the-sentences-and-consider-the-480208bf.mp3"
+  },
+  {
+    "input_text": "In general, given any collection of sentences Sigma, this is the model set of Sigma, and it is the set of possible structures which satisfy each of the sentences in Sigma.",
+    "input_data": {
+      "input_text": "In general, given any collection of sentences Sigma, this is the model set of Sigma, and it is the set of possible structures which satisfy each of the sentences in Sigma.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-general-given-any-collection-of-sentences-sigma-1a5a34ce.mp3",
+    "final_audio": "in-general-given-any-collection-of-sentences-sigma-1a5a34ce.mp3"
+  },
+  {
+    "input_text": "Note that if Sigma contains an unsatisfiable sentence, such as x is not equal to x, then Mod Sigma will be empty.",
+    "input_data": {
+      "input_text": "Note that if Sigma contains an unsatisfiable sentence, such as x is not equal to x, then Mod Sigma will be empty.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "note-that-if-sigma-contains-an-unsatisfiable-644ffa37.mp3",
+    "final_audio": "note-that-if-sigma-contains-an-unsatisfiable-644ffa37.mp3"
+  },
+  {
+    "input_text": "And the soundness of First order logic, tells us that if our set of sentence Sigma is consistent...",
+    "input_data": {
+      "input_text": "And the soundness of First order logic, tells us that if our set of sentence Sigma is consistent...",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-the-soundness-of-first-order-logic-tells-us-171cde09.mp3",
+    "final_audio": "and-the-soundness-of-first-order-logic-tells-us-171cde09.mp3"
+  },
+  {
+    "input_text": "then there is at least one model out there which satisfies every formula in Sigma.",
+    "input_data": {
+      "input_text": "then there is at least one model out there which satisfies every formula in Sigma.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-there-is-at-least-one-model-out-there-which-a15fa115.mp3",
+    "final_audio": "then-there-is-at-least-one-model-out-there-which-a15fa115.mp3"
+  },
+  {
+    "input_text": "We see that this is based on a platonistic vision of mathematics, where mathematical structures are pre-existing,",
+    "input_data": {
+      "input_text": "We see that this is based on a platonistic vision of mathematics, where mathematical structures are pre-existing,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-see-that-this-is-based-on-a-platonistic-vision-5a9ae1de.mp3",
+    "final_audio": "we-see-that-this-is-based-on-a-platonistic-vision-5a9ae1de.mp3"
+  },
+  {
+    "input_text": "and we can characterize them using first order sentences.",
+    "input_data": {
+      "input_text": "and we can characterize them using first order sentences.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-we-can-characterize-them-using-first-order-bcb7905b.mp3",
+    "final_audio": "and-we-can-characterize-them-using-first-order-bcb7905b.mp3"
+  },
+  {
+    "input_text": "If we start to study the general structure of the models in Mod({phi,psi}), we might notice some things in common to all of these structures. For example we may notice that in none of them do we have aEb and bEa.",
+    "input_data": {
+      "input_text": "If we start to study the general structure of the models in Mod({phi,psi}), we might notice some things in common to all of these structures. For example we may notice that in none of them do we have aEb and bEa.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-we-start-to-study-the-general-structure-of-the-d3a20c14.mp3",
+    "final_audio": "if-we-start-to-study-the-general-structure-of-the-d3a20c14.mp3"
+  },
+  {
+    "input_text": "We can easily see why, since if we did have such an edge in a transitive and irreflexive structure, then by transitivity we should have a direct path a to a. But then the structure is not irreflexive, a contradiction.",
+    "input_data": {
+      "input_text": "We can easily see why, since if we did have such an edge in a transitive and irreflexive structure, then by transitivity we should have a direct path a to a. But then the structure is not irreflexive, a contradiction.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-easily-see-why-since-if-we-did-have-such-an-3de8872a.mp3",
+    "final_audio": "we-can-easily-see-why-since-if-we-did-have-such-an-3de8872a.mp3"
+  },
+  {
+    "input_text": "So, we see that adding this sentence chi expressing assymetry, is redundant,",
+    "input_data": {
+      "input_text": "So, we see that adding this sentence chi expressing assymetry, is redundant,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-we-see-that-adding-this-sentence-chi-expressing-89768502.mp3",
+    "final_audio": "so-we-see-that-adding-this-sentence-chi-expressing-89768502.mp3"
+  },
+  {
+    "input_text": "in the sense that Mod(phi,psi,chi) = Mod(phi,psi). We denote this by {phi,psi} models chi.",
+    "input_data": {
+      "input_text": "in the sense that Mod(phi,psi,chi) = Mod(phi,psi). We denote this by {phi,psi} models chi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-the-sense-that-mod-phi-psi-chi-mod-phi-psi-we-1b7f7ab9.mp3",
+    "final_audio": "in-the-sense-that-mod-phi-psi-chi-mod-phi-psi-we-1b7f7ab9.mp3"
+  },
+  {
+    "input_text": "Recall that the deductive completeness of our calculus gives us a guarantee that there is a proof of chi from the axioms using phi,psi as assumptions.",
+    "input_data": {
+      "input_text": "Recall that the deductive completeness of our calculus gives us a guarantee that there is a proof of chi from the axioms using phi,psi as assumptions.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "recall-that-the-deductive-completeness-of-our-c678ef19.mp3",
+    "final_audio": "recall-that-the-deductive-completeness-of-our-c678ef19.mp3"
+  },
+  {
+    "input_text": "Moving back to the world of syntax, as mentioned earlier, this can be seen as a computational process, where at first the axioms are put in, and derive a new formula like chi.",
+    "input_data": {
+      "input_text": "Moving back to the world of syntax, as mentioned earlier, this can be seen as a computational process, where at first the axioms are put in, and derive a new formula like chi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "moving-back-to-the-world-of-syntax-as-mentioned-2a88c8de.mp3",
+    "final_audio": "moving-back-to-the-world-of-syntax-as-mentioned-2a88c8de.mp3"
+  },
+  {
+    "input_text": "Once we have derived chi, we can use it to prove more theorems and so on.",
+    "input_data": {
+      "input_text": "Once we have derived chi, we can use it to prove more theorems and so on.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "once-we-have-derived-chi-we-can-use-it-to-prove-79cb1a54.mp3",
+    "final_audio": "once-we-have-derived-chi-we-can-use-it-to-prove-79cb1a54.mp3"
+  },
+  {
+    "input_text": "In this scenario, we would say that phi and psi are axioms, and the consequences of phi and psi are theorems.",
+    "input_data": {
+      "input_text": "In this scenario, we would say that phi and psi are axioms, and the consequences of phi and psi are theorems.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-this-scenario-we-would-say-that-phi-and-psi-are-ae7c43eb.mp3",
+    "final_audio": "in-this-scenario-we-would-say-that-phi-and-psi-are-ae7c43eb.mp3"
+  },
+  {
+    "input_text": "The theory of {phi,psi} is the set of all such theorems.",
+    "input_data": {
+      "input_text": "The theory of {phi,psi} is the set of all such theorems.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-theory-of-phi-psi-is-the-set-of-all-such-876cdc36.mp3",
+    "final_audio": "the-theory-of-phi-psi-is-the-set-of-all-such-876cdc36.mp3"
+  },
+  {
+    "input_text": "And note that as a consequence of soundness, all of these theorems are satisfied in every model which satisfy psi and psi.",
+    "input_data": {
+      "input_text": "And note that as a consequence of soundness, all of these theorems are satisfied in every model which satisfy psi and psi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-note-that-as-a-consequence-of-soundness-all-of-f4711e92.mp3",
+    "final_audio": "and-note-that-as-a-consequence-of-soundness-all-of-f4711e92.mp3"
+  },
+  {
+    "input_text": "I.e. each theorem is satisfied in every transitive and irreflexive structure. So we can see that the theorems of a given set of sentences Sigma are exactly the set of sentences satisfied by every model of Sigma.",
+    "input_data": {
+      "input_text": "I.e. each theorem is satisfied in every transitive and irreflexive structure. So we can see that the theorems of a given set of sentences Sigma are exactly the set of sentences satisfied by every model of Sigma.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "i-e-each-theorem-is-satisfied-in-every-transitive-a2e97919.mp3",
+    "final_audio": "i-e-each-theorem-is-satisfied-in-every-transitive-a2e97919.mp3"
+  },
+  {
+    "input_text": "We need to define axioms to determine the behaviour of this edge relation E.",
+    "input_data": {
+      "input_text": "We need to define axioms to determine the behaviour of this edge relation E.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-need-to-define-axioms-to-determine-the-f8cf75e0.mp3",
+    "final_audio": "we-need-to-define-axioms-to-determine-the-f8cf75e0.mp3"
+  },
+  {
+    "input_text": "Without any axioms, every possible combination of points and all possible arrows drawn between them is a model of our empty theory.",
+    "input_data": {
+      "input_text": "Without any axioms, every possible combination of points and all possible arrows drawn between them is a model of our empty theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "without-any-axioms-every-possible-combination-of-96d1cf98.mp3",
+    "final_audio": "without-any-axioms-every-possible-combination-of-96d1cf98.mp3"
+  },
+  {
+    "input_text": "An axiom can be any FOL sentence.",
+    "input_data": {
+      "input_text": "An axiom can be any FOL sentence.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "an-axiom-can-be-any-fol-sentence-8d986647.mp3",
+    "final_audio": "an-axiom-can-be-any-fol-sentence-8d986647.mp3"
+  },
+  {
+    "input_text": "For example, we can consider this formula phi, expressing transitivity,",
+    "input_data": {
+      "input_text": "For example, we can consider this formula phi, expressing transitivity,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-we-can-consider-this-formula-phi-ed8d151c.mp3",
+    "final_audio": "for-example-we-can-consider-this-formula-phi-ed8d151c.mp3"
+  },
+  {
+    "input_text": "meaning that if there is some path between nodes, then there is a direct path between these nodes.",
+    "input_data": {
+      "input_text": "meaning that if there is some path between nodes, then there is a direct path between these nodes.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "meaning-that-if-there-is-some-path-between-nodes-992343b0.mp3",
+    "final_audio": "meaning-that-if-there-is-some-path-between-nodes-992343b0.mp3"
+  },
+  {
+    "input_text": "Or this sentence psi expressing irreflexivity, which enforces that any model of it must not contain any self-referential arrows.",
+    "input_data": {
+      "input_text": "Or this sentence psi expressing irreflexivity, which enforces that any model of it must not contain any self-referential arrows.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "or-this-sentence-psi-expressing-irreflexivity-2b7545a6.mp3",
+    "final_audio": "or-this-sentence-psi-expressing-irreflexivity-2b7545a6.mp3"
+  },
+  {
+    "input_text": "We can combine the sentences, and consider the collection of all structures which satisfy both phi and psi, i.e. the collection of all transitive and irreflexive structures.",
+    "input_data": {
+      "input_text": "We can combine the sentences, and consider the collection of all structures which satisfy both phi and psi, i.e. the collection of all transitive and irreflexive structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-combine-the-sentences-and-consider-the-480208bf.mp3",
+    "final_audio": "we-can-combine-the-sentences-and-consider-the-480208bf.mp3"
+  },
+  {
+    "input_text": "In general, given any collection of sentences Sigma, this is the model set of Sigma, and it is the set of possible structures which satisfy each of the sentences in Sigma.",
+    "input_data": {
+      "input_text": "In general, given any collection of sentences Sigma, this is the model set of Sigma, and it is the set of possible structures which satisfy each of the sentences in Sigma.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-general-given-any-collection-of-sentences-sigma-1a5a34ce.mp3",
+    "final_audio": "in-general-given-any-collection-of-sentences-sigma-1a5a34ce.mp3"
+  },
+  {
+    "input_text": "Note that if Sigma contains an unsatisfiable sentence, such as x is not equal to x, then Mod Sigma will be empty.",
+    "input_data": {
+      "input_text": "Note that if Sigma contains an unsatisfiable sentence, such as x is not equal to x, then Mod Sigma will be empty.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "note-that-if-sigma-contains-an-unsatisfiable-644ffa37.mp3",
+    "final_audio": "note-that-if-sigma-contains-an-unsatisfiable-644ffa37.mp3"
+  },
+  {
+    "input_text": "And the soundness of First order logic, tells us that if our set of sentence Sigma is consistent...",
+    "input_data": {
+      "input_text": "And the soundness of First order logic, tells us that if our set of sentence Sigma is consistent...",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-the-soundness-of-first-order-logic-tells-us-171cde09.mp3",
+    "final_audio": "and-the-soundness-of-first-order-logic-tells-us-171cde09.mp3"
+  },
+  {
+    "input_text": "then there is at least one model out there which satisfies every formula in Sigma.",
+    "input_data": {
+      "input_text": "then there is at least one model out there which satisfies every formula in Sigma.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-there-is-at-least-one-model-out-there-which-a15fa115.mp3",
+    "final_audio": "then-there-is-at-least-one-model-out-there-which-a15fa115.mp3"
+  },
+  {
+    "input_text": "We see that this is based on a platonistic vision of mathematics, where mathematical structures are pre-existing,",
+    "input_data": {
+      "input_text": "We see that this is based on a platonistic vision of mathematics, where mathematical structures are pre-existing,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-see-that-this-is-based-on-a-platonistic-vision-5a9ae1de.mp3",
+    "final_audio": "we-see-that-this-is-based-on-a-platonistic-vision-5a9ae1de.mp3"
+  },
+  {
+    "input_text": "and we can characterize them using first order sentences.",
+    "input_data": {
+      "input_text": "and we can characterize them using first order sentences.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-we-can-characterize-them-using-first-order-bcb7905b.mp3",
+    "final_audio": "and-we-can-characterize-them-using-first-order-bcb7905b.mp3"
+  },
+  {
+    "input_text": "If we start to study the general structure of the models in Mod({phi,psi}), we might notice some things in common to all of these structures.",
+    "input_data": {
+      "input_text": "If we start to study the general structure of the models in Mod({phi,psi}), we might notice some things in common to all of these structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-we-start-to-study-the-general-structure-of-the-bdef0e6e.mp3",
+    "final_audio": "if-we-start-to-study-the-general-structure-of-the-bdef0e6e.mp3"
+  },
+  {
+    "input_text": "For example we may notice that in none of them do we have aEb and bEa.",
+    "input_data": {
+      "input_text": "For example we may notice that in none of them do we have aEb and bEa.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-we-may-notice-that-in-none-of-them-do-c901f544.mp3",
+    "final_audio": "for-example-we-may-notice-that-in-none-of-them-do-c901f544.mp3"
+  },
+  {
+    "input_text": "We can easily see why, since if we did have such an edge in a transitive and irreflexive structure,",
+    "input_data": {
+      "input_text": "We can easily see why, since if we did have such an edge in a transitive and irreflexive structure,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-easily-see-why-since-if-we-did-have-such-an-b2f240c1.mp3",
+    "final_audio": "we-can-easily-see-why-since-if-we-did-have-such-an-b2f240c1.mp3"
+  },
+  {
+    "input_text": "then by transitivity we should have a direct path a to a.",
+    "input_data": {
+      "input_text": "then by transitivity we should have a direct path a to a.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-by-transitivity-we-should-have-a-direct-path-ef9dd743.mp3",
+    "final_audio": "then-by-transitivity-we-should-have-a-direct-path-ef9dd743.mp3"
+  },
+  {
+    "input_text": "But then the structure is not irreflexive, a contradiction.",
+    "input_data": {
+      "input_text": "But then the structure is not irreflexive, a contradiction.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-then-the-structure-is-not-irreflexive-a-bc539e95.mp3",
+    "final_audio": "but-then-the-structure-is-not-irreflexive-a-bc539e95.mp3"
+  },
+  {
+    "input_text": "So, we see that adding this sentence chi expressing assymetry, is redundant,",
+    "input_data": {
+      "input_text": "So, we see that adding this sentence chi expressing assymetry, is redundant,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-we-see-that-adding-this-sentence-chi-expressing-89768502.mp3",
+    "final_audio": "so-we-see-that-adding-this-sentence-chi-expressing-89768502.mp3"
+  },
+  {
+    "input_text": "in the sense that Mod(phi,psi,chi) = Mod(phi,psi). We denote this by {phi,psi} models chi.",
+    "input_data": {
+      "input_text": "in the sense that Mod(phi,psi,chi) = Mod(phi,psi). We denote this by {phi,psi} models chi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-the-sense-that-mod-phi-psi-chi-mod-phi-psi-we-1b7f7ab9.mp3",
+    "final_audio": "in-the-sense-that-mod-phi-psi-chi-mod-phi-psi-we-1b7f7ab9.mp3"
+  },
+  {
+    "input_text": "Recall that the deductive completeness of our calculus gives us a guarantee that there is a proof of chi from the axioms using phi,psi as assumptions.",
+    "input_data": {
+      "input_text": "Recall that the deductive completeness of our calculus gives us a guarantee that there is a proof of chi from the axioms using phi,psi as assumptions.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "recall-that-the-deductive-completeness-of-our-c678ef19.mp3",
+    "final_audio": "recall-that-the-deductive-completeness-of-our-c678ef19.mp3"
+  },
+  {
+    "input_text": "Moving back to the world of syntax, as mentioned earlier, this can be seen as a computational process, where at first the axioms are put in, and derive a new formula like chi.",
+    "input_data": {
+      "input_text": "Moving back to the world of syntax, as mentioned earlier, this can be seen as a computational process, where at first the axioms are put in, and derive a new formula like chi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "moving-back-to-the-world-of-syntax-as-mentioned-2a88c8de.mp3",
+    "final_audio": "moving-back-to-the-world-of-syntax-as-mentioned-2a88c8de.mp3"
+  },
+  {
+    "input_text": "Once we have derived chi, we can use it to prove more theorems and so on.",
+    "input_data": {
+      "input_text": "Once we have derived chi, we can use it to prove more theorems and so on.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "once-we-have-derived-chi-we-can-use-it-to-prove-79cb1a54.mp3",
+    "final_audio": "once-we-have-derived-chi-we-can-use-it-to-prove-79cb1a54.mp3"
+  },
+  {
+    "input_text": "In this scenario, we would say that phi and psi are axioms,",
+    "input_data": {
+      "input_text": "In this scenario, we would say that phi and psi are axioms,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-this-scenario-we-would-say-that-phi-and-psi-are-b4be294e.mp3",
+    "final_audio": "in-this-scenario-we-would-say-that-phi-and-psi-are-b4be294e.mp3"
+  },
+  {
+    "input_text": "and the consequences of phi and psi are theorems.",
+    "input_data": {
+      "input_text": "and the consequences of phi and psi are theorems.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-the-consequences-of-phi-and-psi-are-theorems-5024e596.mp3",
+    "final_audio": "and-the-consequences-of-phi-and-psi-are-theorems-5024e596.mp3"
+  },
+  {
+    "input_text": "The theory of {phi,psi} is the set of all such theorems.",
+    "input_data": {
+      "input_text": "The theory of {phi,psi} is the set of all such theorems.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-theory-of-phi-psi-is-the-set-of-all-such-876cdc36.mp3",
+    "final_audio": "the-theory-of-phi-psi-is-the-set-of-all-such-876cdc36.mp3"
+  },
+  {
+    "input_text": "And note that as a consequence of soundness, all of these theorems are satisfied in every model which satisfy phi and psi.",
+    "input_data": {
+      "input_text": "And note that as a consequence of soundness, all of these theorems are satisfied in every model which satisfy phi and psi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-note-that-as-a-consequence-of-soundness-all-of-cb0df1a0.mp3",
+    "final_audio": "and-note-that-as-a-consequence-of-soundness-all-of-cb0df1a0.mp3"
+  },
+  {
+    "input_text": "I.e. each theorem is satisfied in every transitive and irreflexive structure. So we can see that the theorems of a given set of sentences Sigma are exactly the set of sentences satisfied by every model of Sigma.",
+    "input_data": {
+      "input_text": "I.e. each theorem is satisfied in every transitive and irreflexive structure. So we can see that the theorems of a given set of sentences Sigma are exactly the set of sentences satisfied by every model of Sigma.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "i-e-each-theorem-is-satisfied-in-every-transitive-a2e97919.mp3",
+    "final_audio": "i-e-each-theorem-is-satisfied-in-every-transitive-a2e97919.mp3"
+  },
+  {
+    "input_text": "We need to define axioms to determine the behaviour of this edge relation E.",
+    "input_data": {
+      "input_text": "We need to define axioms to determine the behaviour of this edge relation E.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-need-to-define-axioms-to-determine-the-f8cf75e0.mp3",
+    "final_audio": "we-need-to-define-axioms-to-determine-the-f8cf75e0.mp3"
+  },
+  {
+    "input_text": "Without any axioms, every possible combination of points and all possible arrows drawn between them is a model of our empty theory.",
+    "input_data": {
+      "input_text": "Without any axioms, every possible combination of points and all possible arrows drawn between them is a model of our empty theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "without-any-axioms-every-possible-combination-of-96d1cf98.mp3",
+    "final_audio": "without-any-axioms-every-possible-combination-of-96d1cf98.mp3"
+  },
+  {
+    "input_text": "An axiom can be any FOL sentence.",
+    "input_data": {
+      "input_text": "An axiom can be any FOL sentence.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "an-axiom-can-be-any-fol-sentence-8d986647.mp3",
+    "final_audio": "an-axiom-can-be-any-fol-sentence-8d986647.mp3"
+  },
+  {
+    "input_text": "For example, we can consider this formula phi, expressing transitivity,",
+    "input_data": {
+      "input_text": "For example, we can consider this formula phi, expressing transitivity,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-we-can-consider-this-formula-phi-ed8d151c.mp3",
+    "final_audio": "for-example-we-can-consider-this-formula-phi-ed8d151c.mp3"
+  },
+  {
+    "input_text": "meaning that if there is some path between nodes, then there is a direct path between these nodes.",
+    "input_data": {
+      "input_text": "meaning that if there is some path between nodes, then there is a direct path between these nodes.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "meaning-that-if-there-is-some-path-between-nodes-992343b0.mp3",
+    "final_audio": "meaning-that-if-there-is-some-path-between-nodes-992343b0.mp3"
+  },
+  {
+    "input_text": "Or this sentence psi expressing irreflexivity, which enforces that any model of it must not contain any self-referential arrows.",
+    "input_data": {
+      "input_text": "Or this sentence psi expressing irreflexivity, which enforces that any model of it must not contain any self-referential arrows.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "or-this-sentence-psi-expressing-irreflexivity-2b7545a6.mp3",
+    "final_audio": "or-this-sentence-psi-expressing-irreflexivity-2b7545a6.mp3"
+  },
+  {
+    "input_text": "We can combine the sentences, and consider the collection of all structures which satisfy both phi and psi, i.e. the collection of all transitive and irreflexive structures.",
+    "input_data": {
+      "input_text": "We can combine the sentences, and consider the collection of all structures which satisfy both phi and psi, i.e. the collection of all transitive and irreflexive structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-combine-the-sentences-and-consider-the-480208bf.mp3",
+    "final_audio": "we-can-combine-the-sentences-and-consider-the-480208bf.mp3"
+  },
+  {
+    "input_text": "In general, given any collection of sentences Sigma, this is the model set of Sigma, and it is the set of possible structures which satisfy each of the sentences in Sigma.",
+    "input_data": {
+      "input_text": "In general, given any collection of sentences Sigma, this is the model set of Sigma, and it is the set of possible structures which satisfy each of the sentences in Sigma.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-general-given-any-collection-of-sentences-sigma-1a5a34ce.mp3",
+    "final_audio": "in-general-given-any-collection-of-sentences-sigma-1a5a34ce.mp3"
+  },
+  {
+    "input_text": "Note that if Sigma contains an unsatisfiable sentence, such as x is not equal to x, then Mod Sigma will be empty.",
+    "input_data": {
+      "input_text": "Note that if Sigma contains an unsatisfiable sentence, such as x is not equal to x, then Mod Sigma will be empty.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "note-that-if-sigma-contains-an-unsatisfiable-644ffa37.mp3",
+    "final_audio": "note-that-if-sigma-contains-an-unsatisfiable-644ffa37.mp3"
+  },
+  {
+    "input_text": "And the soundness of First order logic, tells us that if our set of sentence Sigma is consistent...",
+    "input_data": {
+      "input_text": "And the soundness of First order logic, tells us that if our set of sentence Sigma is consistent...",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-the-soundness-of-first-order-logic-tells-us-171cde09.mp3",
+    "final_audio": "and-the-soundness-of-first-order-logic-tells-us-171cde09.mp3"
+  },
+  {
+    "input_text": "then there is at least one model out there which satisfies every formula in Sigma.",
+    "input_data": {
+      "input_text": "then there is at least one model out there which satisfies every formula in Sigma.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-there-is-at-least-one-model-out-there-which-a15fa115.mp3",
+    "final_audio": "then-there-is-at-least-one-model-out-there-which-a15fa115.mp3"
+  },
+  {
+    "input_text": "We see that this is based on a platonistic vision of mathematics, where mathematical structures are pre-existing,",
+    "input_data": {
+      "input_text": "We see that this is based on a platonistic vision of mathematics, where mathematical structures are pre-existing,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-see-that-this-is-based-on-a-platonistic-vision-5a9ae1de.mp3",
+    "final_audio": "we-see-that-this-is-based-on-a-platonistic-vision-5a9ae1de.mp3"
+  },
+  {
+    "input_text": "and we can characterize them using first order sentences.",
+    "input_data": {
+      "input_text": "and we can characterize them using first order sentences.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-we-can-characterize-them-using-first-order-bcb7905b.mp3",
+    "final_audio": "and-we-can-characterize-them-using-first-order-bcb7905b.mp3"
+  },
+  {
+    "input_text": "If we start to study the general structure of the models in Mod({phi,psi}), we might notice some things in common to all of these structures.",
+    "input_data": {
+      "input_text": "If we start to study the general structure of the models in Mod({phi,psi}), we might notice some things in common to all of these structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-we-start-to-study-the-general-structure-of-the-bdef0e6e.mp3",
+    "final_audio": "if-we-start-to-study-the-general-structure-of-the-bdef0e6e.mp3"
+  },
+  {
+    "input_text": "For example we may notice that in none of them do we have aEb and bEa.",
+    "input_data": {
+      "input_text": "For example we may notice that in none of them do we have aEb and bEa.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-we-may-notice-that-in-none-of-them-do-c901f544.mp3",
+    "final_audio": "for-example-we-may-notice-that-in-none-of-them-do-c901f544.mp3"
+  },
+  {
+    "input_text": "We can easily see why, since if we did have such an edge in a transitive and irreflexive structure,",
+    "input_data": {
+      "input_text": "We can easily see why, since if we did have such an edge in a transitive and irreflexive structure,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-easily-see-why-since-if-we-did-have-such-an-b2f240c1.mp3",
+    "final_audio": "we-can-easily-see-why-since-if-we-did-have-such-an-b2f240c1.mp3"
+  },
+  {
+    "input_text": "then by transitivity we should have a direct path a to a.",
+    "input_data": {
+      "input_text": "then by transitivity we should have a direct path a to a.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-by-transitivity-we-should-have-a-direct-path-ef9dd743.mp3",
+    "final_audio": "then-by-transitivity-we-should-have-a-direct-path-ef9dd743.mp3"
+  },
+  {
+    "input_text": "But then the structure is not irreflexive, a contradiction.",
+    "input_data": {
+      "input_text": "But then the structure is not irreflexive, a contradiction.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-then-the-structure-is-not-irreflexive-a-bc539e95.mp3",
+    "final_audio": "but-then-the-structure-is-not-irreflexive-a-bc539e95.mp3"
+  },
+  {
+    "input_text": "So, we see that adding this sentence chi expressing assymetry, is redundant,",
+    "input_data": {
+      "input_text": "So, we see that adding this sentence chi expressing assymetry, is redundant,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-we-see-that-adding-this-sentence-chi-expressing-89768502.mp3",
+    "final_audio": "so-we-see-that-adding-this-sentence-chi-expressing-89768502.mp3"
+  },
+  {
+    "input_text": "in the sense that Mod(phi,psi,chi) = Mod(phi,psi).",
+    "input_data": {
+      "input_text": "in the sense that Mod(phi,psi,chi) = Mod(phi,psi).",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-the-sense-that-mod-phi-psi-chi-mod-phi-psi-5da02a31.mp3",
+    "final_audio": "in-the-sense-that-mod-phi-psi-chi-mod-phi-psi-5da02a31.mp3"
+  },
+  {
+    "input_text": "We denote this by {phi,psi} models chi.",
+    "input_data": {
+      "input_text": "We denote this by {phi,psi} models chi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-denote-this-by-phi-psi-models-chi-59079412.mp3",
+    "final_audio": "we-denote-this-by-phi-psi-models-chi-59079412.mp3"
+  },
+  {
+    "input_text": "Recall that the deductive completeness of our calculus gives us a guarantee that there is a proof of chi from the axioms using phi,psi as assumptions.",
+    "input_data": {
+      "input_text": "Recall that the deductive completeness of our calculus gives us a guarantee that there is a proof of chi from the axioms using phi,psi as assumptions.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "recall-that-the-deductive-completeness-of-our-c678ef19.mp3",
+    "final_audio": "recall-that-the-deductive-completeness-of-our-c678ef19.mp3"
+  },
+  {
+    "input_text": "Moving back to the world of syntax, as mentioned earlier, this can be seen as a computational process, where at first the axioms are put in, and derive a new formula like chi.",
+    "input_data": {
+      "input_text": "Moving back to the world of syntax, as mentioned earlier, this can be seen as a computational process, where at first the axioms are put in, and derive a new formula like chi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "moving-back-to-the-world-of-syntax-as-mentioned-2a88c8de.mp3",
+    "final_audio": "moving-back-to-the-world-of-syntax-as-mentioned-2a88c8de.mp3"
+  },
+  {
+    "input_text": "Once we have derived chi, we can use it to prove more theorems and so on.",
+    "input_data": {
+      "input_text": "Once we have derived chi, we can use it to prove more theorems and so on.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "once-we-have-derived-chi-we-can-use-it-to-prove-79cb1a54.mp3",
+    "final_audio": "once-we-have-derived-chi-we-can-use-it-to-prove-79cb1a54.mp3"
+  },
+  {
+    "input_text": "In this scenario, we would say that phi and psi are axioms,",
+    "input_data": {
+      "input_text": "In this scenario, we would say that phi and psi are axioms,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-this-scenario-we-would-say-that-phi-and-psi-are-b4be294e.mp3",
+    "final_audio": "in-this-scenario-we-would-say-that-phi-and-psi-are-b4be294e.mp3"
+  },
+  {
+    "input_text": "and the consequences of phi and psi are theorems.",
+    "input_data": {
+      "input_text": "and the consequences of phi and psi are theorems.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-the-consequences-of-phi-and-psi-are-theorems-5024e596.mp3",
+    "final_audio": "and-the-consequences-of-phi-and-psi-are-theorems-5024e596.mp3"
+  },
+  {
+    "input_text": "The theory of {phi,psi} is the set of all such theorems.",
+    "input_data": {
+      "input_text": "The theory of {phi,psi} is the set of all such theorems.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-theory-of-phi-psi-is-the-set-of-all-such-876cdc36.mp3",
+    "final_audio": "the-theory-of-phi-psi-is-the-set-of-all-such-876cdc36.mp3"
+  },
+  {
+    "input_text": "And note that as a consequence of soundness, all of these theorems are satisfied in every model which satisfy phi and psi.",
+    "input_data": {
+      "input_text": "And note that as a consequence of soundness, all of these theorems are satisfied in every model which satisfy phi and psi.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-note-that-as-a-consequence-of-soundness-all-of-cb0df1a0.mp3",
+    "final_audio": "and-note-that-as-a-consequence-of-soundness-all-of-cb0df1a0.mp3"
+  },
+  {
+    "input_text": "I.e. each theorem is satisfied in every transitive and irreflexive structure. So we can see that the theorems of a given set of sentences Sigma are exactly the set of sentences satisfied by every model of Sigma.",
+    "input_data": {
+      "input_text": "I.e. each theorem is satisfied in every transitive and irreflexive structure. So we can see that the theorems of a given set of sentences Sigma are exactly the set of sentences satisfied by every model of Sigma.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "i-e-each-theorem-is-satisfied-in-every-transitive-a2e97919.mp3",
+    "final_audio": "i-e-each-theorem-is-satisfied-in-every-transitive-a2e97919.mp3"
+  },
+  {
+    "input_text": "In some sense the goal of mathematics is to add enough axioms such that there is exactly one structure which satisfies them.",
+    "input_data": {
+      "input_text": "In some sense the goal of mathematics is to add enough axioms such that there is exactly one structure which satisfies them.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-some-sense-the-goal-of-mathematics-is-to-add-dbf87953.mp3",
+    "final_audio": "in-some-sense-the-goal-of-mathematics-is-to-add-dbf87953.mp3"
+  },
+  {
+    "input_text": "In this case, the theory of Sigma is a perfect description of the structure, it contains everything we could possibly say about the structure in first order logic in the language of the structure.",
+    "input_data": {
+      "input_text": "In this case, the theory of Sigma is a perfect description of the structure, it contains everything we could possibly say about the structure in first order logic in the language of the structure.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-this-case-the-theory-of-sigma-is-a-perfect-a2a169e6.mp3",
+    "final_audio": "in-this-case-the-theory-of-sigma-is-a-perfect-a2a169e6.mp3"
+  },
+  {
+    "input_text": "If a theory has a finite model, then there is a single sentence phi which fully characterizes the theory, and therefore there is exactly one model up to isomorphism.",
+    "input_data": {
+      "input_text": "If a theory has a finite model, then there is a single sentence phi which fully characterizes the theory, and therefore there is exactly one model up to isomorphism.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-a-theory-has-a-finite-model-then-there-is-a-c59ecef9.mp3",
+    "final_audio": "if-a-theory-has-a-finite-model-then-there-is-a-c59ecef9.mp3"
+  },
+  {
+    "input_text": "However, in the third video, we will see why this is impossible for a theory with infinite models.",
+    "input_data": {
+      "input_text": "However, in the third video, we will see why this is impossible for a theory with infinite models.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "however-in-the-third-video-we-will-see-why-this-is-95f6b66f.mp3",
+    "final_audio": "however-in-the-third-video-we-will-see-why-this-is-95f6b66f.mp3"
+  },
+  {
+    "input_text": "But we can still achieve something weaker, namely that all models of our set Sigma satisfy the same sentences.",
+    "input_data": {
+      "input_text": "But we can still achieve something weaker, namely that all models of our set Sigma satisfy the same sentences.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-we-can-still-achieve-something-weaker-namely-46fd11e6.mp3",
+    "final_audio": "but-we-can-still-achieve-something-weaker-namely-46fd11e6.mp3"
+  },
+  {
+    "input_text": "You may ask how we can know that two models M and N are actually different if they satisfy the same sentences. Again, we will see this in the third video, but for now just know that this has to do with the inability of First Order Logic to deal with the complexities of infinity.",
+    "input_data": {
+      "input_text": "You may ask how we can know that two models M and N are actually different if they satisfy the same sentences. Again, we will see this in the third video, but for now just know that this has to do with the inability of First Order Logic to deal with the complexities of infinity.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "you-may-ask-how-we-can-know-that-two-models-m-and-1fcc31c0.mp3",
+    "final_audio": "you-may-ask-how-we-can-know-that-two-models-m-and-1fcc31c0.mp3"
+  },
+  {
+    "input_text": "However, if we have such a set Sigma, then we cannot differentiate any of its models using a single first order sentence.",
+    "input_data": {
+      "input_text": "However, if we have such a set Sigma, then we cannot differentiate any of its models using a single first order sentence.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "however-if-we-have-such-a-set-sigma-then-we-cannot-c4e66f25.mp3",
+    "final_audio": "however-if-we-have-such-a-set-sigma-then-we-cannot-c4e66f25.mp3"
+  },
+  {
+    "input_text": "So, given any sentence we can write, either every model satisfies it, or every model satisfies its negation.",
+    "input_data": {
+      "input_text": "So, given any sentence we can write, either every model satisfies it, or every model satisfies its negation.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-given-any-sentence-we-can-write-either-every-45a25272.mp3",
+    "final_audio": "so-given-any-sentence-we-can-write-either-every-45a25272.mp3"
+  },
+  {
+    "input_text": "In this case we say that the theory is complete.",
+    "input_data": {
+      "input_text": "In this case we say that the theory is complete.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-this-case-we-say-that-the-theory-is-complete-acc79813.mp3",
+    "final_audio": "in-this-case-we-say-that-the-theory-is-complete-acc79813.mp3"
+  },
+  {
+    "input_text": "Syntactically, completeness means that the theory is maximally consistent, in the sense that for every formula phi, either phi is in Sigma, or not phi is in Sigma.",
+    "input_data": {
+      "input_text": "Syntactically, completeness means that the theory is maximally consistent, in the sense that for every formula phi, either phi is in Sigma, or not phi is in Sigma.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "syntactically-completeness-means-that-the-theory-2cce2920.mp3",
+    "final_audio": "syntactically-completeness-means-that-the-theory-2cce2920.mp3"
+  },
+  {
+    "input_text": "Thus, it decides everything that it possibly can.",
+    "input_data": {
+      "input_text": "Thus, it decides everything that it possibly can.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "thus-it-decides-everything-that-it-possibly-can-52cb7bce.mp3",
+    "final_audio": "thus-it-decides-everything-that-it-possibly-can-52cb7bce.mp3"
+  },
+  {
+    "input_text": "If we added even a single new formula phi to a complete theory, it would then become inconsistent, and it would therefore have no models.",
+    "input_data": {
+      "input_text": "If we added even a single new formula phi to a complete theory, it would then become inconsistent, and it would therefore have no models.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-we-added-even-a-single-new-formula-phi-to-a-3b7dcc0b.mp3",
+    "final_audio": "if-we-added-even-a-single-new-formula-phi-to-a-3b7dcc0b.mp3"
+  },
+  {
+    "input_text": "In some sense the goal of mathematics is to add enough axioms such that there is",
+    "input_data": {
+      "input_text": "In some sense the goal of mathematics is to add enough axioms such that there is",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-some-sense-the-goal-of-mathematics-is-to-add-94063a41.mp3",
+    "final_audio": "in-some-sense-the-goal-of-mathematics-is-to-add-94063a41.mp3"
+  },
+  {
+    "input_text": "exactly one structure which satisfies them.",
+    "input_data": {
+      "input_text": "exactly one structure which satisfies them.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "exactly-one-structure-which-satisfies-them-4090c439.mp3",
+    "final_audio": "exactly-one-structure-which-satisfies-them-4090c439.mp3"
+  },
+  {
+    "input_text": "In this case, the theory of Sigma is a perfect description of the structure, it contains everything we could possibly say about the structure in first order logic in the language of the structure.",
+    "input_data": {
+      "input_text": "In this case, the theory of Sigma is a perfect description of the structure, it contains everything we could possibly say about the structure in first order logic in the language of the structure.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-this-case-the-theory-of-sigma-is-a-perfect-a2a169e6.mp3",
+    "final_audio": "in-this-case-the-theory-of-sigma-is-a-perfect-a2a169e6.mp3"
+  },
+  {
+    "input_text": "If a theory has a finite model, then there is a single sentence phi which fully characterizes the theory, and therefore there is exactly one model up to isomorphism.",
+    "input_data": {
+      "input_text": "If a theory has a finite model, then there is a single sentence phi which fully characterizes the theory, and therefore there is exactly one model up to isomorphism.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-a-theory-has-a-finite-model-then-there-is-a-c59ecef9.mp3",
+    "final_audio": "if-a-theory-has-a-finite-model-then-there-is-a-c59ecef9.mp3"
+  },
+  {
+    "input_text": "However, in the third video, we will see why this is impossible for a theory with infinite models.",
+    "input_data": {
+      "input_text": "However, in the third video, we will see why this is impossible for a theory with infinite models.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "however-in-the-third-video-we-will-see-why-this-is-95f6b66f.mp3",
+    "final_audio": "however-in-the-third-video-we-will-see-why-this-is-95f6b66f.mp3"
+  },
+  {
+    "input_text": "But we can still achieve something weaker, namely that all models of our set Sigma satisfy the same sentences.",
+    "input_data": {
+      "input_text": "But we can still achieve something weaker, namely that all models of our set Sigma satisfy the same sentences.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-we-can-still-achieve-something-weaker-namely-46fd11e6.mp3",
+    "final_audio": "but-we-can-still-achieve-something-weaker-namely-46fd11e6.mp3"
+  },
+  {
+    "input_text": "You may ask how we can know that two models M and N are actually different if they satisfy the same sentences. Again, we will see this in the third video, but for now just know that this has to do with the inability of First Order Logic to deal with the complexities of infinity.",
+    "input_data": {
+      "input_text": "You may ask how we can know that two models M and N are actually different if they satisfy the same sentences. Again, we will see this in the third video, but for now just know that this has to do with the inability of First Order Logic to deal with the complexities of infinity.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "you-may-ask-how-we-can-know-that-two-models-m-and-1fcc31c0.mp3",
+    "final_audio": "you-may-ask-how-we-can-know-that-two-models-m-and-1fcc31c0.mp3"
+  },
+  {
+    "input_text": "However, if we have such a set Sigma, then we cannot differentiate any of its models using a single first order sentence.",
+    "input_data": {
+      "input_text": "However, if we have such a set Sigma, then we cannot differentiate any of its models using a single first order sentence.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "however-if-we-have-such-a-set-sigma-then-we-cannot-c4e66f25.mp3",
+    "final_audio": "however-if-we-have-such-a-set-sigma-then-we-cannot-c4e66f25.mp3"
+  },
+  {
+    "input_text": "So, given any sentence alpha we can write, either every model satisfies it, or every model satisfies its negation.",
+    "input_data": {
+      "input_text": "So, given any sentence alpha we can write, either every model satisfies it, or every model satisfies its negation.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-given-any-sentence-alpha-we-can-write-either-dd12cb4d.mp3",
+    "final_audio": "so-given-any-sentence-alpha-we-can-write-either-dd12cb4d.mp3"
+  },
+  {
+    "input_text": "In this case we say that the theory is complete.",
+    "input_data": {
+      "input_text": "In this case we say that the theory is complete.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-this-case-we-say-that-the-theory-is-complete-acc79813.mp3",
+    "final_audio": "in-this-case-we-say-that-the-theory-is-complete-acc79813.mp3"
+  },
+  {
+    "input_text": "Syntactically, completeness means that the theory is maximally consistent, in the sense that for every formula alpha, either alpha is in Sigma, or not alpha is in Sigma.",
+    "input_data": {
+      "input_text": "Syntactically, completeness means that the theory is maximally consistent, in the sense that for every formula alpha, either alpha is in Sigma, or not alpha is in Sigma.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "syntactically-completeness-means-that-the-theory-986741c8.mp3",
+    "final_audio": "syntactically-completeness-means-that-the-theory-986741c8.mp3"
+  },
+  {
+    "input_text": "Thus, it decides everything that it possibly can.",
+    "input_data": {
+      "input_text": "Thus, it decides everything that it possibly can.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "thus-it-decides-everything-that-it-possibly-can-52cb7bce.mp3",
+    "final_audio": "thus-it-decides-everything-that-it-possibly-can-52cb7bce.mp3"
+  },
+  {
+    "input_text": "If we added even a single new formula alpha to a complete theory, it would then become inconsistent, and it would therefore have no models.",
+    "input_data": {
+      "input_text": "If we added even a single new formula alpha to a complete theory, it would then become inconsistent, and it would therefore have no models.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-we-added-even-a-single-new-formula-alpha-to-a-712cfc98.mp3",
+    "final_audio": "if-we-added-even-a-single-new-formula-alpha-to-a-712cfc98.mp3"
+  },
+  {
+    "input_text": "Returning to our example of Sigma equals phi, psi, we can easily see that this set is not complete.",
+    "input_data": {
+      "input_text": "Returning to our example of Sigma equals phi, psi, we can easily see that this set is not complete.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "returning-to-our-example-of-sigma-equals-phi-psi-3548b42c.mp3",
+    "final_audio": "returning-to-our-example-of-sigma-equals-phi-psi-3548b42c.mp3"
+  },
+  {
+    "input_text": "We see that the natural number line is a model of Sigma where E is interpreted as the less than relation.",
+    "input_data": {
+      "input_text": "We see that the natural number line is a model of Sigma where E is interpreted as the less than relation.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-see-that-the-natural-number-line-is-a-model-of-8d9342c6.mp3",
+    "final_audio": "we-see-that-the-natural-number-line-is-a-model-of-8d9342c6.mp3"
+  },
+  {
+    "input_text": "Since for all numbers x, y, z, if x is less than y and y is less than z, then x is less than z,",
+    "input_data": {
+      "input_text": "Since for all numbers x, y, z, if x is less than y and y is less than z, then x is less than z,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "since-for-all-numbers-x-y-z-if-x-is-less-than-y-a2e1e0d2.mp3",
+    "final_audio": "since-for-all-numbers-x-y-z-if-x-is-less-than-y-a2e1e0d2.mp3"
+  },
+  {
+    "input_text": "Returning to our example of Sigma equals phi, psi, we can easily see that this set is not complete.",
+    "input_data": {
+      "input_text": "Returning to our example of Sigma equals phi, psi, we can easily see that this set is not complete.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "returning-to-our-example-of-sigma-equals-phi-psi-3548b42c.mp3",
+    "final_audio": "returning-to-our-example-of-sigma-equals-phi-psi-3548b42c.mp3"
+  },
+  {
+    "input_text": "We see that the natural number line is a model of Sigma where E is interpreted as the less than relation.",
+    "input_data": {
+      "input_text": "We see that the natural number line is a model of Sigma where E is interpreted as the less than relation.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-see-that-the-natural-number-line-is-a-model-of-8d9342c6.mp3",
+    "final_audio": "we-see-that-the-natural-number-line-is-a-model-of-8d9342c6.mp3"
+  },
+  {
+    "input_text": "Since for all numbers x, y, z, if x is less than y and y is less than z, then x is less than z,",
+    "input_data": {
+      "input_text": "Since for all numbers x, y, z, if x is less than y and y is less than z, then x is less than z,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "since-for-all-numbers-x-y-z-if-x-is-less-than-y-a2e1e0d2.mp3",
+    "final_audio": "since-for-all-numbers-x-y-z-if-x-is-less-than-y-a2e1e0d2.mp3"
+  },
+  {
+    "input_text": "and no number is less than itself.",
+    "input_data": {
+      "input_text": "and no number is less than itself.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-no-number-is-less-than-itself-28b49995.mp3",
+    "final_audio": "and-no-number-is-less-than-itself-28b49995.mp3"
+  },
+  {
+    "input_text": "However, a tree is also a model of Sigma where we interpret E based on the direct-extension relation.",
+    "input_data": {
+      "input_text": "However, a tree is also a model of Sigma where we interpret E based on the direct-extension relation.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "however-a-tree-is-also-a-model-of-sigma-where-we-ff74159b.mp3",
+    "final_audio": "however-a-tree-is-also-a-model-of-sigma-where-we-ff74159b.mp3"
+  },
+  {
+    "input_text": "Since if a extends b, and b extends c, then a must extend c. And no node is a direct extension of itself.",
+    "input_data": {
+      "input_text": "Since if a extends b, and b extends c, then a must extend c. And no node is a direct extension of itself.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "since-if-a-extends-b-and-b-extends-c-then-a-must-ba4e6889.mp3",
+    "final_audio": "since-if-a-extends-b-and-b-extends-c-then-a-must-ba4e6889.mp3"
+  },
+  {
+    "input_text": "And clearly, we can find a sentence chi to differentiate between a tree and a number line. For example, we could add this sentence, expressing totality, meaning that all elements are related by the edge relation.",
+    "input_data": {
+      "input_text": "And clearly, we can find a sentence chi to differentiate between a tree and a number line. For example, we could add this sentence, expressing totality, meaning that all elements are related by the edge relation.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-clearly-we-can-find-a-sentence-chi-to-8c010e76.mp3",
+    "final_audio": "and-clearly-we-can-find-a-sentence-chi-to-8c010e76.mp3"
+  },
+  {
+    "input_text": "We see that our tree is not a model of this, since two different elements at the same level are not comparable by the extension relation.",
+    "input_data": {
+      "input_text": "We see that our tree is not a model of this, since two different elements at the same level are not comparable by the extension relation.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-see-that-our-tree-is-not-a-model-of-this-since-8ed9007c.mp3",
+    "final_audio": "we-see-that-our-tree-is-not-a-model-of-this-since-8ed9007c.mp3"
+  },
+  {
+    "input_text": "So, we could add chi as another axiom to our set Sigma.",
+    "input_data": {
+      "input_text": "So, we could add chi as another axiom to our set Sigma.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-we-could-add-chi-as-another-axiom-to-our-set-3b220652.mp3",
+    "final_audio": "so-we-could-add-chi-as-another-axiom-to-our-set-3b220652.mp3"
+  },
+  {
+    "input_text": "So Sigma now contains phi, psi, chi, and Mod Sigma is the set of linearly ordered sets.",
+    "input_data": {
+      "input_text": "So Sigma now contains phi, psi, chi, and Mod Sigma is the set of linearly ordered sets.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-sigma-now-contains-phi-psi-chi-and-mod-sigma-is-fd3f1b67.mp3",
+    "final_audio": "so-sigma-now-contains-phi-psi-chi-and-mod-sigma-is-fd3f1b67.mp3"
+  },
+  {
+    "input_text": "However, the theory of Sigma is still not complete, since for example both the natural numbers and the rational numbers satisfy these axioms under the less than relation, and we can differentiate the rational numbers from the natural numbers by this sentence theta expressing density.",
+    "input_data": {
+      "input_text": "However, the theory of Sigma is still not complete, since for example both the natural numbers and the rational numbers satisfy these axioms under the less than relation, and we can differentiate the rational numbers from the natural numbers by this sentence theta expressing density.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "however-the-theory-of-sigma-is-still-not-complete-28821d50.mp3",
+    "final_audio": "however-the-theory-of-sigma-is-still-not-complete-28821d50.mp3"
+  },
+  {
+    "input_text": "Meaning that for all x, y, if x is less than y, then there exists a z such that x is less than z and z is less than y.",
+    "input_data": {
+      "input_text": "Meaning that for all x, y, if x is less than y, then there exists a z such that x is less than z and z is less than y.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "meaning-that-for-all-x-y-if-x-is-less-than-y-then-57293f6d.mp3",
+    "final_audio": "meaning-that-for-all-x-y-if-x-is-less-than-y-then-57293f6d.mp3"
+  },
+  {
+    "input_text": "This is not true of the natural numbers, as there is no natural number in between 0 and 1 for example.",
+    "input_data": {
+      "input_text": "This is not true of the natural numbers, as there is no natural number in between 0 and 1 for example.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-not-true-of-the-natural-numbers-as-there-190264fb.mp3",
+    "final_audio": "this-is-not-true-of-the-natural-numbers-as-there-190264fb.mp3"
+  },
+  {
+    "input_text": "However, given any fractional number, we can always find a number in between it.",
+    "input_data": {
+      "input_text": "However, given any fractional number, we can always find a number in between it.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "however-given-any-fractional-number-we-can-always-738a31fc.mp3",
+    "final_audio": "however-given-any-fractional-number-we-can-always-738a31fc.mp3"
+  },
+  {
+    "input_text": "If we add theta to our set of axioms Sigma, and we add two more axioms expressing that there are no endpoints, then we get the theory of DLOWE.",
+    "input_data": {
+      "input_text": "If we add theta to our set of axioms Sigma, and we add two more axioms expressing that there are no endpoints, then we get the theory of DLOWE.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-we-add-theta-to-our-set-of-axioms-sigma-and-we-d629ed57.mp3",
+    "final_audio": "if-we-add-theta-to-our-set-of-axioms-sigma-and-we-d629ed57.mp3"
+  },
+  {
+    "input_text": "In 1895 Georg Cantor proved that all countable dense linear orderings without endpoints are isomorphic,",
+    "input_data": {
+      "input_text": "In 1895 Georg Cantor proved that all countable dense linear orderings without endpoints are isomorphic,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-1895-georg-cantor-proved-that-all-countable-2c564ca4.mp3",
+    "final_audio": "in-1895-georg-cantor-proved-that-all-countable-2c564ca4.mp3"
+  },
+  {
+    "input_text": "which technically just means that there is an order preserving map between them, but essentially means that there is a unique countable set which satisfies this set of axioms, and this set is the rational numbers.",
+    "input_data": {
+      "input_text": "which technically just means that there is an order preserving map between them, but essentially means that there is a unique countable set which satisfies this set of axioms, and this set is the rational numbers.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "which-technically-just-means-that-there-is-an-5e13a92e.mp3",
+    "final_audio": "which-technically-just-means-that-there-is-an-5e13a92e.mp3"
+  },
+  {
+    "input_text": "So, this set of axioms here, is a close approximation of the structure of the fractional number line.",
+    "input_data": {
+      "input_text": "So, this set of axioms here, is a close approximation of the structure of the fractional number line.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-this-set-of-axioms-here-is-a-close-9cf6138e.mp3",
+    "final_audio": "so-this-set-of-axioms-here-is-a-close-9cf6138e.mp3"
+  },
+  {
+    "input_text": "However, it is not perfect as the real number line also satisfies the DLOWE axioms.",
+    "input_data": {
+      "input_text": "However, it is not perfect as the real number line also satisfies the DLOWE axioms.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "however-it-is-not-perfect-as-the-real-number-line-6d663e82.mp3",
+    "final_audio": "however-it-is-not-perfect-as-the-real-number-line-6d663e82.mp3"
+  },
+  {
+    "input_text": "But this set of axioms is as good as we can hope to do: Sigma is a complete axiomatization of the theory of DLOWE.",
+    "input_data": {
+      "input_text": "But this set of axioms is as good as we can hope to do: Sigma is a complete axiomatization of the theory of DLOWE.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-this-set-of-axioms-is-as-good-as-we-can-hope-3aaa65bb.mp3",
+    "final_audio": "but-this-set-of-axioms-is-as-good-as-we-can-hope-3aaa65bb.mp3"
+  },
+  {
+    "input_text": "First order logic is an expansion of propositional logic, where we add variables and quantifiers to our set of logical symbols.",
+    "input_data": {
+      "input_text": "First order logic is an expansion of propositional logic, where we add variables and quantifiers to our set of logical symbols.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "first-order-logic-is-an-expansion-of-propositional-ee4b157b.mp3",
+    "final_audio": "first-order-logic-is-an-expansion-of-propositional-ee4b157b.mp3"
+  },
+  {
+    "input_text": "We also add certain constant, function and relation symbols, which are specific to a given theory.",
+    "input_data": {
+      "input_text": "We also add certain constant, function and relation symbols, which are specific to a given theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-also-add-certain-constant-function-and-relation-9aa1d65e.mp3",
+    "final_audio": "we-also-add-certain-constant-function-and-relation-9aa1d65e.mp3"
+  },
+  {
+    "input_text": "For example, if we want to study the natural numbers, we add the constant 0, the successor function S, which just maps n to n plus 1, the addition and multiplication function, and the less than relation.",
+    "input_data": {
+      "input_text": "For example, if we want to study the natural numbers, we add the constant 0, the successor function S, which just maps n to n plus 1, the addition and multiplication function, and the less than relation.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-if-we-want-to-study-the-natural-ea2fd571.mp3",
+    "final_audio": "for-example-if-we-want-to-study-the-natural-ea2fd571.mp3"
+  },
+  {
+    "input_text": "But if we want to study graphs, all we would need is a single binary relation E expressing an edge between nodes.",
+    "input_data": {
+      "input_text": "But if we want to study graphs, all we would need is a single binary relation E expressing an edge between nodes.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-if-we-want-to-study-graphs-all-we-would-need-a07bd094.mp3",
+    "final_audio": "but-if-we-want-to-study-graphs-all-we-would-need-a07bd094.mp3"
+  },
+  {
+    "input_text": "These symbols which are specific to a given theory are called the non-logical symbols,",
+    "input_data": {
+      "input_text": "These symbols which are specific to a given theory are called the non-logical symbols,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "these-symbols-which-are-specific-to-a-given-theory-0b7ac331.mp3",
+    "final_audio": "these-symbols-which-are-specific-to-a-given-theory-0b7ac331.mp3"
+  },
+  {
+    "input_text": "and these are the logical symbols.",
+    "input_data": {
+      "input_text": "and these are the logical symbols.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-these-are-the-logical-symbols-66cf8e66.mp3",
+    "final_audio": "and-these-are-the-logical-symbols-66cf8e66.mp3"
+  },
+  {
+    "input_text": "If we restrict ourselves to the logical symbols, then we are in the domain of pure logic, and whatever we prove applies to all first order structures.",
+    "input_data": {
+      "input_text": "If we restrict ourselves to the logical symbols, then we are in the domain of pure logic, and whatever we prove applies to all first order structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-we-restrict-ourselves-to-the-logical-symbols-92dd969b.mp3",
+    "final_audio": "if-we-restrict-ourselves-to-the-logical-symbols-92dd969b.mp3"
+  },
+  {
+    "input_text": "The syntax of first order logic is given by the so-called logical axioms.",
+    "input_data": {
+      "input_text": "The syntax of first order logic is given by the so-called logical axioms.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-syntax-of-first-order-logic-is-given-by-the-so-02e53d0c.mp3",
+    "final_audio": "the-syntax-of-first-order-logic-is-given-by-the-so-02e53d0c.mp3"
+  },
+  {
+    "input_text": "We note that we have just added three axioms to the axioms of propositional logic...",
+    "input_data": {
+      "input_text": "We note that we have just added three axioms to the axioms of propositional logic...",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-note-that-we-have-just-added-three-axioms-to-1e7b20b3.mp3",
+    "final_audio": "we-note-that-we-have-just-added-three-axioms-to-1e7b20b3.mp3"
+  },
+  {
+    "input_text": "which determine how the forall quantifiers work. Note that since exists x P x, where P is some arbitrary property like being even, is equivalent to not forall x not P x. If there is an even number, then we know that not all numbers are odd, so this is why we technically only need to add the forall quantifier to the language.",
+    "input_data": {
+      "input_text": "which determine how the forall quantifiers work. Note that since exists x P x, where P is some arbitrary property like being even, is equivalent to not forall x not P x. If there is an even number, then we know that not all numbers are odd, so this is why we technically only need to add the forall quantifier to the language.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "which-determine-how-the-forall-quantifiers-work-69c005de.mp3",
+    "final_audio": "which-determine-how-the-forall-quantifiers-work-69c005de.mp3"
+  },
+  {
+    "input_text": "One can show that this set of axioms is once again sound and complete, but this time for first order logic, and we will see this proof in the fourth video.",
+    "input_data": {
+      "input_text": "One can show that this set of axioms is once again sound and complete, but this time for first order logic, and we will see this proof in the fourth video.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "one-can-show-that-this-set-of-axioms-is-once-again-a962bb5e.mp3",
+    "final_audio": "one-can-show-that-this-set-of-axioms-is-once-again-a962bb5e.mp3"
+  },
+  {
+    "input_text": "Often the equality relation is taken to be a logical symbol. In this case, we need to add the following five axioms to our list of logical axioms which define the behaviour of the equality symbol.",
+    "input_data": {
+      "input_text": "Often the equality relation is taken to be a logical symbol. In this case, we need to add the following five axioms to our list of logical axioms which define the behaviour of the equality symbol.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "often-the-equality-relation-is-taken-to-be-a-41a85bb7.mp3",
+    "final_audio": "often-the-equality-relation-is-taken-to-be-a-41a85bb7.mp3"
+  },
+  {
+    "input_text": "These axioms are hard to argue against, everything is equal to itself, if a is equal to b then b is also equal to a, and so on.",
+    "input_data": {
+      "input_text": "These axioms are hard to argue against, everything is equal to itself, if a is equal to b then b is also equal to a, and so on.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "these-axioms-are-hard-to-argue-against-everything-a4c09b26.mp3",
+    "final_audio": "these-axioms-are-hard-to-argue-against-everything-a4c09b26.mp3"
+  },
+  {
+    "input_text": "Now we are ready to move to the semantics of FOL. Again we fix our language, which again means we pick a set of constant, function and relations symbols...",
+    "input_data": {
+      "input_text": "Now we are ready to move to the semantics of FOL. Again we fix our language, which again means we pick a set of constant, function and relations symbols...",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-we-are-ready-to-move-to-the-semantics-of-fol-15e04892.mp3",
+    "final_audio": "now-we-are-ready-to-move-to-the-semantics-of-fol-15e04892.mp3"
+  },
+  {
+    "input_text": "and we can define a structure,",
+    "input_data": {
+      "input_text": "and we can define a structure,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-we-can-define-a-structure-d82cdf44.mp3",
+    "final_audio": "and-we-can-define-a-structure-d82cdf44.mp3"
+  },
+  {
+    "input_text": "which is represented by this fancy M, and is equal to this tuple of elements.",
+    "input_data": {
+      "input_text": "which is represented by this fancy M, and is equal to this tuple of elements.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "which-is-represented-by-this-fancy-m-and-is-equal-7e31269d.mp3",
+    "final_audio": "which-is-represented-by-this-fancy-m-and-is-equal-7e31269d.mp3"
+  },
+  {
+    "input_text": "This is the domain or universe of the structure...",
+    "input_data": {
+      "input_text": "This is the domain or universe of the structure...",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-the-domain-or-universe-of-the-structure-55b3a5cb.mp3",
+    "final_audio": "this-is-the-domain-or-universe-of-the-structure-55b3a5cb.mp3"
+  },
+  {
+    "input_text": "and these are the 'interpretations' of the symbols in the language.",
+    "input_data": {
+      "input_text": "and these are the 'interpretations' of the symbols in the language.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-these-are-the-interpretations-of-the-symbols-4fc4bee8.mp3",
+    "final_audio": "and-these-are-the-interpretations-of-the-symbols-4fc4bee8.mp3"
+  },
+  {
+    "input_text": "Constants are interpreted as specific elements in the structure...",
+    "input_data": {
+      "input_text": "Constants are interpreted as specific elements in the structure...",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "constants-are-interpreted-as-specific-elements-in-e5375816.mp3",
+    "final_audio": "constants-are-interpreted-as-specific-elements-in-e5375816.mp3"
+  },
+  {
+    "input_text": "and functions and relations are interpreted as subsets of tuples of elements of the structures.",
+    "input_data": {
+      "input_text": "and functions and relations are interpreted as subsets of tuples of elements of the structures.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-functions-and-relations-are-interpreted-as-adb5bf2e.mp3",
+    "final_audio": "and-functions-and-relations-are-interpreted-as-adb5bf2e.mp3"
+  },
+  {
+    "input_text": "This is a bit abstract, so lets consider the example of the standard structure of arithmetic, which is essentially just a number line.",
+    "input_data": {
+      "input_text": "This is a bit abstract, so lets consider the example of the standard structure of arithmetic, which is essentially just a number line.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-a-bit-abstract-so-lets-consider-the-3ac2693c.mp3",
+    "final_audio": "this-is-a-bit-abstract-so-lets-consider-the-3ac2693c.mp3"
+  },
+  {
+    "input_text": "Again we work within the language of arithmetic.",
+    "input_data": {
+      "input_text": "Again we work within the language of arithmetic.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "again-we-work-within-the-language-of-arithmetic-285a9be2.mp3",
+    "final_audio": "again-we-work-within-the-language-of-arithmetic-285a9be2.mp3"
+  },
+  {
+    "input_text": "So, the universe is the set of natural numbers.",
+    "input_data": {
+      "input_text": "So, the universe is the set of natural numbers.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-the-universe-is-the-set-of-natural-numbers-e98cc7a8.mp3",
+    "final_audio": "so-the-universe-is-the-set-of-natural-numbers-e98cc7a8.mp3"
+  },
+  {
+    "input_text": "We can visualize this structure as a the number line, and as we would expect, the interpretation of 0 is just the first element in the number line.",
+    "input_data": {
+      "input_text": "We can visualize this structure as a the number line, and as we would expect, the interpretation of 0 is just the first element in the number line.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-visualize-this-structure-as-a-the-number-fe1e891d.mp3",
+    "final_audio": "we-can-visualize-this-structure-as-a-the-number-fe1e891d.mp3"
+  },
+  {
+    "input_text": "The interpretations of the relations and functions are harder to visualize. But formally we interpret the less than symbol as the set of all pairs of natural numbers (x,y) such that x is less than y.",
+    "input_data": {
+      "input_text": "The interpretations of the relations and functions are harder to visualize. But formally we interpret the less than symbol as the set of all pairs of natural numbers (x,y) such that x is less than y.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-interpretations-of-the-relations-and-functions-9b645271.mp3",
+    "final_audio": "the-interpretations-of-the-relations-and-functions-9b645271.mp3"
+  },
+  {
+    "input_text": "The successor function will map to the set of all pairs of numbers such that the second is one greater than the first.",
+    "input_data": {
+      "input_text": "The successor function will map to the set of all pairs of numbers such that the second is one greater than the first.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-successor-function-will-map-to-the-set-of-all-1689e0b5.mp3",
+    "final_audio": "the-successor-function-will-map-to-the-set-of-all-1689e0b5.mp3"
+  },
+  {
+    "input_text": "Similarly for the addition function, it maps to the set of all triples (x,y,z) such that x plus y equals z.",
+    "input_data": {
+      "input_text": "Similarly for the addition function, it maps to the set of all triples (x,y,z) such that x plus y equals z.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "similarly-for-the-addition-function-it-maps-to-the-5cccf25d.mp3",
+    "final_audio": "similarly-for-the-addition-function-it-maps-to-the-5cccf25d.mp3"
+  },
+  {
+    "input_text": "So in general the interpretation function s is the bridge between syntax and semantics, where s is a function which maps symbols in a formal language, either to elements, or subsets of tuples of elements of the domain of the structure.",
+    "input_data": {
+      "input_text": "So in general the interpretation function s is the bridge between syntax and semantics, where s is a function which maps symbols in a formal language, either to elements, or subsets of tuples of elements of the domain of the structure.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-in-general-the-interpretation-function-s-is-the-9ef91586.mp3",
+    "final_audio": "so-in-general-the-interpretation-function-s-is-the-9ef91586.mp3"
+  },
+  {
+    "input_text": "This is a strange and abstract idea, to get a better understanding, let us move to perhaps the simplest theory, the theory of graphs.",
+    "input_data": {
+      "input_text": "This is a strange and abstract idea, to get a better understanding, let us move to perhaps the simplest theory, the theory of graphs.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-a-strange-and-abstract-idea-to-get-a-7bcc64df.mp3",
+    "final_audio": "this-is-a-strange-and-abstract-idea-to-get-a-7bcc64df.mp3"
+  },
+  {
+    "input_text": "The language has a single binary relation E, and models are arbitrary sets of points, which may or may not be connected by an arrow.",
+    "input_data": {
+      "input_text": "The language has a single binary relation E, and models are arbitrary sets of points, which may or may not be connected by an arrow.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-language-has-a-single-binary-relation-e-and-c4e9f818.mp3",
+    "final_audio": "the-language-has-a-single-binary-relation-e-and-c4e9f818.mp3"
+  },
+  {
+    "input_text": "Where given nodes a and b, a E b if and only if there is an arrow from a to b.",
+    "input_data": {
+      "input_text": "Where given nodes a and b, a E b if and only if there is an arrow from a to b.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "where-given-nodes-a-and-b-a-e-b-if-and-only-if-b77f7c9b.mp3",
+    "final_audio": "where-given-nodes-a-and-b-a-e-b-if-and-only-if-b77f7c9b.mp3"
   }
 ]

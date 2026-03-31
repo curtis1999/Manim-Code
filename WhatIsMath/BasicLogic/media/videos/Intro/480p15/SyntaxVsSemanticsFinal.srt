@@ -1,0 +1,184 @@
+1
+00:00:00,000 --> 00:00:01,775
+We can look at math from two
+
+2
+00:00:01,875 --> 00:00:05,594
+different points of view. Syntactically and Semantically.
+
+3
+00:00:05,666 --> 00:00:09,001
+The world of syntax is a formal and mechanical world
+
+4
+00:00:09,101 --> 00:00:12,436
+where truth is given by proofs in a formal calculus.
+
+5
+00:00:12,533 --> 00:00:15,750
+Which is just a specific set of axioms
+
+6
+00:00:15,866 --> 00:00:18,782
+written in a formal language, which can be combined
+
+7
+00:00:18,882 --> 00:00:22,271
+according to certain rules of inference to generate proofs.
+
+8
+00:00:22,933 --> 00:00:26,789
+The semantics is the intuitive world in which the symbols
+
+9
+00:00:26,889 --> 00:00:30,954
+of our logical language get interpreted into. Similar to how
+
+10
+00:00:31,054 --> 00:00:35,396
+English words are just words which describe things that actually
+
+11
+00:00:35,496 --> 00:00:39,144
+exist in the world. If viewed platonically, we can see
+
+12
+00:00:39,244 --> 00:00:45,183
+mathematical formulas as describing properties of pre-existing structures which enhabit
+
+13
+00:00:45,283 --> 00:00:46,918
+a perfect world of forms.
+
+14
+00:00:47,000 --> 00:00:50,320
+This platonistic view of math is not shared by everyone. Some hold
+
+15
+00:00:50,420 --> 00:00:53,792
+a formalist view of math, in which they essentially just ignore the
+
+16
+00:00:53,892 --> 00:00:57,471
+semantic side of math. Others hold a constructivist view of math, where
+
+17
+00:00:57,571 --> 00:01:00,166
+we have to be able to construct or at least define a
+
+18
+00:01:00,266 --> 00:01:02,913
+mathematical object before we can say that it exists.
+
+19
+00:01:03,000 --> 00:01:06,380
+But the branch of mathematics which deals with the relation
+
+20
+00:01:06,480 --> 00:01:10,038
+between the syntax and the semantics --known as Model Theory--
+
+21
+00:01:10,138 --> 00:01:13,401
+makes the most sense when viewed from the platonic world.
+
+22
+00:01:14,466 --> 00:01:18,375
+In model theory, mathematical formulas aquire meaning
+
+23
+00:01:18,475 --> 00:01:21,628
+when they get interpreted into a structure.
+
+24
+00:01:21,666 --> 00:01:24,544
+So 1 plus 1 equals 2,
+
+25
+00:01:24,600 --> 00:01:26,837
+gets its meaning only when we interpret each
+
+26
+00:01:26,937 --> 00:01:29,228
+of the symbols involved into the number line.
+
+27
+00:01:29,266 --> 00:01:35,070
+First draw an arrow from 2 to the number 2 on the number line,
+
+28
+00:01:35,133 --> 00:01:37,974
+then draw an arrow from plus into a square box with
+
+29
+00:01:38,074 --> 00:01:41,145
+two input lines, and one output line, with plus inside.
+
+30
+00:01:41,266 --> 00:01:45,659
+Then draw arrows from the 1's in the formula to the input wires,
+
+31
+00:01:45,733 --> 00:01:52,766
+and then draw an arrow from the output wire
+
+32
+00:01:52,866 --> 00:01:58,407
+to the point 2 on the number line.
+
+33
+00:01:58,466 --> 00:02:01,893
+We will make this precise in the next two videos.
+
+34
+00:02:02,933 --> 00:02:07,065
+There are different languages within which we can define our logic:
+
+35
+00:02:07,133 --> 00:02:10,089
+Propositional or 0th order logic,
+
+36
+00:02:10,133 --> 00:02:12,149
+FOL
+
+37
+00:02:12,200 --> 00:02:15,809
+and finally Higher OL's.
+
+38
+00:02:15,866 --> 00:02:19,512
+Of these FOL is used to build or define mathematics. This
+
+39
+00:02:19,612 --> 00:02:24,243
+is because FOL is strong enough to describe most mathematical structures
+
+40
+00:02:24,343 --> 00:02:27,660
+well enough, and not so strong that we can no longer
+
+41
+00:02:27,760 --> 00:02:30,551
+define a complete and sound calculus for it.
+
+42
+00:02:30,600 --> 00:02:34,250
+So propositional logic is too weak for our purposes, and
+
+43
+00:02:34,350 --> 00:02:37,331
+SOL is so strong that we lost control over it.
+
+44
+00:02:37,431 --> 00:02:40,478
+We will see what this means later in the video.
+
+45
+00:02:40,533 --> 00:02:42,422
+But, we will start simple by
+
+46
+00:02:42,522 --> 00:02:45,762
+understanding the basic of propositional logic.
+

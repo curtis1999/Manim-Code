@@ -1,0 +1,112 @@
+1
+00:00:00,000 --> 00:00:02,558
+In some sense the goal of mathematics is
+
+2
+00:00:02,658 --> 00:00:05,150
+to add enough axioms such that there is
+
+3
+00:00:05,266 --> 00:00:08,876
+exactly one structure which satisfies them.
+
+4
+00:00:09,000 --> 00:00:12,267
+In this case, the theory of Sigma is a perfect description of
+
+5
+00:00:12,367 --> 00:00:16,629
+the structure, it contains everything we could possibly say about the structure
+
+6
+00:00:16,729 --> 00:00:19,610
+in first order logic in the language of the structure.
+
+7
+00:00:19,733 --> 00:00:22,395
+If a theory has a finite model, then there is
+
+8
+00:00:22,495 --> 00:00:26,262
+a single sentence phi which fully characterizes the theory, and
+
+9
+00:00:26,362 --> 00:00:29,638
+therefore there is exactly one model up to isomorphism.
+
+10
+00:00:29,733 --> 00:00:32,429
+However, in the third video, we will see why
+
+11
+00:00:32,529 --> 00:00:35,798
+this is impossible for a theory with infinite models.
+
+12
+00:00:35,866 --> 00:00:39,881
+But we can still achieve something weaker, namely that all
+
+13
+00:00:39,981 --> 00:00:43,498
+models of our set Sigma satisfy the same sentences.
+
+14
+00:00:43,600 --> 00:00:46,763
+You may ask how we can know that two models M and N are
+
+15
+00:00:46,863 --> 00:00:51,570
+actually different if they satisfy the same sentences. Again, we will see this in
+
+16
+00:00:51,670 --> 00:00:55,309
+the third video, but for now just know that this has to do with
+
+17
+00:00:55,409 --> 00:00:59,878
+the inability of First Order Logic to deal with the complexities of infinity.
+
+18
+00:00:59,933 --> 00:01:03,478
+However, if we have such a set Sigma, then we cannot
+
+19
+00:01:03,578 --> 00:01:08,244
+differentiate any of its models using a single first order sentence.
+
+20
+00:01:08,333 --> 00:01:12,429
+So, given any sentence alpha we can write, either every
+
+21
+00:01:12,529 --> 00:01:16,853
+model satisfies it, or every model satisfies its negation.
+
+22
+00:01:16,933 --> 00:01:20,594
+In this case we say that the theory is complete.
+
+23
+00:01:20,666 --> 00:01:25,974
+Syntactically, completeness means that the theory is maximally consistent, in
+
+24
+00:01:26,074 --> 00:01:29,837
+the sense that for every formula alpha, either alpha is
+
+25
+00:01:29,937 --> 00:01:32,295
+in Sigma, or not alpha is in Sigma.
+
+26
+00:01:33,333 --> 00:01:38,562
+Thus, it decides everything that it possibly can.
+
+27
+00:01:38,600 --> 00:01:42,855
+If we added even a single new formula alpha to a complete theory,
+
+28
+00:01:42,955 --> 00:01:47,747
+it would then become inconsistent, and it would therefore have no models.
+

@@ -1,100 +1,136 @@
 1
-00:00:01,000 --> 00:00:03,507
-The syntax is the set's of formulas themselves,
+00:00:00,000 --> 00:00:02,276
+The first important concept is the
 
 2
-00:00:03,607 --> 00:00:05,837
-and they are governed by a formal calculus
+00:00:02,376 --> 00:00:05,072
+difference between syntax and semantics.
 
 3
-00:00:06,066 --> 00:00:08,735
-The semantics is the interpretation of these symbols.
+00:00:05,133 --> 00:00:08,880
+The syntax deals with the sets of formulas themselves. It is
 
 4
-00:00:08,800 --> 00:00:11,732
-Truth in the syntactical side is given by a valid
+00:00:08,980 --> 00:00:12,791
+a mechanical process which could be carried out by a machine.
 
 5
-00:00:11,832 --> 00:00:15,322
-proof in a deductive calculus. Here Sigma proves phi means
+00:00:12,933 --> 00:00:16,710
+The semantics deals with the interpretation of these symbols
 
 6
-00:00:15,422 --> 00:00:18,168
-that there is a proof of phi using the logical
+00:00:16,810 --> 00:00:19,554
+and is where our intuition lies. Here we can
 
 7
-00:00:18,268 --> 00:00:21,944
-axioms and premises in Sigma following the rules of inference
+00:00:19,654 --> 00:00:22,785
+image a platonic world of mathematical structures.
 
 8
-00:00:22,066 --> 00:00:25,362
-This is a mechanical process which can be visualized as a tree
+00:00:22,933 --> 00:00:26,618
+Truth in the syntactical side is given by a valid proof
 
 9
-00:00:25,400 --> 00:00:28,346
-Truth in the semantical side is based on Tarki's definition of
+00:00:26,718 --> 00:00:30,748
+in a deductive calculus. We represent this by this relation:
 
 10
-00:00:28,446 --> 00:00:30,999
-truth. Namely that something is true iff it is true in
+00:00:30,800 --> 00:00:34,309
+and it means that there is a formal proof of phi from
 
 11
-00:00:31,099 --> 00:00:34,094
-all models. Here Sigma models phi means that in every structure
+00:00:34,409 --> 00:00:39,895
+Sigma. Proofs are computational processes which can be visualized by a proof-tree.
 
 12
-00:00:34,194 --> 00:00:37,190
-where Sigma is satisfied -- i.e. each sentence in Sigma happens
+00:00:40,066 --> 00:00:43,574
+Truth in the semantical side is based on Tarki's
 
 13
-00:00:37,290 --> 00:00:38,909
-to be true-- phi is also satisfied.
+00:00:43,674 --> 00:00:47,633
+definition of truth. Namely that something is true iff
 
 14
-00:00:39,066 --> 00:00:42,274
-For example, if we have an order relation in our vocabulary and
+00:00:47,733 --> 00:00:51,016
+it is true in all models. Here this relation:
 
 15
-00:00:42,374 --> 00:00:45,793
-Sigma is the set of sentences expressing that the order relation is
+00:00:51,066 --> 00:00:54,007
+which is read as Sigma models phi, means that in
 
 16
-00:00:45,893 --> 00:00:49,573
-transitive and irreflexive, then we can show that it is also assymetric.
+00:00:54,107 --> 00:00:57,997
+every structure where Sigma is satisfied phi is also satisfied.
 
 17
-00:00:49,673 --> 00:00:53,302
-So, any structure satisfying each of the two conditions in Sigma, which
+00:00:58,097 --> 00:01:01,671
+In other words, there is no structure in the mathemtatical
 
 18
-00:00:53,402 --> 00:00:57,083
-happens in any irreflexive partially ordered set, such as a number line,
+00:01:01,771 --> 00:01:05,281
+universe, which satisfies Sigma but does not satisfy phi.
 
 19
-00:00:57,183 --> 00:00:59,551
-or a tree, or a lattice, will also satisfy phi.
+00:01:05,400 --> 00:01:09,589
+For example, if we have an order relation in our vocabulary and Sigma
 
 20
-00:00:59,666 --> 00:01:03,036
-Another way to see this, is that there is no structure in the
+00:01:09,689 --> 00:01:14,624
+is the set of sentences expressing that the order relation is transitive, meaning
 
 21
-00:01:03,136 --> 00:01:07,472
-mathematical universe, which makes Sigma true but which makes phi false. It is
+00:01:14,724 --> 00:01:17,359
+that for all a, b and c: if a is less than b
 
 22
-00:01:07,572 --> 00:01:11,112
-natural to wonder what is the relation between these two worlds.
+00:01:17,459 --> 00:01:20,033
+and b is less than c then a is less than c,
 
 23
-00:01:12,200 --> 00:01:15,818
-In 1929, Godel proved that these two relations are equivalent
+00:01:20,066 --> 00:01:24,067
+and irreflexive, meaning that for all a: a is not less than a,
 
 24
-00:01:15,918 --> 00:01:19,170
-for First order logic. To understand this, we will have
+00:01:24,133 --> 00:01:27,574
+and we let phi be the sentence expressing that the order
 
 25
-00:01:19,270 --> 00:01:21,974
+00:01:27,674 --> 00:01:31,053
+relation is assymetric: meaning that for all a, b: if a
+
+26
+00:01:31,153 --> 00:01:33,646
+is less than b then b is not less than a.
+
+27
+00:01:33,733 --> 00:01:37,024
+then we can show that indeed Sigma models phi, since
+
+28
+00:01:37,124 --> 00:01:41,785
+all possible transitive and irreflexive structure are also assymetic. So,
+
+29
+00:01:41,885 --> 00:01:45,698
+we have two different worlds, the mechanical world of syntax
+
+30
+00:01:45,798 --> 00:01:49,219
+and the intuitive world of semantics. It is natural to
+
+31
+00:01:49,319 --> 00:01:52,415
+wonder what is the relation between these worlds.
+
+32
+00:01:52,466 --> 00:01:55,892
+In 1929, Godel proved that for First order logic, these
+
+33
+00:01:55,992 --> 00:01:59,866
+two relations are equivalent. To understand this, we will have
+
+34
+00:01:59,966 --> 00:02:02,815
 to dive into the basics of mathematical logic.
 

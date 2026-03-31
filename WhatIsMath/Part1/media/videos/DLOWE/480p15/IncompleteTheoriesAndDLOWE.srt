@@ -1,0 +1,184 @@
+1
+00:00:00,000 --> 00:00:03,728
+Returning to our example of Sigma equals phi, psi, we
+
+2
+00:00:03,828 --> 00:00:06,979
+can easily see that this set is not complete.
+
+3
+00:00:07,066 --> 00:00:09,785
+We see that the natural number line is a model of
+
+4
+00:00:09,885 --> 00:00:12,948
+Sigma where E is interpreted as the less than relation.
+
+5
+00:00:13,066 --> 00:00:16,857
+Since for all numbers x, y, z, if x is less than y
+
+6
+00:00:16,957 --> 00:00:20,280
+and y is less than z, then x is less than z,
+
+7
+00:00:20,400 --> 00:00:22,546
+and no number is less than itself.
+
+8
+00:00:22,600 --> 00:00:24,506
+However, a tree is also a model of Sigma
+
+9
+00:00:24,606 --> 00:00:27,515
+where we interpret E based on the direct-extension relation.
+
+10
+00:00:27,600 --> 00:00:30,966
+Since if a extends b, and b extends c, then a must
+
+11
+00:00:31,066 --> 00:00:34,709
+extend c. And no node is a direct extension of itself.
+
+12
+00:00:34,866 --> 00:00:37,086
+And clearly, we can find a sentence chi to
+
+13
+00:00:37,186 --> 00:00:39,904
+differentiate between a tree and a number line. For
+
+14
+00:00:40,004 --> 00:00:43,495
+example, we could add this sentence, expressing totality, meaning
+
+15
+00:00:43,595 --> 00:00:46,312
+that all elements are related by the edge relation.
+
+16
+00:00:46,400 --> 00:00:49,235
+We see that our tree is not a model of this, since two
+
+17
+00:00:49,335 --> 00:00:53,692
+different elements at the same level are not comparable by the extension relation.
+
+18
+00:00:53,733 --> 00:00:57,786
+So, we could add chi as another axiom to our set Sigma.
+
+19
+00:00:57,866 --> 00:01:00,279
+So Sigma now contains phi, psi, chi, and Mod
+
+20
+00:01:00,379 --> 00:01:02,677
+Sigma is the set of linearly ordered sets.
+
+21
+00:01:02,800 --> 00:01:05,692
+However, the theory of Sigma is still not complete,
+
+22
+00:01:05,792 --> 00:01:08,626
+since for example both the natural numbers and the
+
+23
+00:01:08,726 --> 00:01:11,971
+rational numbers satisfy these axioms under the less than
+
+24
+00:01:12,071 --> 00:01:15,492
+relation, and we can differentiate the rational numbers from
+
+25
+00:01:15,592 --> 00:01:19,131
+the natural numbers by this sentence theta expressing density.
+
+26
+00:01:19,200 --> 00:01:23,134
+Meaning that for all x, y, if x is less than y, then there exists
+
+27
+00:01:23,234 --> 00:01:26,362
+a z such that x is less than z and z is less than y.
+
+28
+00:01:26,400 --> 00:01:29,057
+This is not true of the natural numbers, as there is
+
+29
+00:01:29,157 --> 00:01:31,655
+no natural number in between 0 and 1 for example.
+
+30
+00:01:31,733 --> 00:01:34,281
+However, given any fractional number, we can
+
+31
+00:01:34,381 --> 00:01:36,387
+always find a number in between it.
+
+32
+00:01:37,000 --> 00:01:40,317
+If we add theta to our set of axioms Sigma,
+
+33
+00:01:40,417 --> 00:01:44,450
+and we add two more axioms expressing that there are
+
+34
+00:01:44,550 --> 00:01:48,106
+no endpoints, then we get the theory of DLOWE.
+
+35
+00:01:48,266 --> 00:01:51,771
+In 1895 Georg Cantor proved that all countable
+
+36
+00:01:51,871 --> 00:01:56,160
+dense linear orderings without endpoints are isomorphic,
+
+37
+00:01:56,266 --> 00:01:59,528
+which technically just means that there is an order
+
+38
+00:01:59,628 --> 00:02:03,550
+preserving map between them, but essentially means that there
+
+39
+00:02:03,650 --> 00:02:06,847
+is a unique countable set which satisfies this set
+
+40
+00:02:06,947 --> 00:02:10,011
+of axioms, and this set is the rational numbers.
+
+41
+00:02:10,066 --> 00:02:12,696
+So, this set of axioms here, is a close
+
+42
+00:02:12,796 --> 00:02:16,967
+approximation of the structure of the fractional number line.
+
+43
+00:02:17,066 --> 00:02:21,082
+However, it is not perfect as the real
+
+44
+00:02:21,182 --> 00:02:25,848
+number line also satisfies the DLOWE axioms.
+
+45
+00:02:26,000 --> 00:02:29,639
+But this set of axioms is as good as we can hope
+
+46
+00:02:29,739 --> 00:02:34,703
+to do: Sigma is a complete axiomatization of the theory of DLOWE.
+

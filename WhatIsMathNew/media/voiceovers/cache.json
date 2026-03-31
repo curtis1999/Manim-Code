@@ -1,0 +1,422 @@
+[
+  {
+    "input_text": "In this video series we will go deep into mathematical logic to try and figure out what math is, and what it's limits are.",
+    "input_data": {
+      "input_text": "In this video series we will go deep into mathematical logic to try and figure out what math is, and what it's limits are.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-this-video-series-we-will-go-deep-into-076e04c4.mp3",
+    "final_audio": "in-this-video-series-we-will-go-deep-into-076e04c4.mp3"
+  },
+  {
+    "input_text": "For much of history math was essentially geometry, in the sense that everything we proved was grounded in some form of geometric intuition.",
+    "input_data": {
+      "input_text": "For much of history math was essentially geometry, in the sense that everything we proved was grounded in some form of geometric intuition.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-much-of-history-math-was-essentially-geometry-2cdd4ec7.mp3",
+    "final_audio": "for-much-of-history-math-was-essentially-geometry-2cdd4ec7.mp3"
+  },
+  {
+    "input_text": "Its not hard to imagine triangles, squares and circles, and as we start to study them, we can start to notice certain patterns, find different ways classify the shapes and we can find certain surprising relations between different shapes. For example,",
+    "input_data": {
+      "input_text": "Its not hard to imagine triangles, squares and circles, and as we start to study them, we can start to notice certain patterns, find different ways classify the shapes and we can find certain surprising relations between different shapes. For example,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "its-not-hard-to-imagine-triangles-squares-and-02375ed7.mp3",
+    "final_audio": "its-not-hard-to-imagine-triangles-squares-and-02375ed7.mp3"
+  },
+  {
+    "input_text": "we can prove that the sum of the inner angles of any triangle is exactly 180 degrees by drawing a parallel line at its top vertex.",
+    "input_data": {
+      "input_text": "we can prove that the sum of the inner angles of any triangle is exactly 180 degrees by drawing a parallel line at its top vertex.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-prove-that-the-sum-of-the-inner-angles-of-d01aaf4d.mp3",
+    "final_audio": "we-can-prove-that-the-sum-of-the-inner-angles-of-d01aaf4d.mp3"
+  },
+  {
+    "input_text": "The world of geometry is natural and intuitive. However, as math developed, it has become further abstracted from our intuitions.",
+    "input_data": {
+      "input_text": "The world of geometry is natural and intuitive. However, as math developed, it has become further abstracted from our intuitions.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-world-of-geometry-is-natural-and-intuitive-1432e7d3.mp3",
+    "final_audio": "the-world-of-geometry-is-natural-and-intuitive-1432e7d3.mp3"
+  },
+  {
+    "input_text": "By allowing more abstract ideas --such as infinity methods-- into mathematics allows us to broaden the mathematical universe but it comes at the cost of making math harder to wrap our heads around. I will soon make a whole video on the history of math. For now I will just say that in the 1800's mathematics had developed far beyond the intuitive realm of geometry.",
+    "input_data": {
+      "input_text": "By allowing more abstract ideas --such as infinity methods-- into mathematics allows us to broaden the mathematical universe but it comes at the cost of making math harder to wrap our heads around. I will soon make a whole video on the history of math. For now I will just say that in the 1800's mathematics had developed far beyond the intuitive realm of geometry.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "by-allowing-more-abstract-ideas-such-as-infinity-e591010b.mp3",
+    "final_audio": "by-allowing-more-abstract-ideas-such-as-infinity-e591010b.mp3"
+  },
+  {
+    "input_text": "Calculus had been developed which accepted the idea of points at infinity, algebra had developed significantly, and many had started to accept the existence of imaginary numbers as legitimate mathematical objects.",
+    "input_data": {
+      "input_text": "Calculus had been developed which accepted the idea of points at infinity, algebra had developed significantly, and many had started to accept the existence of imaginary numbers as legitimate mathematical objects.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "calculus-had-been-developed-which-accepted-the-b689c077.mp3",
+    "final_audio": "calculus-had-been-developed-which-accepted-the-b689c077.mp3"
+  },
+  {
+    "input_text": "However, math had branched out in so many different ways that there was no longer a common foundation for mathematics. In the 1800's people --such as Frege, Peano Russell and others-- started to ground mathematics in the logic.",
+    "input_data": {
+      "input_text": "However, math had branched out in so many different ways that there was no longer a common foundation for mathematics. In the 1800's people --such as Frege, Peano Russell and others-- started to ground mathematics in the logic.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "however-math-had-branched-out-in-so-many-different-b299b25b.mp3",
+    "final_audio": "however-math-had-branched-out-in-so-many-different-b299b25b.mp3"
+  },
+  {
+    "input_text": "To understand this, let us return to the easy stuff and consider 1 plus 2 equals 3. When viewed in one way, this is just an arbitrary string of five symbols.",
+    "input_data": {
+      "input_text": "To understand this, let us return to the easy stuff and consider 1 plus 2 equals 3. When viewed in one way, this is just an arbitrary string of five symbols.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "to-understand-this-let-us-return-to-the-easy-stuff-2a5528b7.mp3",
+    "final_audio": "to-understand-this-let-us-return-to-the-easy-stuff-2a5528b7.mp3"
+  },
+  {
+    "input_text": "It get's its meaning when interpreted in a structure like the natural number line, where the numbers get interpreted as we expect.",
+    "input_data": {
+      "input_text": "It get's its meaning when interpreted in a structure like the natural number line, where the numbers get interpreted as we expect.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "it-get-s-its-meaning-when-interpreted-in-a-65339cad.mp3",
+    "final_audio": "it-get-s-its-meaning-when-interpreted-in-a-65339cad.mp3"
+  },
+  {
+    "input_text": "The plus sign can be interpreted as a function --which we can see as a computer program-- which takes in two inputs and has a well-defined output.",
+    "input_data": {
+      "input_text": "The plus sign can be interpreted as a function --which we can see as a computer program-- which takes in two inputs and has a well-defined output.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-plus-sign-can-be-interpreted-as-a-function-8d81f7db.mp3",
+    "final_audio": "the-plus-sign-can-be-interpreted-as-a-function-8d81f7db.mp3"
+  },
+  {
+    "input_text": "The equality symbol just checks that the two sides of the equation map to this same element in the line, so we say that the equation holds.",
+    "input_data": {
+      "input_text": "The equality symbol just checks that the two sides of the equation map to this same element in the line, so we say that the equation holds.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-equality-symbol-just-checks-that-the-two-sides-07b9b7c7.mp3",
+    "final_audio": "the-equality-symbol-just-checks-that-the-two-sides-07b9b7c7.mp3"
+  },
+  {
+    "input_text": "Now, if we consider a more complicated equation such as Euler's identity, we see that this equation is meaningless in the natural number line, since the intended interpretations of each of the constants involved do not exist in the natural number line.",
+    "input_data": {
+      "input_text": "Now, if we consider a more complicated equation such as Euler's identity, we see that this equation is meaningless in the natural number line, since the intended interpretations of each of the constants involved do not exist in the natural number line.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-if-we-consider-a-more-complicated-equation-a6640355.mp3",
+    "final_audio": "now-if-we-consider-a-more-complicated-equation-a6640355.mp3"
+  },
+  {
+    "input_text": "To understand this equation, we require a more complex structure known as the complex plane.",
+    "input_data": {
+      "input_text": "To understand this equation, we require a more complex structure known as the complex plane.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "to-understand-this-equation-we-require-a-more-e36cc8d9.mp3",
+    "final_audio": "to-understand-this-equation-we-require-a-more-e36cc8d9.mp3"
+  },
+  {
+    "input_text": "However, once we have done this, we can evaluate it in the same way as 1 plus 2 equals 3. We just have map the constants to their representations in the structure,",
+    "input_data": {
+      "input_text": "However, once we have done this, we can evaluate it in the same way as 1 plus 2 equals 3. We just have map the constants to their representations in the structure,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "however-once-we-have-done-this-we-can-evaluate-it-a0786af1.mp3",
+    "final_audio": "however-once-we-have-done-this-we-can-evaluate-it-a0786af1.mp3"
+  },
+  {
+    "input_text": "and then perform the complex exponentiations function, and we can observe that the left side hand side evaluates to the same point in the structure as the interpretation of the right hand side.",
+    "input_data": {
+      "input_text": "and then perform the complex exponentiations function, and we can observe that the left side hand side evaluates to the same point in the structure as the interpretation of the right hand side.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-then-perform-the-complex-exponentiations-c0456a32.mp3",
+    "final_audio": "and-then-perform-the-complex-exponentiations-c0456a32.mp3"
+  },
+  {
+    "input_text": "3 Blue 1 Brown made an excellent video explaining why this equality holds --you can check that video out here--.",
+    "input_data": {
+      "input_text": "3 Blue 1 Brown made an excellent video explaining why this equality holds --you can check that video out here--.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "3-blue-1-brown-made-an-excellent-video-explaining-8fc28466.mp3",
+    "final_audio": "3-blue-1-brown-made-an-excellent-video-explaining-8fc28466.mp3"
+  },
+  {
+    "input_text": "But from the point of view of a logician, both of these formulas are the simplest possible. They are at the bottom of the complexity hierarchy.",
+    "input_data": {
+      "input_text": "But from the point of view of a logician, both of these formulas are the simplest possible. They are at the bottom of the complexity hierarchy.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-from-the-point-of-view-of-a-logician-both-of-c020a82f.mp3",
+    "final_audio": "but-from-the-point-of-view-of-a-logician-both-of-c020a82f.mp3"
+  },
+  {
+    "input_text": "We can create more complicated formulas using quantifiers. For example, consider this equation, which states that the sum of the first n odd numbers is equal to n-squared.",
+    "input_data": {
+      "input_text": "We can create more complicated formulas using quantifiers. For example, consider this equation, which states that the sum of the first n odd numbers is equal to n-squared.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-create-more-complicated-formulas-using-aad7a925.mp3",
+    "final_audio": "we-can-create-more-complicated-formulas-using-aad7a925.mp3"
+  },
+  {
+    "input_text": "Meaning that 1 plus 3 plus 5 plus dot dot dot n-times, then it is equal to n squared. This is some random pattern which one notices if one looks for patterns in the natural numbers for long enough.",
+    "input_data": {
+      "input_text": "Meaning that 1 plus 3 plus 5 plus dot dot dot n-times, then it is equal to n squared. This is some random pattern which one notices if one looks for patterns in the natural numbers for long enough.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "meaning-that-1-plus-3-plus-5-plus-dot-dot-dot-n-26f3e608.mp3",
+    "final_audio": "meaning-that-1-plus-3-plus-5-plus-dot-dot-dot-n-26f3e608.mp3"
+  },
+  {
+    "input_text": "We can convince ourselves that it is true by going through each possible value of n.",
+    "input_data": {
+      "input_text": "We can convince ourselves that it is true by going through each possible value of n.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-convince-ourselves-that-it-is-true-by-going-f174e258.mp3",
+    "final_audio": "we-can-convince-ourselves-that-it-is-true-by-going-f174e258.mp3"
+  },
+  {
+    "input_text": "Since one is equal to 1 square.",
+    "input_data": {
+      "input_text": "Since one is equal to 1 square.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "since-one-is-equal-to-1-square-a43b0e0d.mp3",
+    "final_audio": "since-one-is-equal-to-1-square-a43b0e0d.mp3"
+  },
+  {
+    "input_text": "1 plus 3 is equal to 2 squared,",
+    "input_data": {
+      "input_text": "1 plus 3 is equal to 2 squared,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "1-plus-3-is-equal-to-2-squared-2817ea34.mp3",
+    "final_audio": "1-plus-3-is-equal-to-2-squared-2817ea34.mp3"
+  },
+  {
+    "input_text": "1 plus 3 plus 5 is equal to 3 squared etc.",
+    "input_data": {
+      "input_text": "1 plus 3 plus 5 is equal to 3 squared etc.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "1-plus-3-plus-5-is-equal-to-3-squared-etc-59472f7d.mp3",
+    "final_audio": "1-plus-3-plus-5-is-equal-to-3-squared-etc-59472f7d.mp3"
+  },
+  {
+    "input_text": "It seems to always hold, but how do we know that there is not some weird number, just beyond our grasp which breaks this pattern?",
+    "input_data": {
+      "input_text": "It seems to always hold, but how do we know that there is not some weird number, just beyond our grasp which breaks this pattern?",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "it-seems-to-always-hold-but-how-do-we-know-that-e1c3e679.mp3",
+    "final_audio": "it-seems-to-always-hold-but-how-do-we-know-that-e1c3e679.mp3"
+  },
+  {
+    "input_text": "Well, to evaluate a formula such as this one, we use the principle of mathematical induction, which just means that we check that it holds for n equals 1, and check that if it holds for n equals k, then it also applies to n equals k plus 1.",
+    "input_data": {
+      "input_text": "Well, to evaluate a formula such as this one, we use the principle of mathematical induction, which just means that we check that it holds for n equals 1, and check that if it holds for n equals k, then it also applies to n equals k plus 1.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "well-to-evaluate-a-formula-such-as-this-one-we-use-f0f88550.mp3",
+    "final_audio": "well-to-evaluate-a-formula-such-as-this-one-we-use-f0f88550.mp3"
+  },
+  {
+    "input_text": "This can be seen using dominoes, if we know that we will push the first domino, and we know that once any domino falls, it will knock over the next domino, then we know that every domino will eventually fall, even if there are infinitely many of them.",
+    "input_data": {
+      "input_text": "This can be seen using dominoes, if we know that we will push the first domino, and we know that once any domino falls, it will knock over the next domino, then we know that every domino will eventually fall, even if there are infinitely many of them.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-can-be-seen-using-dominoes-if-we-know-that-we-626ec7c0.mp3",
+    "final_audio": "this-can-be-seen-using-dominoes-if-we-know-that-we-626ec7c0.mp3"
+  },
+  {
+    "input_text": "So, we see that by adding quantifiers into our logic, and by accepting mathematical induction, we can prove things about every element in an infinite structure, using finitely many symbols. But what do we mean by prove? There turn out to be two very different ways of defining a mathematical proof --and therefore of defining mathematical truth-- and the relationship between them is at the heart of mathematical logic.",
+    "input_data": {
+      "input_text": "So, we see that by adding quantifiers into our logic, and by accepting mathematical induction, we can prove things about every element in an infinite structure, using finitely many symbols. But what do we mean by prove? There turn out to be two very different ways of defining a mathematical proof --and therefore of defining mathematical truth-- and the relationship between them is at the heart of mathematical logic.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-we-see-that-by-adding-quantifiers-into-our-9b016bbe.mp3",
+    "final_audio": "so-we-see-that-by-adding-quantifiers-into-our-9b016bbe.mp3"
+  }
+]

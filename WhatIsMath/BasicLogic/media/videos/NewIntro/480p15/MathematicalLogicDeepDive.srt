@@ -1,0 +1,532 @@
+1
+00:00:00,000 --> 00:00:04,870
+When people think of math, they often think
+
+2
+00:00:04,970 --> 00:00:09,147
+of formulas such as 1+2=3 or e^pii=-1
+
+3
+00:00:09,200 --> 00:00:11,472
+But from a certain point of view, these are
+
+4
+00:00:11,572 --> 00:00:14,839
+just meaningless strings symbols. They get their meaning only
+
+5
+00:00:14,939 --> 00:00:17,929
+when they are interpreted into an appropriate structure.
+
+6
+00:00:18,000 --> 00:00:21,207
+For example, starting simple, 1 plus 2 equals
+
+7
+00:00:21,307 --> 00:00:24,221
+3 is understood based on the number line.
+
+8
+00:00:24,266 --> 00:00:27,667
+The numbers involved get interpreted as we would expect...
+
+9
+00:00:27,733 --> 00:00:30,982
+then we can interpret the plus symbol as a function
+
+10
+00:00:31,082 --> 00:00:34,660
+which takes in two inputs and has a well-defined output.
+
+11
+00:00:34,733 --> 00:00:37,901
+We see that the output of this function is the same as
+
+12
+00:00:38,001 --> 00:00:42,078
+the interpretation of the right-hand side, and so the equality holds.
+
+13
+00:00:43,133 --> 00:00:47,034
+Note that, the addition function can be seen more abstractly
+
+14
+00:00:47,134 --> 00:00:50,434
+as a set of triples. We can imagine considering the
+
+15
+00:00:50,534 --> 00:00:53,168
+set of all sets of three natural numbers.
+
+16
+00:00:53,266 --> 00:00:56,719
+Then we check if the first two sum to the third.
+
+17
+00:00:56,800 --> 00:00:59,431
+If this happens then we include this
+
+18
+00:00:59,531 --> 00:01:02,237
+set of triples into our addition set.
+
+19
+00:01:03,333 --> 00:01:06,580
+If they don't, we exclude them. So, the fact that 1 plus 2
+
+20
+00:01:06,680 --> 00:01:10,678
+equals 3, reveals some hidden relation between the numbers 1, 2, and 3.
+
+21
+00:01:12,333 --> 00:01:15,205
+Similarly to how 2, 3 and 8 are related,
+
+22
+00:01:15,305 --> 00:01:17,954
+because 2 to the power of 3 equals 8.
+
+23
+00:01:19,066 --> 00:01:22,684
+Now, more complicated equations, such as Euler's identity don't
+
+24
+00:01:22,784 --> 00:01:25,575
+make sense in the natural number line, since none
+
+25
+00:01:25,675 --> 00:01:28,762
+of the constants involved in the equation exist there.
+
+26
+00:01:28,800 --> 00:01:31,512
+To understand this equation, we require a more
+
+27
+00:01:31,612 --> 00:01:34,264
+complex structure known as the complex plane.
+
+28
+00:01:34,333 --> 00:01:37,625
+However, once we have done this, we can evaluate it in
+
+29
+00:01:37,725 --> 00:01:40,703
+essentially the same way as 1 plus 2 equals 3. We
+
+30
+00:01:40,803 --> 00:01:44,786
+just map the constants to their representations in the structure,
+
+31
+00:01:44,866 --> 00:01:48,433
+and then perform the complex exponentiation function, and we observe that
+
+32
+00:01:48,533 --> 00:01:51,094
+the left hand side evaluates to the same point in the
+
+33
+00:01:51,194 --> 00:01:53,857
+structure as the interpretation of the right hand side.
+
+34
+00:01:54,933 --> 00:01:58,115
+3 Blue 1 Brown made an excellent video explaining why
+
+35
+00:01:58,215 --> 00:02:01,520
+this equality holds, you can check that video out here.
+
+36
+00:02:01,600 --> 00:02:06,102
+But the takeaway is that mathematicians often have some structure in mind,
+
+37
+00:02:06,202 --> 00:02:10,393
+and they are trying to find the hidden relations between the elements
+
+38
+00:02:10,493 --> 00:02:14,685
+in this structure. Some of the relations are surprising, since e, pi,
+
+39
+00:02:14,785 --> 00:02:18,976
+i and negative 1 have very different definitions, so it's not obvious
+
+40
+00:02:19,076 --> 00:02:23,454
+a-priori that there would be any elegant relation between them. But once
+
+41
+00:02:23,554 --> 00:02:28,554
+we have defined the correct structure and the behaviour of complex exponentiation,
+
+42
+00:02:28,654 --> 00:02:30,731
+we can see why this equation holds.
+
+43
+00:02:31,800 --> 00:02:35,592
+But formulas such as these ones, are the simplest possible.
+
+44
+00:02:35,666 --> 00:02:39,399
+They simply exert a relation between certain elements.
+
+45
+00:02:39,499 --> 00:02:43,089
+Now, by adding quantifiers, which are these symbols,
+
+46
+00:02:44,133 --> 00:02:47,269
+we can express properties of every element in
+
+47
+00:02:47,369 --> 00:02:50,720
+a structure, even if that structure is infinite.
+
+48
+00:02:50,800 --> 00:02:56,863
+For example, consider this formula: for all x, the sum from i
+
+49
+00:02:56,963 --> 00:03:01,410
+equals 1 to x of 2i minus 1 equals x squared.
+
+50
+00:03:01,466 --> 00:03:03,798
+Which means that if we sum the first n
+
+51
+00:03:03,898 --> 00:03:06,486
+odd numbers, the result will be n squared.
+
+52
+00:03:06,600 --> 00:03:09,004
+This is true in the natural number line, but
+
+53
+00:03:09,104 --> 00:03:11,849
+to evaluate it, technically we would have to check
+
+54
+00:03:11,949 --> 00:03:14,467
+that it holds for every single natural number.
+
+55
+00:03:17,666 --> 00:03:20,552
+But how do we know that at some point just beyond our
+
+56
+00:03:20,652 --> 00:03:24,045
+reach there is not some weird number which breaks the pattern?
+
+57
+00:03:25,133 --> 00:03:29,220
+We prove such equations by induction. We show that it holds for
+
+58
+00:03:29,320 --> 00:03:32,543
+the base case of 1, and then show that if it holds
+
+59
+00:03:32,643 --> 00:03:36,265
+for some arbitrary number k, then it holds for k plus 1.
+
+60
+00:03:36,333 --> 00:03:38,684
+Don't worry about the details here, the point is
+
+61
+00:03:38,784 --> 00:03:41,594
+that by using quantifiers, and accepting the principle of
+
+62
+00:03:41,694 --> 00:03:44,556
+mathematical induction, a short string of symbols can tell
+
+63
+00:03:44,656 --> 00:03:47,518
+us something about every element in an infinite structure.
+
+64
+00:03:48,600 --> 00:03:52,335
+By the way, adding quantifiers to our logic, moves us up
+
+65
+00:03:52,435 --> 00:03:57,198
+from 0'th order logic, aka Propositional logic, into First Order Logic.
+
+66
+00:03:57,266 --> 00:04:01,590
+Propositional logic is too weak to define mathematical structures. For those
+
+67
+00:04:01,690 --> 00:04:04,966
+who are curious, there is also second order logic and even
+
+68
+00:04:05,066 --> 00:04:10,029
+higher-order logics, where we allow so-called higher order quantification, meaning that
+
+69
+00:04:10,129 --> 00:04:12,474
+we can iterate over subsets of the domain.
+
+70
+00:04:13,533 --> 00:04:17,741
+In FOL when we write for all x P x, we mean that every element
+
+71
+00:04:17,841 --> 00:04:23,230
+of the structure has the property P, whatever P is. In the natural number line,
+
+72
+00:04:23,330 --> 00:04:26,912
+this means that P of 0 holds, P of 1 holds and so on.
+
+73
+00:04:28,000 --> 00:04:31,378
+In SOL we write for all big X P of big X.
+
+74
+00:04:31,478 --> 00:04:36,807
+And this means that P holds for every subset of natural numbers.
+
+75
+00:04:36,866 --> 00:04:40,284
+This allows us more expressive power, but the notion of logical
+
+76
+00:04:40,384 --> 00:04:44,360
+validity becomes separated from our ability to prove statements. So first
+
+77
+00:04:44,460 --> 00:04:47,487
+order logic sits in a goldilocks zone where it is strong
+
+78
+00:04:47,587 --> 00:04:50,613
+enough to be able to define most of mathematics, and yet
+
+79
+00:04:50,713 --> 00:04:53,014
+not so strong that we lose control over it.
+
+80
+00:04:55,066 --> 00:04:57,598
+So to recap, in math we have certain formulas
+
+81
+00:04:57,698 --> 00:05:01,340
+which express relations between specific elements in the domain,
+
+82
+00:05:03,400 --> 00:05:05,363
+and we have other formulas which
+
+83
+00:05:05,463 --> 00:05:08,393
+can express properties about entire structures.
+
+84
+00:05:10,466 --> 00:05:15,178
+We can continue to generate increasingly powerful formulas, by alternating
+
+85
+00:05:15,278 --> 00:05:19,405
+quantifiers. This is given by the so-called arithmetic hierarchy.
+
+86
+00:05:20,466 --> 00:05:23,820
+At the base, we have the so-called Sigma 0 formulas, which
+
+87
+00:05:23,920 --> 00:05:27,572
+have no quantifiers. These are the simple equations like 1 plus
+
+88
+00:05:27,672 --> 00:05:30,371
+2 equals 3 and Euler's identity we saw earlier.
+
+89
+00:05:30,466 --> 00:05:32,842
+Next we have the Sigma 1 and the Pi 1
+
+90
+00:05:32,942 --> 00:05:37,393
+sentences, which include the existential and the universal formulas.
+
+91
+00:05:37,466 --> 00:05:41,565
+Where an existential formula is just one that starts with an existential
+
+92
+00:05:41,665 --> 00:05:44,889
+quantifier, such as exists y such that x plus x equals y.
+
+93
+00:05:45,933 --> 00:05:50,012
+And a universal formula starts with a universal quantifier
+
+94
+00:05:51,066 --> 00:05:53,257
+Moving up the hierarchy, we can obtain more
+
+95
+00:05:53,357 --> 00:05:56,187
+sophisticated formulas, which allow us to describe more
+
+96
+00:05:56,287 --> 00:05:59,064
+complicated structures by alternating the quantifiers.
+
+97
+00:05:59,133 --> 00:06:02,515
+The Pi 2 formulas are those which start with a for all
+
+98
+00:06:02,615 --> 00:06:06,771
+block and then an existential block, for example: for all x exists
+
+99
+00:06:06,871 --> 00:06:09,737
+y such that x is less than y. Which is true of
+
+100
+00:06:09,837 --> 00:06:13,348
+the natural numbers, as there are always larger numbers.
+
+101
+00:06:14,400 --> 00:06:18,904
+But if we switch the order of the quantifiers, we obtain the Sigma
+
+102
+00:06:19,004 --> 00:06:23,439
+2 sentences, which go exists then for all, and we obtain exists y
+
+103
+00:06:23,539 --> 00:06:26,857
+for all x, x is less than y, which is not true of
+
+104
+00:06:26,957 --> 00:06:32,368
+the natural numbers. Since a witness to this existential quantifier would be an
+
+105
+00:06:32,468 --> 00:06:37,601
+actually infinite number, as it would be greater than every natural number.
+
+106
+00:06:38,666 --> 00:06:41,462
+We can continue in this way. We move up
+
+107
+00:06:41,562 --> 00:06:46,362
+the hierarchy diagonally, by prepending the opposite quantifier to
+
+108
+00:06:46,462 --> 00:06:49,851
+the one which appears first in the lower level.
+
+109
+00:06:52,933 --> 00:06:55,159
+I will quickly note that we can divide the
+
+110
+00:06:55,259 --> 00:06:57,763
+set of formulas in two different types based on
+
+111
+00:06:57,863 --> 00:07:00,643
+whether a formula contains so-called free variables.
+
+112
+00:07:01,733 --> 00:07:06,450
+A sentence is a formula without any free variables, which include sentences
+
+113
+00:07:06,550 --> 00:07:10,047
+without any variables at all, such as 1 plus 2 equals 3,
+
+114
+00:07:10,147 --> 00:07:14,093
+or sentences in which all variables appear bound like this one.
+
+115
+00:07:15,133 --> 00:07:17,972
+Sentences make a claim which is either true
+
+116
+00:07:18,072 --> 00:07:20,910
+or false when interpreted into a structure.
+
+117
+00:07:25,000 --> 00:07:29,040
+Non-sentence formulas have free variables, such as exists y such that y plus
+
+118
+00:07:29,140 --> 00:07:32,363
+y equals x, where we see that there is no quantifier to bound
+
+119
+00:07:32,463 --> 00:07:35,903
+the occurrence of x, so we say that x appears free. Such formulas
+
+120
+00:07:36,003 --> 00:07:40,261
+are sometimes true and sometimes false depending on what the variables point to.
+
+121
+00:07:40,361 --> 00:07:44,184
+They are therefore not used to make claims about the properties within a
+
+122
+00:07:44,284 --> 00:07:47,234
+structure, instead they allow us to define certain sets.
+
+123
+00:07:48,333 --> 00:07:52,221
+Since exists y y plus y equals x is true in the natural
+
+124
+00:07:52,321 --> 00:07:56,862
+numbers if and only if the free variable x is instantiated by an
+
+125
+00:07:56,962 --> 00:08:01,575
+even number, right since if we try with the number 3 for example,
+
+126
+00:08:01,675 --> 00:08:06,288
+there is no natural number which can be added to itself to obtain
+
+127
+00:08:06,388 --> 00:08:09,261
+3. We can define the set E of all such x.
+
+128
+00:08:11,333 --> 00:08:15,393
+So, in this arithmetic hierarchy, we either have sentences which express
+
+129
+00:08:15,493 --> 00:08:18,860
+properties of a given structure or elements within it, or we
+
+130
+00:08:18,960 --> 00:08:21,865
+have formulas which allow us to define certain sets.
+
+131
+00:08:23,933 --> 00:08:27,347
+As we go up in this hierarchy, we can define more complicated
+
+132
+00:08:27,447 --> 00:08:31,322
+sets, and make more complicated claims about a structure. But what do
+
+133
+00:08:31,422 --> 00:08:34,491
+we mean by a mathematical structure in the first place?
+

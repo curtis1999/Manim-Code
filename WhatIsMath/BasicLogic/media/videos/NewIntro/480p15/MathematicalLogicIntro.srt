@@ -1,0 +1,252 @@
+1
+00:00:00,000 --> 00:00:03,075
+When people think of math, they think of
+
+2
+00:00:03,175 --> 00:00:05,934
+equations such as 1 plus 2 equals 3,
+
+3
+00:00:06,066 --> 00:00:12,053
+or e to the pi i equals negative 1.
+
+4
+00:00:12,133 --> 00:00:17,280
+These equations get their meaning when we interpret them into a structure. Where
+
+5
+00:00:17,380 --> 00:00:21,019
+1 plus 2 equals 3 is understood based on the number line.
+
+6
+00:00:21,066 --> 00:00:24,717
+Where we interpret the numbers as we would expect, namely
+
+7
+00:00:24,817 --> 00:00:27,941
+as the first, second, and third elements after 0.
+
+8
+00:00:28,066 --> 00:00:33,457
+Since the addition function can be defined as a primitive recursive function,
+
+9
+00:00:33,557 --> 00:00:38,093
+we can think of the addition function as being a computer program
+
+10
+00:00:38,193 --> 00:00:42,229
+which takes in two inputs and gives a well-defined output.
+
+11
+00:00:42,266 --> 00:00:42,662
+So we map the symbol plus to represent this program...
+
+12
+00:00:43,866 --> 00:00:48,181
+and we feed in the interpretations of the 1 and 2 as input...
+
+13
+00:00:48,266 --> 00:00:51,510
+and map the output to a number on the line.
+
+14
+00:00:51,600 --> 00:00:54,532
+We see that in this case, the two sides of the
+
+15
+00:00:54,632 --> 00:00:58,224
+equation map to the same element in the structure, so we
+
+16
+00:00:58,324 --> 00:01:01,191
+see that indeed 1 plus 2 equals 3, a shocker.
+
+17
+00:01:11,933 --> 00:01:16,016
+Note that, the addition function can be seen more abstractly as a set
+
+18
+00:01:16,116 --> 00:01:19,957
+of triples. Imagine the set of all sets of three natural numbers.
+
+19
+00:01:20,000 --> 00:01:22,158
+This can be seen as every point in
+
+20
+00:01:22,258 --> 00:01:24,549
+a 3-D grid over the natural numbers.
+
+21
+00:01:24,600 --> 00:01:27,326
+For each point in this space, we can check
+
+22
+00:01:27,426 --> 00:01:30,220
+if the first two elements sum to the third.
+
+23
+00:01:30,333 --> 00:01:33,038
+If this happens, then we include this set
+
+24
+00:01:33,138 --> 00:01:35,980
+of triples into the interpretation of plus.
+
+25
+00:01:37,066 --> 00:01:40,649
+If they map to different values, they are excluded.
+
+26
+00:01:41,733 --> 00:01:46,357
+After repeating this process on all sets of triples, we obtain the
+
+27
+00:01:46,457 --> 00:01:51,438
+interpretation of the addition symbol plus M, which is just all numbers
+
+28
+00:01:51,538 --> 00:01:54,015
+a, b, c such that a plus b equals c.
+
+29
+00:01:55,066 --> 00:01:58,402
+So, we see that the plus function gives us a relation between
+
+30
+00:01:58,502 --> 00:02:01,837
+triples of natural numbers. So, the fact that 1 plus 2 equals
+
+31
+00:02:01,937 --> 00:02:05,441
+3, reveals some hidden relation between the numbers 1, 2, and 3.
+
+32
+00:02:05,533 --> 00:02:08,649
+Similar to how 2, 3 and 8 are related,
+
+33
+00:02:08,749 --> 00:02:11,781
+because 2 to the power of 3 equals 8.
+
+34
+00:02:11,866 --> 00:02:16,063
+So, we see that there is some structure, the number line,
+
+35
+00:02:16,163 --> 00:02:21,416
+which exists somewhere, and hidden within it are many relations between
+
+36
+00:02:21,516 --> 00:02:25,637
+its members which we can capture with certain equations.
+
+37
+00:02:26,733 --> 00:02:29,796
+Now, the second equation e to the pi i equals
+
+38
+00:02:29,896 --> 00:02:33,310
+negative 1 does not make sense in the number line,
+
+39
+00:02:33,410 --> 00:02:36,403
+as none of the constant symbols exist there.
+
+40
+00:02:36,533 --> 00:02:39,014
+To understand this equation, we need a more
+
+41
+00:02:39,114 --> 00:02:42,075
+sophisticated structure known as the complex plane.
+
+42
+00:02:42,133 --> 00:02:45,888
+Although this equation seems much more intimidating, evaluating it follows
+
+43
+00:02:45,988 --> 00:02:48,493
+the same general pattern. We just need to map each
+
+44
+00:02:48,593 --> 00:02:51,515
+of the constants to their interpretation in the structure.
+
+45
+00:02:51,600 --> 00:02:54,518
+And then carry out the function operations and check
+
+46
+00:02:54,618 --> 00:02:56,724
+if both sides map to the same element.
+
+47
+00:02:57,666 --> 00:03:00,934
+3 Blue 1 Brown made an excellent video explaining the
+
+48
+00:03:01,034 --> 00:03:04,620
+intuition behind why this equation holds. But for now, the
+
+49
+00:03:04,720 --> 00:03:08,306
+takeaway is that much of mathematics comes down to finding
+
+50
+00:03:08,406 --> 00:03:12,691
+hidden relations between elements in certain mathematical structures.
+
+51
+00:03:13,733 --> 00:03:17,055
+But what do we mean by a mathematical structure?
+
+52
+00:03:17,133 --> 00:03:20,660
+Formally a structure, which we denote by this
+
+53
+00:03:20,760 --> 00:03:24,530
+fancy M, is defined algebraically as this tuple:
+
+54
+00:03:24,600 --> 00:03:27,554
+Where the M is the domain, and these are
+
+55
+00:03:27,654 --> 00:03:31,448
+the interpretations of the symbols in the language.
+
+56
+00:03:31,533 --> 00:03:35,608
+Where the language contains a specific set of constants, which
+
+57
+00:03:35,708 --> 00:03:39,109
+are just specific elements of the domain, such as 0,
+
+58
+00:03:39,209 --> 00:03:43,486
+1, pi, e, function symbols, such as addition, exponentiation, and
+
+59
+00:03:43,586 --> 00:03:46,584
+relation symbols such as the less than symbol.
+
+60
+00:03:46,666 --> 00:03:51,283
+We just saw that binary functions, which just means that they take
+
+61
+00:03:51,383 --> 00:03:57,071
+in two inputs, can be represented as ternary relations, meaning relations between
+
+62
+00:03:57,171 --> 00:04:02,431
+three things, and where an n-ary relation, meaning it relates n-elements at
+
+63
+00:04:02,531 --> 00:04:05,218
+a time, are just subsets of M to the n.
+
