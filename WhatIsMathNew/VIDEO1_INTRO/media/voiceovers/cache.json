@@ -1888,5 +1888,980 @@
     },
     "original_audio": "then-we-can-conclude-that-every-domino-will-ce0b8b43.mp3",
     "final_audio": "then-we-can-conclude-that-every-domino-will-ce0b8b43.mp3"
+  },
+  {
+    "input_text": "In this video series, we will go deep into mathematical logic to figure out what math is and what its limits are.",
+    "input_data": {
+      "input_text": "In this video series, we will go deep into mathematical logic to figure out what math is and what its limits are.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-this-video-series-we-will-go-deep-into-1fb943a5.mp3",
+    "final_audio": "in-this-video-series-we-will-go-deep-into-1fb943a5.mp3"
+  },
+  {
+    "input_text": "For much of history, math was essentially geometry, in the sense that everything we proved was grounded in geometric intuition.",
+    "input_data": {
+      "input_text": "For much of history, math was essentially geometry, in the sense that everything we proved was grounded in geometric intuition.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-much-of-history-math-was-essentially-geometry-7151cefa.mp3",
+    "final_audio": "for-much-of-history-math-was-essentially-geometry-7151cefa.mp3"
+  },
+  {
+    "input_text": "It is not hard to imagine triangles, squares, and circles, and as we study them, we discover hidden properties within these shapes.",
+    "input_data": {
+      "input_text": "It is not hard to imagine triangles, squares, and circles, and as we study them, we discover hidden properties within these shapes.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "it-is-not-hard-to-imagine-triangles-squares-and-970ea9f7.mp3",
+    "final_audio": "it-is-not-hard-to-imagine-triangles-squares-and-970ea9f7.mp3"
+  },
+  {
+    "input_text": "The world of geometry feels natural and intuitive \u2014 yet complexity hides even within a simple unit right triangle.",
+    "input_data": {
+      "input_text": "The world of geometry feels natural and intuitive \u2014 yet complexity hides even within a simple unit right triangle.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-world-of-geometry-feels-natural-and-intuitive-56d95fa2.mp3",
+    "final_audio": "the-world-of-geometry-feels-natural-and-intuitive-56d95fa2.mp3"
+  },
+  {
+    "input_text": "The length of its longest side is the square root of two, which is irrational, meaning its decimal expansion is infinite and non-repeating.",
+    "input_data": {
+      "input_text": "The length of its longest side is the square root of two, which is irrational, meaning its decimal expansion is infinite and non-repeating.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-length-of-its-longest-side-is-the-square-root-f4ce322c.mp3",
+    "final_audio": "the-length-of-its-longest-side-is-the-square-root-f4ce322c.mp3"
+  },
+  {
+    "input_text": "As math developed, it became further abstracted from our intuitions. With the development of calculus, the concept of points at infinity became commonplace.",
+    "input_data": {
+      "input_text": "As math developed, it became further abstracted from our intuitions. With the development of calculus, the concept of points at infinity became commonplace.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "as-math-developed-it-became-further-abstracted-47868c30.mp3",
+    "final_audio": "as-math-developed-it-became-further-abstracted-47868c30.mp3"
+  },
+  {
+    "input_text": "We cannot directly picture an infinite process, yet this framework proved useful for describing the physical world.",
+    "input_data": {
+      "input_text": "We cannot directly picture an infinite process, yet this framework proved useful for describing the physical world.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-cannot-directly-picture-an-infinite-process-yet-0461e4af.mp3",
+    "final_audio": "we-cannot-directly-picture-an-infinite-process-yet-0461e4af.mp3"
+  },
+  {
+    "input_text": "In algebra, negative numbers and eventually imaginary numbers became accepted tools.",
+    "input_data": {
+      "input_text": "In algebra, negative numbers and eventually imaginary numbers became accepted tools.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-algebra-negative-numbers-and-eventually-0f8777ea.mp3",
+    "final_audio": "in-algebra-negative-numbers-and-eventually-0f8777ea.mp3"
+  },
+  {
+    "input_text": "All of this broadened the scope of math and made it more powerful \u2014 but also harder to grasp intuitively.",
+    "input_data": {
+      "input_text": "All of this broadened the scope of math and made it more powerful \u2014 but also harder to grasp intuitively.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "all-of-this-broadened-the-scope-of-math-and-made-92cbf9cf.mp3",
+    "final_audio": "all-of-this-broadened-the-scope-of-math-and-made-92cbf9cf.mp3"
+  },
+  {
+    "input_text": "In this video series, we will go deep into mathematical logic to figure out what math is and what its limits are.",
+    "input_data": {
+      "input_text": "In this video series, we will go deep into mathematical logic to figure out what math is and what its limits are.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-this-video-series-we-will-go-deep-into-1fb943a5.mp3",
+    "final_audio": "in-this-video-series-we-will-go-deep-into-1fb943a5.mp3"
+  },
+  {
+    "input_text": "For much of history, math was essentially geometry, in the sense that everything we proved was grounded in geometric intuition.",
+    "input_data": {
+      "input_text": "For much of history, math was essentially geometry, in the sense that everything we proved was grounded in geometric intuition.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-much-of-history-math-was-essentially-geometry-7151cefa.mp3",
+    "final_audio": "for-much-of-history-math-was-essentially-geometry-7151cefa.mp3"
+  },
+  {
+    "input_text": "It is not hard to imagine triangles, squares, and circles, and as we study them, we discover hidden properties within these shapes.",
+    "input_data": {
+      "input_text": "It is not hard to imagine triangles, squares, and circles, and as we study them, we discover hidden properties within these shapes.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "it-is-not-hard-to-imagine-triangles-squares-and-970ea9f7.mp3",
+    "final_audio": "it-is-not-hard-to-imagine-triangles-squares-and-970ea9f7.mp3"
+  },
+  {
+    "input_text": "The world of geometry feels natural and intuitive \u2014 yet complexity hides even within a simple unit right triangle.",
+    "input_data": {
+      "input_text": "The world of geometry feels natural and intuitive \u2014 yet complexity hides even within a simple unit right triangle.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-world-of-geometry-feels-natural-and-intuitive-56d95fa2.mp3",
+    "final_audio": "the-world-of-geometry-feels-natural-and-intuitive-56d95fa2.mp3"
+  },
+  {
+    "input_text": "The length of its longest side is the square root of two, which is irrational, meaning its decimal expansion is infinite and non-repeating.",
+    "input_data": {
+      "input_text": "The length of its longest side is the square root of two, which is irrational, meaning its decimal expansion is infinite and non-repeating.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-length-of-its-longest-side-is-the-square-root-f4ce322c.mp3",
+    "final_audio": "the-length-of-its-longest-side-is-the-square-root-f4ce322c.mp3"
+  },
+  {
+    "input_text": "As math developed, it became further abstracted from our intuitions. With the development of calculus, the concept of points at infinity became commonplace.",
+    "input_data": {
+      "input_text": "As math developed, it became further abstracted from our intuitions. With the development of calculus, the concept of points at infinity became commonplace.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "as-math-developed-it-became-further-abstracted-47868c30.mp3",
+    "final_audio": "as-math-developed-it-became-further-abstracted-47868c30.mp3"
+  },
+  {
+    "input_text": "We cannot directly picture an infinite process, yet this framework proved useful for describing the physical world.",
+    "input_data": {
+      "input_text": "We cannot directly picture an infinite process, yet this framework proved useful for describing the physical world.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-cannot-directly-picture-an-infinite-process-yet-0461e4af.mp3",
+    "final_audio": "we-cannot-directly-picture-an-infinite-process-yet-0461e4af.mp3"
+  },
+  {
+    "input_text": "In algebra, negative numbers and eventually imaginary numbers became accepted tools.",
+    "input_data": {
+      "input_text": "In algebra, negative numbers and eventually imaginary numbers became accepted tools.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-algebra-negative-numbers-and-eventually-0f8777ea.mp3",
+    "final_audio": "in-algebra-negative-numbers-and-eventually-0f8777ea.mp3"
+  },
+  {
+    "input_text": "All of this broadened the scope of math and made it more powerful \u2014 but also harder to grasp intuitively.",
+    "input_data": {
+      "input_text": "All of this broadened the scope of math and made it more powerful \u2014 but also harder to grasp intuitively.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "all-of-this-broadened-the-scope-of-math-and-made-92cbf9cf.mp3",
+    "final_audio": "all-of-this-broadened-the-scope-of-math-and-made-92cbf9cf.mp3"
+  },
+  {
+    "input_text": "In this video series, we will go deep into mathematical logic to figure out what math is and what its limits are.",
+    "input_data": {
+      "input_text": "In this video series, we will go deep into mathematical logic to figure out what math is and what its limits are.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-this-video-series-we-will-go-deep-into-1fb943a5.mp3",
+    "final_audio": "in-this-video-series-we-will-go-deep-into-1fb943a5.mp3"
+  },
+  {
+    "input_text": "For much of history, math was essentially geometry, in the sense that everything we proved was grounded in geometric intuition.",
+    "input_data": {
+      "input_text": "For much of history, math was essentially geometry, in the sense that everything we proved was grounded in geometric intuition.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-much-of-history-math-was-essentially-geometry-7151cefa.mp3",
+    "final_audio": "for-much-of-history-math-was-essentially-geometry-7151cefa.mp3"
+  },
+  {
+    "input_text": "It is not hard to imagine triangles, squares, and circles, and as we study them, we discover hidden properties within these shapes.",
+    "input_data": {
+      "input_text": "It is not hard to imagine triangles, squares, and circles, and as we study them, we discover hidden properties within these shapes.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "it-is-not-hard-to-imagine-triangles-squares-and-970ea9f7.mp3",
+    "final_audio": "it-is-not-hard-to-imagine-triangles-squares-and-970ea9f7.mp3"
+  },
+  {
+    "input_text": "The world of geometry feels natural and intuitive \u2014 yet complexity hides even within a simple unit right triangle.",
+    "input_data": {
+      "input_text": "The world of geometry feels natural and intuitive \u2014 yet complexity hides even within a simple unit right triangle.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-world-of-geometry-feels-natural-and-intuitive-56d95fa2.mp3",
+    "final_audio": "the-world-of-geometry-feels-natural-and-intuitive-56d95fa2.mp3"
+  },
+  {
+    "input_text": "The length of its longest side is the square root of two, which is irrational, meaning its decimal expansion is infinite and non-repeating.",
+    "input_data": {
+      "input_text": "The length of its longest side is the square root of two, which is irrational, meaning its decimal expansion is infinite and non-repeating.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-length-of-its-longest-side-is-the-square-root-f4ce322c.mp3",
+    "final_audio": "the-length-of-its-longest-side-is-the-square-root-f4ce322c.mp3"
+  },
+  {
+    "input_text": "As math developed, it became further abstracted from our intuitions. With the development of calculus, the concept of points at infinity became commonplace.",
+    "input_data": {
+      "input_text": "As math developed, it became further abstracted from our intuitions. With the development of calculus, the concept of points at infinity became commonplace.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "as-math-developed-it-became-further-abstracted-47868c30.mp3",
+    "final_audio": "as-math-developed-it-became-further-abstracted-47868c30.mp3"
+  },
+  {
+    "input_text": "We cannot directly picture an infinite process, yet this framework proved useful for describing the physical world.",
+    "input_data": {
+      "input_text": "We cannot directly picture an infinite process, yet this framework proved useful for describing the physical world.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-cannot-directly-picture-an-infinite-process-yet-0461e4af.mp3",
+    "final_audio": "we-cannot-directly-picture-an-infinite-process-yet-0461e4af.mp3"
+  },
+  {
+    "input_text": "In algebra, negative numbers and eventually imaginary numbers became accepted tools.",
+    "input_data": {
+      "input_text": "In algebra, negative numbers and eventually imaginary numbers became accepted tools.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-algebra-negative-numbers-and-eventually-0f8777ea.mp3",
+    "final_audio": "in-algebra-negative-numbers-and-eventually-0f8777ea.mp3"
+  },
+  {
+    "input_text": "All of this broadened the scope of math and made it more powerful \u2014 but also harder to grasp intuitively.",
+    "input_data": {
+      "input_text": "All of this broadened the scope of math and made it more powerful \u2014 but also harder to grasp intuitively.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "all-of-this-broadened-the-scope-of-math-and-made-92cbf9cf.mp3",
+    "final_audio": "all-of-this-broadened-the-scope-of-math-and-made-92cbf9cf.mp3"
+  },
+  {
+    "input_text": "And since math had branched into so many different areas, it became difficult to say what math actually was. Analysis looked quite different from group theory, which looked very different to number theory.",
+    "input_data": {
+      "input_text": "And since math had branched into so many different areas, it became difficult to say what math actually was. Analysis looked quite different from group theory, which looked very different to number theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-since-math-had-branched-into-so-many-different-d3e49a52.mp3",
+    "final_audio": "and-since-math-had-branched-into-so-many-different-d3e49a52.mp3"
+  },
+  {
+    "input_text": "In the 19th and early 20th century, mathematicians attempted to ground math in logic.",
+    "input_data": {
+      "input_text": "In the 19th and early 20th century, mathematicians attempted to ground math in logic.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-the-19th-and-early-20th-century-mathematicians-ace0a70e.mp3",
+    "final_audio": "in-the-19th-and-early-20th-century-mathematicians-ace0a70e.mp3"
+  },
+  {
+    "input_text": "Frege observed that the act of doing mathematics involved the manipulations of the same basic symbols: functions,",
+    "input_data": {
+      "input_text": "Frege observed that the act of doing mathematics involved the manipulations of the same basic symbols: functions,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "frege-observed-that-the-act-of-doing-mathematics-b011153c.mp3",
+    "final_audio": "frege-observed-that-the-act-of-doing-mathematics-b011153c.mp3"
+  },
+  {
+    "input_text": "relations,",
+    "input_data": {
+      "input_text": "relations,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "relations-c5fb1e36.mp3",
+    "final_audio": "relations-c5fb1e36.mp3"
+  },
+  {
+    "input_text": "constants,",
+    "input_data": {
+      "input_text": "constants,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "constants-7b9e1c10.mp3",
+    "final_audio": "constants-7b9e1c10.mp3"
+  },
+  {
+    "input_text": "variables,",
+    "input_data": {
+      "input_text": "variables,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "variables-0104e3a7.mp3",
+    "final_audio": "variables-0104e3a7.mp3"
+  },
+  {
+    "input_text": "quantifiers,",
+    "input_data": {
+      "input_text": "quantifiers,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "quantifiers-4fd3cdc7.mp3",
+    "final_audio": "quantifiers-4fd3cdc7.mp3"
+  },
+  {
+    "input_text": "and the boolean connectives of conjunction, disjunction, implication, and negation.",
+    "input_data": {
+      "input_text": "and the boolean connectives of conjunction, disjunction, implication, and negation.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-the-boolean-connectives-of-conjunction-03c9a9e2.mp3",
+    "final_audio": "and-the-boolean-connectives-of-conjunction-03c9a9e2.mp3"
+  },
+  {
+    "input_text": "This aligns with the syntactic, or formalist, view that math is a game played with meaningless symbols according to fixed rules.",
+    "input_data": {
+      "input_text": "This aligns with the syntactic, or formalist, view that math is a game played with meaningless symbols according to fixed rules.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-aligns-with-the-syntactic-or-formalist-view-867c886e.mp3",
+    "final_audio": "this-aligns-with-the-syntactic-or-formalist-view-867c886e.mp3"
+  },
+  {
+    "input_text": "The opposing view is semantic: that there exist pre-existing mathematical structures in some platonic world of forms,",
+    "input_data": {
+      "input_text": "The opposing view is semantic: that there exist pre-existing mathematical structures in some platonic world of forms,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-opposing-view-is-semantic-that-there-exist-pre-b62bd98b.mp3",
+    "final_audio": "the-opposing-view-is-semantic-that-there-exist-pre-b62bd98b.mp3"
+  },
+  {
+    "input_text": "The syntactical world is governed by a deductive calculus, which we can picture as a theorem-proving computer.",
+    "input_data": {
+      "input_text": "The syntactical world is governed by a deductive calculus, which we can picture as a theorem-proving computer.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-syntactical-world-is-governed-by-a-deductive-abfc705c.mp3",
+    "final_audio": "the-syntactical-world-is-governed-by-a-deductive-abfc705c.mp3"
+  },
+  {
+    "input_text": "which our formulas attempt to describe and categorize.",
+    "input_data": {
+      "input_text": "which our formulas attempt to describe and categorize.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "which-our-formulas-attempt-to-describe-and-9ebdbbb2.mp3",
+    "final_audio": "which-our-formulas-attempt-to-describe-and-9ebdbbb2.mp3"
+  },
+  {
+    "input_text": "Feed it a set of axioms as input, and it will output their logical consequences \u2014 which we call theorems.",
+    "input_data": {
+      "input_text": "Feed it a set of axioms as input, and it will output their logical consequences \u2014 which we call theorems.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "feed-it-a-set-of-axioms-as-input-and-it-will-afbddc54.mp3",
+    "final_audio": "feed-it-a-set-of-axioms-as-input-and-it-will-afbddc54.mp3"
+  },
+  {
+    "input_text": "The symbols of this system divide into logical and non-logical, and the axioms divide the same way.",
+    "input_data": {
+      "input_text": "The symbols of this system divide into logical and non-logical, and the axioms divide the same way.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-symbols-of-this-system-divide-into-logical-and-25c77abc.mp3",
+    "final_audio": "the-symbols-of-this-system-divide-into-logical-and-25c77abc.mp3"
+  },
+  {
+    "input_text": "The logical axioms are like the operating system running in the background of all mathematics, determining how the logical symbols behave.",
+    "input_data": {
+      "input_text": "The logical axioms are like the operating system running in the background of all mathematics, determining how the logical symbols behave.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-logical-axioms-are-like-the-operating-system-40e9b8a3.mp3",
+    "final_audio": "the-logical-axioms-are-like-the-operating-system-40e9b8a3.mp3"
+  },
+  {
+    "input_text": "Different choices of logical axioms may give different logics \u2014 in this series we will work with classical first-order logic, and I will dedicate a later video to non-classical logics.",
+    "input_data": {
+      "input_text": "Different choices of logical axioms may give different logics \u2014 in this series we will work with classical first-order logic, and I will dedicate a later video to non-classical logics.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "different-choices-of-logical-axioms-may-give-7381c465.mp3",
+    "final_audio": "different-choices-of-logical-axioms-may-give-7381c465.mp3"
+  },
+  {
+    "input_text": "On top of this logical foundation, different fields of mathematics introduce their own constants, functions, and relations, along with their own axioms, giving rise to different theories like number theory, field theory, and group theory.",
+    "input_data": {
+      "input_text": "On top of this logical foundation, different fields of mathematics introduce their own constants, functions, and relations, along with their own axioms, giving rise to different theories like number theory, field theory, and group theory.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "on-top-of-this-logical-foundation-different-fields-95af88a4.mp3",
+    "final_audio": "on-top-of-this-logical-foundation-different-fields-95af88a4.mp3"
+  },
+  {
+    "input_text": "Formally, a theory is the set of all consequences of its axioms \u2014 i.e. everything the theorem-proving computer can output from those inputs.",
+    "input_data": {
+      "input_text": "Formally, a theory is the set of all consequences of its axioms \u2014 i.e. everything the theorem-proving computer can output from those inputs.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "formally-a-theory-is-the-set-of-all-consequences-1f7f0e29.mp3",
+    "final_audio": "formally-a-theory-is-the-set-of-all-consequences-1f7f0e29.mp3"
+  },
+  {
+    "input_text": "So, on the syntactic side, mathematic truth means provability in a formal calculus.",
+    "input_data": {
+      "input_text": "So, on the syntactic side, mathematic truth means provability in a formal calculus.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-on-the-syntactic-side-mathematic-truth-means-a13a5a77.mp3",
+    "final_audio": "so-on-the-syntactic-side-mathematic-truth-means-a13a5a77.mp3"
+  },
+  {
+    "input_text": "On the semantic side, truth is given by Tarski's definition: a sentence is true if and only if it holds in every model. Let us make this precise \u2014 it may feel technical for a moment, but it leads somewhere interesting.",
+    "input_data": {
+      "input_text": "On the semantic side, truth is given by Tarski's definition: a sentence is true if and only if it holds in every model. Let us make this precise \u2014 it may feel technical for a moment, but it leads somewhere interesting.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "on-the-semantic-side-truth-is-given-by-tarski-s-298110bc.mp3",
+    "final_audio": "on-the-semantic-side-truth-is-given-by-tarski-s-298110bc.mp3"
+  },
+  {
+    "input_text": "Formally, a structure \u2014 which we denote with the symbol M \u2014 is given by a tuple consisting of a domain, or universe, together with interpretations of the constants, functions, and relations in the language.",
+    "input_data": {
+      "input_text": "Formally, a structure \u2014 which we denote with the symbol M \u2014 is given by a tuple consisting of a domain, or universe, together with interpretations of the constants, functions, and relations in the language.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "formally-a-structure-which-we-denote-with-the-243ab5dc.mp3",
+    "final_audio": "formally-a-structure-which-we-denote-with-the-243ab5dc.mp3"
+  },
+  {
+    "input_text": "To define the natural numbers with addition and multiplication, for instance, we need at least the symbols zero, one, the addition function, the multiplication function, and the less-than relation.",
+    "input_data": {
+      "input_text": "To define the natural numbers with addition and multiplication, for instance, we need at least the symbols zero, one, the addition function, the multiplication function, and the less-than relation.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "to-define-the-natural-numbers-with-addition-and-fef2f91d.mp3",
+    "final_audio": "to-define-the-natural-numbers-with-addition-and-fef2f91d.mp3"
+  },
+  {
+    "input_text": "We interpret zero and one as expected.",
+    "input_data": {
+      "input_text": "We interpret zero and one as expected.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-interpret-zero-and-one-as-expected-fb47cf94.mp3",
+    "final_audio": "we-interpret-zero-and-one-as-expected-fb47cf94.mp3"
+  },
+  {
+    "input_text": "Functions act like computer programs: they take inputs and produce a uniquely determined output.",
+    "input_data": {
+      "input_text": "Functions act like computer programs: they take inputs and produce a uniquely determined output.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "functions-act-like-computer-programs-they-take-edf41538.mp3",
+    "final_audio": "functions-act-like-computer-programs-they-take-edf41538.mp3"
+  },
+  {
+    "input_text": "Relations are slightly more abstract \u2014 formally, the less-than relation is interpreted as the set of all pairs (a, b) such that a is less than b.",
+    "input_data": {
+      "input_text": "Relations are slightly more abstract \u2014 formally, the less-than relation is interpreted as the set of all pairs (a, b) such that a is less than b.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "relations-are-slightly-more-abstract-formally-the-effd5415.mp3",
+    "final_audio": "relations-are-slightly-more-abstract-formally-the-effd5415.mp3"
+  },
+  {
+    "input_text": "Note that functions are just special relations where the output is uniquely determined by the inputs.",
+    "input_data": {
+      "input_text": "Note that functions are just special relations where the output is uniquely determined by the inputs.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "note-that-functions-are-just-special-relations-dc81e62b.mp3",
+    "final_audio": "note-that-functions-are-just-special-relations-dc81e62b.mp3"
+  },
+  {
+    "input_text": "So the successor function would map to the set of all pair of numbers such that the second is one greater than the first.",
+    "input_data": {
+      "input_text": "So the successor function would map to the set of all pair of numbers such that the second is one greater than the first.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-the-successor-function-would-map-to-the-set-of-7f677ce2.mp3",
+    "final_audio": "so-the-successor-function-would-map-to-the-set-of-7f677ce2.mp3"
+  },
+  {
+    "input_text": "And the addition function is formally the set of all triples (a, b, c) such that a plus b equals c.",
+    "input_data": {
+      "input_text": "And the addition function is formally the set of all triples (a, b, c) such that a plus b equals c.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-the-addition-function-is-formally-the-set-of-7fd9e4b9.mp3",
+    "final_audio": "and-the-addition-function-is-formally-the-set-of-7fd9e4b9.mp3"
+  },
+  {
+    "input_text": "To evaluate a simple equation like one plus two equals three, we map the constants as expected",
+    "input_data": {
+      "input_text": "To evaluate a simple equation like one plus two equals three, we map the constants as expected",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "to-evaluate-a-simple-equation-like-one-plus-two-54c363e1.mp3",
+    "final_audio": "to-evaluate-a-simple-equation-like-one-plus-two-54c363e1.mp3"
+  },
+  {
+    "input_text": "and then check whether the resulting triple belongs to the addition relation.",
+    "input_data": {
+      "input_text": "and then check whether the resulting triple belongs to the addition relation.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-then-check-whether-the-resulting-triple-cd7755c2.mp3",
+    "final_audio": "and-then-check-whether-the-resulting-triple-cd7755c2.mp3"
+  },
+  {
+    "input_text": "The syntactical world is governed by a deductive calculus, which we can visualize as a theorem-proving computer.",
+    "input_data": {
+      "input_text": "The syntactical world is governed by a deductive calculus, which we can visualize as a theorem-proving computer.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-syntactical-world-is-governed-by-a-deductive-27d9a477.mp3",
+    "final_audio": "the-syntactical-world-is-governed-by-a-deductive-27d9a477.mp3"
+  },
+  {
+    "input_text": "The symbols of this system divide into logical and non-logical.",
+    "input_data": {
+      "input_text": "The symbols of this system divide into logical and non-logical.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-symbols-of-this-system-divide-into-logical-and-b9587749.mp3",
+    "final_audio": "the-symbols-of-this-system-divide-into-logical-and-b9587749.mp3"
+  },
+  {
+    "input_text": "The axioms divide in the same way. If we only feed in the so-called logical axioms --which determine the behaviour of the logical symbols-- into our theorem prover then we are in the world of pure logic.",
+    "input_data": {
+      "input_text": "The axioms divide in the same way. If we only feed in the so-called logical axioms --which determine the behaviour of the logical symbols-- into our theorem prover then we are in the world of pure logic.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-axioms-divide-in-the-same-way-if-we-only-feed-751d09e0.mp3",
+    "final_audio": "the-axioms-divide-in-the-same-way-if-we-only-feed-751d09e0.mp3"
+  },
+  {
+    "input_text": "The outputs of our theorem prover will be logically valid formulas. We can think of this like the operating system, operating in the background of mathematics.",
+    "input_data": {
+      "input_text": "The outputs of our theorem prover will be logically valid formulas. We can think of this like the operating system, operating in the background of mathematics.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-outputs-of-our-theorem-prover-will-be-71a41625.mp3",
+    "final_audio": "the-outputs-of-our-theorem-prover-will-be-71a41625.mp3"
+  },
+  {
+    "input_text": "Then, to define a mathematical theory, such as group theory, or number theory, we will fix a set of constants, functions and relations, and add axioms which determine the behaviour of these new symbols.",
+    "input_data": {
+      "input_text": "Then, to define a mathematical theory, such as group theory, or number theory, we will fix a set of constants, functions and relations, and add axioms which determine the behaviour of these new symbols.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-to-define-a-mathematical-theory-such-as-group-e4246c6a.mp3",
+    "final_audio": "then-to-define-a-mathematical-theory-such-as-group-e4246c6a.mp3"
+  },
+  {
+    "input_text": "The choice of which symbols and axioms to include lead to different theories. And a theory is just the set of everything which can be outputted by the theorem proving computer.",
+    "input_data": {
+      "input_text": "The choice of which symbols and axioms to include lead to different theories. And a theory is just the set of everything which can be outputted by the theorem proving computer.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-choice-of-which-symbols-and-axioms-to-include-1322f3f1.mp3",
+    "final_audio": "the-choice-of-which-symbols-and-axioms-to-include-1322f3f1.mp3"
+  },
+  {
+    "input_text": "So, mathematical truth on the syntactic side is given by proofs in a deductive calculus.",
+    "input_data": {
+      "input_text": "So, mathematical truth on the syntactic side is given by proofs in a deductive calculus.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-mathematical-truth-on-the-syntactic-side-is-b0046310.mp3",
+    "final_audio": "so-mathematical-truth-on-the-syntactic-side-is-b0046310.mp3"
+  },
+  {
+    "input_text": "On the semantic side, truth is given by Tarski's definition: a sentence is true if and only if it holds in every model. Let us make this precise \u2014 it may feel technical for a moment, but it leads somewhere interesting.",
+    "input_data": {
+      "input_text": "On the semantic side, truth is given by Tarski's definition: a sentence is true if and only if it holds in every model. Let us make this precise \u2014 it may feel technical for a moment, but it leads somewhere interesting.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "on-the-semantic-side-truth-is-given-by-tarski-s-298110bc.mp3",
+    "final_audio": "on-the-semantic-side-truth-is-given-by-tarski-s-298110bc.mp3"
   }
 ]

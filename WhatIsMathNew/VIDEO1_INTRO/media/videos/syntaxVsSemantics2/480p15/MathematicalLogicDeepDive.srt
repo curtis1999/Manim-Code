@@ -1,0 +1,180 @@
+1
+00:00:00,000 --> 00:00:03,931
+The syntactical world is governed by a deductive calculus,
+
+2
+00:00:04,031 --> 00:00:07,475
+which we can picture as a theorem-proving computer.
+
+3
+00:00:07,600 --> 00:00:10,011
+Feed it a set of axioms as input, and it
+
+4
+00:00:10,111 --> 00:00:14,030
+will output their logical consequences — which we call theorems.
+
+5
+00:00:14,133 --> 00:00:17,391
+The symbols of this system divide into logical and
+
+6
+00:00:17,491 --> 00:00:20,616
+non-logical, and the axioms divide the same way.
+
+7
+00:00:20,733 --> 00:00:24,729
+The logical axioms are like the operating system running in the
+
+8
+00:00:24,829 --> 00:00:29,541
+background of all mathematics, determining how the logical symbols behave.
+
+9
+00:00:29,666 --> 00:00:33,554
+Different choices of logical axioms may give different logics —
+
+10
+00:00:33,654 --> 00:00:37,415
+in this series we will work with classical first-order logic,
+
+11
+00:00:37,515 --> 00:00:41,086
+and I will dedicate a later video to non-classical logics.
+
+12
+00:00:41,133 --> 00:00:44,472
+On top of this logical foundation, different fields of
+
+13
+00:00:44,572 --> 00:00:49,186
+mathematics introduce their own constants, functions, and relations, along
+
+14
+00:00:49,286 --> 00:00:52,753
+with their own axioms, giving rise to different theories
+
+15
+00:00:52,853 --> 00:00:56,001
+like number theory, field theory, and group theory.
+
+16
+00:00:56,133 --> 00:01:00,627
+Formally, a theory is the set of all consequences of its axioms
+
+17
+00:01:00,727 --> 00:01:06,168
+— i.e. everything the theorem-proving computer can output from those inputs.
+
+18
+00:01:06,266 --> 00:01:09,783
+So, on the syntactic side, mathematic truth
+
+19
+00:01:09,883 --> 00:01:13,062
+means provability in a formal calculus.
+
+20
+00:01:13,133 --> 00:01:17,161
+On the semantic side, truth is given by Tarski's definition: a
+
+21
+00:01:17,261 --> 00:01:20,423
+sentence is true if and only if it holds in every
+
+22
+00:01:20,523 --> 00:01:24,085
+model. Let us make this precise — it may feel technical
+
+23
+00:01:24,185 --> 00:01:27,348
+for a moment, but it leads somewhere interesting.
+
+24
+00:01:27,466 --> 00:01:31,317
+Formally, a structure — which we denote with the symbol M —
+
+25
+00:01:31,417 --> 00:01:35,671
+is given by a tuple consisting of a domain, or universe, together
+
+26
+00:01:35,771 --> 00:01:41,028
+with interpretations of the constants, functions, and relations in the language.
+
+27
+00:01:41,200 --> 00:01:44,914
+To define the natural numbers with addition and multiplication, for
+
+28
+00:01:45,014 --> 00:01:47,932
+instance, we need at least the symbols zero, one, the
+
+29
+00:01:48,032 --> 00:01:52,202
+addition function, the multiplication function, and the less-than relation.
+
+30
+00:01:52,333 --> 00:01:55,550
+We interpret zero and one as expected.
+
+31
+00:01:55,600 --> 00:01:58,524
+Functions act like computer programs: they take
+
+32
+00:01:58,624 --> 00:02:01,612
+inputs and produce a uniquely determined output.
+
+33
+00:02:02,200 --> 00:02:06,347
+Relations are slightly more abstract — formally, the less-than
+
+34
+00:02:06,447 --> 00:02:09,566
+relation is interpreted as the set of all pairs
+
+35
+00:02:09,666 --> 00:02:11,895
+(a, b) such that a is less than b.
+
+36
+00:02:12,000 --> 00:02:15,200
+Note that functions are just special relations where
+
+37
+00:02:15,300 --> 00:02:18,247
+the output is uniquely determined by the inputs.
+
+38
+00:02:18,333 --> 00:02:21,983
+So the successor function would map to the set of all pair
+
+39
+00:02:22,083 --> 00:02:25,991
+of numbers such that the second is one greater than the first.
+
+40
+00:02:27,066 --> 00:02:31,076
+And the addition function is formally the set of all triples
+
+41
+00:02:31,176 --> 00:02:33,680
+(a, b, c) such that a plus b equals c.
+
+42
+00:02:35,800 --> 00:02:38,419
+To evaluate a simple equation like one plus two
+
+43
+00:02:38,519 --> 00:02:41,081
+equals three, we map the constants as expected
+
+44
+00:02:41,200 --> 00:02:43,525
+and then check whether the resulting
+
+45
+00:02:43,625 --> 00:02:46,220
+triple belongs to the addition relation.
+

@@ -1,0 +1,148 @@
+1
+00:00:00,000 --> 00:00:03,926
+In this video series, we will go deep into mathematical logic
+
+2
+00:00:04,026 --> 00:00:07,292
+to figure out what math is and what its limits are.
+
+3
+00:00:07,400 --> 00:00:11,472
+For much of history, math was essentially geometry, in the
+
+4
+00:00:11,572 --> 00:00:16,364
+sense that everything we proved was grounded in geometric intuition.
+
+5
+00:00:16,466 --> 00:00:20,091
+It is not hard to imagine triangles, squares, and circles, and
+
+6
+00:00:20,191 --> 00:00:24,177
+as we study them, we discover hidden properties within these shapes.
+
+7
+00:00:24,266 --> 00:00:27,803
+The world of geometry feels natural and intuitive — yet
+
+8
+00:00:27,903 --> 00:00:31,637
+complexity hides even within a simple unit right triangle.
+
+9
+00:00:31,733 --> 00:00:35,075
+The length of its longest side is the square root of two,
+
+10
+00:00:35,175 --> 00:00:39,966
+which is irrational, meaning its decimal expansion is infinite and non-repeating.
+
+11
+00:00:41,400 --> 00:00:44,572
+As math developed, it became further abstracted from
+
+12
+00:00:44,672 --> 00:00:47,907
+our intuitions. With the development of calculus, the
+
+13
+00:00:48,007 --> 00:00:50,991
+concept of points at infinity became commonplace.
+
+14
+00:00:51,066 --> 00:00:54,328
+We cannot directly picture an infinite process, yet this
+
+15
+00:00:54,428 --> 00:00:57,810
+framework proved useful for describing the physical world.
+
+16
+00:00:57,933 --> 00:01:00,824
+In algebra, negative numbers and eventually
+
+17
+00:01:00,924 --> 00:01:03,606
+imaginary numbers became accepted tools.
+
+18
+00:01:03,733 --> 00:01:06,671
+All of this broadened the scope of math and made
+
+19
+00:01:06,771 --> 00:01:10,216
+it more powerful — but also harder to grasp intuitively.
+
+20
+00:01:11,333 --> 00:01:14,846
+And since math had branched into so many different areas, it
+
+21
+00:01:14,946 --> 00:01:19,002
+became difficult to say what math actually was. Analysis looked quite
+
+22
+00:01:19,102 --> 00:01:23,458
+different from group theory, which looked very different to number theory.
+
+23
+00:01:24,600 --> 00:01:27,591
+In the 19th and early 20th century,
+
+24
+00:01:27,691 --> 00:01:31,918
+mathematicians attempted to ground math in logic.
+
+25
+00:01:33,000 --> 00:01:37,194
+Frege observed that the act of doing mathematics involved
+
+26
+00:01:37,294 --> 00:01:41,337
+the manipulations of the same basic symbols: functions,
+
+27
+00:01:41,400 --> 00:01:42,710
+relations,
+
+28
+00:01:42,866 --> 00:01:44,490
+constants,
+
+29
+00:01:44,600 --> 00:01:45,988
+variables,
+
+30
+00:01:46,133 --> 00:01:47,861
+quantifiers,
+
+31
+00:01:48,000 --> 00:01:50,040
+and the boolean connectives of
+
+32
+00:01:50,140 --> 00:01:53,751
+conjunction, disjunction, implication, and negation.
+
+33
+00:01:53,800 --> 00:01:57,885
+This aligns with the syntactic, or formalist, view that math is
+
+34
+00:01:57,985 --> 00:02:02,137
+a game played with meaningless symbols according to fixed rules.
+
+35
+00:02:02,200 --> 00:02:06,207
+The opposing view is semantic: that there exist pre-existing
+
+36
+00:02:06,307 --> 00:02:10,041
+mathematical structures in some platonic world of forms,
+
+37
+00:02:10,133 --> 00:02:14,291
+which our formulas attempt to describe and categorize.
+
