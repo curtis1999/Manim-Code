@@ -1,0 +1,164 @@
+1
+00:00:00,000 --> 00:00:03,754
+One modern answer to the question, is simply math
+
+2
+00:00:03,854 --> 00:00:06,980
+is the set of theorems of ZFC set theory.
+
+3
+00:00:07,133 --> 00:00:12,588
+Where ZFC stands for Zermelo, Fraenkel plus Choice, and is axiomatized
+
+4
+00:00:12,688 --> 00:00:17,271
+by these set of axioms. We will answer why these particular
+
+5
+00:00:17,371 --> 00:00:21,556
+axioms later, but for now just know that these are the
+
+6
+00:00:21,656 --> 00:00:26,953
+best attempt to formalize all of mathematics into a single language.
+
+7
+00:00:27,000 --> 00:00:30,614
+The theory of ZFC is every logical consequence of
+
+8
+00:00:30,714 --> 00:00:33,798
+these axioms, which we can think of as all
+
+9
+00:00:33,898 --> 00:00:37,892
+outputs of a certain special theorem proving computer.
+
+10
+00:00:38,000 --> 00:00:41,846
+So, we feed in the axioms, and it outputs the
+
+11
+00:00:41,946 --> 00:00:47,548
+logical consequences of these axioms, which we call the theorems.
+
+12
+00:00:47,733 --> 00:00:50,627
+Then we can feed these theorems back in as
+
+13
+00:00:50,727 --> 00:00:54,761
+input, and we continue deriving new mathematical theorems.
+
+14
+00:00:55,000 --> 00:00:59,254
+So, there is some pre-existing space of all possible proofs
+
+15
+00:00:59,354 --> 00:01:03,093
+from this set of axioms, and the goal of mathematics
+
+16
+00:01:03,193 --> 00:01:06,636
+is to explore as much of this space as possible.
+
+17
+00:01:06,866 --> 00:01:09,672
+There are multiple ways of formalizing what
+
+18
+00:01:09,772 --> 00:01:12,646
+the inside of this theorem proving computer.
+
+19
+00:01:12,866 --> 00:01:17,677
+Perhaps the simplest is with the so called Hilbert Calculus, which
+
+20
+00:01:17,777 --> 00:01:21,694
+is just this set of axioms equipped with modus ponens.
+
+21
+00:01:21,866 --> 00:01:27,541
+These axioms determine the behaviour of the logical negation, implication,
+
+22
+00:01:27,641 --> 00:01:31,677
+and universal quantifier, and they turn out to be all
+
+23
+00:01:31,777 --> 00:01:35,110
+that we need to formalize first order logic.
+
+24
+00:01:35,400 --> 00:01:40,713
+Modus ponens, can be seen as the application of a computer program,
+
+25
+00:01:40,813 --> 00:01:45,562
+where phi implies psi means that it takes in phi and outputs
+
+26
+00:01:45,662 --> 00:01:48,956
+psi, so if we then feed in phi we get psi.
+
+27
+00:01:49,133 --> 00:01:54,367
+Not rocket science. But the necessary complexity comes from the fact
+
+28
+00:01:54,467 --> 00:01:58,681
+that we can pass functions as input to other functions.
+
+29
+00:02:06,533 --> 00:02:10,221
+So we can design or derive, complex interconnect
+
+30
+00:02:10,321 --> 00:02:14,089
+circuits of logical variables using these axioms.
+
+31
+00:02:14,266 --> 00:02:18,280
+And this set of axioms is of a special kind, since
+
+32
+00:02:18,380 --> 00:02:23,627
+it can only prove logically valid statements, and as Godel proved
+
+33
+00:02:23,727 --> 00:02:28,974
+in 1929, it can prove all logically valid first order statements.
+
+34
+00:02:29,066 --> 00:02:33,433
+So, we can think of these set of axioms, known as the
+
+35
+00:02:33,533 --> 00:02:39,502
+logical axioms, as the operating system of our theorem proving computer.
+
+36
+00:02:39,666 --> 00:02:43,464
+Then we add in new symbols specific to our given theory
+
+37
+00:02:43,564 --> 00:02:48,071
+to the language, add axioms controlling these symbols and we feed
+
+38
+00:02:48,171 --> 00:02:51,686
+in new axioms to our theorem prover and let it run.
+
+39
+00:02:52,000 --> 00:02:55,641
+This view of mathematics aligns with the formalist view
+
+40
+00:02:55,741 --> 00:02:58,294
+of math, namely that it is a game being
+
+41
+00:02:58,394 --> 00:03:02,172
+played by meaningless symbols according to certain rules.
+

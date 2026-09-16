@@ -1,0 +1,164 @@
+1
+00:00:00,000 --> 00:00:03,489
+The syntactical world is governed by a deductive calculus,
+
+2
+00:00:03,589 --> 00:00:06,770
+which we can visualize as a theorem-proving computer.
+
+3
+00:00:10,333 --> 00:00:14,883
+The symbols of this system divide into logical and non-logical.
+
+4
+00:00:14,933 --> 00:00:18,455
+The axioms divide in the same way. If we only feed in the
+
+5
+00:00:18,555 --> 00:00:24,175
+so-called logical axioms --which determine the behaviour of the logical symbols-- into our
+
+6
+00:00:24,275 --> 00:00:27,607
+theorem prover then we are in the world of pure logic.
+
+7
+00:00:27,666 --> 00:00:30,740
+The outputs of our theorem prover will be logically
+
+8
+00:00:30,840 --> 00:00:33,540
+valid formulas. We can think of this like the
+
+9
+00:00:33,640 --> 00:00:37,336
+operating system, operating in the background of mathematics.
+
+10
+00:00:37,400 --> 00:00:41,917
+Then, to define a mathematical theory, such as group theory, or number
+
+11
+00:00:42,017 --> 00:00:46,402
+theory, we will fix a set of constants, functions and relations, and
+
+12
+00:00:46,502 --> 00:00:50,491
+add axioms which determine the behaviour of these new symbols.
+
+13
+00:00:50,533 --> 00:00:53,933
+The choice of which symbols and axioms to include lead to
+
+14
+00:00:54,033 --> 00:00:57,740
+different theories. And a theory is just the set of everything
+
+15
+00:00:57,840 --> 00:01:01,117
+which can be outputted by the theorem proving computer.
+
+16
+00:01:01,733 --> 00:01:04,879
+So, mathematical truth on the syntactic side is
+
+17
+00:01:04,979 --> 00:01:07,641
+given by proofs in a deductive calculus.
+
+18
+00:01:07,733 --> 00:01:11,761
+On the semantic side, truth is given by Tarski's definition: a
+
+19
+00:01:11,861 --> 00:01:15,023
+sentence is true if and only if it holds in every
+
+20
+00:01:15,123 --> 00:01:18,685
+model. Let us make this precise — it may feel technical
+
+21
+00:01:18,785 --> 00:01:21,948
+for a moment, but it leads somewhere interesting.
+
+22
+00:01:23,600 --> 00:01:27,451
+Formally, a structure — which we denote with the symbol M —
+
+23
+00:01:27,551 --> 00:01:31,804
+is given by a tuple consisting of a domain, or universe, together
+
+24
+00:01:31,904 --> 00:01:37,162
+with interpretations of the constants, functions, and relations in the language.
+
+25
+00:01:37,200 --> 00:01:40,899
+To define the natural numbers with addition and multiplication, for
+
+26
+00:01:40,999 --> 00:01:43,905
+instance, we need at least the symbols zero, one, the
+
+27
+00:01:44,005 --> 00:01:48,045
+successor function, addition, multiplication, and the less-than relation.
+
+28
+00:01:48,133 --> 00:01:51,350
+We interpret zero and one as expected.
+
+29
+00:01:51,400 --> 00:01:55,739
+The interpretation of functions and relations is a bit more abstract.
+
+30
+00:01:55,839 --> 00:01:59,858
+For example, the less-than relation is interpreted as the set of
+
+31
+00:01:59,958 --> 00:02:02,689
+all pairs (a, b) such that a is less than b.
+
+32
+00:02:03,800 --> 00:02:07,000
+Note that functions are just special relations where
+
+33
+00:02:07,100 --> 00:02:10,047
+the output is uniquely determined by the inputs.
+
+34
+00:02:10,133 --> 00:02:13,783
+So the successor function would map to the set of all pair
+
+35
+00:02:13,883 --> 00:02:17,791
+of numbers such that the second is one greater than the first.
+
+36
+00:02:18,866 --> 00:02:22,876
+And the addition function is formally the set of all triples
+
+37
+00:02:22,976 --> 00:02:25,480
+(a, b, c) such that a plus b equals c.
+
+38
+00:02:27,600 --> 00:02:30,219
+To evaluate a simple equation like one plus two
+
+39
+00:02:30,319 --> 00:02:32,881
+equals three, we map the constants as expected
+
+40
+00:02:33,000 --> 00:02:35,325
+and then check whether the resulting
+
+41
+00:02:35,425 --> 00:02:38,020
+triple belongs to the addition relation.
+

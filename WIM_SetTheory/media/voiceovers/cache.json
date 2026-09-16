@@ -1,0 +1,875 @@
+[
+  {
+    "input_text": "Obviously the question of what math actually is, has been debated for much of history.",
+    "input_data": {
+      "input_text": "Obviously the question of what math actually is, has been debated for much of history.",
+      "service": "gtts"
+    },
+    "original_audio": "obviously-the-question-of-what-math-actually-is-477d9f8e.mp3",
+    "final_audio": "obviously-the-question-of-what-math-actually-is-477d9f8e.mp3"
+  },
+  {
+    "input_text": "And due to Godel's incompleteness theorems, there is no objective answer.",
+    "input_data": {
+      "input_text": "And due to Godel's incompleteness theorems, there is no objective answer.",
+      "service": "gtts"
+    },
+    "original_audio": "and-due-to-godel-s-incompleteness-theorems-there-85d2762b.mp3",
+    "final_audio": "and-due-to-godel-s-incompleteness-theorems-there-85d2762b.mp3"
+  },
+  {
+    "input_text": "If we visualize the totality of math as a set, then its border cannot be clearly defined.",
+    "input_data": {
+      "input_text": "If we visualize the totality of math as a set, then its border cannot be clearly defined.",
+      "service": "gtts"
+    },
+    "original_audio": "if-we-visualize-the-totality-of-math-as-a-set-then-f1402750.mp3",
+    "final_audio": "if-we-visualize-the-totality-of-math-as-a-set-then-f1402750.mp3"
+  },
+  {
+    "input_text": "Note that we can either choose to visualize the totality of math syntactically or semantically.",
+    "input_data": {
+      "input_text": "Note that we can either choose to visualize the totality of math syntactically or semantically.",
+      "service": "gtts"
+    },
+    "original_audio": "note-that-we-can-either-choose-to-visualize-the-992db53e.mp3",
+    "final_audio": "note-that-we-can-either-choose-to-visualize-the-992db53e.mp3"
+  },
+  {
+    "input_text": "Syntactically this would be the set of all true mathematical formulas written in first order logic,",
+    "input_data": {
+      "input_text": "Syntactically this would be the set of all true mathematical formulas written in first order logic,",
+      "service": "gtts"
+    },
+    "original_audio": "syntactically-this-would-be-the-set-of-all-true-8dbc589b.mp3",
+    "final_audio": "syntactically-this-would-be-the-set-of-all-true-8dbc589b.mp3"
+  },
+  {
+    "input_text": "and semantically would be the totality of mathematical structures. Where mathematical structures can be seen as pre-existing eternal objects in a platonic world of forms.",
+    "input_data": {
+      "input_text": "and semantically would be the totality of mathematical structures. Where mathematical structures can be seen as pre-existing eternal objects in a platonic world of forms.",
+      "service": "gtts"
+    },
+    "original_audio": "and-semantically-would-be-the-totality-of-45f283b8.mp3",
+    "final_audio": "and-semantically-would-be-the-totality-of-45f283b8.mp3"
+  },
+  {
+    "input_text": "One modern answer to the question, is simply math is the set of theorems of ZFC set theory.",
+    "input_data": {
+      "input_text": "One modern answer to the question, is simply math is the set of theorems of ZFC set theory.",
+      "service": "gtts"
+    },
+    "original_audio": "one-modern-answer-to-the-question-is-simply-math-32ba670c.mp3",
+    "final_audio": "one-modern-answer-to-the-question-is-simply-math-32ba670c.mp3"
+  },
+  {
+    "input_text": "Where ZFC stands for Zermelo, Fraenkel plus Choice, and is axiomatized by these set of axioms. We will answer why these particular axioms later, but for now just know that these are the best attempt to formalize all of mathematics into a single language.",
+    "input_data": {
+      "input_text": "Where ZFC stands for Zermelo, Fraenkel plus Choice, and is axiomatized by these set of axioms. We will answer why these particular axioms later, but for now just know that these are the best attempt to formalize all of mathematics into a single language.",
+      "service": "gtts"
+    },
+    "original_audio": "where-zfc-stands-for-zermelo-fraenkel-plus-choice-01c6bf65.mp3",
+    "final_audio": "where-zfc-stands-for-zermelo-fraenkel-plus-choice-01c6bf65.mp3"
+  },
+  {
+    "input_text": "The theory of ZFC is every logical consequence of these axioms, which we can think of as all outputs of a certain special theorem proving computer.",
+    "input_data": {
+      "input_text": "The theory of ZFC is every logical consequence of these axioms, which we can think of as all outputs of a certain special theorem proving computer.",
+      "service": "gtts"
+    },
+    "original_audio": "the-theory-of-zfc-is-every-logical-consequence-of-f8c446e0.mp3",
+    "final_audio": "the-theory-of-zfc-is-every-logical-consequence-of-f8c446e0.mp3"
+  },
+  {
+    "input_text": "So, we feed in the axioms, and it outputs the logical consequences of these axioms, which we call the theorems.",
+    "input_data": {
+      "input_text": "So, we feed in the axioms, and it outputs the logical consequences of these axioms, which we call the theorems.",
+      "service": "gtts"
+    },
+    "original_audio": "so-we-feed-in-the-axioms-and-it-outputs-the-3d94f5a8.mp3",
+    "final_audio": "so-we-feed-in-the-axioms-and-it-outputs-the-3d94f5a8.mp3"
+  },
+  {
+    "input_text": "Then we can feed these theorems back in as input, and we continue deriving new mathematical theorems.",
+    "input_data": {
+      "input_text": "Then we can feed these theorems back in as input, and we continue deriving new mathematical theorems.",
+      "service": "gtts"
+    },
+    "original_audio": "then-we-can-feed-these-theorems-back-in-as-input-a4d0901d.mp3",
+    "final_audio": "then-we-can-feed-these-theorems-back-in-as-input-a4d0901d.mp3"
+  },
+  {
+    "input_text": "So, there is some pre-existing space of all possible proofs from this set of axioms, and the goal of mathematics is to explore as much of this space as possible.",
+    "input_data": {
+      "input_text": "So, there is some pre-existing space of all possible proofs from this set of axioms, and the goal of mathematics is to explore as much of this space as possible.",
+      "service": "gtts"
+    },
+    "original_audio": "so-there-is-some-pre-existing-space-of-all-e655c2dc.mp3",
+    "final_audio": "so-there-is-some-pre-existing-space-of-all-e655c2dc.mp3"
+  },
+  {
+    "input_text": "There are multiple ways of formalizing what the inside of this theorem proving computer.",
+    "input_data": {
+      "input_text": "There are multiple ways of formalizing what the inside of this theorem proving computer.",
+      "service": "gtts"
+    },
+    "original_audio": "there-are-multiple-ways-of-formalizing-what-the-f79821f1.mp3",
+    "final_audio": "there-are-multiple-ways-of-formalizing-what-the-f79821f1.mp3"
+  },
+  {
+    "input_text": "Perhaps the simplest is with the so called Hilbert Calculus, which is just this set of axioms equipped with modus ponens.",
+    "input_data": {
+      "input_text": "Perhaps the simplest is with the so called Hilbert Calculus, which is just this set of axioms equipped with modus ponens.",
+      "service": "gtts"
+    },
+    "original_audio": "perhaps-the-simplest-is-with-the-so-called-hilbert-a23908ba.mp3",
+    "final_audio": "perhaps-the-simplest-is-with-the-so-called-hilbert-a23908ba.mp3"
+  },
+  {
+    "input_text": "These axioms determine the behaviour of the logical negation, implication, and universal quantifier, and they turn out to be all that we need to formalize first order logic.",
+    "input_data": {
+      "input_text": "These axioms determine the behaviour of the logical negation, implication, and universal quantifier, and they turn out to be all that we need to formalize first order logic.",
+      "service": "gtts"
+    },
+    "original_audio": "these-axioms-determine-the-behaviour-of-the-91b15dd6.mp3",
+    "final_audio": "these-axioms-determine-the-behaviour-of-the-91b15dd6.mp3"
+  },
+  {
+    "input_text": "Modus ponens, can be seen as the application of a computer program, where p implies q means that it takes in p and outputs q, so if we then feed in p we get q.",
+    "input_data": {
+      "input_text": "Modus ponens, can be seen as the application of a computer program, where p implies q means that it takes in p and outputs q, so if we then feed in p we get q.",
+      "service": "gtts"
+    },
+    "original_audio": "modus-ponens-can-be-seen-as-the-application-of-a-f34c8013.mp3",
+    "final_audio": "modus-ponens-can-be-seen-as-the-application-of-a-f34c8013.mp3"
+  },
+  {
+    "input_text": "Not rocket science. But the necessary complexity comes from the fact that we can pass functions as input to other functions.",
+    "input_data": {
+      "input_text": "Not rocket science. But the necessary complexity comes from the fact that we can pass functions as input to other functions.",
+      "service": "gtts"
+    },
+    "original_audio": "not-rocket-science-but-the-necessary-complexity-5c4e5f10.mp3",
+    "final_audio": "not-rocket-science-but-the-necessary-complexity-5c4e5f10.mp3"
+  },
+  {
+    "input_text": "So we can design or derive, complex interconnect circuits of logical variables using these axioms.",
+    "input_data": {
+      "input_text": "So we can design or derive, complex interconnect circuits of logical variables using these axioms.",
+      "service": "gtts"
+    },
+    "original_audio": "so-we-can-design-or-derive-complex-interconnect-d7eb7339.mp3",
+    "final_audio": "so-we-can-design-or-derive-complex-interconnect-d7eb7339.mp3"
+  },
+  {
+    "input_text": "And this set of axioms is of a special kind, since it can only prove logically valid statements, and as Godel proved in 1929, it can prove all logically valid first order statements.",
+    "input_data": {
+      "input_text": "And this set of axioms is of a special kind, since it can only prove logically valid statements, and as Godel proved in 1929, it can prove all logically valid first order statements.",
+      "service": "gtts"
+    },
+    "original_audio": "and-this-set-of-axioms-is-of-a-special-kind-since-3e1b5e4f.mp3",
+    "final_audio": "and-this-set-of-axioms-is-of-a-special-kind-since-3e1b5e4f.mp3"
+  },
+  {
+    "input_text": "So, we can think of these set of axioms, known as the logical axioms, as the operating system of our theorem proving computer.",
+    "input_data": {
+      "input_text": "So, we can think of these set of axioms, known as the logical axioms, as the operating system of our theorem proving computer.",
+      "service": "gtts"
+    },
+    "original_audio": "so-we-can-think-of-these-set-of-axioms-known-as-16f88e48.mp3",
+    "final_audio": "so-we-can-think-of-these-set-of-axioms-known-as-16f88e48.mp3"
+  },
+  {
+    "input_text": "Then we add in new symbols specific to our given theory to the language, add axioms controlling these symbols and we feed in new axioms to our theorem prover and let it run.",
+    "input_data": {
+      "input_text": "Then we add in new symbols specific to our given theory to the language, add axioms controlling these symbols and we feed in new axioms to our theorem prover and let it run.",
+      "service": "gtts"
+    },
+    "original_audio": "then-we-add-in-new-symbols-specific-to-our-given-7c9dca75.mp3",
+    "final_audio": "then-we-add-in-new-symbols-specific-to-our-given-7c9dca75.mp3"
+  },
+  {
+    "input_text": "This view of mathematics aligns with the formalist view of math, namely that it is a game being played by meaningless symbols according to certain rules.",
+    "input_data": {
+      "input_text": "This view of mathematics aligns with the formalist view of math, namely that it is a game being played by meaningless symbols according to certain rules.",
+      "service": "gtts"
+    },
+    "original_audio": "this-view-of-mathematics-aligns-with-the-formalist-fcbdab24.mp3",
+    "final_audio": "this-view-of-mathematics-aligns-with-the-formalist-fcbdab24.mp3"
+  },
+  {
+    "input_text": "One modern answer to the question, is simply math is the set of theorems of ZFC set theory.",
+    "input_data": {
+      "input_text": "One modern answer to the question, is simply math is the set of theorems of ZFC set theory.",
+      "service": "gtts"
+    },
+    "original_audio": "one-modern-answer-to-the-question-is-simply-math-32ba670c.mp3",
+    "final_audio": "one-modern-answer-to-the-question-is-simply-math-32ba670c.mp3"
+  },
+  {
+    "input_text": "Where ZFC stands for Zermelo, Fraenkel plus Choice, and is axiomatized by these set of axioms. We will answer why these particular axioms later, but for now just know that these are the best attempt to formalize all of mathematics into a single language.",
+    "input_data": {
+      "input_text": "Where ZFC stands for Zermelo, Fraenkel plus Choice, and is axiomatized by these set of axioms. We will answer why these particular axioms later, but for now just know that these are the best attempt to formalize all of mathematics into a single language.",
+      "service": "gtts"
+    },
+    "original_audio": "where-zfc-stands-for-zermelo-fraenkel-plus-choice-01c6bf65.mp3",
+    "final_audio": "where-zfc-stands-for-zermelo-fraenkel-plus-choice-01c6bf65.mp3"
+  },
+  {
+    "input_text": "The theory of ZFC is every logical consequence of these axioms, which we can think of as all outputs of a certain special theorem proving computer.",
+    "input_data": {
+      "input_text": "The theory of ZFC is every logical consequence of these axioms, which we can think of as all outputs of a certain special theorem proving computer.",
+      "service": "gtts"
+    },
+    "original_audio": "the-theory-of-zfc-is-every-logical-consequence-of-f8c446e0.mp3",
+    "final_audio": "the-theory-of-zfc-is-every-logical-consequence-of-f8c446e0.mp3"
+  },
+  {
+    "input_text": "So, we feed in the axioms, and it outputs the logical consequences of these axioms, which we call the theorems.",
+    "input_data": {
+      "input_text": "So, we feed in the axioms, and it outputs the logical consequences of these axioms, which we call the theorems.",
+      "service": "gtts"
+    },
+    "original_audio": "so-we-feed-in-the-axioms-and-it-outputs-the-3d94f5a8.mp3",
+    "final_audio": "so-we-feed-in-the-axioms-and-it-outputs-the-3d94f5a8.mp3"
+  },
+  {
+    "input_text": "Then we can feed these theorems back in as input, and we continue deriving new mathematical theorems.",
+    "input_data": {
+      "input_text": "Then we can feed these theorems back in as input, and we continue deriving new mathematical theorems.",
+      "service": "gtts"
+    },
+    "original_audio": "then-we-can-feed-these-theorems-back-in-as-input-a4d0901d.mp3",
+    "final_audio": "then-we-can-feed-these-theorems-back-in-as-input-a4d0901d.mp3"
+  },
+  {
+    "input_text": "So, there is some pre-existing space of all possible proofs from this set of axioms, and the goal of mathematics is to explore as much of this space as possible.",
+    "input_data": {
+      "input_text": "So, there is some pre-existing space of all possible proofs from this set of axioms, and the goal of mathematics is to explore as much of this space as possible.",
+      "service": "gtts"
+    },
+    "original_audio": "so-there-is-some-pre-existing-space-of-all-e655c2dc.mp3",
+    "final_audio": "so-there-is-some-pre-existing-space-of-all-e655c2dc.mp3"
+  },
+  {
+    "input_text": "There are multiple ways of formalizing what the inside of this theorem proving computer.",
+    "input_data": {
+      "input_text": "There are multiple ways of formalizing what the inside of this theorem proving computer.",
+      "service": "gtts"
+    },
+    "original_audio": "there-are-multiple-ways-of-formalizing-what-the-f79821f1.mp3",
+    "final_audio": "there-are-multiple-ways-of-formalizing-what-the-f79821f1.mp3"
+  },
+  {
+    "input_text": "Perhaps the simplest is with the so called Hilbert Calculus, which is just this set of axioms equipped with modus ponens.",
+    "input_data": {
+      "input_text": "Perhaps the simplest is with the so called Hilbert Calculus, which is just this set of axioms equipped with modus ponens.",
+      "service": "gtts"
+    },
+    "original_audio": "perhaps-the-simplest-is-with-the-so-called-hilbert-a23908ba.mp3",
+    "final_audio": "perhaps-the-simplest-is-with-the-so-called-hilbert-a23908ba.mp3"
+  },
+  {
+    "input_text": "These axioms determine the behaviour of the logical negation, implication, and universal quantifier, and they turn out to be all that we need to formalize first order logic.",
+    "input_data": {
+      "input_text": "These axioms determine the behaviour of the logical negation, implication, and universal quantifier, and they turn out to be all that we need to formalize first order logic.",
+      "service": "gtts"
+    },
+    "original_audio": "these-axioms-determine-the-behaviour-of-the-91b15dd6.mp3",
+    "final_audio": "these-axioms-determine-the-behaviour-of-the-91b15dd6.mp3"
+  },
+  {
+    "input_text": "Modus ponens, can be seen as the application of a computer program, where phi implies psi means that it takes in phi and outputs psi, so if we then feed in phi we get psi.",
+    "input_data": {
+      "input_text": "Modus ponens, can be seen as the application of a computer program, where phi implies psi means that it takes in phi and outputs psi, so if we then feed in phi we get psi.",
+      "service": "gtts"
+    },
+    "original_audio": "modus-ponens-can-be-seen-as-the-application-of-a-7f36978b.mp3",
+    "final_audio": "modus-ponens-can-be-seen-as-the-application-of-a-7f36978b.mp3"
+  },
+  {
+    "input_text": "Not rocket science. But the necessary complexity comes from the fact that we can pass functions as input to other functions.",
+    "input_data": {
+      "input_text": "Not rocket science. But the necessary complexity comes from the fact that we can pass functions as input to other functions.",
+      "service": "gtts"
+    },
+    "original_audio": "not-rocket-science-but-the-necessary-complexity-5c4e5f10.mp3",
+    "final_audio": "not-rocket-science-but-the-necessary-complexity-5c4e5f10.mp3"
+  },
+  {
+    "input_text": "So we can design or derive, complex interconnect circuits of logical variables using these axioms.",
+    "input_data": {
+      "input_text": "So we can design or derive, complex interconnect circuits of logical variables using these axioms.",
+      "service": "gtts"
+    },
+    "original_audio": "so-we-can-design-or-derive-complex-interconnect-d7eb7339.mp3",
+    "final_audio": "so-we-can-design-or-derive-complex-interconnect-d7eb7339.mp3"
+  },
+  {
+    "input_text": "And this set of axioms is of a special kind, since it can only prove logically valid statements, and as Godel proved in 1929, it can prove all logically valid first order statements.",
+    "input_data": {
+      "input_text": "And this set of axioms is of a special kind, since it can only prove logically valid statements, and as Godel proved in 1929, it can prove all logically valid first order statements.",
+      "service": "gtts"
+    },
+    "original_audio": "and-this-set-of-axioms-is-of-a-special-kind-since-3e1b5e4f.mp3",
+    "final_audio": "and-this-set-of-axioms-is-of-a-special-kind-since-3e1b5e4f.mp3"
+  },
+  {
+    "input_text": "So, we can think of these set of axioms, known as the logical axioms, as the operating system of our theorem proving computer.",
+    "input_data": {
+      "input_text": "So, we can think of these set of axioms, known as the logical axioms, as the operating system of our theorem proving computer.",
+      "service": "gtts"
+    },
+    "original_audio": "so-we-can-think-of-these-set-of-axioms-known-as-16f88e48.mp3",
+    "final_audio": "so-we-can-think-of-these-set-of-axioms-known-as-16f88e48.mp3"
+  },
+  {
+    "input_text": "Then we add in new symbols specific to our given theory to the language, add axioms controlling these symbols and we feed in new axioms to our theorem prover and let it run.",
+    "input_data": {
+      "input_text": "Then we add in new symbols specific to our given theory to the language, add axioms controlling these symbols and we feed in new axioms to our theorem prover and let it run.",
+      "service": "gtts"
+    },
+    "original_audio": "then-we-add-in-new-symbols-specific-to-our-given-7c9dca75.mp3",
+    "final_audio": "then-we-add-in-new-symbols-specific-to-our-given-7c9dca75.mp3"
+  },
+  {
+    "input_text": "This view of mathematics aligns with the formalist view of math, namely that it is a game being played by meaningless symbols according to certain rules.",
+    "input_data": {
+      "input_text": "This view of mathematics aligns with the formalist view of math, namely that it is a game being played by meaningless symbols according to certain rules.",
+      "service": "gtts"
+    },
+    "original_audio": "this-view-of-mathematics-aligns-with-the-formalist-fcbdab24.mp3",
+    "final_audio": "this-view-of-mathematics-aligns-with-the-formalist-fcbdab24.mp3"
+  },
+  {
+    "input_text": "One modern answer to the question, is simply math is the set of theorems of ZFC set theory.",
+    "input_data": {
+      "input_text": "One modern answer to the question, is simply math is the set of theorems of ZFC set theory.",
+      "service": "gtts"
+    },
+    "original_audio": "one-modern-answer-to-the-question-is-simply-math-32ba670c.mp3",
+    "final_audio": "one-modern-answer-to-the-question-is-simply-math-32ba670c.mp3"
+  },
+  {
+    "input_text": "Where ZFC stands for Zermelo, Fraenkel plus Choice, and is axiomatized by these set of axioms. We will answer why these particular axioms later, but for now just know that these are the best attempt to formalize all of mathematics into a single language.",
+    "input_data": {
+      "input_text": "Where ZFC stands for Zermelo, Fraenkel plus Choice, and is axiomatized by these set of axioms. We will answer why these particular axioms later, but for now just know that these are the best attempt to formalize all of mathematics into a single language.",
+      "service": "gtts"
+    },
+    "original_audio": "where-zfc-stands-for-zermelo-fraenkel-plus-choice-01c6bf65.mp3",
+    "final_audio": "where-zfc-stands-for-zermelo-fraenkel-plus-choice-01c6bf65.mp3"
+  },
+  {
+    "input_text": "The theory of ZFC is every logical consequence of these axioms, which we can think of as all outputs of a certain special theorem proving computer.",
+    "input_data": {
+      "input_text": "The theory of ZFC is every logical consequence of these axioms, which we can think of as all outputs of a certain special theorem proving computer.",
+      "service": "gtts"
+    },
+    "original_audio": "the-theory-of-zfc-is-every-logical-consequence-of-f8c446e0.mp3",
+    "final_audio": "the-theory-of-zfc-is-every-logical-consequence-of-f8c446e0.mp3"
+  },
+  {
+    "input_text": "So, we feed in the axioms, and it outputs the logical consequences of these axioms, which we call the theorems.",
+    "input_data": {
+      "input_text": "So, we feed in the axioms, and it outputs the logical consequences of these axioms, which we call the theorems.",
+      "service": "gtts"
+    },
+    "original_audio": "so-we-feed-in-the-axioms-and-it-outputs-the-3d94f5a8.mp3",
+    "final_audio": "so-we-feed-in-the-axioms-and-it-outputs-the-3d94f5a8.mp3"
+  },
+  {
+    "input_text": "Then we can feed these theorems back in as input, and we continue deriving new mathematical theorems.",
+    "input_data": {
+      "input_text": "Then we can feed these theorems back in as input, and we continue deriving new mathematical theorems.",
+      "service": "gtts"
+    },
+    "original_audio": "then-we-can-feed-these-theorems-back-in-as-input-a4d0901d.mp3",
+    "final_audio": "then-we-can-feed-these-theorems-back-in-as-input-a4d0901d.mp3"
+  },
+  {
+    "input_text": "So, there is some pre-existing space of all possible proofs from this set of axioms, and the goal of mathematics is to explore as much of this space as possible.",
+    "input_data": {
+      "input_text": "So, there is some pre-existing space of all possible proofs from this set of axioms, and the goal of mathematics is to explore as much of this space as possible.",
+      "service": "gtts"
+    },
+    "original_audio": "so-there-is-some-pre-existing-space-of-all-e655c2dc.mp3",
+    "final_audio": "so-there-is-some-pre-existing-space-of-all-e655c2dc.mp3"
+  },
+  {
+    "input_text": "There are multiple ways of formalizing what the inside of this theorem proving computer.",
+    "input_data": {
+      "input_text": "There are multiple ways of formalizing what the inside of this theorem proving computer.",
+      "service": "gtts"
+    },
+    "original_audio": "there-are-multiple-ways-of-formalizing-what-the-f79821f1.mp3",
+    "final_audio": "there-are-multiple-ways-of-formalizing-what-the-f79821f1.mp3"
+  },
+  {
+    "input_text": "Perhaps the simplest is with the so called Hilbert Calculus, which is just this set of axioms equipped with modus ponens.",
+    "input_data": {
+      "input_text": "Perhaps the simplest is with the so called Hilbert Calculus, which is just this set of axioms equipped with modus ponens.",
+      "service": "gtts"
+    },
+    "original_audio": "perhaps-the-simplest-is-with-the-so-called-hilbert-a23908ba.mp3",
+    "final_audio": "perhaps-the-simplest-is-with-the-so-called-hilbert-a23908ba.mp3"
+  },
+  {
+    "input_text": "These axioms determine the behaviour of the logical negation, implication, and universal quantifier, and they turn out to be all that we need to formalize first order logic.",
+    "input_data": {
+      "input_text": "These axioms determine the behaviour of the logical negation, implication, and universal quantifier, and they turn out to be all that we need to formalize first order logic.",
+      "service": "gtts"
+    },
+    "original_audio": "these-axioms-determine-the-behaviour-of-the-91b15dd6.mp3",
+    "final_audio": "these-axioms-determine-the-behaviour-of-the-91b15dd6.mp3"
+  },
+  {
+    "input_text": "Modus ponens, can be seen as the application of a computer program, where phi implies psi means that it takes in phi and outputs psi, so if we then feed in phi we get psi.",
+    "input_data": {
+      "input_text": "Modus ponens, can be seen as the application of a computer program, where phi implies psi means that it takes in phi and outputs psi, so if we then feed in phi we get psi.",
+      "service": "gtts"
+    },
+    "original_audio": "modus-ponens-can-be-seen-as-the-application-of-a-7f36978b.mp3",
+    "final_audio": "modus-ponens-can-be-seen-as-the-application-of-a-7f36978b.mp3"
+  },
+  {
+    "input_text": "Not rocket science. But the necessary complexity comes from the fact that we can pass functions as input to other functions.",
+    "input_data": {
+      "input_text": "Not rocket science. But the necessary complexity comes from the fact that we can pass functions as input to other functions.",
+      "service": "gtts"
+    },
+    "original_audio": "not-rocket-science-but-the-necessary-complexity-5c4e5f10.mp3",
+    "final_audio": "not-rocket-science-but-the-necessary-complexity-5c4e5f10.mp3"
+  },
+  {
+    "input_text": "So we can design or derive, complex interconnect circuits of logical variables using these axioms.",
+    "input_data": {
+      "input_text": "So we can design or derive, complex interconnect circuits of logical variables using these axioms.",
+      "service": "gtts"
+    },
+    "original_audio": "so-we-can-design-or-derive-complex-interconnect-d7eb7339.mp3",
+    "final_audio": "so-we-can-design-or-derive-complex-interconnect-d7eb7339.mp3"
+  },
+  {
+    "input_text": "And this set of axioms is of a special kind, since it can only prove logically valid statements, and as Godel proved in 1929, it can prove all logically valid first order statements.",
+    "input_data": {
+      "input_text": "And this set of axioms is of a special kind, since it can only prove logically valid statements, and as Godel proved in 1929, it can prove all logically valid first order statements.",
+      "service": "gtts"
+    },
+    "original_audio": "and-this-set-of-axioms-is-of-a-special-kind-since-3e1b5e4f.mp3",
+    "final_audio": "and-this-set-of-axioms-is-of-a-special-kind-since-3e1b5e4f.mp3"
+  },
+  {
+    "input_text": "So, we can think of these set of axioms, known as the logical axioms, as the operating system of our theorem proving computer.",
+    "input_data": {
+      "input_text": "So, we can think of these set of axioms, known as the logical axioms, as the operating system of our theorem proving computer.",
+      "service": "gtts"
+    },
+    "original_audio": "so-we-can-think-of-these-set-of-axioms-known-as-16f88e48.mp3",
+    "final_audio": "so-we-can-think-of-these-set-of-axioms-known-as-16f88e48.mp3"
+  },
+  {
+    "input_text": "Then we add in new symbols specific to our given theory to the language, add axioms controlling these symbols and we feed in new axioms to our theorem prover and let it run.",
+    "input_data": {
+      "input_text": "Then we add in new symbols specific to our given theory to the language, add axioms controlling these symbols and we feed in new axioms to our theorem prover and let it run.",
+      "service": "gtts"
+    },
+    "original_audio": "then-we-add-in-new-symbols-specific-to-our-given-7c9dca75.mp3",
+    "final_audio": "then-we-add-in-new-symbols-specific-to-our-given-7c9dca75.mp3"
+  },
+  {
+    "input_text": "This view of mathematics aligns with the formalist view of math, namely that it is a game being played by meaningless symbols according to certain rules.",
+    "input_data": {
+      "input_text": "This view of mathematics aligns with the formalist view of math, namely that it is a game being played by meaningless symbols according to certain rules.",
+      "service": "gtts"
+    },
+    "original_audio": "this-view-of-mathematics-aligns-with-the-formalist-fcbdab24.mp3",
+    "final_audio": "this-view-of-mathematics-aligns-with-the-formalist-fcbdab24.mp3"
+  },
+  {
+    "input_text": "Obviously the question of what math actually is, has been debated for much of history.",
+    "input_data": {
+      "input_text": "Obviously the question of what math actually is, has been debated for much of history.",
+      "service": "gtts"
+    },
+    "original_audio": "obviously-the-question-of-what-math-actually-is-477d9f8e.mp3",
+    "final_audio": "obviously-the-question-of-what-math-actually-is-477d9f8e.mp3"
+  },
+  {
+    "input_text": "And due to Godel's incompleteness theorems, there is no objective answer.",
+    "input_data": {
+      "input_text": "And due to Godel's incompleteness theorems, there is no objective answer.",
+      "service": "gtts"
+    },
+    "original_audio": "and-due-to-godel-s-incompleteness-theorems-there-85d2762b.mp3",
+    "final_audio": "and-due-to-godel-s-incompleteness-theorems-there-85d2762b.mp3"
+  },
+  {
+    "input_text": "If we visualize the totality of math as a set, then it's border cannot be clearly defined.",
+    "input_data": {
+      "input_text": "If we visualize the totality of math as a set, then it's border cannot be clearly defined.",
+      "service": "gtts"
+    },
+    "original_audio": "if-we-visualize-the-totality-of-math-as-a-set-then-b594bbd6.mp3",
+    "final_audio": "if-we-visualize-the-totality-of-math-as-a-set-then-b594bbd6.mp3"
+  },
+  {
+    "input_text": "One modern answer to the question, is simply math is the set of theorems of ZFC set theory.",
+    "input_data": {
+      "input_text": "One modern answer to the question, is simply math is the set of theorems of ZFC set theory.",
+      "service": "gtts"
+    },
+    "original_audio": "one-modern-answer-to-the-question-is-simply-math-32ba670c.mp3",
+    "final_audio": "one-modern-answer-to-the-question-is-simply-math-32ba670c.mp3"
+  },
+  {
+    "input_text": "Where ZFC stands for Zermelo, Fraenkel plus Choice, and is axiomatized by these set of axioms. We will answer why these particular axioms later, but for now just know that these are the best attempt to formalize all of mathematics into a single language.",
+    "input_data": {
+      "input_text": "Where ZFC stands for Zermelo, Fraenkel plus Choice, and is axiomatized by these set of axioms. We will answer why these particular axioms later, but for now just know that these are the best attempt to formalize all of mathematics into a single language.",
+      "service": "gtts"
+    },
+    "original_audio": "where-zfc-stands-for-zermelo-fraenkel-plus-choice-01c6bf65.mp3",
+    "final_audio": "where-zfc-stands-for-zermelo-fraenkel-plus-choice-01c6bf65.mp3"
+  },
+  {
+    "input_text": "The theory of ZFC is every logical consequence of these axioms, which we can think of as all outputs of a certain special theorem proving computer.",
+    "input_data": {
+      "input_text": "The theory of ZFC is every logical consequence of these axioms, which we can think of as all outputs of a certain special theorem proving computer.",
+      "service": "gtts"
+    },
+    "original_audio": "the-theory-of-zfc-is-every-logical-consequence-of-f8c446e0.mp3",
+    "final_audio": "the-theory-of-zfc-is-every-logical-consequence-of-f8c446e0.mp3"
+  },
+  {
+    "input_text": "So, we feed in the axioms, and it outputs the logical consequences of these axioms, which we call the theorems.",
+    "input_data": {
+      "input_text": "So, we feed in the axioms, and it outputs the logical consequences of these axioms, which we call the theorems.",
+      "service": "gtts"
+    },
+    "original_audio": "so-we-feed-in-the-axioms-and-it-outputs-the-3d94f5a8.mp3",
+    "final_audio": "so-we-feed-in-the-axioms-and-it-outputs-the-3d94f5a8.mp3"
+  },
+  {
+    "input_text": "Then we can feed these theorems back in as input, and we continue deriving new mathematical theorems.",
+    "input_data": {
+      "input_text": "Then we can feed these theorems back in as input, and we continue deriving new mathematical theorems.",
+      "service": "gtts"
+    },
+    "original_audio": "then-we-can-feed-these-theorems-back-in-as-input-a4d0901d.mp3",
+    "final_audio": "then-we-can-feed-these-theorems-back-in-as-input-a4d0901d.mp3"
+  },
+  {
+    "input_text": "So, there is some pre-existing space of all possible proofs from this set of axioms, and the goal of mathematics is to explore as much of this space as possible.",
+    "input_data": {
+      "input_text": "So, there is some pre-existing space of all possible proofs from this set of axioms, and the goal of mathematics is to explore as much of this space as possible.",
+      "service": "gtts"
+    },
+    "original_audio": "so-there-is-some-pre-existing-space-of-all-e655c2dc.mp3",
+    "final_audio": "so-there-is-some-pre-existing-space-of-all-e655c2dc.mp3"
+  },
+  {
+    "input_text": "There are multiple ways of formalizing what the inside of this theorem proving computer.",
+    "input_data": {
+      "input_text": "There are multiple ways of formalizing what the inside of this theorem proving computer.",
+      "service": "gtts"
+    },
+    "original_audio": "there-are-multiple-ways-of-formalizing-what-the-f79821f1.mp3",
+    "final_audio": "there-are-multiple-ways-of-formalizing-what-the-f79821f1.mp3"
+  },
+  {
+    "input_text": "Perhaps the simplest is with the so called Hilbert Calculus, which is just this set of axioms equipped with modus ponens.",
+    "input_data": {
+      "input_text": "Perhaps the simplest is with the so called Hilbert Calculus, which is just this set of axioms equipped with modus ponens.",
+      "service": "gtts"
+    },
+    "original_audio": "perhaps-the-simplest-is-with-the-so-called-hilbert-a23908ba.mp3",
+    "final_audio": "perhaps-the-simplest-is-with-the-so-called-hilbert-a23908ba.mp3"
+  },
+  {
+    "input_text": "These axioms determine the behaviour of the logical negation, implication, and universal quantifier, and they turn out to be all that we need to formalize first order logic.",
+    "input_data": {
+      "input_text": "These axioms determine the behaviour of the logical negation, implication, and universal quantifier, and they turn out to be all that we need to formalize first order logic.",
+      "service": "gtts"
+    },
+    "original_audio": "these-axioms-determine-the-behaviour-of-the-91b15dd6.mp3",
+    "final_audio": "these-axioms-determine-the-behaviour-of-the-91b15dd6.mp3"
+  },
+  {
+    "input_text": "Modus ponens, can be seen as the application of a computer program, where phi implies psi means that it takes in phi and outputs psi, so if we then feed in phi we get psi.",
+    "input_data": {
+      "input_text": "Modus ponens, can be seen as the application of a computer program, where phi implies psi means that it takes in phi and outputs psi, so if we then feed in phi we get psi.",
+      "service": "gtts"
+    },
+    "original_audio": "modus-ponens-can-be-seen-as-the-application-of-a-7f36978b.mp3",
+    "final_audio": "modus-ponens-can-be-seen-as-the-application-of-a-7f36978b.mp3"
+  },
+  {
+    "input_text": "Not rocket science. But the necessary complexity comes from the fact that we can pass functions as input to other functions.",
+    "input_data": {
+      "input_text": "Not rocket science. But the necessary complexity comes from the fact that we can pass functions as input to other functions.",
+      "service": "gtts"
+    },
+    "original_audio": "not-rocket-science-but-the-necessary-complexity-5c4e5f10.mp3",
+    "final_audio": "not-rocket-science-but-the-necessary-complexity-5c4e5f10.mp3"
+  },
+  {
+    "input_text": "So we can design or derive, complex interconnect circuits of logical variables using these axioms.",
+    "input_data": {
+      "input_text": "So we can design or derive, complex interconnect circuits of logical variables using these axioms.",
+      "service": "gtts"
+    },
+    "original_audio": "so-we-can-design-or-derive-complex-interconnect-d7eb7339.mp3",
+    "final_audio": "so-we-can-design-or-derive-complex-interconnect-d7eb7339.mp3"
+  },
+  {
+    "input_text": "And this set of axioms is of a special kind, since it can only prove logically valid statements, and as Godel proved in 1929, it can prove all logically valid first order statements.",
+    "input_data": {
+      "input_text": "And this set of axioms is of a special kind, since it can only prove logically valid statements, and as Godel proved in 1929, it can prove all logically valid first order statements.",
+      "service": "gtts"
+    },
+    "original_audio": "and-this-set-of-axioms-is-of-a-special-kind-since-3e1b5e4f.mp3",
+    "final_audio": "and-this-set-of-axioms-is-of-a-special-kind-since-3e1b5e4f.mp3"
+  },
+  {
+    "input_text": "So, we can think of these set of axioms, known as the logical axioms, as the operating system of our theorem proving computer.",
+    "input_data": {
+      "input_text": "So, we can think of these set of axioms, known as the logical axioms, as the operating system of our theorem proving computer.",
+      "service": "gtts"
+    },
+    "original_audio": "so-we-can-think-of-these-set-of-axioms-known-as-16f88e48.mp3",
+    "final_audio": "so-we-can-think-of-these-set-of-axioms-known-as-16f88e48.mp3"
+  },
+  {
+    "input_text": "Then we add in new symbols specific to our given theory to the language, add axioms controlling these symbols and we feed in new axioms to our theorem prover and let it run.",
+    "input_data": {
+      "input_text": "Then we add in new symbols specific to our given theory to the language, add axioms controlling these symbols and we feed in new axioms to our theorem prover and let it run.",
+      "service": "gtts"
+    },
+    "original_audio": "then-we-add-in-new-symbols-specific-to-our-given-7c9dca75.mp3",
+    "final_audio": "then-we-add-in-new-symbols-specific-to-our-given-7c9dca75.mp3"
+  },
+  {
+    "input_text": "This view of mathematics aligns with the formalist view of math, namely that it is a game being played by meaningless symbols according to certain rules.",
+    "input_data": {
+      "input_text": "This view of mathematics aligns with the formalist view of math, namely that it is a game being played by meaningless symbols according to certain rules.",
+      "service": "gtts"
+    },
+    "original_audio": "this-view-of-mathematics-aligns-with-the-formalist-fcbdab24.mp3",
+    "final_audio": "this-view-of-mathematics-aligns-with-the-formalist-fcbdab24.mp3"
+  },
+  {
+    "input_text": "One modern answer to the question, is simply math is the set of theorems of ZFC set theory.",
+    "input_data": {
+      "input_text": "One modern answer to the question, is simply math is the set of theorems of ZFC set theory.",
+      "service": "gtts"
+    },
+    "original_audio": "one-modern-answer-to-the-question-is-simply-math-32ba670c.mp3",
+    "final_audio": "one-modern-answer-to-the-question-is-simply-math-32ba670c.mp3"
+  },
+  {
+    "input_text": "Where ZFC stands for Zermelo, Fraenkel plus Choice, and is axiomatized by these set of axioms. We will answer why these particular axioms later, but for now just know that these are the best attempt to formalize all of mathematics into a single language.",
+    "input_data": {
+      "input_text": "Where ZFC stands for Zermelo, Fraenkel plus Choice, and is axiomatized by these set of axioms. We will answer why these particular axioms later, but for now just know that these are the best attempt to formalize all of mathematics into a single language.",
+      "service": "gtts"
+    },
+    "original_audio": "where-zfc-stands-for-zermelo-fraenkel-plus-choice-01c6bf65.mp3",
+    "final_audio": "where-zfc-stands-for-zermelo-fraenkel-plus-choice-01c6bf65.mp3"
+  },
+  {
+    "input_text": "The theory of ZFC is every logical consequence of these axioms, which we can think of as all outputs of a certain special theorem proving computer.",
+    "input_data": {
+      "input_text": "The theory of ZFC is every logical consequence of these axioms, which we can think of as all outputs of a certain special theorem proving computer.",
+      "service": "gtts"
+    },
+    "original_audio": "the-theory-of-zfc-is-every-logical-consequence-of-f8c446e0.mp3",
+    "final_audio": "the-theory-of-zfc-is-every-logical-consequence-of-f8c446e0.mp3"
+  },
+  {
+    "input_text": "So, we feed in the axioms, and it outputs the logical consequences of these axioms, which we call the theorems.",
+    "input_data": {
+      "input_text": "So, we feed in the axioms, and it outputs the logical consequences of these axioms, which we call the theorems.",
+      "service": "gtts"
+    },
+    "original_audio": "so-we-feed-in-the-axioms-and-it-outputs-the-3d94f5a8.mp3",
+    "final_audio": "so-we-feed-in-the-axioms-and-it-outputs-the-3d94f5a8.mp3"
+  },
+  {
+    "input_text": "Then we can feed these theorems back in as input, and we continue deriving new mathematical theorems.",
+    "input_data": {
+      "input_text": "Then we can feed these theorems back in as input, and we continue deriving new mathematical theorems.",
+      "service": "gtts"
+    },
+    "original_audio": "then-we-can-feed-these-theorems-back-in-as-input-a4d0901d.mp3",
+    "final_audio": "then-we-can-feed-these-theorems-back-in-as-input-a4d0901d.mp3"
+  },
+  {
+    "input_text": "So, there is some pre-existing space of all possible proofs from this set of axioms, and the goal of mathematics is to explore as much of this space as possible.",
+    "input_data": {
+      "input_text": "So, there is some pre-existing space of all possible proofs from this set of axioms, and the goal of mathematics is to explore as much of this space as possible.",
+      "service": "gtts"
+    },
+    "original_audio": "so-there-is-some-pre-existing-space-of-all-e655c2dc.mp3",
+    "final_audio": "so-there-is-some-pre-existing-space-of-all-e655c2dc.mp3"
+  },
+  {
+    "input_text": "There are multiple ways of formalizing what the inside of this theorem proving computer.",
+    "input_data": {
+      "input_text": "There are multiple ways of formalizing what the inside of this theorem proving computer.",
+      "service": "gtts"
+    },
+    "original_audio": "there-are-multiple-ways-of-formalizing-what-the-f79821f1.mp3",
+    "final_audio": "there-are-multiple-ways-of-formalizing-what-the-f79821f1.mp3"
+  },
+  {
+    "input_text": "Perhaps the simplest is with the so called Hilbert Calculus, which is just this set of axioms equipped with modus ponens.",
+    "input_data": {
+      "input_text": "Perhaps the simplest is with the so called Hilbert Calculus, which is just this set of axioms equipped with modus ponens.",
+      "service": "gtts"
+    },
+    "original_audio": "perhaps-the-simplest-is-with-the-so-called-hilbert-a23908ba.mp3",
+    "final_audio": "perhaps-the-simplest-is-with-the-so-called-hilbert-a23908ba.mp3"
+  },
+  {
+    "input_text": "These axioms determine the behaviour of the logical negation, implication, and universal quantifier, and they turn out to be all that we need to formalize first order logic.",
+    "input_data": {
+      "input_text": "These axioms determine the behaviour of the logical negation, implication, and universal quantifier, and they turn out to be all that we need to formalize first order logic.",
+      "service": "gtts"
+    },
+    "original_audio": "these-axioms-determine-the-behaviour-of-the-91b15dd6.mp3",
+    "final_audio": "these-axioms-determine-the-behaviour-of-the-91b15dd6.mp3"
+  },
+  {
+    "input_text": "Modus ponens, can be seen as the application of a computer program, where phi implies psi means that it takes in phi and outputs psi, so if we then feed in phi we get psi.",
+    "input_data": {
+      "input_text": "Modus ponens, can be seen as the application of a computer program, where phi implies psi means that it takes in phi and outputs psi, so if we then feed in phi we get psi.",
+      "service": "gtts"
+    },
+    "original_audio": "modus-ponens-can-be-seen-as-the-application-of-a-7f36978b.mp3",
+    "final_audio": "modus-ponens-can-be-seen-as-the-application-of-a-7f36978b.mp3"
+  },
+  {
+    "input_text": "Not rocket science. But the necessary complexity comes from the fact that we can pass functions as input to other functions.",
+    "input_data": {
+      "input_text": "Not rocket science. But the necessary complexity comes from the fact that we can pass functions as input to other functions.",
+      "service": "gtts"
+    },
+    "original_audio": "not-rocket-science-but-the-necessary-complexity-5c4e5f10.mp3",
+    "final_audio": "not-rocket-science-but-the-necessary-complexity-5c4e5f10.mp3"
+  },
+  {
+    "input_text": "So we can design or derive, complex interconnect circuits of logical variables using these axioms.",
+    "input_data": {
+      "input_text": "So we can design or derive, complex interconnect circuits of logical variables using these axioms.",
+      "service": "gtts"
+    },
+    "original_audio": "so-we-can-design-or-derive-complex-interconnect-d7eb7339.mp3",
+    "final_audio": "so-we-can-design-or-derive-complex-interconnect-d7eb7339.mp3"
+  },
+  {
+    "input_text": "And this set of axioms is of a special kind, since it can only prove logically valid statements, and as Godel proved in 1929, it can prove all logically valid first order statements.",
+    "input_data": {
+      "input_text": "And this set of axioms is of a special kind, since it can only prove logically valid statements, and as Godel proved in 1929, it can prove all logically valid first order statements.",
+      "service": "gtts"
+    },
+    "original_audio": "and-this-set-of-axioms-is-of-a-special-kind-since-3e1b5e4f.mp3",
+    "final_audio": "and-this-set-of-axioms-is-of-a-special-kind-since-3e1b5e4f.mp3"
+  },
+  {
+    "input_text": "So, we can think of these set of axioms, known as the logical axioms, as the operating system of our theorem proving computer.",
+    "input_data": {
+      "input_text": "So, we can think of these set of axioms, known as the logical axioms, as the operating system of our theorem proving computer.",
+      "service": "gtts"
+    },
+    "original_audio": "so-we-can-think-of-these-set-of-axioms-known-as-16f88e48.mp3",
+    "final_audio": "so-we-can-think-of-these-set-of-axioms-known-as-16f88e48.mp3"
+  },
+  {
+    "input_text": "Then we add in new symbols specific to our given theory to the language, add axioms controlling these symbols and we feed in new axioms to our theorem prover and let it run.",
+    "input_data": {
+      "input_text": "Then we add in new symbols specific to our given theory to the language, add axioms controlling these symbols and we feed in new axioms to our theorem prover and let it run.",
+      "service": "gtts"
+    },
+    "original_audio": "then-we-add-in-new-symbols-specific-to-our-given-7c9dca75.mp3",
+    "final_audio": "then-we-add-in-new-symbols-specific-to-our-given-7c9dca75.mp3"
+  },
+  {
+    "input_text": "This view of mathematics aligns with the formalist view of math, namely that it is a game being played by meaningless symbols according to certain rules.",
+    "input_data": {
+      "input_text": "This view of mathematics aligns with the formalist view of math, namely that it is a game being played by meaningless symbols according to certain rules.",
+      "service": "gtts"
+    },
+    "original_audio": "this-view-of-mathematics-aligns-with-the-formalist-fcbdab24.mp3",
+    "final_audio": "this-view-of-mathematics-aligns-with-the-formalist-fcbdab24.mp3"
+  },
+  {
+    "input_text": "Alternatively, we can think, as most mathematicians do, that these formulas are merely descriptions of certain pre-existing mathematical structures, and what math really is, is the set of all of such structures.",
+    "input_data": {
+      "input_text": "Alternatively, we can think, as most mathematicians do, that these formulas are merely descriptions of certain pre-existing mathematical structures, and what math really is, is the set of all of such structures.",
+      "service": "gtts"
+    },
+    "original_audio": "alternatively-we-can-think-as-most-mathematicians-e463bd74.mp3",
+    "final_audio": "alternatively-we-can-think-as-most-mathematicians-e463bd74.mp3"
+  },
+  {
+    "input_text": "But what would the set consisting of all mathematical structures look like?",
+    "input_data": {
+      "input_text": "But what would the set consisting of all mathematical structures look like?",
+      "service": "gtts"
+    },
+    "original_audio": "but-what-would-the-set-consisting-of-all-cb9d29bb.mp3",
+    "final_audio": "but-what-would-the-set-consisting-of-all-cb9d29bb.mp3"
+  },
+  {
+    "input_text": "It would have to be something very general and very large, such that we could simulate essentially whatever we want inside of it.",
+    "input_data": {
+      "input_text": "It would have to be something very general and very large, such that we could simulate essentially whatever we want inside of it.",
+      "service": "gtts"
+    },
+    "original_audio": "it-would-have-to-be-something-very-general-and-f5f67b89.mp3",
+    "final_audio": "it-would-have-to-be-something-very-general-and-f5f67b89.mp3"
+  },
+  {
+    "input_text": "This is where set theory comes in. A set is perhaps the most basic object we can consider.",
+    "input_data": {
+      "input_text": "This is where set theory comes in. A set is perhaps the most basic object we can consider.",
+      "service": "gtts"
+    },
+    "original_audio": "this-is-where-set-theory-comes-in-a-set-is-perhaps-d98e9c99.mp3",
+    "final_audio": "this-is-where-set-theory-comes-in-a-set-is-perhaps-d98e9c99.mp3"
+  },
+  {
+    "input_text": "I challenge you to try to define a set without using a synonym of set, like collection, group, class etc.",
+    "input_data": {
+      "input_text": "I challenge you to try to define a set without using a synonym of set, like collection, group, class etc.",
+      "service": "gtts"
+    },
+    "original_audio": "i-challenge-you-to-try-to-define-a-set-without-3680025e.mp3",
+    "final_audio": "i-challenge-you-to-try-to-define-a-set-without-3680025e.mp3"
+  },
+  {
+    "input_text": "The axioms of ZFC are a solid attempt to define what a set is.",
+    "input_data": {
+      "input_text": "The axioms of ZFC are a solid attempt to define what a set is.",
+      "service": "gtts"
+    },
+    "original_audio": "the-axioms-of-zfc-are-a-solid-attempt-to-define-48d0b73a.mp3",
+    "final_audio": "the-axioms-of-zfc-are-a-solid-attempt-to-define-48d0b73a.mp3"
+  },
+  {
+    "input_text": "The origins of set theory date back to Georg Cantor in the later 19th century.",
+    "input_data": {
+      "input_text": "The origins of set theory date back to Georg Cantor in the later 19th century.",
+      "service": "gtts"
+    },
+    "original_audio": "the-origins-of-set-theory-date-back-to-georg-78b7f9fd.mp3",
+    "final_audio": "the-origins-of-set-theory-date-back-to-georg-78b7f9fd.mp3"
+  },
+  {
+    "input_text": "Cantor was a mathematical platonist who envisioned an unrestricted and powerful mathematics.",
+    "input_data": {
+      "input_text": "Cantor was a mathematical platonist who envisioned an unrestricted and powerful mathematics.",
+      "service": "gtts"
+    },
+    "original_audio": "cantor-was-a-mathematical-platonist-who-envisioned-55fd93be.mp3",
+    "final_audio": "cantor-was-a-mathematical-platonist-who-envisioned-55fd93be.mp3"
+  }
+]

@@ -1,0 +1,68 @@
+1
+00:00:00,000 --> 00:00:04,170
+Alternatively, we can think, as most mathematicians do,
+
+2
+00:00:04,270 --> 00:00:08,364
+that these formulas are merely descriptions of certain
+
+3
+00:00:08,464 --> 00:00:13,178
+pre-existing mathematical structures, and what math really is,
+
+4
+00:00:13,278 --> 00:00:16,052
+is the set of all of such structures.
+
+5
+00:00:16,200 --> 00:00:18,219
+But what would the set consisting
+
+6
+00:00:18,319 --> 00:00:20,852
+of all mathematical structures look like?
+
+7
+00:00:21,000 --> 00:00:24,951
+It would have to be something very general and very large, such
+
+8
+00:00:25,051 --> 00:00:29,132
+that we could simulate essentially whatever we want inside of it.
+
+9
+00:00:29,400 --> 00:00:32,374
+This is where set theory comes in. A set
+
+10
+00:00:32,474 --> 00:00:36,140
+is perhaps the most basic object we can consider.
+
+11
+00:00:36,333 --> 00:00:40,012
+I challenge you to try to define a set without
+
+12
+00:00:40,112 --> 00:00:44,777
+using a synonym of set, like collection, group, class etc.
+
+13
+00:00:44,933 --> 00:00:49,921
+The axioms of ZFC are a solid attempt to define what a set is.
+
+14
+00:00:50,066 --> 00:00:52,986
+The origins of set theory date back to
+
+15
+00:00:53,086 --> 00:00:56,086
+Georg Cantor in the later 19th century.
+
+16
+00:00:56,266 --> 00:00:58,995
+Cantor was a mathematical platonist who
+
+17
+00:00:59,095 --> 00:01:02,766
+envisioned an unrestricted and powerful mathematics.
+

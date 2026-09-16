@@ -2863,5 +2863,320 @@
     },
     "original_audio": "on-the-semantic-side-truth-is-given-by-tarski-s-298110bc.mp3",
     "final_audio": "on-the-semantic-side-truth-is-given-by-tarski-s-298110bc.mp3"
+  },
+  {
+    "input_text": "So we have two ways of looking at math, we have the computational world of syntax, and the platonic world of semantics.",
+    "input_data": {
+      "input_text": "So we have two ways of looking at math, we have the computational world of syntax, and the platonic world of semantics.",
+      "service": "gtts"
+    },
+    "original_audio": "so-we-have-two-ways-of-looking-at-math-we-have-the-e81a5d8c.mp3",
+    "final_audio": "so-we-have-two-ways-of-looking-at-math-we-have-the-e81a5d8c.mp3"
+  },
+  {
+    "input_text": "To understand the relation between these two worlds, let's start with a simple language with a single binary relation symbol E.",
+    "input_data": {
+      "input_text": "To understand the relation between these two worlds, let's start with a simple language with a single binary relation symbol E.",
+      "service": "gtts"
+    },
+    "original_audio": "to-understand-the-relation-between-these-two-9ca542cc.mp3",
+    "final_audio": "to-understand-the-relation-between-these-two-9ca542cc.mp3"
+  },
+  {
+    "input_text": "We can visualize models in this language by sets of points and arrows between these points.",
+    "input_data": {
+      "input_text": "We can visualize models in this language by sets of points and arrows between these points.",
+      "service": "gtts"
+    },
+    "original_audio": "we-can-visualize-models-in-this-language-by-sets-ee3e4a9b.mp3",
+    "final_audio": "we-can-visualize-models-in-this-language-by-sets-ee3e4a9b.mp3"
+  },
+  {
+    "input_text": "We need to define axioms to determine the behaviour of this edge relation E.",
+    "input_data": {
+      "input_text": "We need to define axioms to determine the behaviour of this edge relation E.",
+      "service": "gtts"
+    },
+    "original_audio": "we-need-to-define-axioms-to-determine-the-64b19746.mp3",
+    "final_audio": "we-need-to-define-axioms-to-determine-the-64b19746.mp3"
+  },
+  {
+    "input_text": "Without any axioms, every possible combination of points and all possible arrows drawn between them is a model of our empty theory.",
+    "input_data": {
+      "input_text": "Without any axioms, every possible combination of points and all possible arrows drawn between them is a model of our empty theory.",
+      "service": "gtts"
+    },
+    "original_audio": "without-any-axioms-every-possible-combination-of-f89c1662.mp3",
+    "final_audio": "without-any-axioms-every-possible-combination-of-f89c1662.mp3"
+  },
+  {
+    "input_text": "An axiom can be any FOL sentence.",
+    "input_data": {
+      "input_text": "An axiom can be any FOL sentence.",
+      "service": "gtts"
+    },
+    "original_audio": "an-axiom-can-be-any-fol-sentence-1b43014c.mp3",
+    "final_audio": "an-axiom-can-be-any-fol-sentence-1b43014c.mp3"
+  },
+  {
+    "input_text": "For example, we can consider this formula phi, expressing transitivity,",
+    "input_data": {
+      "input_text": "For example, we can consider this formula phi, expressing transitivity,",
+      "service": "gtts"
+    },
+    "original_audio": "for-example-we-can-consider-this-formula-phi-91847739.mp3",
+    "final_audio": "for-example-we-can-consider-this-formula-phi-91847739.mp3"
+  },
+  {
+    "input_text": "meaning that if there is some path between nodes, then there is a direct path between these nodes,",
+    "input_data": {
+      "input_text": "meaning that if there is some path between nodes, then there is a direct path between these nodes,",
+      "service": "gtts"
+    },
+    "original_audio": "meaning-that-if-there-is-some-path-between-nodes-a8f39a45.mp3",
+    "final_audio": "meaning-that-if-there-is-some-path-between-nodes-a8f39a45.mp3"
+  },
+  {
+    "input_text": "or this sentence psi expressing irreflexitivity, which enforces that any model of it must not contain any self-referential arrows.",
+    "input_data": {
+      "input_text": "or this sentence psi expressing irreflexitivity, which enforces that any model of it must not contain any self-referential arrows.",
+      "service": "gtts"
+    },
+    "original_audio": "or-this-sentence-psi-expressing-irreflexitivity-5b807ad7.mp3",
+    "final_audio": "or-this-sentence-psi-expressing-irreflexitivity-5b807ad7.mp3"
+  },
+  {
+    "input_text": "Such sentences are true in some of the structures, and false in others.",
+    "input_data": {
+      "input_text": "Such sentences are true in some of the structures, and false in others.",
+      "service": "gtts"
+    },
+    "original_audio": "such-sentences-are-true-in-some-of-the-structures-208cad40.mp3",
+    "final_audio": "such-sentences-are-true-in-some-of-the-structures-208cad40.mp3"
+  },
+  {
+    "input_text": "We can combine the sentences, and consider the collection of all structures which satisfy both phi and psi for example, i.e. the collection of all transitive and irreflexive structures.",
+    "input_data": {
+      "input_text": "We can combine the sentences, and consider the collection of all structures which satisfy both phi and psi for example, i.e. the collection of all transitive and irreflexive structures.",
+      "service": "gtts"
+    },
+    "original_audio": "we-can-combine-the-sentences-and-consider-the-b05a9aa6.mp3",
+    "final_audio": "we-can-combine-the-sentences-and-consider-the-b05a9aa6.mp3"
+  },
+  {
+    "input_text": "We will denote this collection by the model set of phi and psi.",
+    "input_data": {
+      "input_text": "We will denote this collection by the model set of phi and psi.",
+      "service": "gtts"
+    },
+    "original_audio": "we-will-denote-this-collection-by-the-model-set-of-75492499.mp3",
+    "final_audio": "we-will-denote-this-collection-by-the-model-set-of-75492499.mp3"
+  },
+  {
+    "input_text": "If we start to analyze the structures in this collection, we might notice some things in common to all of them.",
+    "input_data": {
+      "input_text": "If we start to analyze the structures in this collection, we might notice some things in common to all of them.",
+      "service": "gtts"
+    },
+    "original_audio": "if-we-start-to-analyze-the-structures-in-this-b16909cc.mp3",
+    "final_audio": "if-we-start-to-analyze-the-structures-in-this-b16909cc.mp3"
+  },
+  {
+    "input_text": "For example we may notice that in none of them do we have an arrow from a to b and from b to a.",
+    "input_data": {
+      "input_text": "For example we may notice that in none of them do we have an arrow from a to b and from b to a.",
+      "service": "gtts"
+    },
+    "original_audio": "for-example-we-may-notice-that-in-none-of-them-do-a6545561.mp3",
+    "final_audio": "for-example-we-may-notice-that-in-none-of-them-do-a6545561.mp3"
+  },
+  {
+    "input_text": "We can easily see why, since if we did have an edge from a to b and from b to a in a transitive and irreflexive structure,",
+    "input_data": {
+      "input_text": "We can easily see why, since if we did have an edge from a to b and from b to a in a transitive and irreflexive structure,",
+      "service": "gtts"
+    },
+    "original_audio": "we-can-easily-see-why-since-if-we-did-have-an-edge-28217dd6.mp3",
+    "final_audio": "we-can-easily-see-why-since-if-we-did-have-an-edge-28217dd6.mp3"
+  },
+  {
+    "input_text": "then by transitivity we should have a direct path a to a.",
+    "input_data": {
+      "input_text": "then by transitivity we should have a direct path a to a.",
+      "service": "gtts"
+    },
+    "original_audio": "then-by-transitivity-we-should-have-a-direct-path-b726d91d.mp3",
+    "final_audio": "then-by-transitivity-we-should-have-a-direct-path-b726d91d.mp3"
+  },
+  {
+    "input_text": "But then the structures is not irreflexive, a contradiction.",
+    "input_data": {
+      "input_text": "But then the structures is not irreflexive, a contradiction.",
+      "service": "gtts"
+    },
+    "original_audio": "but-then-the-structures-is-not-irreflexive-a-d1262c70.mp3",
+    "final_audio": "but-then-the-structures-is-not-irreflexive-a-d1262c70.mp3"
+  },
+  {
+    "input_text": "So, we see that adding this sentence chi expressing assymetry, is redundant,",
+    "input_data": {
+      "input_text": "So, we see that adding this sentence chi expressing assymetry, is redundant,",
+      "service": "gtts"
+    },
+    "original_audio": "so-we-see-that-adding-this-sentence-chi-expressing-be67dee9.mp3",
+    "final_audio": "so-we-see-that-adding-this-sentence-chi-expressing-be67dee9.mp3"
+  },
+  {
+    "input_text": "in the sense that Mod(phi,psi,chi)=Mod(phi,psi).",
+    "input_data": {
+      "input_text": "in the sense that Mod(phi,psi,chi)=Mod(phi,psi).",
+      "service": "gtts"
+    },
+    "original_audio": "in-the-sense-that-mod-phi-psi-chi-mod-phi-psi-64578a01.mp3",
+    "final_audio": "in-the-sense-that-mod-phi-psi-chi-mod-phi-psi-64578a01.mp3"
+  },
+  {
+    "input_text": "We denote this by {phi,psi} models chi.",
+    "input_data": {
+      "input_text": "We denote this by {phi,psi} models chi.",
+      "service": "gtts"
+    },
+    "original_audio": "we-denote-this-by-phi-psi-models-chi-ebf42517.mp3",
+    "final_audio": "we-denote-this-by-phi-psi-models-chi-ebf42517.mp3"
+  },
+  {
+    "input_text": "Formally, a structure \u2014 which we denote with the symbol M \u2014 is given by a tuple consisting of a domain, or universe, together with interpretations of the constants, functions, and relations in the language.",
+    "input_data": {
+      "input_text": "Formally, a structure \u2014 which we denote with the symbol M \u2014 is given by a tuple consisting of a domain, or universe, together with interpretations of the constants, functions, and relations in the language.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "formally-a-structure-which-we-denote-with-the-243ab5dc.mp3",
+    "final_audio": "formally-a-structure-which-we-denote-with-the-243ab5dc.mp3"
+  },
+  {
+    "input_text": "To define the natural numbers with addition and multiplication, for instance, we need at least the symbols zero, one, the successor function, addition, multiplication, and the less-than relation.",
+    "input_data": {
+      "input_text": "To define the natural numbers with addition and multiplication, for instance, we need at least the symbols zero, one, the successor function, addition, multiplication, and the less-than relation.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "to-define-the-natural-numbers-with-addition-and-64cdc970.mp3",
+    "final_audio": "to-define-the-natural-numbers-with-addition-and-64cdc970.mp3"
+  },
+  {
+    "input_text": "We interpret zero and one as expected.",
+    "input_data": {
+      "input_text": "We interpret zero and one as expected.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-interpret-zero-and-one-as-expected-fb47cf94.mp3",
+    "final_audio": "we-interpret-zero-and-one-as-expected-fb47cf94.mp3"
+  },
+  {
+    "input_text": "The interpretation of functions and relations is a bit more abstract. For example, the less-than relation is interpreted as the set of all pairs (a, b) such that a is less than b.",
+    "input_data": {
+      "input_text": "The interpretation of functions and relations is a bit more abstract. For example, the less-than relation is interpreted as the set of all pairs (a, b) such that a is less than b.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-interpretation-of-functions-and-relations-is-a-3ee1a7c1.mp3",
+    "final_audio": "the-interpretation-of-functions-and-relations-is-a-3ee1a7c1.mp3"
+  },
+  {
+    "input_text": "Note that functions are just special relations where the output is uniquely determined by the inputs.",
+    "input_data": {
+      "input_text": "Note that functions are just special relations where the output is uniquely determined by the inputs.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "note-that-functions-are-just-special-relations-dc81e62b.mp3",
+    "final_audio": "note-that-functions-are-just-special-relations-dc81e62b.mp3"
+  },
+  {
+    "input_text": "So the successor function would map to the set of all pair of numbers such that the second is one greater than the first.",
+    "input_data": {
+      "input_text": "So the successor function would map to the set of all pair of numbers such that the second is one greater than the first.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-the-successor-function-would-map-to-the-set-of-7f677ce2.mp3",
+    "final_audio": "so-the-successor-function-would-map-to-the-set-of-7f677ce2.mp3"
+  },
+  {
+    "input_text": "And the addition function is formally the set of all triples (a, b, c) such that a plus b equals c.",
+    "input_data": {
+      "input_text": "And the addition function is formally the set of all triples (a, b, c) such that a plus b equals c.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-the-addition-function-is-formally-the-set-of-7fd9e4b9.mp3",
+    "final_audio": "and-the-addition-function-is-formally-the-set-of-7fd9e4b9.mp3"
+  },
+  {
+    "input_text": "To evaluate a simple equation like one plus two equals three, we map the constants as expected",
+    "input_data": {
+      "input_text": "To evaluate a simple equation like one plus two equals three, we map the constants as expected",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "to-evaluate-a-simple-equation-like-one-plus-two-54c363e1.mp3",
+    "final_audio": "to-evaluate-a-simple-equation-like-one-plus-two-54c363e1.mp3"
+  },
+  {
+    "input_text": "and then check whether the resulting triple belongs to the addition relation.",
+    "input_data": {
+      "input_text": "and then check whether the resulting triple belongs to the addition relation.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-then-check-whether-the-resulting-triple-cd7755c2.mp3",
+    "final_audio": "and-then-check-whether-the-resulting-triple-cd7755c2.mp3"
   }
 ]

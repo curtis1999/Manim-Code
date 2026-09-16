@@ -1,0 +1,52 @@
+1
+00:00:00,000 --> 00:00:03,247
+Obviously the question of what math actually is,
+
+2
+00:00:03,347 --> 00:00:05,828
+has been debated for much of history.
+
+3
+00:00:05,933 --> 00:00:09,029
+And due to Godel's incompleteness theorems,
+
+4
+00:00:09,129 --> 00:00:11,185
+there is no objective answer.
+
+5
+00:00:11,333 --> 00:00:14,341
+If we visualize the totality of math as a
+
+6
+00:00:14,441 --> 00:00:17,905
+set, then its border cannot be clearly defined.
+
+7
+00:00:18,066 --> 00:00:20,952
+Note that we can either choose to visualize
+
+8
+00:00:21,052 --> 00:00:24,494
+the totality of math syntactically or semantically.
+
+9
+00:00:24,666 --> 00:00:27,600
+Syntactically this would be the set of all
+
+10
+00:00:27,700 --> 00:00:31,646
+true mathematical formulas written in first order logic,
+
+11
+00:00:31,800 --> 00:00:36,631
+and semantically would be the totality of mathematical structures.
+
+12
+00:00:36,731 --> 00:00:41,487
+Where mathematical structures can be seen as pre-existing eternal
+
+13
+00:00:41,587 --> 00:00:44,252
+objects in a platonic world of forms.
+
