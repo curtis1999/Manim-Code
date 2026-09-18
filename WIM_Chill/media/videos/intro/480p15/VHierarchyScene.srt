@@ -1,0 +1,80 @@
+1
+00:00:00,000 --> 00:00:02,245
+For example, if we have the set with
+
+2
+00:00:02,345 --> 00:00:05,046
+{1,2,3} the power set is the following set.
+
+3
+00:00:05,200 --> 00:00:07,346
+So, it contains the individual elements,
+
+4
+00:00:07,466 --> 00:00:08,829
+the pairs of elements,
+
+5
+00:00:08,933 --> 00:00:11,084
+the whole set and the emptyset at the
+
+6
+00:00:11,184 --> 00:00:13,457
+bottom, which is a subset of every set.
+
+7
+00:00:13,600 --> 00:00:17,204
+We will now use this to define the so-called Von Neuman Hierarchy of
+
+8
+00:00:17,304 --> 00:00:20,526
+sets V, which is often considered to be THE Universe of sets.
+
+9
+00:00:20,600 --> 00:00:23,314
+Again, we start with the empty set, and then
+
+10
+00:00:23,414 --> 00:00:26,769
+successively take the power set of the previous level.
+
+11
+00:00:26,933 --> 00:00:29,475
+So we get the set with the emptyset at the first level, then
+
+12
+00:00:29,575 --> 00:00:32,292
+the emptyset plus the set with the emptyset at the second level,
+
+13
+00:00:32,400 --> 00:00:35,194
+then the emptyset, set with the emptyset and then
+
+14
+00:00:35,294 --> 00:00:37,498
+set with the set with the emptyset set.
+
+15
+00:00:37,600 --> 00:00:40,341
+This seems tame and boring, but this is a
+
+16
+00:00:40,441 --> 00:00:44,500
+hyper-exponential function, the third level has 16 elements,
+
+17
+00:00:44,666 --> 00:00:47,657
+the fourth level has 65 Thousand, and the fifth level
+
+18
+00:00:47,757 --> 00:00:50,339
+has more atoms then there are in the Universe.
+
+19
+00:00:50,466 --> 00:00:54,777
+Each level has the number of sets in the previous level raised to the
+
+20
+00:00:54,877 --> 00:00:58,804
+power of 2. So, we can see how the complexity starts to emerge.
+

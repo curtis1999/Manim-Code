@@ -1,0 +1,160 @@
+1
+00:00:00,000 --> 00:00:03,236
+These axioms essentially define what is and what is not a
+
+2
+00:00:03,336 --> 00:00:07,159
+valid mathematical set. If we view math platonically, then there is
+
+3
+00:00:07,259 --> 00:00:11,315
+some pre-existing Universe of sets, which these axioms try to describe.
+
+4
+00:00:11,466 --> 00:00:14,385
+Again, due to this guy, there are many different possible set
+
+5
+00:00:14,485 --> 00:00:17,552
+theoretic universes, so we cannot pin down THE Universe of Sets,
+
+6
+00:00:17,652 --> 00:00:20,076
+but for now, we won't worry about that, and we will
+
+7
+00:00:20,176 --> 00:00:22,155
+imagine that this as the Universe of sets.
+
+8
+00:00:22,333 --> 00:00:25,414
+Since a set is so general, everything in math can be seen as
+
+9
+00:00:25,514 --> 00:00:29,390
+a set. Meaning that every mathematical object will exist somewhere in here.
+
+10
+00:00:29,533 --> 00:00:32,538
+So, if we can define what is, and what is not a valid set,
+
+11
+00:00:32,638 --> 00:00:35,911
+then we will have defined what is and what is not part of math.
+
+12
+00:00:36,000 --> 00:00:39,284
+Now if you try to define a set, you will likely say
+
+13
+00:00:39,384 --> 00:00:43,266
+something like a collection of things or a class of objects.
+
+14
+00:00:43,400 --> 00:00:46,707
+But then, how do you define a collection or a class? So
+
+15
+00:00:46,807 --> 00:00:49,990
+a set is too basic to be defined in terms of anything
+
+16
+00:00:50,090 --> 00:00:54,450
+simpler. Now, when we want to start defining the set theoretic universe,
+
+17
+00:00:54,550 --> 00:00:58,972
+we run into a fundamental issue with definitions. Words are defined using
+
+18
+00:00:59,072 --> 00:01:02,565
+other words, so how can we define the first word? So there
+
+19
+00:01:02,665 --> 00:01:06,653
+has to be some sort of a-priori assumptions, which are the axioms.
+
+20
+00:01:06,866 --> 00:01:11,509
+The simplest axiom, is the axiom of existence, which simply asserts
+
+21
+00:01:11,609 --> 00:01:16,040
+that there is some set. Specifically, that the empty set exists.
+
+22
+00:01:16,200 --> 00:01:19,844
+So at the base of this whole set theoretic Universe, is that assumption
+
+23
+00:01:19,944 --> 00:01:23,746
+that nothing exists. Once we have this emptyset, we add other axioms which
+
+24
+00:01:23,846 --> 00:01:27,332
+allow us to define other sets. For example, we can assert that given
+
+25
+00:01:27,432 --> 00:01:30,180
+any set, there is a set whose sole member is that set.
+
+26
+00:01:30,333 --> 00:01:33,599
+Meaning that we can define the set containing the emptyset. So, we
+
+27
+00:01:33,699 --> 00:01:36,403
+start with nothing, then we can put a bag around it and
+
+28
+00:01:36,503 --> 00:01:39,259
+so we no longer have nothing, we have a bag with nothing
+
+29
+00:01:39,359 --> 00:01:42,166
+in it. Then we can define the set containing the set with
+
+30
+00:01:42,266 --> 00:01:45,175
+the emptyset, so a bag containing a bag with nothing in it.
+
+31
+00:01:45,266 --> 00:01:48,873
+A less idiotic way to look at this, is that we start with 0, and
+
+32
+00:01:48,973 --> 00:01:51,827
+then we can define 1 and 2 and so on, and 3, and 4.
+
+33
+00:01:51,933 --> 00:01:54,610
+Then given two sets, we can form a set
+
+34
+00:01:54,710 --> 00:01:57,606
+whose members are the pair of these sets.
+
+35
+00:01:57,733 --> 00:02:02,204
+So given 0 and 2, we can define the set containing 0 and 2.
+
+36
+00:02:02,333 --> 00:02:06,777
+We also have the power set axioms, which is more interesting that
+
+37
+00:02:06,877 --> 00:02:10,832
+it seems at first, which just states that given any set X,
+
+38
+00:02:10,932 --> 00:02:14,119
+there exists a set made up of all subsets of X.
+
+39
+00:02:14,266 --> 00:02:17,761
+For example, if we have the set {1,2,3}, then this
+
+40
+00:02:17,861 --> 00:02:21,428
+axiom asserts that there is also the following set.
+

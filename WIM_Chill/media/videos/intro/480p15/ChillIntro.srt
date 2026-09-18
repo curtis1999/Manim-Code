@@ -1,0 +1,76 @@
+1
+00:00:00,000 --> 00:00:05,406
+Alright in this video we're gonna go deep into mathematical logic and set
+
+2
+00:00:05,506 --> 00:00:10,007
+theory to try and figure out what Math is. Right off the bat,
+
+3
+00:00:10,107 --> 00:00:16,117
+because of Godel's incompleteness theorems, there is no clear cut answer to this,
+
+4
+00:00:16,217 --> 00:00:20,492
+but one possible answer is that math is the theory of ZFC.
+
+5
+00:00:20,533 --> 00:00:22,830
+Which is just the set of all first
+
+6
+00:00:22,930 --> 00:00:26,073
+order consequences of these axioms right here.
+
+7
+00:00:26,133 --> 00:00:29,297
+We'll try and figure out what that means right now.
+
+8
+00:00:29,333 --> 00:00:32,041
+To keep things simple, we can imagine
+
+9
+00:00:32,141 --> 00:00:34,849
+a black box theorem proving computer.
+
+10
+00:00:35,000 --> 00:00:38,192
+In a later video we will open the hood of this
+
+11
+00:00:38,292 --> 00:00:42,057
+black box computer, but for this video, just see it as
+
+12
+00:00:42,157 --> 00:00:46,924
+some computer which takes in sentences written in first order logic,
+
+13
+00:00:47,024 --> 00:00:51,148
+and it outputs the logical consequences of these sentences.
+
+14
+00:00:51,266 --> 00:00:54,907
+The ultimate goal, is to find some set of axioms which
+
+15
+00:00:55,007 --> 00:00:58,924
+we could feed into our theorem prover such that it outputs
+
+16
+00:00:59,024 --> 00:01:05,158
+every true mathematical statement, without ever outputting a false mathematical statement.
+
+17
+00:01:05,266 --> 00:01:08,406
+Again, this is impossible due to this guy,
+
+18
+00:01:08,533 --> 00:01:12,371
+so the best we can hope for is some set of axioms which
+
+19
+00:01:12,471 --> 00:01:17,097
+can output pretty much all of math, and that's where ZFC comes in.
+

@@ -1,0 +1,968 @@
+[
+  {
+    "input_text": "Alright in this video we're gonna go deep into mathematical logic and set theory to try and figure out what Math is. Right off the bat, because of Godel's incompleteness theorems, there is no clear cut answer to this, but one possible answer is that math is the theory of ZFC.",
+    "input_data": {
+      "input_text": "Alright in this video we're gonna go deep into mathematical logic and set theory to try and figure out what Math is. Right off the bat, because of Godel's incompleteness theorems, there is no clear cut answer to this, but one possible answer is that math is the theory of ZFC.",
+      "service": "gtts"
+    },
+    "original_audio": "alright-in-this-video-we-re-gonna-go-deep-into-e7a54ec0.mp3",
+    "final_audio": "alright-in-this-video-we-re-gonna-go-deep-into-e7a54ec0.mp3"
+  },
+  {
+    "input_text": "Which is just the set of all first order consequences of these axioms right here.",
+    "input_data": {
+      "input_text": "Which is just the set of all first order consequences of these axioms right here.",
+      "service": "gtts"
+    },
+    "original_audio": "which-is-just-the-set-of-all-first-order-0a8d809c.mp3",
+    "final_audio": "which-is-just-the-set-of-all-first-order-0a8d809c.mp3"
+  },
+  {
+    "input_text": "We'll try and figure out what that means right now.",
+    "input_data": {
+      "input_text": "We'll try and figure out what that means right now.",
+      "service": "gtts"
+    },
+    "original_audio": "we-ll-try-and-figure-out-what-that-means-right-now-191cb728.mp3",
+    "final_audio": "we-ll-try-and-figure-out-what-that-means-right-now-191cb728.mp3"
+  },
+  {
+    "input_text": "To keep things simple, we can imagine a black box theorem proving computer.",
+    "input_data": {
+      "input_text": "To keep things simple, we can imagine a black box theorem proving computer.",
+      "service": "gtts"
+    },
+    "original_audio": "to-keep-things-simple-we-can-imagine-a-black-box-96872c99.mp3",
+    "final_audio": "to-keep-things-simple-we-can-imagine-a-black-box-96872c99.mp3"
+  },
+  {
+    "input_text": "In a later video we will open the hood of this black box computer, but for this video, just see it as some computer which takes in sentences written in first order logic, and it outputs the logical consequences of these sentences.",
+    "input_data": {
+      "input_text": "In a later video we will open the hood of this black box computer, but for this video, just see it as some computer which takes in sentences written in first order logic, and it outputs the logical consequences of these sentences.",
+      "service": "gtts"
+    },
+    "original_audio": "in-a-later-video-we-will-open-the-hood-of-this-3df6ad21.mp3",
+    "final_audio": "in-a-later-video-we-will-open-the-hood-of-this-3df6ad21.mp3"
+  },
+  {
+    "input_text": "The ultimate goal, is to find some set of axioms which we could feed into our theorem prover such that it outputs every true mathematical statement, without ever outputting a false mathematical statement.",
+    "input_data": {
+      "input_text": "The ultimate goal, is to find some set of axioms which we could feed into our theorem prover such that it outputs every true mathematical statement, without ever outputting a false mathematical statement.",
+      "service": "gtts"
+    },
+    "original_audio": "the-ultimate-goal-is-to-find-some-set-of-axioms-42464293.mp3",
+    "final_audio": "the-ultimate-goal-is-to-find-some-set-of-axioms-42464293.mp3"
+  },
+  {
+    "input_text": "Again, this is impossible due to this guy,",
+    "input_data": {
+      "input_text": "Again, this is impossible due to this guy,",
+      "service": "gtts"
+    },
+    "original_audio": "again-this-is-impossible-due-to-this-guy-da03175a.mp3",
+    "final_audio": "again-this-is-impossible-due-to-this-guy-da03175a.mp3"
+  },
+  {
+    "input_text": "Alright in this video we're gonna go deep into mathematical logic and set theory to try and figure out what Math is. Right off the bat, because of Godel's incompleteness theorems, there is no clear cut answer to this, but one possible answer is that math is the theory of ZFC.",
+    "input_data": {
+      "input_text": "Alright in this video we're gonna go deep into mathematical logic and set theory to try and figure out what Math is. Right off the bat, because of Godel's incompleteness theorems, there is no clear cut answer to this, but one possible answer is that math is the theory of ZFC.",
+      "service": "gtts"
+    },
+    "original_audio": "alright-in-this-video-we-re-gonna-go-deep-into-e7a54ec0.mp3",
+    "final_audio": "alright-in-this-video-we-re-gonna-go-deep-into-e7a54ec0.mp3"
+  },
+  {
+    "input_text": "Which is just the set of all first order consequences of these axioms right here.",
+    "input_data": {
+      "input_text": "Which is just the set of all first order consequences of these axioms right here.",
+      "service": "gtts"
+    },
+    "original_audio": "which-is-just-the-set-of-all-first-order-0a8d809c.mp3",
+    "final_audio": "which-is-just-the-set-of-all-first-order-0a8d809c.mp3"
+  },
+  {
+    "input_text": "We'll try and figure out what that means right now.",
+    "input_data": {
+      "input_text": "We'll try and figure out what that means right now.",
+      "service": "gtts"
+    },
+    "original_audio": "we-ll-try-and-figure-out-what-that-means-right-now-191cb728.mp3",
+    "final_audio": "we-ll-try-and-figure-out-what-that-means-right-now-191cb728.mp3"
+  },
+  {
+    "input_text": "To keep things simple, we can imagine a black box theorem proving computer.",
+    "input_data": {
+      "input_text": "To keep things simple, we can imagine a black box theorem proving computer.",
+      "service": "gtts"
+    },
+    "original_audio": "to-keep-things-simple-we-can-imagine-a-black-box-96872c99.mp3",
+    "final_audio": "to-keep-things-simple-we-can-imagine-a-black-box-96872c99.mp3"
+  },
+  {
+    "input_text": "In a later video we will open the hood of this black box computer, but for this video, just see it as some computer which takes in sentences written in first order logic, and it outputs the logical consequences of these sentences.",
+    "input_data": {
+      "input_text": "In a later video we will open the hood of this black box computer, but for this video, just see it as some computer which takes in sentences written in first order logic, and it outputs the logical consequences of these sentences.",
+      "service": "gtts"
+    },
+    "original_audio": "in-a-later-video-we-will-open-the-hood-of-this-3df6ad21.mp3",
+    "final_audio": "in-a-later-video-we-will-open-the-hood-of-this-3df6ad21.mp3"
+  },
+  {
+    "input_text": "The ultimate goal, is to find some set of axioms which we could feed into our theorem prover such that it outputs every true mathematical statement, without ever outputting a false mathematical statement.",
+    "input_data": {
+      "input_text": "The ultimate goal, is to find some set of axioms which we could feed into our theorem prover such that it outputs every true mathematical statement, without ever outputting a false mathematical statement.",
+      "service": "gtts"
+    },
+    "original_audio": "the-ultimate-goal-is-to-find-some-set-of-axioms-42464293.mp3",
+    "final_audio": "the-ultimate-goal-is-to-find-some-set-of-axioms-42464293.mp3"
+  },
+  {
+    "input_text": "Again, this is impossible due to this guy,",
+    "input_data": {
+      "input_text": "Again, this is impossible due to this guy,",
+      "service": "gtts"
+    },
+    "original_audio": "again-this-is-impossible-due-to-this-guy-da03175a.mp3",
+    "final_audio": "again-this-is-impossible-due-to-this-guy-da03175a.mp3"
+  },
+  {
+    "input_text": "Alright in this video we're gonna go deep into mathematical logic and set theory to try and figure out what Math is. Right off the bat, because of Godel's incompleteness theorems, there is no clear cut answer to this, but one possible answer is that math is the theory of ZFC.",
+    "input_data": {
+      "input_text": "Alright in this video we're gonna go deep into mathematical logic and set theory to try and figure out what Math is. Right off the bat, because of Godel's incompleteness theorems, there is no clear cut answer to this, but one possible answer is that math is the theory of ZFC.",
+      "service": "gtts"
+    },
+    "original_audio": "alright-in-this-video-we-re-gonna-go-deep-into-e7a54ec0.mp3",
+    "final_audio": "alright-in-this-video-we-re-gonna-go-deep-into-e7a54ec0.mp3"
+  },
+  {
+    "input_text": "Which is just the set of all first order consequences of these axioms right here.",
+    "input_data": {
+      "input_text": "Which is just the set of all first order consequences of these axioms right here.",
+      "service": "gtts"
+    },
+    "original_audio": "which-is-just-the-set-of-all-first-order-0a8d809c.mp3",
+    "final_audio": "which-is-just-the-set-of-all-first-order-0a8d809c.mp3"
+  },
+  {
+    "input_text": "We'll try and figure out what that means right now.",
+    "input_data": {
+      "input_text": "We'll try and figure out what that means right now.",
+      "service": "gtts"
+    },
+    "original_audio": "we-ll-try-and-figure-out-what-that-means-right-now-191cb728.mp3",
+    "final_audio": "we-ll-try-and-figure-out-what-that-means-right-now-191cb728.mp3"
+  },
+  {
+    "input_text": "To keep things simple, we can imagine a black box theorem proving computer.",
+    "input_data": {
+      "input_text": "To keep things simple, we can imagine a black box theorem proving computer.",
+      "service": "gtts"
+    },
+    "original_audio": "to-keep-things-simple-we-can-imagine-a-black-box-96872c99.mp3",
+    "final_audio": "to-keep-things-simple-we-can-imagine-a-black-box-96872c99.mp3"
+  },
+  {
+    "input_text": "In a later video we will open the hood of this black box computer, but for this video, just see it as some computer which takes in sentences written in first order logic, and it outputs the logical consequences of these sentences.",
+    "input_data": {
+      "input_text": "In a later video we will open the hood of this black box computer, but for this video, just see it as some computer which takes in sentences written in first order logic, and it outputs the logical consequences of these sentences.",
+      "service": "gtts"
+    },
+    "original_audio": "in-a-later-video-we-will-open-the-hood-of-this-3df6ad21.mp3",
+    "final_audio": "in-a-later-video-we-will-open-the-hood-of-this-3df6ad21.mp3"
+  },
+  {
+    "input_text": "The ultimate goal, is to find some set of axioms which we could feed into our theorem prover such that it outputs every true mathematical statement, without ever outputting a false mathematical statement.",
+    "input_data": {
+      "input_text": "The ultimate goal, is to find some set of axioms which we could feed into our theorem prover such that it outputs every true mathematical statement, without ever outputting a false mathematical statement.",
+      "service": "gtts"
+    },
+    "original_audio": "the-ultimate-goal-is-to-find-some-set-of-axioms-42464293.mp3",
+    "final_audio": "the-ultimate-goal-is-to-find-some-set-of-axioms-42464293.mp3"
+  },
+  {
+    "input_text": "Again, this is impossible due to this guy,",
+    "input_data": {
+      "input_text": "Again, this is impossible due to this guy,",
+      "service": "gtts"
+    },
+    "original_audio": "again-this-is-impossible-due-to-this-guy-da03175a.mp3",
+    "final_audio": "again-this-is-impossible-due-to-this-guy-da03175a.mp3"
+  },
+  {
+    "input_text": "Alright in this video we're gonna go deep into mathematical logic and set theory to try and figure out what Math is. Right off the bat, because of Godel's incompleteness theorems, there is no clear cut answer to this, but one possible answer is that math is the theory of ZFC.",
+    "input_data": {
+      "input_text": "Alright in this video we're gonna go deep into mathematical logic and set theory to try and figure out what Math is. Right off the bat, because of Godel's incompleteness theorems, there is no clear cut answer to this, but one possible answer is that math is the theory of ZFC.",
+      "service": "gtts"
+    },
+    "original_audio": "alright-in-this-video-we-re-gonna-go-deep-into-e7a54ec0.mp3",
+    "final_audio": "alright-in-this-video-we-re-gonna-go-deep-into-e7a54ec0.mp3"
+  },
+  {
+    "input_text": "Which is just the set of all first order consequences of these axioms right here.",
+    "input_data": {
+      "input_text": "Which is just the set of all first order consequences of these axioms right here.",
+      "service": "gtts"
+    },
+    "original_audio": "which-is-just-the-set-of-all-first-order-0a8d809c.mp3",
+    "final_audio": "which-is-just-the-set-of-all-first-order-0a8d809c.mp3"
+  },
+  {
+    "input_text": "We'll try and figure out what that means right now.",
+    "input_data": {
+      "input_text": "We'll try and figure out what that means right now.",
+      "service": "gtts"
+    },
+    "original_audio": "we-ll-try-and-figure-out-what-that-means-right-now-191cb728.mp3",
+    "final_audio": "we-ll-try-and-figure-out-what-that-means-right-now-191cb728.mp3"
+  },
+  {
+    "input_text": "To keep things simple, we can imagine a black box theorem proving computer.",
+    "input_data": {
+      "input_text": "To keep things simple, we can imagine a black box theorem proving computer.",
+      "service": "gtts"
+    },
+    "original_audio": "to-keep-things-simple-we-can-imagine-a-black-box-96872c99.mp3",
+    "final_audio": "to-keep-things-simple-we-can-imagine-a-black-box-96872c99.mp3"
+  },
+  {
+    "input_text": "In a later video we will open the hood of this black box computer, but for this video, just see it as some computer which takes in sentences written in first order logic, and it outputs the logical consequences of these sentences.",
+    "input_data": {
+      "input_text": "In a later video we will open the hood of this black box computer, but for this video, just see it as some computer which takes in sentences written in first order logic, and it outputs the logical consequences of these sentences.",
+      "service": "gtts"
+    },
+    "original_audio": "in-a-later-video-we-will-open-the-hood-of-this-3df6ad21.mp3",
+    "final_audio": "in-a-later-video-we-will-open-the-hood-of-this-3df6ad21.mp3"
+  },
+  {
+    "input_text": "The ultimate goal, is to find some set of axioms which we could feed into our theorem prover such that it outputs every true mathematical statement, without ever outputting a false mathematical statement.",
+    "input_data": {
+      "input_text": "The ultimate goal, is to find some set of axioms which we could feed into our theorem prover such that it outputs every true mathematical statement, without ever outputting a false mathematical statement.",
+      "service": "gtts"
+    },
+    "original_audio": "the-ultimate-goal-is-to-find-some-set-of-axioms-42464293.mp3",
+    "final_audio": "the-ultimate-goal-is-to-find-some-set-of-axioms-42464293.mp3"
+  },
+  {
+    "input_text": "Again, this is impossible due to this guy,",
+    "input_data": {
+      "input_text": "Again, this is impossible due to this guy,",
+      "service": "gtts"
+    },
+    "original_audio": "again-this-is-impossible-due-to-this-guy-da03175a.mp3",
+    "final_audio": "again-this-is-impossible-due-to-this-guy-da03175a.mp3"
+  },
+  {
+    "input_text": "so the best we can hope for is some set of axioms which can output pretty much all of math, and that's where ZFC comes in.",
+    "input_data": {
+      "input_text": "so the best we can hope for is some set of axioms which can output pretty much all of math, and that's where ZFC comes in.",
+      "service": "gtts"
+    },
+    "original_audio": "so-the-best-we-can-hope-for-is-some-set-of-axioms-ac69be7b.mp3",
+    "final_audio": "so-the-best-we-can-hope-for-is-some-set-of-axioms-ac69be7b.mp3"
+  },
+  {
+    "input_text": "Alright in this video we're gonna go deep into mathematical logic and set theory to try and figure out what Math is. Right off the bat, because of Godel's incompleteness theorems, there is no clear cut answer to this, but one possible answer is that math is the theory of ZFC.",
+    "input_data": {
+      "input_text": "Alright in this video we're gonna go deep into mathematical logic and set theory to try and figure out what Math is. Right off the bat, because of Godel's incompleteness theorems, there is no clear cut answer to this, but one possible answer is that math is the theory of ZFC.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "alright-in-this-video-we-re-gonna-go-deep-into-6882a013.mp3",
+    "final_audio": "alright-in-this-video-we-re-gonna-go-deep-into-6882a013.mp3"
+  },
+  {
+    "input_text": "Which is just the set of all first order consequences of these axioms right here.",
+    "input_data": {
+      "input_text": "Which is just the set of all first order consequences of these axioms right here.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "which-is-just-the-set-of-all-first-order-10e8bd0b.mp3",
+    "final_audio": "which-is-just-the-set-of-all-first-order-10e8bd0b.mp3"
+  },
+  {
+    "input_text": "We'll try and figure out what that means right now.",
+    "input_data": {
+      "input_text": "We'll try and figure out what that means right now.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-ll-try-and-figure-out-what-that-means-right-now-69ce1809.mp3",
+    "final_audio": "we-ll-try-and-figure-out-what-that-means-right-now-69ce1809.mp3"
+  },
+  {
+    "input_text": "To keep things simple, we can imagine a black box theorem proving computer.",
+    "input_data": {
+      "input_text": "To keep things simple, we can imagine a black box theorem proving computer.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "to-keep-things-simple-we-can-imagine-a-black-box-fda76b14.mp3",
+    "final_audio": "to-keep-things-simple-we-can-imagine-a-black-box-fda76b14.mp3"
+  },
+  {
+    "input_text": "In a later video we will open the hood of this black box computer, but for this video, just see it as some computer which takes in sentences written in first order logic, and it outputs the logical consequences of these sentences.",
+    "input_data": {
+      "input_text": "In a later video we will open the hood of this black box computer, but for this video, just see it as some computer which takes in sentences written in first order logic, and it outputs the logical consequences of these sentences.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-a-later-video-we-will-open-the-hood-of-this-c7a311c7.mp3",
+    "final_audio": "in-a-later-video-we-will-open-the-hood-of-this-c7a311c7.mp3"
+  },
+  {
+    "input_text": "The ultimate goal, is to find some set of axioms which we could feed into our theorem prover such that it outputs every true mathematical statement, without ever outputting a false mathematical statement.",
+    "input_data": {
+      "input_text": "The ultimate goal, is to find some set of axioms which we could feed into our theorem prover such that it outputs every true mathematical statement, without ever outputting a false mathematical statement.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-ultimate-goal-is-to-find-some-set-of-axioms-253f5dd6.mp3",
+    "final_audio": "the-ultimate-goal-is-to-find-some-set-of-axioms-253f5dd6.mp3"
+  },
+  {
+    "input_text": "Again, this is impossible due to this guy,",
+    "input_data": {
+      "input_text": "Again, this is impossible due to this guy,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "again-this-is-impossible-due-to-this-guy-110ef7ce.mp3",
+    "final_audio": "again-this-is-impossible-due-to-this-guy-110ef7ce.mp3"
+  },
+  {
+    "input_text": "so the best we can hope for is some set of axioms which can output pretty much all of math, and that's where ZFC comes in.",
+    "input_data": {
+      "input_text": "so the best we can hope for is some set of axioms which can output pretty much all of math, and that's where ZFC comes in.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-the-best-we-can-hope-for-is-some-set-of-axioms-d481339b.mp3",
+    "final_audio": "so-the-best-we-can-hope-for-is-some-set-of-axioms-d481339b.mp3"
+  },
+  {
+    "input_text": "These axioms essentially define what is and what is not a valid mathematical set. If we view math platonically, then there is some pre-existing Universe of sets, which these axioms try to describe.",
+    "input_data": {
+      "input_text": "These axioms essentially define what is and what is not a valid mathematical set. If we view math platonically, then there is some pre-existing Universe of sets, which these axioms try to describe.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "these-axioms-essentially-define-what-is-and-what-a1a95bd3.mp3",
+    "final_audio": "these-axioms-essentially-define-what-is-and-what-a1a95bd3.mp3"
+  },
+  {
+    "input_text": "Again, due to this guy, there are many different possible set theoretic universes, so we cannot pin down THE Universe of Sets, but for now, we won't worry about that, and we will imagine that this as the Universe of sets.",
+    "input_data": {
+      "input_text": "Again, due to this guy, there are many different possible set theoretic universes, so we cannot pin down THE Universe of Sets, but for now, we won't worry about that, and we will imagine that this as the Universe of sets.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "again-due-to-this-guy-there-are-many-different-56dc4aab.mp3",
+    "final_audio": "again-due-to-this-guy-there-are-many-different-56dc4aab.mp3"
+  },
+  {
+    "input_text": "Since a set is so general, everything in math can be seen as a set. Meaning that every mathematical object will exist somewhere in here.",
+    "input_data": {
+      "input_text": "Since a set is so general, everything in math can be seen as a set. Meaning that every mathematical object will exist somewhere in here.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "since-a-set-is-so-general-everything-in-math-can-ee76fc42.mp3",
+    "final_audio": "since-a-set-is-so-general-everything-in-math-can-ee76fc42.mp3"
+  },
+  {
+    "input_text": "So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.",
+    "input_data": {
+      "input_text": "So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-if-we-can-define-what-is-and-what-is-not-a-aa36acf8.mp3",
+    "final_audio": "so-if-we-can-define-what-is-and-what-is-not-a-aa36acf8.mp3"
+  },
+  {
+    "input_text": "Now if you try to define a set, you will likely say something like a collection of things or a class of objects.",
+    "input_data": {
+      "input_text": "Now if you try to define a set, you will likely say something like a collection of things or a class of objects.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-if-you-try-to-define-a-set-you-will-likely-say-ce8b27f0.mp3",
+    "final_audio": "now-if-you-try-to-define-a-set-you-will-likely-say-ce8b27f0.mp3"
+  },
+  {
+    "input_text": "But then, how do you define a collection or a class? So a set is too basic to be defined in terms of anything simpler. Now, when we want to start defining the set theoretic universe, we run into a fundamental issue with definitions. Words are defined using other words, so how can we define the first word? So there has to be some sort of a-priori assumptions, which are the axioms.",
+    "input_data": {
+      "input_text": "But then, how do you define a collection or a class? So a set is too basic to be defined in terms of anything simpler. Now, when we want to start defining the set theoretic universe, we run into a fundamental issue with definitions. Words are defined using other words, so how can we define the first word? So there has to be some sort of a-priori assumptions, which are the axioms.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-then-how-do-you-define-a-collection-or-a-class-baf2b8c4.mp3",
+    "final_audio": "but-then-how-do-you-define-a-collection-or-a-class-baf2b8c4.mp3"
+  },
+  {
+    "input_text": "The simplest axiom, is the axiom of existence, which simply asserts that there is some set. Specifically, that the empty set exists.",
+    "input_data": {
+      "input_text": "The simplest axiom, is the axiom of existence, which simply asserts that there is some set. Specifically, that the empty set exists.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-simplest-axiom-is-the-axiom-of-existence-which-3737f8c1.mp3",
+    "final_audio": "the-simplest-axiom-is-the-axiom-of-existence-which-3737f8c1.mp3"
+  },
+  {
+    "input_text": "So at the base of this whole set theoretic Universe, is that assumption that nothing exists. Once we have this emptyset, we add other axioms which allow us to define other sets. For example, we can assert that given any set, there is a set whose sole member is that set.",
+    "input_data": {
+      "input_text": "So at the base of this whole set theoretic Universe, is that assumption that nothing exists. Once we have this emptyset, we add other axioms which allow us to define other sets. For example, we can assert that given any set, there is a set whose sole member is that set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-at-the-base-of-this-whole-set-theoretic-a9de7736.mp3",
+    "final_audio": "so-at-the-base-of-this-whole-set-theoretic-a9de7736.mp3"
+  },
+  {
+    "input_text": "Meaning that we can define the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it. Then we can define the set containing the set with the emptyset, so a bag containing a bag with nothing in it.",
+    "input_data": {
+      "input_text": "Meaning that we can define the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it. Then we can define the set containing the set with the emptyset, so a bag containing a bag with nothing in it.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "meaning-that-we-can-define-the-set-containing-the-0f7c5eba.mp3",
+    "final_audio": "meaning-that-we-can-define-the-set-containing-the-0f7c5eba.mp3"
+  },
+  {
+    "input_text": "A less idiotic way to look at this, is that we start with 0, and then we can define 1 and 2 and so on, and 3, and 4.",
+    "input_data": {
+      "input_text": "A less idiotic way to look at this, is that we start with 0, and then we can define 1 and 2 and so on, and 3, and 4.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "a-less-idiotic-way-to-look-at-this-is-that-we-7340a9ad.mp3",
+    "final_audio": "a-less-idiotic-way-to-look-at-this-is-that-we-7340a9ad.mp3"
+  },
+  {
+    "input_text": "Then given two sets, we can form a set whose members are the pair of these sets.",
+    "input_data": {
+      "input_text": "Then given two sets, we can form a set whose members are the pair of these sets.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-given-two-sets-we-can-form-a-set-whose-a59edd74.mp3",
+    "final_audio": "then-given-two-sets-we-can-form-a-set-whose-a59edd74.mp3"
+  },
+  {
+    "input_text": "So, we can form the set containing 0 and 2.",
+    "input_data": {
+      "input_text": "So, we can form the set containing 0 and 2.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-we-can-form-the-set-containing-0-and-2-f5f6d3ca.mp3",
+    "final_audio": "so-we-can-form-the-set-containing-0-and-2-f5f6d3ca.mp3"
+  },
+  {
+    "input_text": "We also have the power set axioms, which is more interesting that it seems at first, which just states that given any set X, there exists a set made up of all subsets of X.",
+    "input_data": {
+      "input_text": "We also have the power set axioms, which is more interesting that it seems at first, which just states that given any set X, there exists a set made up of all subsets of X.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-also-have-the-power-set-axioms-which-is-more-1ef55dd4.mp3",
+    "final_audio": "we-also-have-the-power-set-axioms-which-is-more-1ef55dd4.mp3"
+  },
+  {
+    "input_text": "For example, if we have the set {1,2,3}, then this axiom asserts that there is also the following set.",
+    "input_data": {
+      "input_text": "For example, if we have the set {1,2,3}, then this axiom asserts that there is also the following set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-if-we-have-the-set-123-then-this-axiom-0ef67722.mp3",
+    "final_audio": "for-example-if-we-have-the-set-123-then-this-axiom-0ef67722.mp3"
+  },
+  {
+    "input_text": "These axioms essentially define what is and what is not a valid mathematical set. If we view math platonically, then there is some pre-existing Universe of sets, which these axioms try to describe.",
+    "input_data": {
+      "input_text": "These axioms essentially define what is and what is not a valid mathematical set. If we view math platonically, then there is some pre-existing Universe of sets, which these axioms try to describe.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "these-axioms-essentially-define-what-is-and-what-a1a95bd3.mp3",
+    "final_audio": "these-axioms-essentially-define-what-is-and-what-a1a95bd3.mp3"
+  },
+  {
+    "input_text": "Again, due to this guy, there are many different possible set theoretic universes, so we cannot pin down THE Universe of Sets, but for now, we won't worry about that, and we will imagine that this as the Universe of sets.",
+    "input_data": {
+      "input_text": "Again, due to this guy, there are many different possible set theoretic universes, so we cannot pin down THE Universe of Sets, but for now, we won't worry about that, and we will imagine that this as the Universe of sets.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "again-due-to-this-guy-there-are-many-different-56dc4aab.mp3",
+    "final_audio": "again-due-to-this-guy-there-are-many-different-56dc4aab.mp3"
+  },
+  {
+    "input_text": "Since a set is so general, everything in math can be seen as a set. Meaning that every mathematical object will exist somewhere in here.",
+    "input_data": {
+      "input_text": "Since a set is so general, everything in math can be seen as a set. Meaning that every mathematical object will exist somewhere in here.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "since-a-set-is-so-general-everything-in-math-can-ee76fc42.mp3",
+    "final_audio": "since-a-set-is-so-general-everything-in-math-can-ee76fc42.mp3"
+  },
+  {
+    "input_text": "So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.",
+    "input_data": {
+      "input_text": "So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-if-we-can-define-what-is-and-what-is-not-a-aa36acf8.mp3",
+    "final_audio": "so-if-we-can-define-what-is-and-what-is-not-a-aa36acf8.mp3"
+  },
+  {
+    "input_text": "Now if you try to define a set, you will likely say something like a collection of things or a class of objects.",
+    "input_data": {
+      "input_text": "Now if you try to define a set, you will likely say something like a collection of things or a class of objects.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-if-you-try-to-define-a-set-you-will-likely-say-ce8b27f0.mp3",
+    "final_audio": "now-if-you-try-to-define-a-set-you-will-likely-say-ce8b27f0.mp3"
+  },
+  {
+    "input_text": "But then, how do you define a collection or a class? So a set is too basic to be defined in terms of anything simpler. Now, when we want to start defining the set theoretic universe, we run into a fundamental issue with definitions. Words are defined using other words, so how can we define the first word? So there has to be some sort of a-priori assumptions, which are the axioms.",
+    "input_data": {
+      "input_text": "But then, how do you define a collection or a class? So a set is too basic to be defined in terms of anything simpler. Now, when we want to start defining the set theoretic universe, we run into a fundamental issue with definitions. Words are defined using other words, so how can we define the first word? So there has to be some sort of a-priori assumptions, which are the axioms.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-then-how-do-you-define-a-collection-or-a-class-baf2b8c4.mp3",
+    "final_audio": "but-then-how-do-you-define-a-collection-or-a-class-baf2b8c4.mp3"
+  },
+  {
+    "input_text": "The simplest axiom, is the axiom of existence, which simply asserts that there is some set. Specifically, that the empty set exists.",
+    "input_data": {
+      "input_text": "The simplest axiom, is the axiom of existence, which simply asserts that there is some set. Specifically, that the empty set exists.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-simplest-axiom-is-the-axiom-of-existence-which-3737f8c1.mp3",
+    "final_audio": "the-simplest-axiom-is-the-axiom-of-existence-which-3737f8c1.mp3"
+  },
+  {
+    "input_text": "So at the base of this whole set theoretic Universe, is that assumption that nothing exists. Once we have this emptyset, we add other axioms which allow us to define other sets. For example, we can assert that given any set, there is a set whose sole member is that set.",
+    "input_data": {
+      "input_text": "So at the base of this whole set theoretic Universe, is that assumption that nothing exists. Once we have this emptyset, we add other axioms which allow us to define other sets. For example, we can assert that given any set, there is a set whose sole member is that set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-at-the-base-of-this-whole-set-theoretic-a9de7736.mp3",
+    "final_audio": "so-at-the-base-of-this-whole-set-theoretic-a9de7736.mp3"
+  },
+  {
+    "input_text": "Meaning that we can define the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it. Then we can define the set containing the set with the emptyset, so a bag containing a bag with nothing in it.",
+    "input_data": {
+      "input_text": "Meaning that we can define the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it. Then we can define the set containing the set with the emptyset, so a bag containing a bag with nothing in it.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "meaning-that-we-can-define-the-set-containing-the-0f7c5eba.mp3",
+    "final_audio": "meaning-that-we-can-define-the-set-containing-the-0f7c5eba.mp3"
+  },
+  {
+    "input_text": "A less idiotic way to look at this, is that we start with 0, and then we can define 1 and 2 and so on, and 3, and 4.",
+    "input_data": {
+      "input_text": "A less idiotic way to look at this, is that we start with 0, and then we can define 1 and 2 and so on, and 3, and 4.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "a-less-idiotic-way-to-look-at-this-is-that-we-7340a9ad.mp3",
+    "final_audio": "a-less-idiotic-way-to-look-at-this-is-that-we-7340a9ad.mp3"
+  },
+  {
+    "input_text": "Then given two sets, we can form a set whose members are the pair of these sets.",
+    "input_data": {
+      "input_text": "Then given two sets, we can form a set whose members are the pair of these sets.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-given-two-sets-we-can-form-a-set-whose-a59edd74.mp3",
+    "final_audio": "then-given-two-sets-we-can-form-a-set-whose-a59edd74.mp3"
+  },
+  {
+    "input_text": "So given 0 and 2, we can define the set containing 0 and 2.",
+    "input_data": {
+      "input_text": "So given 0 and 2, we can define the set containing 0 and 2.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-given-0-and-2-we-can-define-the-set-containing-eb8c1341.mp3",
+    "final_audio": "so-given-0-and-2-we-can-define-the-set-containing-eb8c1341.mp3"
+  },
+  {
+    "input_text": "We also have the power set axioms, which is more interesting that it seems at first, which just states that given any set X, there exists a set made up of all subsets of X.",
+    "input_data": {
+      "input_text": "We also have the power set axioms, which is more interesting that it seems at first, which just states that given any set X, there exists a set made up of all subsets of X.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-also-have-the-power-set-axioms-which-is-more-1ef55dd4.mp3",
+    "final_audio": "we-also-have-the-power-set-axioms-which-is-more-1ef55dd4.mp3"
+  },
+  {
+    "input_text": "For example, if we have the set {1,2,3}, then this axiom asserts that there is also the following set.",
+    "input_data": {
+      "input_text": "For example, if we have the set {1,2,3}, then this axiom asserts that there is also the following set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-if-we-have-the-set-123-then-this-axiom-0ef67722.mp3",
+    "final_audio": "for-example-if-we-have-the-set-123-then-this-axiom-0ef67722.mp3"
+  },
+  {
+    "input_text": "For example, if we have the set with {1,2,3} the power set is the following set.",
+    "input_data": {
+      "input_text": "For example, if we have the set with {1,2,3} the power set is the following set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-if-we-have-the-set-with-123-the-power-bb3ab4de.mp3",
+    "final_audio": "for-example-if-we-have-the-set-with-123-the-power-bb3ab4de.mp3"
+  },
+  {
+    "input_text": "So, it contains the individual elements,",
+    "input_data": {
+      "input_text": "So, it contains the individual elements,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-it-contains-the-individual-elements-1ba78d6a.mp3",
+    "final_audio": "so-it-contains-the-individual-elements-1ba78d6a.mp3"
+  },
+  {
+    "input_text": "the pairs of elements,",
+    "input_data": {
+      "input_text": "the pairs of elements,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-pairs-of-elements-145225e6.mp3",
+    "final_audio": "the-pairs-of-elements-145225e6.mp3"
+  },
+  {
+    "input_text": "the whole set and the emptyset at the bottom, which is a subset of every set.",
+    "input_data": {
+      "input_text": "the whole set and the emptyset at the bottom, which is a subset of every set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-whole-set-and-the-emptyset-at-the-bottom-which-26f2bdd5.mp3",
+    "final_audio": "the-whole-set-and-the-emptyset-at-the-bottom-which-26f2bdd5.mp3"
+  },
+  {
+    "input_text": "We will now use this to define the so-called Von Neuman Hierarchy of sets V, which is often considered to be THE Universe of sets.",
+    "input_data": {
+      "input_text": "We will now use this to define the so-called Von Neuman Hierarchy of sets V, which is often considered to be THE Universe of sets.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-will-now-use-this-to-define-the-so-called-von-4de866e6.mp3",
+    "final_audio": "we-will-now-use-this-to-define-the-so-called-von-4de866e6.mp3"
+  },
+  {
+    "input_text": "Again, we start with the empty set, and then successively take the power set of the previous level.",
+    "input_data": {
+      "input_text": "Again, we start with the empty set, and then successively take the power set of the previous level.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "again-we-start-with-the-empty-set-and-then-0233366d.mp3",
+    "final_audio": "again-we-start-with-the-empty-set-and-then-0233366d.mp3"
+  },
+  {
+    "input_text": "So we get the set with the emptyset at the first level, then the emptyset plus the set with the emptyset at the second level,",
+    "input_data": {
+      "input_text": "So we get the set with the emptyset at the first level, then the emptyset plus the set with the emptyset at the second level,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-we-get-the-set-with-the-emptyset-at-the-first-c2644392.mp3",
+    "final_audio": "so-we-get-the-set-with-the-emptyset-at-the-first-c2644392.mp3"
+  },
+  {
+    "input_text": "then the emptyset, set with the emptyset and then set with the set with the emptyset set.",
+    "input_data": {
+      "input_text": "then the emptyset, set with the emptyset and then set with the set with the emptyset set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "then-the-emptyset-set-with-the-emptyset-and-then-4f8d46c0.mp3",
+    "final_audio": "then-the-emptyset-set-with-the-emptyset-and-then-4f8d46c0.mp3"
+  },
+  {
+    "input_text": "This seems tame and boring, but this is a hyper-exponential function, the third level has 16 elements,",
+    "input_data": {
+      "input_text": "This seems tame and boring, but this is a hyper-exponential function, the third level has 16 elements,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-seems-tame-and-boring-but-this-is-a-hyper-cd00b5c9.mp3",
+    "final_audio": "this-seems-tame-and-boring-but-this-is-a-hyper-cd00b5c9.mp3"
+  },
+  {
+    "input_text": "the fourth level has 65 Thousand, and the fifth level has more atoms then there are in the Universe.",
+    "input_data": {
+      "input_text": "the fourth level has 65 Thousand, and the fifth level has more atoms then there are in the Universe.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-fourth-level-has-65-thousand-and-the-fifth-b4abf6ae.mp3",
+    "final_audio": "the-fourth-level-has-65-thousand-and-the-fifth-b4abf6ae.mp3"
+  },
+  {
+    "input_text": "Each level has the number of sets in the previous level raised to the power of 2. So, we can see how the complexity starts to emerge.",
+    "input_data": {
+      "input_text": "Each level has the number of sets in the previous level raised to the power of 2. So, we can see how the complexity starts to emerge.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "each-level-has-the-number-of-sets-in-the-previous-ddf64d9d.mp3",
+    "final_audio": "each-level-has-the-number-of-sets-in-the-previous-ddf64d9d.mp3"
+  }
+]
