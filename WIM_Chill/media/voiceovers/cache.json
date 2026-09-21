@@ -964,5 +964,2315 @@
     },
     "original_audio": "each-level-has-the-number-of-sets-in-the-previous-ddf64d9d.mp3",
     "final_audio": "each-level-has-the-number-of-sets-in-the-previous-ddf64d9d.mp3"
+  },
+  {
+    "input_text": "Alright in this video we're gonna go deep into mathematical logic and set theory to try and figure out what Math is. Right off the bat, because of Godel's incompleteness theorems, there is no clear cut answer to this, but one possible answer is that math is the theory of ZFC.",
+    "input_data": {
+      "input_text": "Alright in this video we're gonna go deep into mathematical logic and set theory to try and figure out what Math is. Right off the bat, because of Godel's incompleteness theorems, there is no clear cut answer to this, but one possible answer is that math is the theory of ZFC.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "alright-in-this-video-we-re-gonna-go-deep-into-6882a013.mp3",
+    "final_audio": "alright-in-this-video-we-re-gonna-go-deep-into-6882a013.mp3"
+  },
+  {
+    "input_text": "Which is just the set of all first order consequences of these axioms right here.",
+    "input_data": {
+      "input_text": "Which is just the set of all first order consequences of these axioms right here.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "which-is-just-the-set-of-all-first-order-10e8bd0b.mp3",
+    "final_audio": "which-is-just-the-set-of-all-first-order-10e8bd0b.mp3"
+  },
+  {
+    "input_text": "We'll try and figure out what that means right now.",
+    "input_data": {
+      "input_text": "We'll try and figure out what that means right now.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-ll-try-and-figure-out-what-that-means-right-now-69ce1809.mp3",
+    "final_audio": "we-ll-try-and-figure-out-what-that-means-right-now-69ce1809.mp3"
+  },
+  {
+    "input_text": "To keep things simple, we can imagine a black box theorem proving computer.",
+    "input_data": {
+      "input_text": "To keep things simple, we can imagine a black box theorem proving computer.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "to-keep-things-simple-we-can-imagine-a-black-box-fda76b14.mp3",
+    "final_audio": "to-keep-things-simple-we-can-imagine-a-black-box-fda76b14.mp3"
+  },
+  {
+    "input_text": "In a later video we will open the hood of this black box computer, but for this video, just see it as some computer which takes in sentences written in first order logic, and it outputs the logical consequences of these sentences.",
+    "input_data": {
+      "input_text": "In a later video we will open the hood of this black box computer, but for this video, just see it as some computer which takes in sentences written in first order logic, and it outputs the logical consequences of these sentences.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-a-later-video-we-will-open-the-hood-of-this-c7a311c7.mp3",
+    "final_audio": "in-a-later-video-we-will-open-the-hood-of-this-c7a311c7.mp3"
+  },
+  {
+    "input_text": "The ultimate goal, is to find some set of axioms which we could feed into our theorem prover such that it outputs every true mathematical statement, without ever outputting a false statement.",
+    "input_data": {
+      "input_text": "The ultimate goal, is to find some set of axioms which we could feed into our theorem prover such that it outputs every true mathematical statement, without ever outputting a false statement.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-ultimate-goal-is-to-find-some-set-of-axioms-cef2754f.mp3",
+    "final_audio": "the-ultimate-goal-is-to-find-some-set-of-axioms-cef2754f.mp3"
+  },
+  {
+    "input_text": "Again, this is impossible due to this guy,",
+    "input_data": {
+      "input_text": "Again, this is impossible due to this guy,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "again-this-is-impossible-due-to-this-guy-110ef7ce.mp3",
+    "final_audio": "again-this-is-impossible-due-to-this-guy-110ef7ce.mp3"
+  },
+  {
+    "input_text": "so the best we can hope for is some set of axioms which can output pretty much all of math, and that's where ZFC comes in.",
+    "input_data": {
+      "input_text": "so the best we can hope for is some set of axioms which can output pretty much all of math, and that's where ZFC comes in.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-the-best-we-can-hope-for-is-some-set-of-axioms-d481339b.mp3",
+    "final_audio": "so-the-best-we-can-hope-for-is-some-set-of-axioms-d481339b.mp3"
+  },
+  {
+    "input_text": "Alright in this video we're gonna go deep into mathematical logic and set theory to try and figure out what Math is. Right off the bat, because of Godel's incompleteness theorems, there is no clear cut answer to this, but one possible answer is that math is the theory of ZFC.",
+    "input_data": {
+      "input_text": "Alright in this video we're gonna go deep into mathematical logic and set theory to try and figure out what Math is. Right off the bat, because of Godel's incompleteness theorems, there is no clear cut answer to this, but one possible answer is that math is the theory of ZFC.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "alright-in-this-video-we-re-gonna-go-deep-into-6882a013.mp3",
+    "final_audio": "alright-in-this-video-we-re-gonna-go-deep-into-6882a013.mp3"
+  },
+  {
+    "input_text": "Which is just the set of all first order consequences of these axioms right here.",
+    "input_data": {
+      "input_text": "Which is just the set of all first order consequences of these axioms right here.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "which-is-just-the-set-of-all-first-order-10e8bd0b.mp3",
+    "final_audio": "which-is-just-the-set-of-all-first-order-10e8bd0b.mp3"
+  },
+  {
+    "input_text": "We'll try and figure out what that means right now.",
+    "input_data": {
+      "input_text": "We'll try and figure out what that means right now.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-ll-try-and-figure-out-what-that-means-right-now-69ce1809.mp3",
+    "final_audio": "we-ll-try-and-figure-out-what-that-means-right-now-69ce1809.mp3"
+  },
+  {
+    "input_text": "To keep things simple, we can imagine a black box theorem proving computer.",
+    "input_data": {
+      "input_text": "To keep things simple, we can imagine a black box theorem proving computer.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "to-keep-things-simple-we-can-imagine-a-black-box-fda76b14.mp3",
+    "final_audio": "to-keep-things-simple-we-can-imagine-a-black-box-fda76b14.mp3"
+  },
+  {
+    "input_text": "In a later video we will open the hood of this black box computer, but for this video, just see it as some computer which takes in sentences written in first order logic, and it outputs the logical consequences of these sentences.",
+    "input_data": {
+      "input_text": "In a later video we will open the hood of this black box computer, but for this video, just see it as some computer which takes in sentences written in first order logic, and it outputs the logical consequences of these sentences.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-a-later-video-we-will-open-the-hood-of-this-c7a311c7.mp3",
+    "final_audio": "in-a-later-video-we-will-open-the-hood-of-this-c7a311c7.mp3"
+  },
+  {
+    "input_text": "The ultimate goal, is to find some set of axioms which we could feed into our theorem prover such that it outputs every true mathematical statement, without ever outputting a false statement.",
+    "input_data": {
+      "input_text": "The ultimate goal, is to find some set of axioms which we could feed into our theorem prover such that it outputs every true mathematical statement, without ever outputting a false statement.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-ultimate-goal-is-to-find-some-set-of-axioms-cef2754f.mp3",
+    "final_audio": "the-ultimate-goal-is-to-find-some-set-of-axioms-cef2754f.mp3"
+  },
+  {
+    "input_text": "Again, this is impossible due to this guy,",
+    "input_data": {
+      "input_text": "Again, this is impossible due to this guy,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "again-this-is-impossible-due-to-this-guy-110ef7ce.mp3",
+    "final_audio": "again-this-is-impossible-due-to-this-guy-110ef7ce.mp3"
+  },
+  {
+    "input_text": "so the best we can hope for is some set of axioms which can output pretty much all of math, and that's where ZFC comes in.",
+    "input_data": {
+      "input_text": "so the best we can hope for is some set of axioms which can output pretty much all of math, and that's where ZFC comes in.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-the-best-we-can-hope-for-is-some-set-of-axioms-d481339b.mp3",
+    "final_audio": "so-the-best-we-can-hope-for-is-some-set-of-axioms-d481339b.mp3"
+  },
+  {
+    "input_text": "Alright in this video we're gonna go deep into mathematical logic and set theory to try and figure out what Math is. Right off the bat, because of Godel's incompleteness theorems, there is no clear cut answer to this, but one possible answer is that math is the theory of ZFC.",
+    "input_data": {
+      "input_text": "Alright in this video we're gonna go deep into mathematical logic and set theory to try and figure out what Math is. Right off the bat, because of Godel's incompleteness theorems, there is no clear cut answer to this, but one possible answer is that math is the theory of ZFC.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "alright-in-this-video-we-re-gonna-go-deep-into-6882a013.mp3",
+    "final_audio": "alright-in-this-video-we-re-gonna-go-deep-into-6882a013.mp3"
+  },
+  {
+    "input_text": "Which is just the set of all first order consequences of these axioms right here.",
+    "input_data": {
+      "input_text": "Which is just the set of all first order consequences of these axioms right here.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "which-is-just-the-set-of-all-first-order-10e8bd0b.mp3",
+    "final_audio": "which-is-just-the-set-of-all-first-order-10e8bd0b.mp3"
+  },
+  {
+    "input_text": "We'll try and figure out what that means right now.",
+    "input_data": {
+      "input_text": "We'll try and figure out what that means right now.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-ll-try-and-figure-out-what-that-means-right-now-69ce1809.mp3",
+    "final_audio": "we-ll-try-and-figure-out-what-that-means-right-now-69ce1809.mp3"
+  },
+  {
+    "input_text": "To keep things simple, we can imagine a black box theorem proving computer.",
+    "input_data": {
+      "input_text": "To keep things simple, we can imagine a black box theorem proving computer.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "to-keep-things-simple-we-can-imagine-a-black-box-fda76b14.mp3",
+    "final_audio": "to-keep-things-simple-we-can-imagine-a-black-box-fda76b14.mp3"
+  },
+  {
+    "input_text": "In a later video we will open the hood of this black box computer, but for this video, just see it as some computer which takes in sentences written in first order logic, and it outputs the logical consequences of these sentences.",
+    "input_data": {
+      "input_text": "In a later video we will open the hood of this black box computer, but for this video, just see it as some computer which takes in sentences written in first order logic, and it outputs the logical consequences of these sentences.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "in-a-later-video-we-will-open-the-hood-of-this-c7a311c7.mp3",
+    "final_audio": "in-a-later-video-we-will-open-the-hood-of-this-c7a311c7.mp3"
+  },
+  {
+    "input_text": "The ultimate goal, is to find some set of axioms which we could feed into our theorem prover such that it outputs every true mathematical statement, without ever outputting a false statement.",
+    "input_data": {
+      "input_text": "The ultimate goal, is to find some set of axioms which we could feed into our theorem prover such that it outputs every true mathematical statement, without ever outputting a false statement.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-ultimate-goal-is-to-find-some-set-of-axioms-cef2754f.mp3",
+    "final_audio": "the-ultimate-goal-is-to-find-some-set-of-axioms-cef2754f.mp3"
+  },
+  {
+    "input_text": "Again, this is impossible due to this guy,",
+    "input_data": {
+      "input_text": "Again, this is impossible due to this guy,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "again-this-is-impossible-due-to-this-guy-110ef7ce.mp3",
+    "final_audio": "again-this-is-impossible-due-to-this-guy-110ef7ce.mp3"
+  },
+  {
+    "input_text": "so the best we can hope for is some set of axioms which can output pretty much all of math. So then the question is, what axioms should we feed in?",
+    "input_data": {
+      "input_text": "so the best we can hope for is some set of axioms which can output pretty much all of math. So then the question is, what axioms should we feed in?",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-the-best-we-can-hope-for-is-some-set-of-axioms-19594203.mp3",
+    "final_audio": "so-the-best-we-can-hope-for-is-some-set-of-axioms-19594203.mp3"
+  },
+  {
+    "input_text": "We can consider these axioms right here, known as Peano Arithmetic, which just describe the number line.",
+    "input_data": {
+      "input_text": "We can consider these axioms right here, known as Peano Arithmetic, which just describe the number line.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-consider-these-axioms-right-here-known-as-ea233b7a.mp3",
+    "final_audio": "we-can-consider-these-axioms-right-here-known-as-ea233b7a.mp3"
+  },
+  {
+    "input_text": "However, if we want to describe all of math, we will need something more general than just numbers with addition and multiplication.",
+    "input_data": {
+      "input_text": "However, if we want to describe all of math, we will need something more general than just numbers with addition and multiplication.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "however-if-we-want-to-describe-all-of-math-we-will-5168277d.mp3",
+    "final_audio": "however-if-we-want-to-describe-all-of-math-we-will-5168277d.mp3"
+  },
+  {
+    "input_text": "This is where set theory comes in.",
+    "input_data": {
+      "input_text": "This is where set theory comes in.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-where-set-theory-comes-in-dcff65cd.mp3",
+    "final_audio": "this-is-where-set-theory-comes-in-dcff65cd.mp3"
+  },
+  {
+    "input_text": "Everything in math can be seen as a set, obviously numbers are sets, but also functions are sets of pairs, graphs are sets of points and arrows and even proofs are sets of formulas.",
+    "input_data": {
+      "input_text": "Everything in math can be seen as a set, obviously numbers are sets, but also functions are sets of pairs, graphs are sets of points and arrows and even proofs are sets of formulas.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "everything-in-math-can-be-seen-as-a-set-obviously-f0cf8955.mp3",
+    "final_audio": "everything-in-math-can-be-seen-as-a-set-obviously-f0cf8955.mp3"
+  },
+  {
+    "input_text": "So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.",
+    "input_data": {
+      "input_text": "So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-if-we-can-define-what-is-and-what-is-not-a-aa36acf8.mp3",
+    "final_audio": "so-if-we-can-define-what-is-and-what-is-not-a-aa36acf8.mp3"
+  },
+  {
+    "input_text": "But a set is so basic, that is hard to define. If you try to define a set, you will likely say something like a collection of things or a class of objects. But then, how do you define a collection or a class? These axioms are a good attempt to precisely define the notion of a set.",
+    "input_data": {
+      "input_text": "But a set is so basic, that is hard to define. If you try to define a set, you will likely say something like a collection of things or a class of objects. But then, how do you define a collection or a class? These axioms are a good attempt to precisely define the notion of a set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-a-set-is-so-basic-that-is-hard-to-define-if-f82ea407.mp3",
+    "final_audio": "but-a-set-is-so-basic-that-is-hard-to-define-if-f82ea407.mp3"
+  },
+  {
+    "input_text": "Now, when we want to start defining the set theoretic universe, we run into a fundamental issue with definitions. Words are defined using other words, so when we want to define the first word, what do we do?",
+    "input_data": {
+      "input_text": "Now, when we want to start defining the set theoretic universe, we run into a fundamental issue with definitions. Words are defined using other words, so when we want to define the first word, what do we do?",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-when-we-want-to-start-defining-the-set-a58d4b41.mp3",
+    "final_audio": "now-when-we-want-to-start-defining-the-set-a58d4b41.mp3"
+  },
+  {
+    "input_text": "So there has to be some sort of a-priori assumptions, which are the axioms.",
+    "input_data": {
+      "input_text": "So there has to be some sort of a-priori assumptions, which are the axioms.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-there-has-to-be-some-sort-of-a-priori-1a58e25a.mp3",
+    "final_audio": "so-there-has-to-be-some-sort-of-a-priori-1a58e25a.mp3"
+  },
+  {
+    "input_text": "The first axiom we will look at, is the axiom of existence, which simply asserts that there is some set. Specifically, that there is a set with no members, the so called empty set. So at the base of this whole set theoretic Universe, is that assumption that nothing exists.",
+    "input_data": {
+      "input_text": "The first axiom we will look at, is the axiom of existence, which simply asserts that there is some set. Specifically, that there is a set with no members, the so called empty set. So at the base of this whole set theoretic Universe, is that assumption that nothing exists.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-first-axiom-we-will-look-at-is-the-axiom-of-ff4e8c81.mp3",
+    "final_audio": "the-first-axiom-we-will-look-at-is-the-axiom-of-ff4e8c81.mp3"
+  },
+  {
+    "input_text": "We know that the emptyset is unique, due to the axiom of extensionality, which just states that two sets are equal iff they have the same members.",
+    "input_data": {
+      "input_text": "We know that the emptyset is unique, due to the axiom of extensionality, which just states that two sets are equal iff they have the same members.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-know-that-the-emptyset-is-unique-due-to-the-7165ab63.mp3",
+    "final_audio": "we-know-that-the-emptyset-is-unique-due-to-the-7165ab63.mp3"
+  },
+  {
+    "input_text": "Once we have sets, we can define other sets, for example using the pairing axiom, which just states that given two sets X and Y, we can form a set with X and Y as members.",
+    "input_data": {
+      "input_text": "Once we have sets, we can define other sets, for example using the pairing axiom, which just states that given two sets X and Y, we can form a set with X and Y as members.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "once-we-have-sets-we-can-define-other-sets-for-6be90496.mp3",
+    "final_audio": "once-we-have-sets-we-can-define-other-sets-for-6be90496.mp3"
+  },
+  {
+    "input_text": "Applying this with the empty set with itself, gives us the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it. Then we can define the set containing the set with the emptyset, so a bag containing a bag with nothing in it.",
+    "input_data": {
+      "input_text": "Applying this with the empty set with itself, gives us the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it. Then we can define the set containing the set with the emptyset, so a bag containing a bag with nothing in it.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "applying-this-with-the-empty-set-with-itself-gives-3c4e035c.mp3",
+    "final_audio": "applying-this-with-the-empty-set-with-itself-gives-3c4e035c.mp3"
+  },
+  {
+    "input_text": "A less idiotic way to look at this, is that we start with 0, and then we can define 1 and 2 and 3, and so on.",
+    "input_data": {
+      "input_text": "A less idiotic way to look at this, is that we start with 0, and then we can define 1 and 2 and 3, and so on.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "a-less-idiotic-way-to-look-at-this-is-that-we-e70afb3b.mp3",
+    "final_audio": "a-less-idiotic-way-to-look-at-this-is-that-we-e70afb3b.mp3"
+  },
+  {
+    "input_text": "The slightly better way to define the successor function is to take inspiration from Russian dolls, and to define the successor as the set of all predecessors.",
+    "input_data": {
+      "input_text": "The slightly better way to define the successor function is to take inspiration from Russian dolls, and to define the successor as the set of all predecessors.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-slightly-better-way-to-define-the-successor-635c60e1.mp3",
+    "final_audio": "the-slightly-better-way-to-define-the-successor-635c60e1.mp3"
+  },
+  {
+    "input_text": "This defines the so-called ordinal numbers. So 4 would be the set containing 0, 1, 2 and 3 as members. The ordinals will define the spine of the set theoretic universe.",
+    "input_data": {
+      "input_text": "This defines the so-called ordinal numbers. So 4 would be the set containing 0, 1, 2 and 3 as members. The ordinals will define the spine of the set theoretic universe.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-defines-the-so-called-ordinal-numbers-so-4-93091405.mp3",
+    "final_audio": "this-defines-the-so-called-ordinal-numbers-so-4-93091405.mp3"
+  },
+  {
+    "input_text": "We can consider these axioms right here, known as Peano Arithmetic, which just describe the number line. However, if we want to describe all of math, we will need something more general than just numbers with addition and multiplication.",
+    "input_data": {
+      "input_text": "We can consider these axioms right here, known as Peano Arithmetic, which just describe the number line. However, if we want to describe all of math, we will need something more general than just numbers with addition and multiplication.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-consider-these-axioms-right-here-known-as-e1101b92.mp3",
+    "final_audio": "we-can-consider-these-axioms-right-here-known-as-e1101b92.mp3"
+  },
+  {
+    "input_text": "This is where set theory comes in.",
+    "input_data": {
+      "input_text": "This is where set theory comes in.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-where-set-theory-comes-in-dcff65cd.mp3",
+    "final_audio": "this-is-where-set-theory-comes-in-dcff65cd.mp3"
+  },
+  {
+    "input_text": "Everything in math can be seen as a set, obviously numbers are sets, but also functions are sets of pairs, graphs are sets of points and arrows and even proofs are sets of formulas.",
+    "input_data": {
+      "input_text": "Everything in math can be seen as a set, obviously numbers are sets, but also functions are sets of pairs, graphs are sets of points and arrows and even proofs are sets of formulas.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "everything-in-math-can-be-seen-as-a-set-obviously-f0cf8955.mp3",
+    "final_audio": "everything-in-math-can-be-seen-as-a-set-obviously-f0cf8955.mp3"
+  },
+  {
+    "input_text": "So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.",
+    "input_data": {
+      "input_text": "So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-if-we-can-define-what-is-and-what-is-not-a-aa36acf8.mp3",
+    "final_audio": "so-if-we-can-define-what-is-and-what-is-not-a-aa36acf8.mp3"
+  },
+  {
+    "input_text": "But a set is so basic, that is hard to define. If you try to define a set, you will likely say something like a collection of things or a class of objects. But then, how do you define a collection or a class? These axioms are a good attempt to precisely define the notion of a set.",
+    "input_data": {
+      "input_text": "But a set is so basic, that is hard to define. If you try to define a set, you will likely say something like a collection of things or a class of objects. But then, how do you define a collection or a class? These axioms are a good attempt to precisely define the notion of a set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-a-set-is-so-basic-that-is-hard-to-define-if-f82ea407.mp3",
+    "final_audio": "but-a-set-is-so-basic-that-is-hard-to-define-if-f82ea407.mp3"
+  },
+  {
+    "input_text": "Now, when we want to start defining the set theoretic universe, we run into a fundamental issue with definitions. Words are defined using other words, so when we want to define the first word, what do we do? So there has to be some sort of a-priori assumptions, which are the axioms.",
+    "input_data": {
+      "input_text": "Now, when we want to start defining the set theoretic universe, we run into a fundamental issue with definitions. Words are defined using other words, so when we want to define the first word, what do we do? So there has to be some sort of a-priori assumptions, which are the axioms.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-when-we-want-to-start-defining-the-set-81c40a79.mp3",
+    "final_audio": "now-when-we-want-to-start-defining-the-set-81c40a79.mp3"
+  },
+  {
+    "input_text": "The first axiom we will look at, is the axiom of existence, which simply asserts that there is some set. Specifically, that there is a set with no members, the so called empty set. So at the base of this whole set theoretic Universe, is that assumption that nothing exists.",
+    "input_data": {
+      "input_text": "The first axiom we will look at, is the axiom of existence, which simply asserts that there is some set. Specifically, that there is a set with no members, the so called empty set. So at the base of this whole set theoretic Universe, is that assumption that nothing exists.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-first-axiom-we-will-look-at-is-the-axiom-of-ff4e8c81.mp3",
+    "final_audio": "the-first-axiom-we-will-look-at-is-the-axiom-of-ff4e8c81.mp3"
+  },
+  {
+    "input_text": "We know that the emptyset is unique, due to the axiom of extensionality, which just states that two sets are equal iff they have the same members.",
+    "input_data": {
+      "input_text": "We know that the emptyset is unique, due to the axiom of extensionality, which just states that two sets are equal iff they have the same members.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-know-that-the-emptyset-is-unique-due-to-the-7165ab63.mp3",
+    "final_audio": "we-know-that-the-emptyset-is-unique-due-to-the-7165ab63.mp3"
+  },
+  {
+    "input_text": "Once we have sets, we can define other sets, for example using the pairing axiom, which just states that given two sets X and Y, we can form a set with X and Y as members.",
+    "input_data": {
+      "input_text": "Once we have sets, we can define other sets, for example using the pairing axiom, which just states that given two sets X and Y, we can form a set with X and Y as members.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "once-we-have-sets-we-can-define-other-sets-for-6be90496.mp3",
+    "final_audio": "once-we-have-sets-we-can-define-other-sets-for-6be90496.mp3"
+  },
+  {
+    "input_text": "Applying this with the empty set with itself, gives us the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it. Then we can define the set containing the set with the emptyset, so a bag containing a bag with nothing in it.",
+    "input_data": {
+      "input_text": "Applying this with the empty set with itself, gives us the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it. Then we can define the set containing the set with the emptyset, so a bag containing a bag with nothing in it.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "applying-this-with-the-empty-set-with-itself-gives-3c4e035c.mp3",
+    "final_audio": "applying-this-with-the-empty-set-with-itself-gives-3c4e035c.mp3"
+  },
+  {
+    "input_text": "A less idiotic way to look at this, is that we start with 0, and then we can define 1 and 2 and 3, and so on.",
+    "input_data": {
+      "input_text": "A less idiotic way to look at this, is that we start with 0, and then we can define 1 and 2 and 3, and so on.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "a-less-idiotic-way-to-look-at-this-is-that-we-e70afb3b.mp3",
+    "final_audio": "a-less-idiotic-way-to-look-at-this-is-that-we-e70afb3b.mp3"
+  },
+  {
+    "input_text": "The slightly better way to define the successor function is to take inspiration from Russian dolls, and to define the successor as the set of all predecessors. This requires the union axiom",
+    "input_data": {
+      "input_text": "The slightly better way to define the successor function is to take inspiration from Russian dolls, and to define the successor as the set of all predecessors. This requires the union axiom",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-slightly-better-way-to-define-the-successor-71e759cb.mp3",
+    "final_audio": "the-slightly-better-way-to-define-the-successor-71e759cb.mp3"
+  },
+  {
+    "input_text": "We can consider these axioms right here, known as Peano Arithmetic, which just describe the number line. However, if we want to describe all of math, we will need something more general than just numbers with addition and multiplication.",
+    "input_data": {
+      "input_text": "We can consider these axioms right here, known as Peano Arithmetic, which just describe the number line. However, if we want to describe all of math, we will need something more general than just numbers with addition and multiplication.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-consider-these-axioms-right-here-known-as-e1101b92.mp3",
+    "final_audio": "we-can-consider-these-axioms-right-here-known-as-e1101b92.mp3"
+  },
+  {
+    "input_text": "This is where set theory comes in.",
+    "input_data": {
+      "input_text": "This is where set theory comes in.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-where-set-theory-comes-in-dcff65cd.mp3",
+    "final_audio": "this-is-where-set-theory-comes-in-dcff65cd.mp3"
+  },
+  {
+    "input_text": "Everything in math can be seen as a set, obviously numbers are sets, but also functions are sets of pairs, graphs are sets of points and arrows and even proofs are sets of formulas.",
+    "input_data": {
+      "input_text": "Everything in math can be seen as a set, obviously numbers are sets, but also functions are sets of pairs, graphs are sets of points and arrows and even proofs are sets of formulas.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "everything-in-math-can-be-seen-as-a-set-obviously-f0cf8955.mp3",
+    "final_audio": "everything-in-math-can-be-seen-as-a-set-obviously-f0cf8955.mp3"
+  },
+  {
+    "input_text": "So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.",
+    "input_data": {
+      "input_text": "So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-if-we-can-define-what-is-and-what-is-not-a-aa36acf8.mp3",
+    "final_audio": "so-if-we-can-define-what-is-and-what-is-not-a-aa36acf8.mp3"
+  },
+  {
+    "input_text": "But a set is so basic, that is hard to define. If you try to define a set, you will likely say something like a collection of things or a class of objects. But then, how do you define a collection or a class? These axioms are a good attempt to precisely define the notion of a set.",
+    "input_data": {
+      "input_text": "But a set is so basic, that is hard to define. If you try to define a set, you will likely say something like a collection of things or a class of objects. But then, how do you define a collection or a class? These axioms are a good attempt to precisely define the notion of a set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-a-set-is-so-basic-that-is-hard-to-define-if-f82ea407.mp3",
+    "final_audio": "but-a-set-is-so-basic-that-is-hard-to-define-if-f82ea407.mp3"
+  },
+  {
+    "input_text": "Now, when we want to start defining the set theoretic universe, we run into a fundamental issue with definitions. Words are defined using other words, so when we want to define the first word, what do we do? So there has to be some sort of a-priori assumptions, which are the axioms.",
+    "input_data": {
+      "input_text": "Now, when we want to start defining the set theoretic universe, we run into a fundamental issue with definitions. Words are defined using other words, so when we want to define the first word, what do we do? So there has to be some sort of a-priori assumptions, which are the axioms.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-when-we-want-to-start-defining-the-set-81c40a79.mp3",
+    "final_audio": "now-when-we-want-to-start-defining-the-set-81c40a79.mp3"
+  },
+  {
+    "input_text": "The first axiom we will look at, is the axiom of existence, which simply asserts that there is some set. Specifically, that there is a set with no members, the so called empty set. So at the base of this whole set theoretic Universe, is that assumption that nothing exists.",
+    "input_data": {
+      "input_text": "The first axiom we will look at, is the axiom of existence, which simply asserts that there is some set. Specifically, that there is a set with no members, the so called empty set. So at the base of this whole set theoretic Universe, is that assumption that nothing exists.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-first-axiom-we-will-look-at-is-the-axiom-of-ff4e8c81.mp3",
+    "final_audio": "the-first-axiom-we-will-look-at-is-the-axiom-of-ff4e8c81.mp3"
+  },
+  {
+    "input_text": "We know that the emptyset is unique, due to the axiom of extensionality, which just states that two sets are equal iff they have the same members.",
+    "input_data": {
+      "input_text": "We know that the emptyset is unique, due to the axiom of extensionality, which just states that two sets are equal iff they have the same members.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-know-that-the-emptyset-is-unique-due-to-the-7165ab63.mp3",
+    "final_audio": "we-know-that-the-emptyset-is-unique-due-to-the-7165ab63.mp3"
+  },
+  {
+    "input_text": "Once we have sets, we can define other sets, for example using the pairing axiom, which just states that given two sets X and Y, we can form a set with X and Y as members.",
+    "input_data": {
+      "input_text": "Once we have sets, we can define other sets, for example using the pairing axiom, which just states that given two sets X and Y, we can form a set with X and Y as members.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "once-we-have-sets-we-can-define-other-sets-for-6be90496.mp3",
+    "final_audio": "once-we-have-sets-we-can-define-other-sets-for-6be90496.mp3"
+  },
+  {
+    "input_text": "Applying this with the empty set with itself, gives us the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it. Then we can define the set containing the set with the emptyset, so a bag containing a bag with nothing in it.",
+    "input_data": {
+      "input_text": "Applying this with the empty set with itself, gives us the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it. Then we can define the set containing the set with the emptyset, so a bag containing a bag with nothing in it.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "applying-this-with-the-empty-set-with-itself-gives-3c4e035c.mp3",
+    "final_audio": "applying-this-with-the-empty-set-with-itself-gives-3c4e035c.mp3"
+  },
+  {
+    "input_text": "A less idiotic way to look at this, is that we start with 0, and then we can define 1 and 2 and 3, and so on.",
+    "input_data": {
+      "input_text": "A less idiotic way to look at this, is that we start with 0, and then we can define 1 and 2 and 3, and so on.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "a-less-idiotic-way-to-look-at-this-is-that-we-e70afb3b.mp3",
+    "final_audio": "a-less-idiotic-way-to-look-at-this-is-that-we-e70afb3b.mp3"
+  },
+  {
+    "input_text": "The slightly better way to define the successor function is to take inspiration from Russian dolls, and to define the successor as the set of all predecessors. This requires the union axiom",
+    "input_data": {
+      "input_text": "The slightly better way to define the successor function is to take inspiration from Russian dolls, and to define the successor as the set of all predecessors. This requires the union axiom",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-slightly-better-way-to-define-the-successor-71e759cb.mp3",
+    "final_audio": "the-slightly-better-way-to-define-the-successor-71e759cb.mp3"
+  },
+  {
+    "input_text": "This defines the so-called ordinal numbers. So 4 would be the set containing 0, 1, 2 and 3 as members. The ordinals will define the spine of the set theoretic universe.",
+    "input_data": {
+      "input_text": "This defines the so-called ordinal numbers. So 4 would be the set containing 0, 1, 2 and 3 as members. The ordinals will define the spine of the set theoretic universe.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-defines-the-so-called-ordinal-numbers-so-4-93091405.mp3",
+    "final_audio": "this-defines-the-so-called-ordinal-numbers-so-4-93091405.mp3"
+  },
+  {
+    "input_text": "We can consider these axioms right here, known as Peano Arithmetic, which just describe the number line. However, if we want to describe all of math, we will need something more general than just numbers with addition and multiplication.",
+    "input_data": {
+      "input_text": "We can consider these axioms right here, known as Peano Arithmetic, which just describe the number line. However, if we want to describe all of math, we will need something more general than just numbers with addition and multiplication.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-consider-these-axioms-right-here-known-as-e1101b92.mp3",
+    "final_audio": "we-can-consider-these-axioms-right-here-known-as-e1101b92.mp3"
+  },
+  {
+    "input_text": "This is where set theory comes in.",
+    "input_data": {
+      "input_text": "This is where set theory comes in.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-where-set-theory-comes-in-dcff65cd.mp3",
+    "final_audio": "this-is-where-set-theory-comes-in-dcff65cd.mp3"
+  },
+  {
+    "input_text": "Everything in math can be seen as a set, obviously numbers are sets, but also functions are sets of pairs, graphs are sets of points and arrows and even proofs are sets of formulas.",
+    "input_data": {
+      "input_text": "Everything in math can be seen as a set, obviously numbers are sets, but also functions are sets of pairs, graphs are sets of points and arrows and even proofs are sets of formulas.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "everything-in-math-can-be-seen-as-a-set-obviously-f0cf8955.mp3",
+    "final_audio": "everything-in-math-can-be-seen-as-a-set-obviously-f0cf8955.mp3"
+  },
+  {
+    "input_text": "So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.",
+    "input_data": {
+      "input_text": "So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-if-we-can-define-what-is-and-what-is-not-a-aa36acf8.mp3",
+    "final_audio": "so-if-we-can-define-what-is-and-what-is-not-a-aa36acf8.mp3"
+  },
+  {
+    "input_text": "But a set is so basic, that is hard to define. If you try to define a set, you will likely say something like a collection of things or a class of objects. But then, how do you define a collection or a class? These axioms are a good attempt to precisely define the notion of a set.",
+    "input_data": {
+      "input_text": "But a set is so basic, that is hard to define. If you try to define a set, you will likely say something like a collection of things or a class of objects. But then, how do you define a collection or a class? These axioms are a good attempt to precisely define the notion of a set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-a-set-is-so-basic-that-is-hard-to-define-if-f82ea407.mp3",
+    "final_audio": "but-a-set-is-so-basic-that-is-hard-to-define-if-f82ea407.mp3"
+  },
+  {
+    "input_text": "Now, when we want to start defining the set theoretic universe, we run into a fundamental issue with definitions. Words are defined using other words, so when we want to define the first word, what do we do? So there has to be some sort of a-priori assumptions, which are the axioms.",
+    "input_data": {
+      "input_text": "Now, when we want to start defining the set theoretic universe, we run into a fundamental issue with definitions. Words are defined using other words, so when we want to define the first word, what do we do? So there has to be some sort of a-priori assumptions, which are the axioms.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-when-we-want-to-start-defining-the-set-81c40a79.mp3",
+    "final_audio": "now-when-we-want-to-start-defining-the-set-81c40a79.mp3"
+  },
+  {
+    "input_text": "The first axiom we will look at, is the axiom of existence, which simply asserts that there is some set. Specifically, that there is a set with no members, the so called empty set. So at the base of this whole set theoretic Universe, is that assumption that nothing exists.",
+    "input_data": {
+      "input_text": "The first axiom we will look at, is the axiom of existence, which simply asserts that there is some set. Specifically, that there is a set with no members, the so called empty set. So at the base of this whole set theoretic Universe, is that assumption that nothing exists.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-first-axiom-we-will-look-at-is-the-axiom-of-ff4e8c81.mp3",
+    "final_audio": "the-first-axiom-we-will-look-at-is-the-axiom-of-ff4e8c81.mp3"
+  },
+  {
+    "input_text": "We know that the emptyset is unique, due to the axiom of extensionality, which just states that two sets are equal iff they have the same members.",
+    "input_data": {
+      "input_text": "We know that the emptyset is unique, due to the axiom of extensionality, which just states that two sets are equal iff they have the same members.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-know-that-the-emptyset-is-unique-due-to-the-7165ab63.mp3",
+    "final_audio": "we-know-that-the-emptyset-is-unique-due-to-the-7165ab63.mp3"
+  },
+  {
+    "input_text": "Once we have sets, we can define other sets, for example using the pairing axiom, which just states that given two sets X and Y, we can form a set with X and Y as members.",
+    "input_data": {
+      "input_text": "Once we have sets, we can define other sets, for example using the pairing axiom, which just states that given two sets X and Y, we can form a set with X and Y as members.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "once-we-have-sets-we-can-define-other-sets-for-6be90496.mp3",
+    "final_audio": "once-we-have-sets-we-can-define-other-sets-for-6be90496.mp3"
+  },
+  {
+    "input_text": "Applying this with the empty set with itself, gives us the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it. Then we can define the set containing the set with the emptyset, so a bag containing a bag with nothing in it.",
+    "input_data": {
+      "input_text": "Applying this with the empty set with itself, gives us the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it. Then we can define the set containing the set with the emptyset, so a bag containing a bag with nothing in it.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "applying-this-with-the-empty-set-with-itself-gives-3c4e035c.mp3",
+    "final_audio": "applying-this-with-the-empty-set-with-itself-gives-3c4e035c.mp3"
+  },
+  {
+    "input_text": "A less idiotic way to look at this, is that we start with 0, and then we can define 1 and 2 and 3, and so on.",
+    "input_data": {
+      "input_text": "A less idiotic way to look at this, is that we start with 0, and then we can define 1 and 2 and 3, and so on.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "a-less-idiotic-way-to-look-at-this-is-that-we-e70afb3b.mp3",
+    "final_audio": "a-less-idiotic-way-to-look-at-this-is-that-we-e70afb3b.mp3"
+  },
+  {
+    "input_text": "The slightly better way to define the successor function is to take inspiration from Russian dolls, and to define the successor as the set of all predecessors. This requires the union axiom",
+    "input_data": {
+      "input_text": "The slightly better way to define the successor function is to take inspiration from Russian dolls, and to define the successor as the set of all predecessors. This requires the union axiom",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-slightly-better-way-to-define-the-successor-71e759cb.mp3",
+    "final_audio": "the-slightly-better-way-to-define-the-successor-71e759cb.mp3"
+  },
+  {
+    "input_text": "This defines the so-called ordinal numbers. So 4 would be the set containing 0, 1, 2 and 3 as members. The ordinals will define the spine of the set theoretic universe.",
+    "input_data": {
+      "input_text": "This defines the so-called ordinal numbers. So 4 would be the set containing 0, 1, 2 and 3 as members. The ordinals will define the spine of the set theoretic universe.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-defines-the-so-called-ordinal-numbers-so-4-93091405.mp3",
+    "final_audio": "this-defines-the-so-called-ordinal-numbers-so-4-93091405.mp3"
+  },
+  {
+    "input_text": "We can consider these axioms right here, known as Peano Arithmetic, which just describe the number line. However, if we want to describe all of math, we will need something more general than just numbers with addition and multiplication.",
+    "input_data": {
+      "input_text": "We can consider these axioms right here, known as Peano Arithmetic, which just describe the number line. However, if we want to describe all of math, we will need something more general than just numbers with addition and multiplication.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-consider-these-axioms-right-here-known-as-e1101b92.mp3",
+    "final_audio": "we-can-consider-these-axioms-right-here-known-as-e1101b92.mp3"
+  },
+  {
+    "input_text": "This is where set theory comes in.",
+    "input_data": {
+      "input_text": "This is where set theory comes in.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-where-set-theory-comes-in-dcff65cd.mp3",
+    "final_audio": "this-is-where-set-theory-comes-in-dcff65cd.mp3"
+  },
+  {
+    "input_text": "Everything in math can be seen as a set, obviously numbers are sets, but also functions are sets of pairs, graphs are sets of points and arrows and even proofs are sets of formulas.",
+    "input_data": {
+      "input_text": "Everything in math can be seen as a set, obviously numbers are sets, but also functions are sets of pairs, graphs are sets of points and arrows and even proofs are sets of formulas.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "everything-in-math-can-be-seen-as-a-set-obviously-f0cf8955.mp3",
+    "final_audio": "everything-in-math-can-be-seen-as-a-set-obviously-f0cf8955.mp3"
+  },
+  {
+    "input_text": "So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.",
+    "input_data": {
+      "input_text": "So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-if-we-can-define-what-is-and-what-is-not-a-aa36acf8.mp3",
+    "final_audio": "so-if-we-can-define-what-is-and-what-is-not-a-aa36acf8.mp3"
+  },
+  {
+    "input_text": "But a set is so basic, that is hard to define. If you try to define a set, you will likely say something like a collection of things or a class of objects. But then, how do you define a collection or a class? These axioms are a good attempt to precisely define the notion of a set.",
+    "input_data": {
+      "input_text": "But a set is so basic, that is hard to define. If you try to define a set, you will likely say something like a collection of things or a class of objects. But then, how do you define a collection or a class? These axioms are a good attempt to precisely define the notion of a set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-a-set-is-so-basic-that-is-hard-to-define-if-f82ea407.mp3",
+    "final_audio": "but-a-set-is-so-basic-that-is-hard-to-define-if-f82ea407.mp3"
+  },
+  {
+    "input_text": "Now, when we want to start defining the set theoretic universe, we run into a fundamental issue with definitions. Words are defined using other words, so when we want to define the first word, what do we do? So there has to be some sort of a-priori assumptions, which are the axioms.",
+    "input_data": {
+      "input_text": "Now, when we want to start defining the set theoretic universe, we run into a fundamental issue with definitions. Words are defined using other words, so when we want to define the first word, what do we do? So there has to be some sort of a-priori assumptions, which are the axioms.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-when-we-want-to-start-defining-the-set-81c40a79.mp3",
+    "final_audio": "now-when-we-want-to-start-defining-the-set-81c40a79.mp3"
+  },
+  {
+    "input_text": "The first axiom we will look at, is the axiom of existence, which simply asserts that there is some set. Specifically, that there is a set with no members, the so called empty set. So at the base of this whole set theoretic Universe, is that assumption that nothing exists.",
+    "input_data": {
+      "input_text": "The first axiom we will look at, is the axiom of existence, which simply asserts that there is some set. Specifically, that there is a set with no members, the so called empty set. So at the base of this whole set theoretic Universe, is that assumption that nothing exists.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-first-axiom-we-will-look-at-is-the-axiom-of-ff4e8c81.mp3",
+    "final_audio": "the-first-axiom-we-will-look-at-is-the-axiom-of-ff4e8c81.mp3"
+  },
+  {
+    "input_text": "We know that the emptyset is unique, due to the axiom of extensionality, which just states that two sets are equal iff they have the same members.",
+    "input_data": {
+      "input_text": "We know that the emptyset is unique, due to the axiom of extensionality, which just states that two sets are equal iff they have the same members.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-know-that-the-emptyset-is-unique-due-to-the-7165ab63.mp3",
+    "final_audio": "we-know-that-the-emptyset-is-unique-due-to-the-7165ab63.mp3"
+  },
+  {
+    "input_text": "Once we have sets, we can define other sets, for example using the pairing axiom, which just states that given two sets X and Y, we can form a set with X and Y as members.",
+    "input_data": {
+      "input_text": "Once we have sets, we can define other sets, for example using the pairing axiom, which just states that given two sets X and Y, we can form a set with X and Y as members.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "once-we-have-sets-we-can-define-other-sets-for-6be90496.mp3",
+    "final_audio": "once-we-have-sets-we-can-define-other-sets-for-6be90496.mp3"
+  },
+  {
+    "input_text": "Applying this with the empty set with itself, gives us the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it. Then we can define the set containing the set with the emptyset, so a bag containing a bag with nothing in it.",
+    "input_data": {
+      "input_text": "Applying this with the empty set with itself, gives us the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it. Then we can define the set containing the set with the emptyset, so a bag containing a bag with nothing in it.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "applying-this-with-the-empty-set-with-itself-gives-3c4e035c.mp3",
+    "final_audio": "applying-this-with-the-empty-set-with-itself-gives-3c4e035c.mp3"
+  },
+  {
+    "input_text": "A less idiotic way to look at this, is that we start with 0, and then we can define 1 and 2 and 3, and so on.",
+    "input_data": {
+      "input_text": "A less idiotic way to look at this, is that we start with 0, and then we can define 1 and 2 and 3, and so on.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "a-less-idiotic-way-to-look-at-this-is-that-we-e70afb3b.mp3",
+    "final_audio": "a-less-idiotic-way-to-look-at-this-is-that-we-e70afb3b.mp3"
+  },
+  {
+    "input_text": "The slightly better way to define the successor function is to take inspiration from Russian dolls, and to define the successor as the set of all predecessors. This requires the union axiom",
+    "input_data": {
+      "input_text": "The slightly better way to define the successor function is to take inspiration from Russian dolls, and to define the successor as the set of all predecessors. This requires the union axiom",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-slightly-better-way-to-define-the-successor-71e759cb.mp3",
+    "final_audio": "the-slightly-better-way-to-define-the-successor-71e759cb.mp3"
+  },
+  {
+    "input_text": "This defines the so-called ordinal numbers.",
+    "input_data": {
+      "input_text": "This defines the so-called ordinal numbers.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-defines-the-so-called-ordinal-numbers-cb95507c.mp3",
+    "final_audio": "this-defines-the-so-called-ordinal-numbers-cb95507c.mp3"
+  },
+  {
+    "input_text": "So 4 would be the set containing 0, 1, 2 and 3 as members.",
+    "input_data": {
+      "input_text": "So 4 would be the set containing 0, 1, 2 and 3 as members.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-4-would-be-the-set-containing-0-1-2-and-3-as-65efc432.mp3",
+    "final_audio": "so-4-would-be-the-set-containing-0-1-2-and-3-as-65efc432.mp3"
+  },
+  {
+    "input_text": "The ordinals will define the spine of the set theoretic universe.",
+    "input_data": {
+      "input_text": "The ordinals will define the spine of the set theoretic universe.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-ordinals-will-define-the-spine-of-the-set-bf9d0b7e.mp3",
+    "final_audio": "the-ordinals-will-define-the-spine-of-the-set-bf9d0b7e.mp3"
+  },
+  {
+    "input_text": "We can consider these axioms right here, known as Peano Arithmetic, which just describe the number line. However, if we want to describe all of math, we will need something more general than just numbers with addition and multiplication.",
+    "input_data": {
+      "input_text": "We can consider these axioms right here, known as Peano Arithmetic, which just describe the number line. However, if we want to describe all of math, we will need something more general than just numbers with addition and multiplication.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-consider-these-axioms-right-here-known-as-e1101b92.mp3",
+    "final_audio": "we-can-consider-these-axioms-right-here-known-as-e1101b92.mp3"
+  },
+  {
+    "input_text": "This is where set theory comes in.",
+    "input_data": {
+      "input_text": "This is where set theory comes in.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-where-set-theory-comes-in-dcff65cd.mp3",
+    "final_audio": "this-is-where-set-theory-comes-in-dcff65cd.mp3"
+  },
+  {
+    "input_text": "Everything in math can be seen as a set, obviously numbers are sets, but also functions are sets of pairs, graphs are sets of points and arrows and even proofs are sets of formulas.",
+    "input_data": {
+      "input_text": "Everything in math can be seen as a set, obviously numbers are sets, but also functions are sets of pairs, graphs are sets of points and arrows and even proofs are sets of formulas.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "everything-in-math-can-be-seen-as-a-set-obviously-f0cf8955.mp3",
+    "final_audio": "everything-in-math-can-be-seen-as-a-set-obviously-f0cf8955.mp3"
+  },
+  {
+    "input_text": "So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.",
+    "input_data": {
+      "input_text": "So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-if-we-can-define-what-is-and-what-is-not-a-aa36acf8.mp3",
+    "final_audio": "so-if-we-can-define-what-is-and-what-is-not-a-aa36acf8.mp3"
+  },
+  {
+    "input_text": "But a set is so basic, that is hard to define. If you try to define a set, you will likely say something like a collection of things or a class of objects. But then, how do you define a collection or a class? These axioms are a good attempt to precisely define the notion of a set.",
+    "input_data": {
+      "input_text": "But a set is so basic, that is hard to define. If you try to define a set, you will likely say something like a collection of things or a class of objects. But then, how do you define a collection or a class? These axioms are a good attempt to precisely define the notion of a set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-a-set-is-so-basic-that-is-hard-to-define-if-f82ea407.mp3",
+    "final_audio": "but-a-set-is-so-basic-that-is-hard-to-define-if-f82ea407.mp3"
+  },
+  {
+    "input_text": "Now, when we want to start defining the set theoretic universe, we run into a fundamental issue with definitions. Words are defined using other words, so when we want to define the first word, what do we do? So there has to be some sort of a-priori assumptions, which are the axioms.",
+    "input_data": {
+      "input_text": "Now, when we want to start defining the set theoretic universe, we run into a fundamental issue with definitions. Words are defined using other words, so when we want to define the first word, what do we do? So there has to be some sort of a-priori assumptions, which are the axioms.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-when-we-want-to-start-defining-the-set-81c40a79.mp3",
+    "final_audio": "now-when-we-want-to-start-defining-the-set-81c40a79.mp3"
+  },
+  {
+    "input_text": "The first axiom we will look at, is the axiom of existence, which simply asserts that there is some set. Specifically, that there is a set with no members, the so called empty set. So at the base of this whole set theoretic Universe, is that assumption that nothing exists.",
+    "input_data": {
+      "input_text": "The first axiom we will look at, is the axiom of existence, which simply asserts that there is some set. Specifically, that there is a set with no members, the so called empty set. So at the base of this whole set theoretic Universe, is that assumption that nothing exists.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-first-axiom-we-will-look-at-is-the-axiom-of-ff4e8c81.mp3",
+    "final_audio": "the-first-axiom-we-will-look-at-is-the-axiom-of-ff4e8c81.mp3"
+  },
+  {
+    "input_text": "We know that the emptyset is unique, due to the axiom of extensionality, which just states that two sets are equal iff they have the same members.",
+    "input_data": {
+      "input_text": "We know that the emptyset is unique, due to the axiom of extensionality, which just states that two sets are equal iff they have the same members.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-know-that-the-emptyset-is-unique-due-to-the-7165ab63.mp3",
+    "final_audio": "we-know-that-the-emptyset-is-unique-due-to-the-7165ab63.mp3"
+  },
+  {
+    "input_text": "Once we have sets, we can define other sets, for example using the pairing axiom, which just states that given two sets X and Y, we can form a set with X and Y as members.",
+    "input_data": {
+      "input_text": "Once we have sets, we can define other sets, for example using the pairing axiom, which just states that given two sets X and Y, we can form a set with X and Y as members.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "once-we-have-sets-we-can-define-other-sets-for-6be90496.mp3",
+    "final_audio": "once-we-have-sets-we-can-define-other-sets-for-6be90496.mp3"
+  },
+  {
+    "input_text": "Applying this with the empty set with itself, gives us the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it.",
+    "input_data": {
+      "input_text": "Applying this with the empty set with itself, gives us the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "applying-this-with-the-empty-set-with-itself-gives-410f4ed8.mp3",
+    "final_audio": "applying-this-with-the-empty-set-with-itself-gives-410f4ed8.mp3"
+  },
+  {
+    "input_text": "This is obviously pretty dumb, but we are essentially defining the natural numbers. The emptyset is 0, the set containing the empty set is 1, and then from here, just like Russian Dolls, we will define the successor to be the set of all predecessors.",
+    "input_data": {
+      "input_text": "This is obviously pretty dumb, but we are essentially defining the natural numbers. The emptyset is 0, the set containing the empty set is 1, and then from here, just like Russian Dolls, we will define the successor to be the set of all predecessors.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-obviously-pretty-dumb-but-we-are-25e086c4.mp3",
+    "final_audio": "this-is-obviously-pretty-dumb-but-we-are-25e086c4.mp3"
+  },
+  {
+    "input_text": "We can consider these axioms right here, known as Peano Arithmetic, which just describe the number line. However, if we want to describe all of math, we will need something more general than just numbers with addition and multiplication.",
+    "input_data": {
+      "input_text": "We can consider these axioms right here, known as Peano Arithmetic, which just describe the number line. However, if we want to describe all of math, we will need something more general than just numbers with addition and multiplication.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-consider-these-axioms-right-here-known-as-e1101b92.mp3",
+    "final_audio": "we-can-consider-these-axioms-right-here-known-as-e1101b92.mp3"
+  },
+  {
+    "input_text": "This is where set theory comes in.",
+    "input_data": {
+      "input_text": "This is where set theory comes in.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-where-set-theory-comes-in-dcff65cd.mp3",
+    "final_audio": "this-is-where-set-theory-comes-in-dcff65cd.mp3"
+  },
+  {
+    "input_text": "Everything in math can be seen as a set, obviously numbers are sets, but also functions are sets of pairs, graphs are sets of points and arrows and even proofs are sets of formulas.",
+    "input_data": {
+      "input_text": "Everything in math can be seen as a set, obviously numbers are sets, but also functions are sets of pairs, graphs are sets of points and arrows and even proofs are sets of formulas.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "everything-in-math-can-be-seen-as-a-set-obviously-f0cf8955.mp3",
+    "final_audio": "everything-in-math-can-be-seen-as-a-set-obviously-f0cf8955.mp3"
+  },
+  {
+    "input_text": "So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.",
+    "input_data": {
+      "input_text": "So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-if-we-can-define-what-is-and-what-is-not-a-aa36acf8.mp3",
+    "final_audio": "so-if-we-can-define-what-is-and-what-is-not-a-aa36acf8.mp3"
+  },
+  {
+    "input_text": "But a set is so basic, that is hard to define. If you try to define a set, you will likely say something like a collection of things or a class of objects. But then, how do you define a collection or a class? These axioms are a good attempt to precisely define the notion of a set.",
+    "input_data": {
+      "input_text": "But a set is so basic, that is hard to define. If you try to define a set, you will likely say something like a collection of things or a class of objects. But then, how do you define a collection or a class? These axioms are a good attempt to precisely define the notion of a set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-a-set-is-so-basic-that-is-hard-to-define-if-f82ea407.mp3",
+    "final_audio": "but-a-set-is-so-basic-that-is-hard-to-define-if-f82ea407.mp3"
+  },
+  {
+    "input_text": "Now, when we want to start defining the set theoretic universe, we run into a fundamental issue with definitions. Words are defined using other words, so when we want to define the first word, what do we do? So there has to be some sort of a-priori assumptions, which are the axioms.",
+    "input_data": {
+      "input_text": "Now, when we want to start defining the set theoretic universe, we run into a fundamental issue with definitions. Words are defined using other words, so when we want to define the first word, what do we do? So there has to be some sort of a-priori assumptions, which are the axioms.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-when-we-want-to-start-defining-the-set-81c40a79.mp3",
+    "final_audio": "now-when-we-want-to-start-defining-the-set-81c40a79.mp3"
+  },
+  {
+    "input_text": "The first axiom we will look at, is the axiom of existence, which simply asserts that there is some set. Specifically, that there is a set with no members, the so called empty set. So at the base of this whole set theoretic Universe, is that assumption that nothing exists.",
+    "input_data": {
+      "input_text": "The first axiom we will look at, is the axiom of existence, which simply asserts that there is some set. Specifically, that there is a set with no members, the so called empty set. So at the base of this whole set theoretic Universe, is that assumption that nothing exists.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-first-axiom-we-will-look-at-is-the-axiom-of-ff4e8c81.mp3",
+    "final_audio": "the-first-axiom-we-will-look-at-is-the-axiom-of-ff4e8c81.mp3"
+  },
+  {
+    "input_text": "We know that the emptyset is unique, due to the axiom of extensionality, which just states that two sets are equal iff they have the same members.",
+    "input_data": {
+      "input_text": "We know that the emptyset is unique, due to the axiom of extensionality, which just states that two sets are equal iff they have the same members.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-know-that-the-emptyset-is-unique-due-to-the-7165ab63.mp3",
+    "final_audio": "we-know-that-the-emptyset-is-unique-due-to-the-7165ab63.mp3"
+  },
+  {
+    "input_text": "Once we have sets, we can define other sets, for example using the pairing axiom, which just states that given two sets X and Y, we can form a set with X and Y as members.",
+    "input_data": {
+      "input_text": "Once we have sets, we can define other sets, for example using the pairing axiom, which just states that given two sets X and Y, we can form a set with X and Y as members.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "once-we-have-sets-we-can-define-other-sets-for-6be90496.mp3",
+    "final_audio": "once-we-have-sets-we-can-define-other-sets-for-6be90496.mp3"
+  },
+  {
+    "input_text": "Applying this with the empty set with itself, gives us the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it.",
+    "input_data": {
+      "input_text": "Applying this with the empty set with itself, gives us the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "applying-this-with-the-empty-set-with-itself-gives-410f4ed8.mp3",
+    "final_audio": "applying-this-with-the-empty-set-with-itself-gives-410f4ed8.mp3"
+  },
+  {
+    "input_text": "This is obviously pretty dumb, but we are essentially defining the natural numbers. The emptyset is 0, the set containing the empty set is 1, and then from here, just like Russian Dolls, we will define the successor to be the set of all predecessors.",
+    "input_data": {
+      "input_text": "This is obviously pretty dumb, but we are essentially defining the natural numbers. The emptyset is 0, the set containing the empty set is 1, and then from here, just like Russian Dolls, we will define the successor to be the set of all predecessors.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-obviously-pretty-dumb-but-we-are-25e086c4.mp3",
+    "final_audio": "this-is-obviously-pretty-dumb-but-we-are-25e086c4.mp3"
+  },
+  {
+    "input_text": "So, we can define 2 as the set containing 0 and 1. Then 3 as the set with 0,1 and 2. Then we can continue this indefinitely, resulting in the ordinal numbers.",
+    "input_data": {
+      "input_text": "So, we can define 2 as the set containing 0 and 1. Then 3 as the set with 0,1 and 2. Then we can continue this indefinitely, resulting in the ordinal numbers.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-we-can-define-2-as-the-set-containing-0-and-1-9165d117.mp3",
+    "final_audio": "so-we-can-define-2-as-the-set-containing-0-and-1-9165d117.mp3"
+  },
+  {
+    "input_text": "We can consider these axioms right here, known as Peano Arithmetic, which just describe the number line. However, if we want to describe all of math, we will need something more general than just numbers with addition and multiplication.",
+    "input_data": {
+      "input_text": "We can consider these axioms right here, known as Peano Arithmetic, which just describe the number line. However, if we want to describe all of math, we will need something more general than just numbers with addition and multiplication.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-consider-these-axioms-right-here-known-as-e1101b92.mp3",
+    "final_audio": "we-can-consider-these-axioms-right-here-known-as-e1101b92.mp3"
+  },
+  {
+    "input_text": "This is where set theory comes in.",
+    "input_data": {
+      "input_text": "This is where set theory comes in.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-where-set-theory-comes-in-dcff65cd.mp3",
+    "final_audio": "this-is-where-set-theory-comes-in-dcff65cd.mp3"
+  },
+  {
+    "input_text": "Everything in math can be seen as a set, obviously numbers are sets, but also functions are sets of pairs, graphs are sets of points and arrows and even proofs are sets of formulas.",
+    "input_data": {
+      "input_text": "Everything in math can be seen as a set, obviously numbers are sets, but also functions are sets of pairs, graphs are sets of points and arrows and even proofs are sets of formulas.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "everything-in-math-can-be-seen-as-a-set-obviously-f0cf8955.mp3",
+    "final_audio": "everything-in-math-can-be-seen-as-a-set-obviously-f0cf8955.mp3"
+  },
+  {
+    "input_text": "So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.",
+    "input_data": {
+      "input_text": "So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-if-we-can-define-what-is-and-what-is-not-a-aa36acf8.mp3",
+    "final_audio": "so-if-we-can-define-what-is-and-what-is-not-a-aa36acf8.mp3"
+  },
+  {
+    "input_text": "But a set is so basic, that is hard to define. If you try to define a set, you will likely say something like a collection of things or a class of objects. But then, how do you define a collection or a class? These axioms are a good attempt to precisely define the notion of a set.",
+    "input_data": {
+      "input_text": "But a set is so basic, that is hard to define. If you try to define a set, you will likely say something like a collection of things or a class of objects. But then, how do you define a collection or a class? These axioms are a good attempt to precisely define the notion of a set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-a-set-is-so-basic-that-is-hard-to-define-if-f82ea407.mp3",
+    "final_audio": "but-a-set-is-so-basic-that-is-hard-to-define-if-f82ea407.mp3"
+  },
+  {
+    "input_text": "Now, when we want to start defining the set theoretic universe, we run into a fundamental issue with definitions. Words are defined using other words, so when we want to define the first word, what do we do? So there has to be some sort of a-priori assumptions, which are the axioms.",
+    "input_data": {
+      "input_text": "Now, when we want to start defining the set theoretic universe, we run into a fundamental issue with definitions. Words are defined using other words, so when we want to define the first word, what do we do? So there has to be some sort of a-priori assumptions, which are the axioms.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-when-we-want-to-start-defining-the-set-81c40a79.mp3",
+    "final_audio": "now-when-we-want-to-start-defining-the-set-81c40a79.mp3"
+  },
+  {
+    "input_text": "The first axiom we will look at, is the axiom of existence, which simply asserts that there is some set. Specifically, that there is a set with no members, the so called empty set. So at the base of this whole set theoretic Universe, is that assumption that nothing exists.",
+    "input_data": {
+      "input_text": "The first axiom we will look at, is the axiom of existence, which simply asserts that there is some set. Specifically, that there is a set with no members, the so called empty set. So at the base of this whole set theoretic Universe, is that assumption that nothing exists.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-first-axiom-we-will-look-at-is-the-axiom-of-ff4e8c81.mp3",
+    "final_audio": "the-first-axiom-we-will-look-at-is-the-axiom-of-ff4e8c81.mp3"
+  },
+  {
+    "input_text": "We know that the emptyset is unique, due to the axiom of extensionality, which just states that two sets are equal iff they have the same members.",
+    "input_data": {
+      "input_text": "We know that the emptyset is unique, due to the axiom of extensionality, which just states that two sets are equal iff they have the same members.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-know-that-the-emptyset-is-unique-due-to-the-7165ab63.mp3",
+    "final_audio": "we-know-that-the-emptyset-is-unique-due-to-the-7165ab63.mp3"
+  },
+  {
+    "input_text": "Once we have sets, we can define other sets, for example using the pairing axiom, which just states that given two sets X and Y, we can form a set with X and Y as members.",
+    "input_data": {
+      "input_text": "Once we have sets, we can define other sets, for example using the pairing axiom, which just states that given two sets X and Y, we can form a set with X and Y as members.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "once-we-have-sets-we-can-define-other-sets-for-6be90496.mp3",
+    "final_audio": "once-we-have-sets-we-can-define-other-sets-for-6be90496.mp3"
+  },
+  {
+    "input_text": "Applying this with the empty set with itself, gives us the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it.",
+    "input_data": {
+      "input_text": "Applying this with the empty set with itself, gives us the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "applying-this-with-the-empty-set-with-itself-gives-410f4ed8.mp3",
+    "final_audio": "applying-this-with-the-empty-set-with-itself-gives-410f4ed8.mp3"
+  },
+  {
+    "input_text": "This is obviously pretty dumb, but we are essentially defining the natural numbers. The emptyset is 0, the set containing the empty set is 1, and then from here, just like Russian Dolls, we will define the successor to be the set of all predecessors.",
+    "input_data": {
+      "input_text": "This is obviously pretty dumb, but we are essentially defining the natural numbers. The emptyset is 0, the set containing the empty set is 1, and then from here, just like Russian Dolls, we will define the successor to be the set of all predecessors.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-obviously-pretty-dumb-but-we-are-25e086c4.mp3",
+    "final_audio": "this-is-obviously-pretty-dumb-but-we-are-25e086c4.mp3"
+  },
+  {
+    "input_text": "So, we can define 2 as the set containing 0 and 1. Then 3 as the set with 0,1 and 2. Then we can continue this indefinitely, resulting in the ordinal numbers.",
+    "input_data": {
+      "input_text": "So, we can define 2 as the set containing 0 and 1. Then 3 as the set with 0,1 and 2. Then we can continue this indefinitely, resulting in the ordinal numbers.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-we-can-define-2-as-the-set-containing-0-and-1-9165d117.mp3",
+    "final_audio": "so-we-can-define-2-as-the-set-containing-0-and-1-9165d117.mp3"
+  },
+  {
+    "input_text": "Note that this requires the union axiom",
+    "input_data": {
+      "input_text": "Note that this requires the union axiom",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "note-that-this-requires-the-union-axiom-4bd2cf0c.mp3",
+    "final_audio": "note-that-this-requires-the-union-axiom-4bd2cf0c.mp3"
+  },
+  {
+    "input_text": "We can consider these axioms right here, which define Peano Arithmetic, which essentially just describe the number line. Which would be fine if math stopped around grade 3, but if we want to be able to describe all of math, we will need more than just the natural numbers with addition and multiplication.",
+    "input_data": {
+      "input_text": "We can consider these axioms right here, which define Peano Arithmetic, which essentially just describe the number line. Which would be fine if math stopped around grade 3, but if we want to be able to describe all of math, we will need more than just the natural numbers with addition and multiplication.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-consider-these-axioms-right-here-which-e58adee1.mp3",
+    "final_audio": "we-can-consider-these-axioms-right-here-which-e58adee1.mp3"
+  },
+  {
+    "input_text": "This is where set theory comes in.",
+    "input_data": {
+      "input_text": "This is where set theory comes in.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-where-set-theory-comes-in-dcff65cd.mp3",
+    "final_audio": "this-is-where-set-theory-comes-in-dcff65cd.mp3"
+  },
+  {
+    "input_text": "Everything in math can be seen as a set, obviously numbers are sets, but also functions are sets of pairs, graphs are sets of points and edges and even proofs are sets of formulas.",
+    "input_data": {
+      "input_text": "Everything in math can be seen as a set, obviously numbers are sets, but also functions are sets of pairs, graphs are sets of points and edges and even proofs are sets of formulas.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "everything-in-math-can-be-seen-as-a-set-obviously-51a97202.mp3",
+    "final_audio": "everything-in-math-can-be-seen-as-a-set-obviously-51a97202.mp3"
+  },
+  {
+    "input_text": "So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.",
+    "input_data": {
+      "input_text": "So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-if-we-can-define-what-is-and-what-is-not-a-aa36acf8.mp3",
+    "final_audio": "so-if-we-can-define-what-is-and-what-is-not-a-aa36acf8.mp3"
+  },
+  {
+    "input_text": "But a set is so basic, that is hard to define. If you try to define a set, you will likely say something like a collection of things or a class of objects. But then, how do you define a collection or a class? The axioms of ZFC are a good attempt to precisely define the notion of a set.",
+    "input_data": {
+      "input_text": "But a set is so basic, that is hard to define. If you try to define a set, you will likely say something like a collection of things or a class of objects. But then, how do you define a collection or a class? The axioms of ZFC are a good attempt to precisely define the notion of a set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-a-set-is-so-basic-that-is-hard-to-define-if-7b550659.mp3",
+    "final_audio": "but-a-set-is-so-basic-that-is-hard-to-define-if-7b550659.mp3"
+  },
+  {
+    "input_text": "Now, when we want to start defining the set theory, we run into a fundamental issue with definitions. Words are defined using other words, so when we want to define the first word, what do we do? So there has to be some sort of a-priori assumptions, which are the axioms.",
+    "input_data": {
+      "input_text": "Now, when we want to start defining the set theory, we run into a fundamental issue with definitions. Words are defined using other words, so when we want to define the first word, what do we do? So there has to be some sort of a-priori assumptions, which are the axioms.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-when-we-want-to-start-defining-the-set-theory-31de947b.mp3",
+    "final_audio": "now-when-we-want-to-start-defining-the-set-theory-31de947b.mp3"
+  },
+  {
+    "input_text": "The first axiom we will look at, is the axiom of existence, which simply asserts that there is some set. Specifically, that there is a set with no members, the so called empty set. So at the base of this whole set theoretic Universe, is that assumption that nothing exists.",
+    "input_data": {
+      "input_text": "The first axiom we will look at, is the axiom of existence, which simply asserts that there is some set. Specifically, that there is a set with no members, the so called empty set. So at the base of this whole set theoretic Universe, is that assumption that nothing exists.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-first-axiom-we-will-look-at-is-the-axiom-of-ff4e8c81.mp3",
+    "final_audio": "the-first-axiom-we-will-look-at-is-the-axiom-of-ff4e8c81.mp3"
+  },
+  {
+    "input_text": "We know that the emptyset is unique, due to the axiom of extensionality, which just states that two sets are equal iff they have the same members.",
+    "input_data": {
+      "input_text": "We know that the emptyset is unique, due to the axiom of extensionality, which just states that two sets are equal iff they have the same members.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-know-that-the-emptyset-is-unique-due-to-the-7165ab63.mp3",
+    "final_audio": "we-know-that-the-emptyset-is-unique-due-to-the-7165ab63.mp3"
+  },
+  {
+    "input_text": "Once we have sets, we can define other sets, for example using the pairing axiom, which just states that given two sets X and Y, we can form a set with X and Y as members.",
+    "input_data": {
+      "input_text": "Once we have sets, we can define other sets, for example using the pairing axiom, which just states that given two sets X and Y, we can form a set with X and Y as members.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "once-we-have-sets-we-can-define-other-sets-for-6be90496.mp3",
+    "final_audio": "once-we-have-sets-we-can-define-other-sets-for-6be90496.mp3"
+  },
+  {
+    "input_text": "Applying this with the empty set with itself, gives us the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it.",
+    "input_data": {
+      "input_text": "Applying this with the empty set with itself, gives us the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "applying-this-with-the-empty-set-with-itself-gives-410f4ed8.mp3",
+    "final_audio": "applying-this-with-the-empty-set-with-itself-gives-410f4ed8.mp3"
+  },
+  {
+    "input_text": "This is obviously pretty dumb, but we are essentially defining the natural numbers. The emptyset is 0, the set containing the empty set is 1, and then from here, just like Russian Dolls, we will define the successor to be the set of all predecessors.",
+    "input_data": {
+      "input_text": "This is obviously pretty dumb, but we are essentially defining the natural numbers. The emptyset is 0, the set containing the empty set is 1, and then from here, just like Russian Dolls, we will define the successor to be the set of all predecessors.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-obviously-pretty-dumb-but-we-are-25e086c4.mp3",
+    "final_audio": "this-is-obviously-pretty-dumb-but-we-are-25e086c4.mp3"
+  },
+  {
+    "input_text": "So, we can define 2 as the set containing 0 and 1. Then 3 as the set with 0,1 and 2. Then we can continue this indefinitely, resulting in the ordinal numbers.",
+    "input_data": {
+      "input_text": "So, we can define 2 as the set containing 0 and 1. Then 3 as the set with 0,1 and 2. Then we can continue this indefinitely, resulting in the ordinal numbers.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-we-can-define-2-as-the-set-containing-0-and-1-9165d117.mp3",
+    "final_audio": "so-we-can-define-2-as-the-set-containing-0-and-1-9165d117.mp3"
+  },
+  {
+    "input_text": "Note that this requires the union axiom",
+    "input_data": {
+      "input_text": "Note that this requires the union axiom",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "note-that-this-requires-the-union-axiom-4bd2cf0c.mp3",
+    "final_audio": "note-that-this-requires-the-union-axiom-4bd2cf0c.mp3"
+  },
+  {
+    "input_text": "We can consider these axioms right here, which define Peano Arithmetic, which essentially just describe the number line. Which would be fine if math stopped around grade 3, but if we want to be able to describe all of math, we will need more than just the natural numbers with addition and multiplication.",
+    "input_data": {
+      "input_text": "We can consider these axioms right here, which define Peano Arithmetic, which essentially just describe the number line. Which would be fine if math stopped around grade 3, but if we want to be able to describe all of math, we will need more than just the natural numbers with addition and multiplication.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-consider-these-axioms-right-here-which-e58adee1.mp3",
+    "final_audio": "we-can-consider-these-axioms-right-here-which-e58adee1.mp3"
+  },
+  {
+    "input_text": "This is where set theory comes in.",
+    "input_data": {
+      "input_text": "This is where set theory comes in.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-where-set-theory-comes-in-dcff65cd.mp3",
+    "final_audio": "this-is-where-set-theory-comes-in-dcff65cd.mp3"
+  },
+  {
+    "input_text": "Everything in math can be seen as a set, obviously numbers are sets, but also functions are sets of pairs, graphs are sets of points and edges and even proofs are sets of formulas.",
+    "input_data": {
+      "input_text": "Everything in math can be seen as a set, obviously numbers are sets, but also functions are sets of pairs, graphs are sets of points and edges and even proofs are sets of formulas.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "everything-in-math-can-be-seen-as-a-set-obviously-51a97202.mp3",
+    "final_audio": "everything-in-math-can-be-seen-as-a-set-obviously-51a97202.mp3"
+  },
+  {
+    "input_text": "So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.",
+    "input_data": {
+      "input_text": "So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-if-we-can-define-what-is-and-what-is-not-a-aa36acf8.mp3",
+    "final_audio": "so-if-we-can-define-what-is-and-what-is-not-a-aa36acf8.mp3"
+  },
+  {
+    "input_text": "But a set is so basic, that is hard to define. If you try to define a set, you will likely say something like a collection of things or a class of objects. But then, how do you define a collection or a class? The axioms of ZFC are a good attempt to precisely define the notion of a set.",
+    "input_data": {
+      "input_text": "But a set is so basic, that is hard to define. If you try to define a set, you will likely say something like a collection of things or a class of objects. But then, how do you define a collection or a class? The axioms of ZFC are a good attempt to precisely define the notion of a set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-a-set-is-so-basic-that-is-hard-to-define-if-7b550659.mp3",
+    "final_audio": "but-a-set-is-so-basic-that-is-hard-to-define-if-7b550659.mp3"
+  },
+  {
+    "input_text": "Now, when we want to start defining the set theory, we run into a fundamental issue with definitions. Words are defined using other words, so when we want to define the first word, what do we do? So there has to be some sort of a-priori assumptions, which are the axioms.",
+    "input_data": {
+      "input_text": "Now, when we want to start defining the set theory, we run into a fundamental issue with definitions. Words are defined using other words, so when we want to define the first word, what do we do? So there has to be some sort of a-priori assumptions, which are the axioms.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-when-we-want-to-start-defining-the-set-theory-31de947b.mp3",
+    "final_audio": "now-when-we-want-to-start-defining-the-set-theory-31de947b.mp3"
+  },
+  {
+    "input_text": "The first axiom we will look at, is the axiom of existence, which simply asserts that there is some set. Specifically, that there is a set with no members, the so called empty set. So at the base of this whole set theoretic Universe, is that assumption that nothing exists.",
+    "input_data": {
+      "input_text": "The first axiom we will look at, is the axiom of existence, which simply asserts that there is some set. Specifically, that there is a set with no members, the so called empty set. So at the base of this whole set theoretic Universe, is that assumption that nothing exists.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-first-axiom-we-will-look-at-is-the-axiom-of-ff4e8c81.mp3",
+    "final_audio": "the-first-axiom-we-will-look-at-is-the-axiom-of-ff4e8c81.mp3"
+  },
+  {
+    "input_text": "We know that the emptyset is unique, due to the axiom of extensionality, which just states that two sets are equal iff they have the same members.",
+    "input_data": {
+      "input_text": "We know that the emptyset is unique, due to the axiom of extensionality, which just states that two sets are equal iff they have the same members.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-know-that-the-emptyset-is-unique-due-to-the-7165ab63.mp3",
+    "final_audio": "we-know-that-the-emptyset-is-unique-due-to-the-7165ab63.mp3"
+  },
+  {
+    "input_text": "Once we have sets, we can define other sets, for example using the pairing axiom, which just states that given two sets X and Y, we can form a set with X and Y as members.",
+    "input_data": {
+      "input_text": "Once we have sets, we can define other sets, for example using the pairing axiom, which just states that given two sets X and Y, we can form a set with X and Y as members.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "once-we-have-sets-we-can-define-other-sets-for-6be90496.mp3",
+    "final_audio": "once-we-have-sets-we-can-define-other-sets-for-6be90496.mp3"
+  },
+  {
+    "input_text": "Applying this with the empty set with itself, gives us the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it.",
+    "input_data": {
+      "input_text": "Applying this with the empty set with itself, gives us the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "applying-this-with-the-empty-set-with-itself-gives-410f4ed8.mp3",
+    "final_audio": "applying-this-with-the-empty-set-with-itself-gives-410f4ed8.mp3"
+  },
+  {
+    "input_text": "This is obviously pretty dumb, but we are essentially defining the natural numbers. The emptyset is 0, the set containing the empty set is 1, and then from here, just like Russian Dolls, we will define the successor to be the set of all predecessors.",
+    "input_data": {
+      "input_text": "This is obviously pretty dumb, but we are essentially defining the natural numbers. The emptyset is 0, the set containing the empty set is 1, and then from here, just like Russian Dolls, we will define the successor to be the set of all predecessors.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-obviously-pretty-dumb-but-we-are-25e086c4.mp3",
+    "final_audio": "this-is-obviously-pretty-dumb-but-we-are-25e086c4.mp3"
+  },
+  {
+    "input_text": "So, we can define 2 as the set containing 0 and 1. Then 3 as the set with 0,1 and 2. Then we can continue this indefinitely, resulting in the ordinal numbers.",
+    "input_data": {
+      "input_text": "So, we can define 2 as the set containing 0 and 1. Then 3 as the set with 0,1 and 2. Then we can continue this indefinitely, resulting in the ordinal numbers.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-we-can-define-2-as-the-set-containing-0-and-1-9165d117.mp3",
+    "final_audio": "so-we-can-define-2-as-the-set-containing-0-and-1-9165d117.mp3"
+  },
+  {
+    "input_text": "Note that this requires the union axiom",
+    "input_data": {
+      "input_text": "Note that this requires the union axiom",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "note-that-this-requires-the-union-axiom-4bd2cf0c.mp3",
+    "final_audio": "note-that-this-requires-the-union-axiom-4bd2cf0c.mp3"
   }
 ]

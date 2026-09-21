@@ -32,14 +32,14 @@ class Chill_intro(VoiceoverScene):
         # --- Data Preparation ---
         zfc_data = [
             ("Extensionality", r"\forall x \forall y (\forall z (z \in x \leftrightarrow z \in y) \rightarrow x = y)"),
-            ("Separation", r"\forall x \exists y \forall z (z \in y \leftrightarrow z \in x \land \varphi(z))"),
             ("Pairing", r"\forall x \forall y \exists z \forall w (w \in z \leftrightarrow w = x \lor w = y)"),
             ("Union", r"\forall x \exists y \forall z (z \in y \leftrightarrow \exists w (z \in w \land w \in x))"),
-            ("Regularity", r"\forall x (x \neq \emptyset \rightarrow \exists y \in x (x \cap y = \emptyset))"),
-            ("Power Set", r"\forall x \exists y \forall z (z \in y \leftrightarrow z \subseteq x)"),
+            ("Power Set", r"\forall x \exists y \forall z (\forall w\in z (w \in z \rightarrow w\in y)"),
+            ("Regularity", r"\forall x (x \neq \emptyset \rightarrow \exists y \in x (x \cap y = \emptyset))"),           
+            ("Separation", r"\forall x \exists y \forall z (z \in y \leftrightarrow z \in x \land \varphi(z))"),
             ("Replacement", r"\forall x (\forall y \in x \exists! z \varphi(y,z) \rightarrow \exists w \forall y \in x \exists z \in w \varphi(y,z))"),
             ("Infinity", r"\exists x (\emptyset \in x \land \forall y \in x (y \cup \{y\} \in x))"),
-            ("Choice", r"\forall X (\emptyset \notin X \rightarrow \exists f: X \rightarrow \cup X \dots)")
+            ("Choice", r"\forall X (\emptyset \notin X \rightarrow \exists f: X \rightarrow \cup X \land \forall Y \in X(f(Y)\in Y))")
         ]
         
         zfc_names = VGroup()
@@ -59,12 +59,11 @@ class Chill_intro(VoiceoverScene):
 
         # --- Scene 1: Introduction ---
         with self.voiceover(text="Alright in this video we're gonna go deep into mathematical logic and set theory to try and figure out what Math is. Right off the bat, because of Godel's incompleteness theorems, there is no clear cut answer to this, but one possible answer is that math is the theory of ZFC.") as tracker:
-            self.wait(tracker.duration)
+            self.wait(tracker.duration * 0.9)
+            self.add(zfc_names, zfc_formulas)
 
         # --- Scene 2: Display ZFC ---
         with self.voiceover(text="Which is just the set of all first order consequences of these axioms right here.") as tracker:
-            # Display names and formulas directly for easier isolation later
-            self.add(zfc_names, zfc_formulas)
             self.wait(tracker.duration)
 
         with self.voiceover(text="We'll try and figure out what that means right now.") as tracker:
@@ -87,7 +86,7 @@ class Chill_intro(VoiceoverScene):
                 FadeOut(zfc_names),
                 Transform(zfc_formulas, target_formulas),
                 Create(tp_box),
-                run_time=tracker.duration
+                run_time=tracker.duration * 0.25
             )
 
         # --- Scene 4: Inputs and Outputs ---
@@ -95,16 +94,15 @@ class Chill_intro(VoiceoverScene):
             
             # Output x = x
             thm_output = MathTex(r"x = x").next_to(output_line, RIGHT, buff=0.2)
-            self.play(FadeIn(thm_output, shift=RIGHT), run_time=tracker.duration * 0.4)
-            
-            self.wait(tracker.duration * 0.2)
+            self.wait(tracker.duration * 0.6)
+            self.play(FadeIn(thm_output, shift=RIGHT), run_time=tracker.duration * 0.2)
 
             # Transition x = x into x \notin x
             thm_2 = MathTex(r"x \notin x").move_to(thm_output).align_to(thm_output, LEFT)
-            self.play(Transform(thm_output, thm_2), run_time=tracker.duration * 0.4)
+            self.play(Transform(thm_output, thm_2), run_time=tracker.duration * 0.2)
 
         # --- Scene 5: General Axioms and ALL OF MATH ---
-        with self.voiceover(text="The ultimate goal, is to find some set of axioms which we could feed into our theorem prover such that it outputs every true mathematical statement, without ever outputting a false mathematical statement.") as tracker:
+        with self.voiceover(text="The ultimate goal, is to find some set of axioms which we could feed into our theorem prover such that it outputs every true mathematical statement, without ever outputting a false statement.") as tracker:
             
             # Create generic axioms A1, A2, ..., An aligned directly to the inputs
             general_axioms = VGroup()
@@ -123,214 +121,237 @@ class Chill_intro(VoiceoverScene):
             self.play(
                 Transform(zfc_formulas, general_axioms),
                 Transform(thm_output, all_of_math),
-                run_time=fast_transition_time
+                run_time=tracker.duration * 0.2
             )
-            self.wait(max(0, tracker.duration - fast_transition_time))
+            self.wait()
 
         # --- Scene 6: Godel ---
         with self.voiceover(text="Again, this is impossible due to this guy,") as tracker:
             # Updated to requested image name
-            godel_img = ImageMobject("image_Godel.jpg").scale(1.5).to_edge(UP)
+            godel_img = ImageMobject("image_Godel.jpg").scale(1.5).to_edge(UP*1.3).shift(RIGHT*2.5)
             self.play(FadeIn(godel_img), run_time=tracker.duration)
 
         # --- Scene 7: Return to ZFC ---
-        with self.voiceover(text="so the best we can hope for is some set of axioms which can output pretty much all of math, and that's where ZFC comes in.") as tracker:
+        with self.voiceover(text="so the best we can hope for is some set of axioms which can output pretty much all of math.  So then the question is, what axioms should we feed in?") as tracker:
             
-            # Re-generate clean target explicit formulas to match the earlier step
-            zfc_return_target = VGroup()
-            for i, (name, formula) in enumerate(zfc_data):
-                f_tex = MathTex(formula, font_size=32).scale(0.5).next_to(input_lines[i], LEFT, buff=0.1)
-                zfc_return_target.add(f_tex)
             
             # Update to MOST OF MATH
             most_of_math = Text("MOST OF MATH", color=GOLD, font_size=36).move_to(thm_output).align_to(thm_output, LEFT)
-
-            fast_transition_time = 0.6
             self.play(
                 FadeOut(godel_img),
-                Transform(zfc_formulas, zfc_return_target),
                 Transform(thm_output, most_of_math),
-                run_time=fast_transition_time
+                run_time=tracker.duration * 0.25
             )
             
-            self.wait(max(0, tracker.duration - fast_transition_time) + 1)
+            self.wait()
             
 class SetTheoryUniverseScene(VoiceoverScene):
     def construct(self):
         self.set_speech_service(RecorderService(transcription_model=None))
 
-        # --- Helper for Hasse Diagram ---
-        def get_hasse_diagram():
-            diagram = VGroup()
-            # Levels
-            l0 = MathTex(r"\emptyset").scale(0.6)
-            l1_1 = MathTex(r"\{1\}").scale(0.6)
-            l1_2 = MathTex(r"\{2\}").scale(0.6)
-            l1_3 = MathTex(r"\{3\}").scale(0.6)
-            l2_12 = MathTex(r"\{1,2\}").scale(0.6)
-            l2_13 = MathTex(r"\{1,3\}").scale(0.6)
-            l2_23 = MathTex(r"\{2,3\}").scale(0.6)
-            l3 = MathTex(r"\{1,2,3\}").scale(0.6)
+        # --- Helper: Theorem Prover Box ---
+        def create_tp_box(label_text="Theorem\nProver", num_inputs=3, box_height=2.0, box_width=2.0):
+            label = Text(label_text, font_size=24)
+            rect = Rectangle(width=box_width, height=box_height, color=BLUE, fill_opacity=0.1, stroke_width=4)
+            label.move_to(rect.get_center())
+            inputs = VGroup()
+            spacing = (box_height - 0.5) / (num_inputs - 1) if num_inputs > 1 else 0
+            start_y = (box_height / 2) - 0.25
+            for i in range(num_inputs):
+                y_pos = start_y - i * spacing
+                line = Line(LEFT * 0.5, ORIGIN).next_to(rect, LEFT, buff=0, aligned_edge=UP).shift(DOWN * (box_height/2 - y_pos))
+                inputs.add(line)
+            output = Line(ORIGIN, RIGHT * 0.8).next_to(rect, RIGHT, buff=0)
+            return VGroup(rect, label, inputs, output)
 
-            # Positions
-            l0.move_to(DOWN * 1.5)
-            VGroup(l1_1, l1_2, l1_3).arrange(RIGHT, buff=0.5).move_to(DOWN * 0.5)
-            VGroup(l2_12, l2_13, l2_23).arrange(RIGHT, buff=0.5).move_to(UP * 0.5)
-            l3.move_to(UP * 1.5)
+        # --- Initial Setup ---
+        tp_box = create_tp_box("Theorem\nProver", num_inputs=9, box_height=6.0, box_width=3.0).move_to(ORIGIN)
+        input_lines = tp_box[2]
+        
+        general_axioms = VGroup()
+        for i in range(8):
+            ax = MathTex(f"A_{i+1}").scale(0.8).next_to(input_lines[i], LEFT, buff=0.1)
+            general_axioms.add(ax)
+        an = MathTex(r"A_n").scale(0.8).next_to(input_lines[-1], LEFT, buff=0.1)
+        general_axioms.add(an)
+        
+        self.add(tp_box, general_axioms)
 
-            nodes = VGroup(l0, l1_1, l1_2, l1_3, l2_12, l2_13, l2_23, l3)
-            
-            # Edges
-            edges = VGroup()
-            edges.add(Line(l0.get_top(), l1_1.get_bottom(), stroke_width=2, color=GRAY))
-            edges.add(Line(l0.get_top(), l1_2.get_bottom(), stroke_width=2, color=GRAY))
-            edges.add(Line(l0.get_top(), l1_3.get_bottom(), stroke_width=2, color=GRAY))
-            
-            edges.add(Line(l1_1.get_top(), l2_12.get_bottom(), stroke_width=2, color=GRAY))
-            edges.add(Line(l1_1.get_top(), l2_13.get_bottom(), stroke_width=2, color=GRAY))
-            edges.add(Line(l1_2.get_top(), l2_12.get_bottom(), stroke_width=2, color=GRAY))
-            edges.add(Line(l1_2.get_top(), l2_23.get_bottom(), stroke_width=2, color=GRAY))
-            edges.add(Line(l1_3.get_top(), l2_13.get_bottom(), stroke_width=2, color=GRAY))
-            edges.add(Line(l1_3.get_top(), l2_23.get_bottom(), stroke_width=2, color=GRAY))
+        # --- Scene 1: Peano Arithmetic & Number Line ---
+        pa_data = [
+            r"\forall x (x=x)\land \forall x,y (x=y\rightarrow y=x)",
+            r"\forall x,y,z (x=y\land y=z\rightarrow x=z)",
+            r"\forall x (0 \neq S(x))",
+            r"\forall x \forall y (S(x) = S(y) \rightarrow x = y)",
+            r"\forall x (x + 0 = x)",
+            r"\forall x \forall y (x + S(y) = S(x + y))",
+            r"\forall x (x \times 0 = 0)",
+            r"\forall x \forall y (x \times S(y) = (x \times y) + x)",
+            r"\forall X (0\in X \land \forall n (n\in X\rightarrow S(n)\in X) \rightarrow X=\mathbb{N})"
+        ]
+        
+        pa_axioms = VGroup()
+        for i, formula in enumerate(pa_data):
+            f_tex = MathTex(formula, font_size=25).next_to(input_lines[i], LEFT, buff=0.1)
+            pa_axioms.add(f_tex)
 
-            edges.add(Line(l2_12.get_top(), l3.get_bottom(), stroke_width=2, color=GRAY))
-            edges.add(Line(l2_13.get_top(), l3.get_bottom(), stroke_width=2, color=GRAY))
-            edges.add(Line(l2_23.get_top(), l3.get_bottom(), stroke_width=2, color=GRAY))
+        with self.voiceover(text="We can consider these axioms right here, which define Peano Arithmetic, which essentially just describe the number line.  Which would be fine if math stopped around grade 3, but if we want to be able to describe all of math, we will need more than just the natural numbers with addition and multiplication.") as tracker:
+            self.play(Transform(general_axioms, pa_axioms), run_time=tracker.duration * 0.2)
+            
+            number_line = NumberLine(
+                x_range=[0, 7, 1], length=10, color=WHITE,
+                include_numbers=True, numbers_to_include=[0, 1, 2, 3, 4, 5, 6, 7]
+            ).move_to(DOWN * 4)
+            self.wait(tracker.duration * 0.3)
+            self.play(Create(number_line), run_time=tracker.duration * 0.1)
 
-            diagram.add(edges, nodes)
-            return diagram
+        with self.voiceover(text="This is where set theory comes in.") as tracker:
+            self.play(
+                FadeOut(general_axioms), FadeOut(tp_box), FadeOut(number_line),
+                run_time=tracker.duration * 0.4
+            )
 
-        # --- Scene 1: The V Hierarchy ---
-        with self.voiceover(text="These axioms essentially define what is and what is not a valid mathematical set. If we view math platonically, then there is some pre-existing Universe of sets, which these axioms try to describe.") as tracker:
+        with self.voiceover(text="Everything in math can be seen as a set, obviously numbers are sets, but also functions are sets of pairs, graphs are sets of points and edges and even proofs are sets of formulas.") as tracker:
+            # 1. Numbers at the top
+            number_sets = MathTex(r"\mathbb{N}, \mathbb{Q}, \mathbb{A}, \mathbb{R}").scale(1.2).to_edge(UP)
+            self.wait(tracker.duration*0.1)
+            self.play(FadeIn(number_sets, shift=DOWN), run_time=tracker.duration * 0.15)
             
-            v_hierarchy = VGroup()
-            bottom_point = DOWN * 3
-            left_line = Line(bottom_point, UP * 3 + LEFT * 4, color=GREEN)
-            right_line = Line(bottom_point, UP * 3 + RIGHT * 4, color=GREEN)
-            middle_line = Line(bottom_point, UP * 3, color=GREEN)
+            # 2. Abstract topological spaces and function
+            space_X = Ellipse(width=1.5, height=2.2, color=TEAL, fill_opacity=0.2).shift(UP * 1.5 + LEFT * 1)
+            space_Y = Ellipse(width=1.5, height=2.2, color=PURPLE, fill_opacity=0.2).shift(UP * 1.5 + RIGHT * 2)
+            label_X = MathTex("X").move_to(space_X.get_top() + DOWN*0.4)
+            label_Y = MathTex("Y").move_to(space_Y.get_top() + DOWN*0.4)
+            func_arrow = CurvedArrow(space_X.get_right(), space_Y.get_left(), angle=-PI/4, color=YELLOW)
+            func_label = MathTex("f").next_to(func_arrow, UP, buff=0.1)
+            abstract_func = VGroup(space_X, space_Y, label_X, label_Y, func_arrow, func_label)
             
-            ticks = VGroup()
-            labels = VGroup()
+            self.play(FadeIn(abstract_func), run_time=tracker.duration * 0.2)
             
-            tick_data = [
-                (DOWN * 3, r"\emptyset"),
-                (DOWN * 1, r"\omega"),
-                (UP * 1, r"\omega_1"),
-                (UP * 2.5, r"\dots")
+            # 3. Complex Graph as a set
+            v1 = Dot(point=UP*0.8 + LEFT*0.8, color=BLUE)
+            v2 = Dot(point=UP*0.8 + RIGHT*0.8, color=BLUE)
+            v3 = Dot(point=LEFT*1.8, color=BLUE)
+            v4 = Dot(point=ORIGIN, color=BLUE)
+            v5 = Dot(point=RIGHT*1.8, color=BLUE)
+            v6 = Dot(point=DOWN*1.2 + LEFT*1.2, color=BLUE)
+            v7 = Dot(point=DOWN*1.2 + ORIGIN, color=BLUE)
+            v8 = Dot(point=DOWN*1.2 + RIGHT*1.2, color=BLUE)
+            
+            edges = [
+                (v1,v2), (v1,v3), (v1,v4), (v2,v4), (v2,v5),
+                (v3,v6), (v4,v6), (v4,v7), (v6,v7), (v7,v8), (v5,v8)
             ]
+            graph_group = VGroup(*[v1,v2,v3,v4,v5,v6,v7,v8])
+            for edge in edges:
+                graph_group.add(Line(edge[0].get_center(), edge[1].get_center(), stroke_width=3, color=ORANGE))
             
-            for pos, tex in tick_data:
-                tick = Line(LEFT * 0.1, RIGHT * 0.1, color=GREEN).move_to(pos)
-                label = MathTex(tex, color=GREEN).next_to(tick, RIGHT, buff=0.2)
-                ticks.add(tick)
-                labels.add(label)
-                
-            v_hierarchy.add(left_line, right_line, middle_line, ticks, labels)
+            for v in [v1,v2,v3,v4,v5,v6,v7,v8]:
+                v.set_z_index(1)
+            self.wait(tracker.duration * 0.2)
+            graph_group.scale(0.8).move_to(DOWN*1.5 + LEFT*2)
+            self.play(FadeIn(graph_group), run_time=tracker.duration * 0.25)
             
-            self.play(Create(v_hierarchy), run_time=tracker.duration)
-
-        with self.voiceover(text="Again, due to this guy, there are many different possible set theoretic universes, so we cannot pin down THE Universe of Sets, but for now, we won't worry about that, and we will imagine that this as the Universe of sets.") as tracker:
-            godel_img = ImageMobject("image_Godel.jpg").scale(1.2).to_edge(RIGHT)
-            self.play(FadeIn(godel_img), run_time=tracker.duration * 0.2)
-            self.wait(tracker.duration * 0.6)
-            self.play(FadeOut(godel_img), run_time=tracker.duration * 0.2)
-
-        with self.voiceover(text="Since a set is so general, everything in math can be seen as a set. Meaning that every mathematical object will exist somewhere in here.") as tracker:
-            torus = VGroup(
-                Ellipse(width=2, height=1, color=BLUE),
-                ArcBetweenPoints(LEFT*0.6, RIGHT*0.6, angle=PI/3, color=BLUE),
-                ArcBetweenPoints(LEFT*0.5, RIGHT*0.5, angle=-PI/3, color=BLUE)
-            ).scale(0.8).to_edge(LEFT).shift(UP)
-
-            # Changed target coordinate to land to the left of the spine
-            torus_arrow = CurvedArrow(torus.get_right(), LEFT * 1.5 + UP * 0.5, angle=-PI/4, color=YELLOW)
+            # 4. Abstract proof tree
+            pt_node1 = MathTex(r"\Gamma \vdash A")
+            pt_node2 = MathTex(r"\Gamma \vdash A \rightarrow B")
+            pt_line = Line(LEFT*1.5, RIGHT*1.5)
+            pt_node3 = MathTex(r"\Gamma \vdash B")
             
-            self.play(FadeIn(torus), Create(torus_arrow), run_time=tracker.duration)
+            pt_node1.shift(LEFT*1 + UP*0.5)
+            pt_node2.shift(RIGHT*1 + UP*0.5)
+            pt_line.next_to(VGroup(pt_node1, pt_node2), DOWN, buff=0.2)
+            pt_node3.next_to(pt_line, DOWN, buff=0.2)
+            
+            proof_tree = VGroup(pt_node1, pt_node2, pt_line, pt_node3).scale(0.7).move_to(DOWN*1.5 + RIGHT*3)
+            self.play(FadeIn(proof_tree), run_time=tracker.duration * 0.25)
 
         with self.voiceover(text="So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.") as tracker:
             self.wait(tracker.duration)
 
-        with self.voiceover(text="Now if you try to define a set, you will likely say something like a collection of things or a class of objects.") as tracker:
+        with self.voiceover(text="But a set is so basic, that is hard to define. If you try to define a set, you will likely say something like a collection of things or a class of objects. But then, how do you define a collection or a class? The axioms of ZFC are a good attempt to precisely define the notion of a set.") as tracker:
             self.play(
-                FadeOut(v_hierarchy),
-                FadeOut(torus),
-                FadeOut(torus_arrow),
-                run_time=tracker.duration
+                FadeOut(number_sets), FadeOut(abstract_func), FadeOut(graph_group), FadeOut(proof_tree), 
+                run_time=tracker.duration * 0.3
             )
+            self.wait(tracker.duration * 0.7)
 
-        with self.voiceover(text="But then, how do you define a collection or a class? So a set is too basic to be defined in terms of anything simpler. Now, when we want to start defining the set theoretic universe, we run into a fundamental issue with definitions. Words are defined using other words, so how can we define the first word? So there has to be some sort of a-priori assumptions, which are the axioms.") as tracker:
+        # --- Scene 3: Words & Axiom Stacking ---
+        with self.voiceover(text="Now, when we want to start defining the set theory, we run into a fundamental issue with definitions. Words are defined using other words, so when we want to define the first word, what do we do? So there has to be some sort of a-priori assumptions, which are the axioms.") as tracker:
             def_text = Text("Def: WORD = MORE WORDS", font_size=40, color=YELLOW)
             self.play(FadeIn(def_text), run_time=tracker.duration * 0.2)
             self.wait(tracker.duration * 0.6)
             self.play(FadeOut(def_text), run_time=tracker.duration * 0.2)
 
-        # --- Scene 2: Building the Ordinals and Axioms ---
-        # Shifted coordinates right to avoid cutting off long axioms
-        ordinals_x = 3.2
-        axioms_x = -3.2
+        # --- Scene 4: Spine of the Universe ---
+        ordinals_x = 2.0
+        axioms_x = -4.2
+        x_align = ordinals_x + 3.0  # Vertical alignment for the natural numbers labels
 
-        with self.voiceover(text="The simplest axiom, is the axiom of existence, which simply asserts that there is some set. Specifically, that the empty set exists.") as tracker:
-            ax_existence = MathTex(r"\text{Existence: } \exists x \forall y (y \notin x)").scale(0.7).move_to(RIGHT * axioms_x + DOWN * 3)
+        with self.voiceover(text="The first axiom we will look at, is the axiom of existence, which simply asserts that there is some set. Specifically, that there is a set with no members, the so called empty set. So at the base of this whole set theoretic Universe, is that assumption that nothing exists.") as tracker:
+            ax_existence = MathTex(r"\text{Existence: } \exists x \forall y (y \notin x)").scale(0.6).move_to(RIGHT * axioms_x + DOWN * 3)
             set_empty = MathTex(r"\emptyset").move_to(RIGHT * ordinals_x + DOWN * 3)
+            # Sped up fade in
+            self.play(FadeIn(ax_existence, shift=RIGHT), FadeIn(set_empty, shift=UP), run_time=tracker.duration*0.1)
+
+        with self.voiceover(text="We know that the emptyset is unique, due to the axiom of extensionality, which just states that two sets are equal iff they have the same members.") as tracker:
+            ax_extensionality = MathTex(r"\text{Extensionality: } \forall x \forall y (x=y \leftrightarrow \forall z (z\in x\leftrightarrow z \in y))").scale(0.6).next_to(ax_existence, UP, buff=0.8).align_to(ax_existence, LEFT)
+            # Sped up fade in
+            self.play(FadeIn(ax_extensionality, shift=RIGHT*1.1), run_time=tracker.duration*0.5)
+
+        with self.voiceover(text="Once we have sets, we can define other sets, for example using the pairing axiom, which just states that given two sets X and Y, we can form a set with X and Y as members.") as tracker:
+            ax_pairing = MathTex(r"\text{Pairing: } \forall x \forall y \exists z (x\in z\land y\in z)").scale(0.6).next_to(ax_extensionality, UP, buff=0.8).align_to(ax_existence, LEFT)
+            # Sped up fade in
+            self.play(FadeIn(ax_pairing, shift=RIGHT), run_time=tracker.duration*0.5)
+
+        with self.voiceover(text="Applying this with the empty set with itself, gives us the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it. ") as tracker:
+            # Shifted up to compress vertical spacing
+            ord_1 = MathTex(r"\{\emptyset\}").move_to(RIGHT * ordinals_x + DOWN * 1.8)
+            self.play(FadeIn(ord_1, shift=UP), run_time=tracker.duration * 0.3)
+            self.wait(tracker.duration * 0.4)
+
+        with self.voiceover(text="This is obviously pretty dumb, but we are essentially defining the natural numbers.  The emptyset is 0, the set containing the empty set is 1, and then from here, just like Russian Dolls, we will define the successor to be the set of all predecessors.") as tracker:
+            # Perfectly aligned labels relying on the Y-coordinate of their respective sets
+            label_0 = Text("0", font_size=24, color=YELLOW).move_to(np.array([x_align, set_empty.get_center()[1], 0]))
+            label_1 = Text("1", font_size=24, color=YELLOW).move_to(np.array([x_align, ord_1.get_center()[1], 0]))
             
-            self.play(FadeIn(ax_existence, shift=RIGHT), FadeIn(set_empty, shift=UP), run_time=tracker.duration)
-
-        with self.voiceover(text="So at the base of this whole set theoretic Universe, is that assumption that nothing exists. Once we have this emptyset, we add other axioms which allow us to define other sets. For example, we can assert that given any set, there is a set whose sole member is that set.") as tracker:
-            ax_singleton = MathTex(r"\forall x \exists y (x \in y \land \forall z (z \in y \implies z=x))").scale(0.6).next_to(ax_existence, UP, buff=0.8)
-            self.play(FadeIn(ax_singleton, shift=RIGHT), run_time=tracker.duration)
-
-        with self.voiceover(text="Meaning that we can define the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it. Then we can define the set containing the set with the emptyset, so a bag containing a bag with nothing in it.") as tracker:
-            set_1 = MathTex(r"\{\emptyset\}").move_to(RIGHT * ordinals_x + DOWN * 2)
-            set_2 = MathTex(r"\{\{\emptyset\}\}").move_to(RIGHT * ordinals_x + DOWN * 1)
+            # Successor function positioned high enough to clear ord_4 later
+            succ_func = MathTex(r"S(n) = n \cup \{n\}", color=GOLD).move_to(RIGHT * 3.5 + UP * 3.2)
+            ax_union = MathTex(r"\text{Union: } \forall x \exists y \forall z (\dots)").scale(0.6).next_to(ax_pairing, UP, buff=0.8).align_to(ax_existence, LEFT)
+            # Sequential fading
+            self.wait(tracker.duration * 0.15)
+            self.play(FadeIn(label_0), run_time=tracker.duration * 0.15)
+            self.play(FadeIn(label_1), run_time=tracker.duration * 0.15)
+            self.play(FadeIn(succ_func), run_time=tracker.duration * 0.5)
+            self.play(FadeIn(ax_union, shift=RIGHT), run_time=tracker.duration * 0.2)
             
-            self.play(FadeIn(set_1, shift=UP), run_time=tracker.duration * 0.4)
-            self.wait(tracker.duration * 0.2)
-            self.play(FadeIn(set_2, shift=UP), run_time=tracker.duration * 0.4)
 
-        with self.voiceover(text="A less idiotic way to look at this, is that we start with 0, and then we can define 1 and 2 and so on, and 3, and 4.") as tracker:
-            label_0 = Text("0", font_size=24, color=YELLOW).next_to(set_empty, RIGHT, buff=0.5)
-            label_1 = Text("1", font_size=24, color=YELLOW).next_to(set_1, RIGHT, buff=0.5)
-            label_2 = Text("2", font_size=24, color=YELLOW).next_to(set_2, RIGHT, buff=0.5)
+        with self.voiceover(text="So, we can define 2 as the set containing 0 and 1.  Then 3 as the set with 0,1 and 2.  Then we can continue this indefinitely, resulting in the ordinal numbers.") as tracker:
+            # Compressing the vertical coordinates to leave room at the top
+            ord_2 = MathTex(r"\{\emptyset, \{\emptyset\}\}").scale(0.85).move_to(RIGHT * ordinals_x + DOWN * 0.6)
+            ord_3 = MathTex(r"\{\emptyset, \{\emptyset\}, \{\emptyset, \{\emptyset\}\}\}").scale(0.65).move_to(RIGHT * ordinals_x + UP * 0.6)
+            ord_4 = MathTex(r"\{\emptyset, \{\emptyset\}, \{\emptyset, \{\emptyset\}\}, \{\emptyset, \{\emptyset\}, \{\emptyset, \{\emptyset\}\}\}\}").scale(0.55).move_to(RIGHT * ordinals_x + UP * 1.8)
             
-            set_3 = MathTex(r"\{\{\{\emptyset\}\}\}").move_to(RIGHT * ordinals_x + ORIGIN)
-            label_3 = Text("3", font_size=24, color=YELLOW).next_to(set_3, RIGHT, buff=0.5)
+            label_2 = Text("2", font_size=24, color=YELLOW).move_to(np.array([x_align, ord_2.get_center()[1], 0]))          
+            label_3 = Text("3", font_size=24, color=YELLOW).move_to(np.array([x_align, ord_3.get_center()[1], 0]))
+            label_4 = Text("4", font_size=24, color=YELLOW).move_to(np.array([x_align, ord_4.get_center()[1], 0]))
             
-            set_4 = MathTex(r"\{\{\{\{\emptyset\}\}\}\}").move_to(RIGHT * ordinals_x + UP * 1)
-            label_4 = Text("4", font_size=24, color=YELLOW).next_to(set_4, RIGHT, buff=0.5)
+            self.play(FadeIn(ord_2), FadeIn(label_2), run_time=tracker.duration * 0.2)
+            self.play(FadeIn(ord_3, shift=UP), FadeIn(label_3), run_time=tracker.duration * 0.4)
+            self.wait(tracker.duration * 0.1)
+            self.play(FadeIn(ord_4, shift=UP), FadeIn(label_4), run_time=tracker.duration * 0.4)
 
-            self.play(FadeIn(label_0), FadeIn(label_1), FadeIn(label_2), run_time=tracker.duration * 0.4)
-            self.play(FadeIn(set_3, shift=UP), FadeIn(label_3), run_time=tracker.duration * 0.3)
-            self.play(FadeIn(set_4, shift=UP), FadeIn(label_4), run_time=tracker.duration * 0.3)
+        with self.voiceover(text="The ordinals, which are essentially just the natural numbers, will form the spine of the set theoretic Universe.  We will use the following axiom, known as the power set axiom to define more complicated sets") as tracker:
+            powerset_str = r"\mathcal{P}(X) = \{\emptyset, \{1\}, \{2\}, \{3\}, \\ \{1, 2\}, \{1, 3\}, \{2, 3\}, \{1, 2, 3\}\}"
+            set_px_tex = MathTex(powerset_str).scale(0.8).next_to(set_x_tex, DOWN, aligned_edge=LEFT, buff=0.5)
 
-        with self.voiceover(text="Then given two sets, we can form a set whose members are the pair of these sets.") as tracker:
-            ax_pairing = MathTex(r"\text{Pairing: } \forall x \forall y \exists z \forall w (w \in z \leftrightarrow w = x \lor w = y)").scale(0.6).next_to(ax_singleton, UP, buff=0.8)
-            self.play(FadeIn(ax_pairing, shift=RIGHT), run_time=tracker.duration)
-
-        with self.voiceover(text="So given 0 and 2, we can define the set containing 0 and 2.") as tracker:
-            set_0_2 = MathTex(r"\{0, 2\}").move_to(RIGHT * (ordinals_x + 1.5) + UP * 0.5)
-            self.play(FadeIn(set_0_2, shift=LEFT), run_time=tracker.duration)
-
-        with self.voiceover(text="We also have the power set axioms, which is more interesting that it seems at first, which just states that given any set X, there exists a set made up of all subsets of X.") as tracker:
-            ax_powerset = MathTex(r"\text{Power Set: } \forall x \exists y \forall z (z \in y \leftrightarrow z \subseteq x)").scale(0.6).next_to(ax_pairing, UP, buff=0.8)
-            self.play(FadeIn(ax_powerset, shift=RIGHT), run_time=tracker.duration)
-
-        with self.voiceover(text="For example, if we have the set {1,2,3}, then this axiom asserts that there is also the following set.") as tracker:
-            # Fade out everything built so far
-            self.play(
-                FadeOut(ax_existence, set_empty, ax_singleton, set_1, set_2, label_0, label_1, label_2, set_3, label_3, set_4, label_4, ax_pairing, set_0_2, ax_powerset),
-                run_time=tracker.duration * 0.3
-            )
-            
-            # Since everything else is gone, we can display the Hasse Diagram cleanly in the center
-            hasse_diag = get_hasse_diagram().move_to(ORIGIN)
-            self.play(Create(hasse_diag), run_time=tracker.duration * 0.7)
-            
-            self.wait(1)
+        self.wait(1)
             
 class VHierarchyScene(VoiceoverScene):
     def construct(self):
         self.set_speech_service(RecorderService(transcription_model=None))
 
+        
         # --- Scene 1: Building the Hasse Diagram ---
         hasse_x = 3.0
 
