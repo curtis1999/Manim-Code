@@ -3274,5 +3274,2525 @@
     },
     "original_audio": "note-that-this-requires-the-union-axiom-4bd2cf0c.mp3",
     "final_audio": "note-that-this-requires-the-union-axiom-4bd2cf0c.mp3"
+  },
+  {
+    "input_text": "We can consider these axioms right here, which define Peano Arithmetic, which essentially just describe the number line. Which would be fine if math stopped around grade 3, but if we want to be able to describe all of math, we will need more than just the natural numbers with addition and multiplication.",
+    "input_data": {
+      "input_text": "We can consider these axioms right here, which define Peano Arithmetic, which essentially just describe the number line. Which would be fine if math stopped around grade 3, but if we want to be able to describe all of math, we will need more than just the natural numbers with addition and multiplication.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-consider-these-axioms-right-here-which-e58adee1.mp3",
+    "final_audio": "we-can-consider-these-axioms-right-here-which-e58adee1.mp3"
+  },
+  {
+    "input_text": "This is where set theory comes in.",
+    "input_data": {
+      "input_text": "This is where set theory comes in.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-where-set-theory-comes-in-dcff65cd.mp3",
+    "final_audio": "this-is-where-set-theory-comes-in-dcff65cd.mp3"
+  },
+  {
+    "input_text": "Everything in math can be seen as a set, obviously numbers are sets, but also functions are sets of pairs, graphs are sets of points and edges and even proofs are sets of formulas.",
+    "input_data": {
+      "input_text": "Everything in math can be seen as a set, obviously numbers are sets, but also functions are sets of pairs, graphs are sets of points and edges and even proofs are sets of formulas.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "everything-in-math-can-be-seen-as-a-set-obviously-51a97202.mp3",
+    "final_audio": "everything-in-math-can-be-seen-as-a-set-obviously-51a97202.mp3"
+  },
+  {
+    "input_text": "So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.",
+    "input_data": {
+      "input_text": "So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-if-we-can-define-what-is-and-what-is-not-a-aa36acf8.mp3",
+    "final_audio": "so-if-we-can-define-what-is-and-what-is-not-a-aa36acf8.mp3"
+  },
+  {
+    "input_text": "But a set is so basic, that is hard to define. If you try to define a set, you will likely say something like a collection of things or a class of objects. But then, how do you define a collection or a class? The axioms of ZFC are a good attempt to precisely define the notion of a set.",
+    "input_data": {
+      "input_text": "But a set is so basic, that is hard to define. If you try to define a set, you will likely say something like a collection of things or a class of objects. But then, how do you define a collection or a class? The axioms of ZFC are a good attempt to precisely define the notion of a set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-a-set-is-so-basic-that-is-hard-to-define-if-7b550659.mp3",
+    "final_audio": "but-a-set-is-so-basic-that-is-hard-to-define-if-7b550659.mp3"
+  },
+  {
+    "input_text": "Now, when we want to start defining the set theory, we run into a fundamental issue with definitions. Words are defined using other words, so when we want to define the first word, what do we do? So there has to be some sort of a-priori assumptions, which are the axioms.",
+    "input_data": {
+      "input_text": "Now, when we want to start defining the set theory, we run into a fundamental issue with definitions. Words are defined using other words, so when we want to define the first word, what do we do? So there has to be some sort of a-priori assumptions, which are the axioms.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-when-we-want-to-start-defining-the-set-theory-31de947b.mp3",
+    "final_audio": "now-when-we-want-to-start-defining-the-set-theory-31de947b.mp3"
+  },
+  {
+    "input_text": "The first axiom we will look at, is the axiom of existence, which simply asserts that there is some set. Specifically, that there is a set with no members, the so called empty set. So at the base of this whole set theoretic Universe, is that assumption that nothing exists.",
+    "input_data": {
+      "input_text": "The first axiom we will look at, is the axiom of existence, which simply asserts that there is some set. Specifically, that there is a set with no members, the so called empty set. So at the base of this whole set theoretic Universe, is that assumption that nothing exists.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-first-axiom-we-will-look-at-is-the-axiom-of-ff4e8c81.mp3",
+    "final_audio": "the-first-axiom-we-will-look-at-is-the-axiom-of-ff4e8c81.mp3"
+  },
+  {
+    "input_text": "We know that the emptyset is unique, due to the axiom of extensionality, which just states that two sets are equal iff they have the same members.",
+    "input_data": {
+      "input_text": "We know that the emptyset is unique, due to the axiom of extensionality, which just states that two sets are equal iff they have the same members.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-know-that-the-emptyset-is-unique-due-to-the-7165ab63.mp3",
+    "final_audio": "we-know-that-the-emptyset-is-unique-due-to-the-7165ab63.mp3"
+  },
+  {
+    "input_text": "Once we have sets, we can define other sets, for example using the pairing axiom, which just states that given two sets X and Y, we can form a set with X and Y as members.",
+    "input_data": {
+      "input_text": "Once we have sets, we can define other sets, for example using the pairing axiom, which just states that given two sets X and Y, we can form a set with X and Y as members.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "once-we-have-sets-we-can-define-other-sets-for-6be90496.mp3",
+    "final_audio": "once-we-have-sets-we-can-define-other-sets-for-6be90496.mp3"
+  },
+  {
+    "input_text": "Applying this with the empty set with itself, gives us the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it.",
+    "input_data": {
+      "input_text": "Applying this with the empty set with itself, gives us the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "applying-this-with-the-empty-set-with-itself-gives-410f4ed8.mp3",
+    "final_audio": "applying-this-with-the-empty-set-with-itself-gives-410f4ed8.mp3"
+  },
+  {
+    "input_text": "This is obviously pretty dumb, but we are essentially defining the natural numbers. The emptyset is 0, the set containing the empty set is 1, and then from here, just like Russian Dolls, we will define the successor to be the set of all predecessors. Which requires the union axiom",
+    "input_data": {
+      "input_text": "This is obviously pretty dumb, but we are essentially defining the natural numbers. The emptyset is 0, the set containing the empty set is 1, and then from here, just like Russian Dolls, we will define the successor to be the set of all predecessors. Which requires the union axiom",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-obviously-pretty-dumb-but-we-are-292942fa.mp3",
+    "final_audio": "this-is-obviously-pretty-dumb-but-we-are-292942fa.mp3"
+  },
+  {
+    "input_text": "So, we can define 2 as the set containing 0 and 1. Then 3 as the set with 0,1 and 2. Then we can continue this indefinitely, resulting in the ordinal numbers.",
+    "input_data": {
+      "input_text": "So, we can define 2 as the set containing 0 and 1. Then 3 as the set with 0,1 and 2. Then we can continue this indefinitely, resulting in the ordinal numbers.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-we-can-define-2-as-the-set-containing-0-and-1-9165d117.mp3",
+    "final_audio": "so-we-can-define-2-as-the-set-containing-0-and-1-9165d117.mp3"
+  },
+  {
+    "input_text": "The ordinals, which are essentially just the natural numbers, will form the spine of the set theoretic Universe. We will use the following axiom, known as the power set axiom to define the rest of the sets",
+    "input_data": {
+      "input_text": "The ordinals, which are essentially just the natural numbers, will form the spine of the set theoretic Universe. We will use the following axiom, known as the power set axiom to define the rest of the sets",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-ordinals-which-are-essentially-just-the-25c6d3ef.mp3",
+    "final_audio": "the-ordinals-which-are-essentially-just-the-25c6d3ef.mp3"
+  },
+  {
+    "input_text": "We can consider these axioms right here, which define Peano Arithmetic, which essentially just describe the number line. Which would be fine if math stopped around grade 3, but if we want to be able to describe all of math, we will need more than just the natural numbers with addition and multiplication.",
+    "input_data": {
+      "input_text": "We can consider these axioms right here, which define Peano Arithmetic, which essentially just describe the number line. Which would be fine if math stopped around grade 3, but if we want to be able to describe all of math, we will need more than just the natural numbers with addition and multiplication.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-consider-these-axioms-right-here-which-e58adee1.mp3",
+    "final_audio": "we-can-consider-these-axioms-right-here-which-e58adee1.mp3"
+  },
+  {
+    "input_text": "This is where set theory comes in.",
+    "input_data": {
+      "input_text": "This is where set theory comes in.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-where-set-theory-comes-in-dcff65cd.mp3",
+    "final_audio": "this-is-where-set-theory-comes-in-dcff65cd.mp3"
+  },
+  {
+    "input_text": "Everything in math can be seen as a set, obviously numbers are sets, but also functions are sets of pairs, graphs are sets of points and edges and even proofs are sets of formulas.",
+    "input_data": {
+      "input_text": "Everything in math can be seen as a set, obviously numbers are sets, but also functions are sets of pairs, graphs are sets of points and edges and even proofs are sets of formulas.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "everything-in-math-can-be-seen-as-a-set-obviously-51a97202.mp3",
+    "final_audio": "everything-in-math-can-be-seen-as-a-set-obviously-51a97202.mp3"
+  },
+  {
+    "input_text": "So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.",
+    "input_data": {
+      "input_text": "So, if we can define what is, and what is not a valid set, then we will have defined what is and what is not part of math.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-if-we-can-define-what-is-and-what-is-not-a-aa36acf8.mp3",
+    "final_audio": "so-if-we-can-define-what-is-and-what-is-not-a-aa36acf8.mp3"
+  },
+  {
+    "input_text": "But a set is so basic, that is hard to define. If you try to define a set, you will likely say something like a collection of things or a class of objects. But then, how do you define a collection or a class? The axioms of ZFC are a good attempt to precisely define the notion of a set.",
+    "input_data": {
+      "input_text": "But a set is so basic, that is hard to define. If you try to define a set, you will likely say something like a collection of things or a class of objects. But then, how do you define a collection or a class? The axioms of ZFC are a good attempt to precisely define the notion of a set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-a-set-is-so-basic-that-is-hard-to-define-if-7b550659.mp3",
+    "final_audio": "but-a-set-is-so-basic-that-is-hard-to-define-if-7b550659.mp3"
+  },
+  {
+    "input_text": "Now, when we want to start defining the set theory, we run into a fundamental issue with definitions. Words are defined using other words, so when we want to define the first word, what do we do? So there has to be some sort of a-priori assumptions, which are the axioms.",
+    "input_data": {
+      "input_text": "Now, when we want to start defining the set theory, we run into a fundamental issue with definitions. Words are defined using other words, so when we want to define the first word, what do we do? So there has to be some sort of a-priori assumptions, which are the axioms.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "now-when-we-want-to-start-defining-the-set-theory-31de947b.mp3",
+    "final_audio": "now-when-we-want-to-start-defining-the-set-theory-31de947b.mp3"
+  },
+  {
+    "input_text": "The first axiom we will look at, is the axiom of existence, which simply asserts that there is some set. Specifically, that there is a set with no members, the so called empty set. So at the base of this whole set theoretic Universe, is that assumption that nothing exists.",
+    "input_data": {
+      "input_text": "The first axiom we will look at, is the axiom of existence, which simply asserts that there is some set. Specifically, that there is a set with no members, the so called empty set. So at the base of this whole set theoretic Universe, is that assumption that nothing exists.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-first-axiom-we-will-look-at-is-the-axiom-of-ff4e8c81.mp3",
+    "final_audio": "the-first-axiom-we-will-look-at-is-the-axiom-of-ff4e8c81.mp3"
+  },
+  {
+    "input_text": "We know that the emptyset is unique, due to the axiom of extensionality, which just states that two sets are equal iff they have the same members.",
+    "input_data": {
+      "input_text": "We know that the emptyset is unique, due to the axiom of extensionality, which just states that two sets are equal iff they have the same members.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-know-that-the-emptyset-is-unique-due-to-the-7165ab63.mp3",
+    "final_audio": "we-know-that-the-emptyset-is-unique-due-to-the-7165ab63.mp3"
+  },
+  {
+    "input_text": "Once we have sets, we can define other sets, for example using the pairing axiom, which just states that given two sets X and Y, we can form a set with X and Y as members.",
+    "input_data": {
+      "input_text": "Once we have sets, we can define other sets, for example using the pairing axiom, which just states that given two sets X and Y, we can form a set with X and Y as members.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "once-we-have-sets-we-can-define-other-sets-for-6be90496.mp3",
+    "final_audio": "once-we-have-sets-we-can-define-other-sets-for-6be90496.mp3"
+  },
+  {
+    "input_text": "Applying this with the empty set with itself, gives us the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it.",
+    "input_data": {
+      "input_text": "Applying this with the empty set with itself, gives us the set containing the emptyset. So, we start with nothing, then we can put a bag around it and so we no longer have nothing, we have a bag with nothing in it.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "applying-this-with-the-empty-set-with-itself-gives-410f4ed8.mp3",
+    "final_audio": "applying-this-with-the-empty-set-with-itself-gives-410f4ed8.mp3"
+  },
+  {
+    "input_text": "This is obviously pretty dumb, but we are essentially defining the natural numbers. The emptyset is 0, the set containing the empty set is 1, and then from here, just like Russian Dolls, we will define the successor to be the set of all predecessors. Which requires the union axiom",
+    "input_data": {
+      "input_text": "This is obviously pretty dumb, but we are essentially defining the natural numbers. The emptyset is 0, the set containing the empty set is 1, and then from here, just like Russian Dolls, we will define the successor to be the set of all predecessors. Which requires the union axiom",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-obviously-pretty-dumb-but-we-are-292942fa.mp3",
+    "final_audio": "this-is-obviously-pretty-dumb-but-we-are-292942fa.mp3"
+  },
+  {
+    "input_text": "So, we can define 2 as the set containing 0 and 1. Then 3 as the set with 0,1 and 2. Then we can continue this indefinitely, resulting in the ordinal numbers.",
+    "input_data": {
+      "input_text": "So, we can define 2 as the set containing 0 and 1. Then 3 as the set with 0,1 and 2. Then we can continue this indefinitely, resulting in the ordinal numbers.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-we-can-define-2-as-the-set-containing-0-and-1-9165d117.mp3",
+    "final_audio": "so-we-can-define-2-as-the-set-containing-0-and-1-9165d117.mp3"
+  },
+  {
+    "input_text": "The ordinals, which are essentially just the natural numbers, will form the spine of the set theoretic Universe. We will use the following axiom, known as the power set axiom to define the rest of the sets",
+    "input_data": {
+      "input_text": "The ordinals, which are essentially just the natural numbers, will form the spine of the set theoretic Universe. We will use the following axiom, known as the power set axiom to define the rest of the sets",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-ordinals-which-are-essentially-just-the-25c6d3ef.mp3",
+    "final_audio": "the-ordinals-which-are-essentially-just-the-25c6d3ef.mp3"
+  },
+  {
+    "input_text": "The Power set is the set of all subsets. For example, if we have the set {1,2,3} the power set is the following set.",
+    "input_data": {
+      "input_text": "The Power set is the set of all subsets. For example, if we have the set {1,2,3} the power set is the following set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-power-set-is-the-set-of-all-subsets-for-6ffe4f2c.mp3",
+    "final_audio": "the-power-set-is-the-set-of-all-subsets-for-6ffe4f2c.mp3"
+  },
+  {
+    "input_text": "So, it contains the individual elements,",
+    "input_data": {
+      "input_text": "So, it contains the individual elements,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-it-contains-the-individual-elements-1ba78d6a.mp3",
+    "final_audio": "so-it-contains-the-individual-elements-1ba78d6a.mp3"
+  },
+  {
+    "input_text": "the pairs of elements,",
+    "input_data": {
+      "input_text": "the pairs of elements,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-pairs-of-elements-145225e6.mp3",
+    "final_audio": "the-pairs-of-elements-145225e6.mp3"
+  },
+  {
+    "input_text": "the whole set and the emptyset at the bottom, which is a subset of every set.",
+    "input_data": {
+      "input_text": "the whole set and the emptyset at the bottom, which is a subset of every set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-whole-set-and-the-emptyset-at-the-bottom-which-26f2bdd5.mp3",
+    "final_audio": "the-whole-set-and-the-emptyset-at-the-bottom-which-26f2bdd5.mp3"
+  },
+  {
+    "input_text": "We may notice that there are 2 to the power of 3 or 8 members in the power set of a set with three elements.",
+    "input_data": {
+      "input_text": "We may notice that there are 2 to the power of 3 or 8 members in the power set of a set with three elements.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-may-notice-that-there-are-2-to-the-power-of-3-d181f680.mp3",
+    "final_audio": "we-may-notice-that-there-are-2-to-the-power-of-3-d181f680.mp3"
+  },
+  {
+    "input_text": "Since another way to look at the power set, is we consider each possibility in the procedure of going by each element in the set and either saying yes or no.",
+    "input_data": {
+      "input_text": "Since another way to look at the power set, is we consider each possibility in the procedure of going by each element in the set and either saying yes or no.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "since-another-way-to-look-at-the-power-set-is-we-c1418a70.mp3",
+    "final_audio": "since-another-way-to-look-at-the-power-set-is-we-c1418a70.mp3"
+  },
+  {
+    "input_text": "If we say yes to all elements, we get the whole set.",
+    "input_data": {
+      "input_text": "If we say yes to all elements, we get the whole set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-we-say-yes-to-all-elements-we-get-the-whole-set-63501547.mp3",
+    "final_audio": "if-we-say-yes-to-all-elements-we-get-the-whole-set-63501547.mp3"
+  },
+  {
+    "input_text": "If we say no to each, we get the emptyset, and then we get everything in between.",
+    "input_data": {
+      "input_text": "If we say no to each, we get the emptyset, and then we get everything in between.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-we-say-no-to-each-we-get-the-emptyset-and-then-5dddd3a2.mp3",
+    "final_audio": "if-we-say-no-to-each-we-get-the-emptyset-and-then-5dddd3a2.mp3"
+  },
+  {
+    "input_text": "We will now use this to define the so-called Von Neuman Hierarchy of sets V, which is often considered to be THE Universe of sets.",
+    "input_data": {
+      "input_text": "We will now use this to define the so-called Von Neuman Hierarchy of sets V, which is often considered to be THE Universe of sets.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-will-now-use-this-to-define-the-so-called-von-4de866e6.mp3",
+    "final_audio": "we-will-now-use-this-to-define-the-so-called-von-4de866e6.mp3"
+  },
+  {
+    "input_text": "Again, we start with the empty set at the bottom, and then successively take the power set of the previous level.",
+    "input_data": {
+      "input_text": "Again, we start with the empty set at the bottom, and then successively take the power set of the previous level.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "again-we-start-with-the-empty-set-at-the-bottom-a27a2d05.mp3",
+    "final_audio": "again-we-start-with-the-empty-set-at-the-bottom-a27a2d05.mp3"
+  },
+  {
+    "input_text": "So we get the set with the emptyset at the first level, then the emptyset plus the set with the emptyset at the second level,",
+    "input_data": {
+      "input_text": "So we get the set with the emptyset at the first level, then the emptyset plus the set with the emptyset at the second level,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-we-get-the-set-with-the-emptyset-at-the-first-c2644392.mp3",
+    "final_audio": "so-we-get-the-set-with-the-emptyset-at-the-first-c2644392.mp3"
+  },
+  {
+    "input_text": "And so on. This seems tame and boring, but this is a hyper-exponential function, the size of each level is the size of the previous level raised to the power of 2.",
+    "input_data": {
+      "input_text": "And so on. This seems tame and boring, but this is a hyper-exponential function, the size of each level is the size of the previous level raised to the power of 2.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-so-on-this-seems-tame-and-boring-but-this-is-a-f1a392ec.mp3",
+    "final_audio": "and-so-on-this-seems-tame-and-boring-but-this-is-a-f1a392ec.mp3"
+  },
+  {
+    "input_text": "So, the third level has 16 elements, the fourth level has 65 Thousand, and the fifth level has way more sets than there are atoms in the Universe.",
+    "input_data": {
+      "input_text": "So, the third level has 16 elements, the fourth level has 65 Thousand, and the fifth level has way more sets than there are atoms in the Universe.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-the-third-level-has-16-elements-the-fourth-8d24f5b1.mp3",
+    "final_audio": "so-the-third-level-has-16-elements-the-fourth-8d24f5b1.mp3"
+  },
+  {
+    "input_text": "We can see that each level contains the next ordinal.",
+    "input_data": {
+      "input_text": "We can see that each level contains the next ordinal.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-see-that-each-level-contains-the-next-31ce7e93.mp3",
+    "final_audio": "we-can-see-that-each-level-contains-the-next-31ce7e93.mp3"
+  },
+  {
+    "input_text": "The Power set is the set of all subsets. For example, if we have the set {1,2,3} the power set is the following set.",
+    "input_data": {
+      "input_text": "The Power set is the set of all subsets. For example, if we have the set {1,2,3} the power set is the following set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-power-set-is-the-set-of-all-subsets-for-6ffe4f2c.mp3",
+    "final_audio": "the-power-set-is-the-set-of-all-subsets-for-6ffe4f2c.mp3"
+  },
+  {
+    "input_text": "So, it contains the individual elements,",
+    "input_data": {
+      "input_text": "So, it contains the individual elements,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-it-contains-the-individual-elements-1ba78d6a.mp3",
+    "final_audio": "so-it-contains-the-individual-elements-1ba78d6a.mp3"
+  },
+  {
+    "input_text": "the pairs of elements,",
+    "input_data": {
+      "input_text": "the pairs of elements,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-pairs-of-elements-145225e6.mp3",
+    "final_audio": "the-pairs-of-elements-145225e6.mp3"
+  },
+  {
+    "input_text": "the whole set and the emptyset at the bottom, which is a subset of every set.",
+    "input_data": {
+      "input_text": "the whole set and the emptyset at the bottom, which is a subset of every set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-whole-set-and-the-emptyset-at-the-bottom-which-26f2bdd5.mp3",
+    "final_audio": "the-whole-set-and-the-emptyset-at-the-bottom-which-26f2bdd5.mp3"
+  },
+  {
+    "input_text": "We may notice that there are 2 to the power of 3 or 8 members in the power set of a set with three elements.",
+    "input_data": {
+      "input_text": "We may notice that there are 2 to the power of 3 or 8 members in the power set of a set with three elements.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-may-notice-that-there-are-2-to-the-power-of-3-d181f680.mp3",
+    "final_audio": "we-may-notice-that-there-are-2-to-the-power-of-3-d181f680.mp3"
+  },
+  {
+    "input_text": "Since another way to look at the power set, is we consider each possibility in the procedure of going by each element in the set and either saying yes or no.",
+    "input_data": {
+      "input_text": "Since another way to look at the power set, is we consider each possibility in the procedure of going by each element in the set and either saying yes or no.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "since-another-way-to-look-at-the-power-set-is-we-c1418a70.mp3",
+    "final_audio": "since-another-way-to-look-at-the-power-set-is-we-c1418a70.mp3"
+  },
+  {
+    "input_text": "If we say yes to all elements, we get the whole set.",
+    "input_data": {
+      "input_text": "If we say yes to all elements, we get the whole set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-we-say-yes-to-all-elements-we-get-the-whole-set-63501547.mp3",
+    "final_audio": "if-we-say-yes-to-all-elements-we-get-the-whole-set-63501547.mp3"
+  },
+  {
+    "input_text": "If we say no to each, we get the emptyset, and then we get everything in between.",
+    "input_data": {
+      "input_text": "If we say no to each, we get the emptyset, and then we get everything in between.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-we-say-no-to-each-we-get-the-emptyset-and-then-5dddd3a2.mp3",
+    "final_audio": "if-we-say-no-to-each-we-get-the-emptyset-and-then-5dddd3a2.mp3"
+  },
+  {
+    "input_text": "We will now use this to define the so-called Von Neuman Hierarchy of sets V, which is often considered to be THE Universe of sets.",
+    "input_data": {
+      "input_text": "We will now use this to define the so-called Von Neuman Hierarchy of sets V, which is often considered to be THE Universe of sets.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-will-now-use-this-to-define-the-so-called-von-4de866e6.mp3",
+    "final_audio": "we-will-now-use-this-to-define-the-so-called-von-4de866e6.mp3"
+  },
+  {
+    "input_text": "Again, we start with the empty set at the bottom, and then successively take the power set of the previous level.",
+    "input_data": {
+      "input_text": "Again, we start with the empty set at the bottom, and then successively take the power set of the previous level.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "again-we-start-with-the-empty-set-at-the-bottom-a27a2d05.mp3",
+    "final_audio": "again-we-start-with-the-empty-set-at-the-bottom-a27a2d05.mp3"
+  },
+  {
+    "input_text": "So we get the set with the emptyset at the first level, then the emptyset plus the set with the emptyset at the second level,",
+    "input_data": {
+      "input_text": "So we get the set with the emptyset at the first level, then the emptyset plus the set with the emptyset at the second level,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-we-get-the-set-with-the-emptyset-at-the-first-c2644392.mp3",
+    "final_audio": "so-we-get-the-set-with-the-emptyset-at-the-first-c2644392.mp3"
+  },
+  {
+    "input_text": "And so on. This seems tame and boring, but this is a hyper-exponential function, the size of each level is the size of the previous level raised to the power of 2.",
+    "input_data": {
+      "input_text": "And so on. This seems tame and boring, but this is a hyper-exponential function, the size of each level is the size of the previous level raised to the power of 2.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-so-on-this-seems-tame-and-boring-but-this-is-a-f1a392ec.mp3",
+    "final_audio": "and-so-on-this-seems-tame-and-boring-but-this-is-a-f1a392ec.mp3"
+  },
+  {
+    "input_text": "So, the third level has 16 elements, the fourth level has 65 Thousand, and the fifth level has way more sets than there are atoms in the Universe.",
+    "input_data": {
+      "input_text": "So, the third level has 16 elements, the fourth level has 65 Thousand, and the fifth level has way more sets than there are atoms in the Universe.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-the-third-level-has-16-elements-the-fourth-8d24f5b1.mp3",
+    "final_audio": "so-the-third-level-has-16-elements-the-fourth-8d24f5b1.mp3"
+  },
+  {
+    "input_text": "We can see that each level contains the next ordinal.",
+    "input_data": {
+      "input_text": "We can see that each level contains the next ordinal.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-see-that-each-level-contains-the-next-31ce7e93.mp3",
+    "final_audio": "we-can-see-that-each-level-contains-the-next-31ce7e93.mp3"
+  },
+  {
+    "input_text": "The Power set is the set of all subsets. For example, if we have the set {1,2,3} the power set is the following set.",
+    "input_data": {
+      "input_text": "The Power set is the set of all subsets. For example, if we have the set {1,2,3} the power set is the following set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-power-set-is-the-set-of-all-subsets-for-6ffe4f2c.mp3",
+    "final_audio": "the-power-set-is-the-set-of-all-subsets-for-6ffe4f2c.mp3"
+  },
+  {
+    "input_text": "So, it contains the individual elements,",
+    "input_data": {
+      "input_text": "So, it contains the individual elements,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-it-contains-the-individual-elements-1ba78d6a.mp3",
+    "final_audio": "so-it-contains-the-individual-elements-1ba78d6a.mp3"
+  },
+  {
+    "input_text": "the pairs of elements,",
+    "input_data": {
+      "input_text": "the pairs of elements,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-pairs-of-elements-145225e6.mp3",
+    "final_audio": "the-pairs-of-elements-145225e6.mp3"
+  },
+  {
+    "input_text": "the whole set and the emptyset at the bottom, which is a subset of every set.",
+    "input_data": {
+      "input_text": "the whole set and the emptyset at the bottom, which is a subset of every set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-whole-set-and-the-emptyset-at-the-bottom-which-26f2bdd5.mp3",
+    "final_audio": "the-whole-set-and-the-emptyset-at-the-bottom-which-26f2bdd5.mp3"
+  },
+  {
+    "input_text": "We may notice that there are 2 to the power of 3 or 8 members in the power set of a set with three elements.",
+    "input_data": {
+      "input_text": "We may notice that there are 2 to the power of 3 or 8 members in the power set of a set with three elements.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-may-notice-that-there-are-2-to-the-power-of-3-d181f680.mp3",
+    "final_audio": "we-may-notice-that-there-are-2-to-the-power-of-3-d181f680.mp3"
+  },
+  {
+    "input_text": "Since another way to look at the power set, is we consider each possibility in the procedure of going by each element in the set and either saying yes or no.",
+    "input_data": {
+      "input_text": "Since another way to look at the power set, is we consider each possibility in the procedure of going by each element in the set and either saying yes or no.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "since-another-way-to-look-at-the-power-set-is-we-c1418a70.mp3",
+    "final_audio": "since-another-way-to-look-at-the-power-set-is-we-c1418a70.mp3"
+  },
+  {
+    "input_text": "If we say yes to all elements, we get the whole set.",
+    "input_data": {
+      "input_text": "If we say yes to all elements, we get the whole set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-we-say-yes-to-all-elements-we-get-the-whole-set-63501547.mp3",
+    "final_audio": "if-we-say-yes-to-all-elements-we-get-the-whole-set-63501547.mp3"
+  },
+  {
+    "input_text": "If we say no to each, we get the emptyset, and then we get everything in between.",
+    "input_data": {
+      "input_text": "If we say no to each, we get the emptyset, and then we get everything in between.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-we-say-no-to-each-we-get-the-emptyset-and-then-5dddd3a2.mp3",
+    "final_audio": "if-we-say-no-to-each-we-get-the-emptyset-and-then-5dddd3a2.mp3"
+  },
+  {
+    "input_text": "We will now use this to define the so-called Von Neuman Hierarchy of sets V, which is often considered to be THE Universe of sets.",
+    "input_data": {
+      "input_text": "We will now use this to define the so-called Von Neuman Hierarchy of sets V, which is often considered to be THE Universe of sets.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-will-now-use-this-to-define-the-so-called-von-4de866e6.mp3",
+    "final_audio": "we-will-now-use-this-to-define-the-so-called-von-4de866e6.mp3"
+  },
+  {
+    "input_text": "Again, we start with the empty set at the bottom, and then successively take the power set of the previous level.",
+    "input_data": {
+      "input_text": "Again, we start with the empty set at the bottom, and then successively take the power set of the previous level.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "again-we-start-with-the-empty-set-at-the-bottom-a27a2d05.mp3",
+    "final_audio": "again-we-start-with-the-empty-set-at-the-bottom-a27a2d05.mp3"
+  },
+  {
+    "input_text": "So we get the set with the emptyset at the first level, then the emptyset plus the set with the emptyset at the second level,",
+    "input_data": {
+      "input_text": "So we get the set with the emptyset at the first level, then the emptyset plus the set with the emptyset at the second level,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-we-get-the-set-with-the-emptyset-at-the-first-c2644392.mp3",
+    "final_audio": "so-we-get-the-set-with-the-emptyset-at-the-first-c2644392.mp3"
+  },
+  {
+    "input_text": "And so on. This seems tame and boring, but this is a hyper-exponential function, the size of each level is the size of the previous level raised to the power of 2.",
+    "input_data": {
+      "input_text": "And so on. This seems tame and boring, but this is a hyper-exponential function, the size of each level is the size of the previous level raised to the power of 2.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-so-on-this-seems-tame-and-boring-but-this-is-a-f1a392ec.mp3",
+    "final_audio": "and-so-on-this-seems-tame-and-boring-but-this-is-a-f1a392ec.mp3"
+  },
+  {
+    "input_text": "So, the third level has 16 elements, the fourth level has 65 Thousand, and the fifth level has way more sets than there are atoms in the Universe.",
+    "input_data": {
+      "input_text": "So, the third level has 16 elements, the fourth level has 65 Thousand, and the fifth level has way more sets than there are atoms in the Universe.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-the-third-level-has-16-elements-the-fourth-8d24f5b1.mp3",
+    "final_audio": "so-the-third-level-has-16-elements-the-fourth-8d24f5b1.mp3"
+  },
+  {
+    "input_text": "We can see that each level contains the next ordinal.",
+    "input_data": {
+      "input_text": "We can see that each level contains the next ordinal.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-see-that-each-level-contains-the-next-31ce7e93.mp3",
+    "final_audio": "we-can-see-that-each-level-contains-the-next-31ce7e93.mp3"
+  },
+  {
+    "input_text": "We can repeat this procedure indefinitely, resulting in the structure which we call V_omega.",
+    "input_data": {
+      "input_text": "We can repeat this procedure indefinitely, resulting in the structure which we call V_omega.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-repeat-this-procedure-indefinitely-1cbd73ca.mp3",
+    "final_audio": "we-can-repeat-this-procedure-indefinitely-1cbd73ca.mp3"
+  },
+  {
+    "input_text": "We can then add in the following new axioms, to get the theory ZFC-INFINITY.",
+    "input_data": {
+      "input_text": "We can then add in the following new axioms, to get the theory ZFC-INFINITY.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-then-add-in-the-following-new-axioms-to-get-e119b08f.mp3",
+    "final_audio": "we-can-then-add-in-the-following-new-axioms-to-get-e119b08f.mp3"
+  },
+  {
+    "input_text": "These two axioms only make sense if we have infinite sets, so we don't need to worry about them.",
+    "input_data": {
+      "input_text": "These two axioms only make sense if we have infinite sets, so we don't need to worry about them.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "these-two-axioms-only-make-sense-if-we-have-37f6d0aa.mp3",
+    "final_audio": "these-two-axioms-only-make-sense-if-we-have-37f6d0aa.mp3"
+  },
+  {
+    "input_text": "The replacement axiom just states that our Set theoretic Universe is closed under functions. Meaning that if we have a function defined on a set, then the range is also a set.",
+    "input_data": {
+      "input_text": "The replacement axiom just states that our Set theoretic Universe is closed under functions. Meaning that if we have a function defined on a set, then the range is also a set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-replacement-axiom-just-states-that-our-set-77c9079c.mp3",
+    "final_audio": "the-replacement-axiom-just-states-that-our-set-77c9079c.mp3"
+  },
+  {
+    "input_text": "And this is the axiom of separation, which given some pre-existing set Y, allows us to separate out all of the sets in Y which satisfy a certain property. Where to get a bit technical, by property we mean a First order formula with one free variable.",
+    "input_data": {
+      "input_text": "And this is the axiom of separation, which given some pre-existing set Y, allows us to separate out all of the sets in Y which satisfy a certain property. Where to get a bit technical, by property we mean a First order formula with one free variable.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-this-is-the-axiom-of-separation-which-given-02f47af2.mp3",
+    "final_audio": "and-this-is-the-axiom-of-separation-which-given-02f47af2.mp3"
+  },
+  {
+    "input_text": "For example, we can use the formula \\exists x(x+x=y) to separate the even numbers from the natural numbers.",
+    "input_data": {
+      "input_text": "For example, we can use the formula \\exists x(x+x=y) to separate the even numbers from the natural numbers.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-we-can-use-the-formula-exists-x-x-x-y-7b4234f3.mp3",
+    "final_audio": "for-example-we-can-use-the-formula-exists-x-x-x-y-7b4234f3.mp3"
+  },
+  {
+    "input_text": "This formula is only true if we instantiate y with an even number.",
+    "input_data": {
+      "input_text": "This formula is only true if we instantiate y with an even number.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-formula-is-only-true-if-we-instantiate-y-with-58774861.mp3",
+    "final_audio": "this-formula-is-only-true-if-we-instantiate-y-with-58774861.mp3"
+  },
+  {
+    "input_text": "Note, that the restriction that we are separating the elements from a pre-existing set is necessary to avoid paradoxes. Since, without it, we could define the set X to be the set of all sets which do not contain themselves.",
+    "input_data": {
+      "input_text": "Note, that the restriction that we are separating the elements from a pre-existing set is necessary to avoid paradoxes. Since, without it, we could define the set X to be the set of all sets which do not contain themselves.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "note-that-the-restriction-that-we-are-separating-20131261.mp3",
+    "final_audio": "note-that-the-restriction-that-we-are-separating-20131261.mp3"
+  },
+  {
+    "input_text": "This is defined by a simple formula with one free variable, yet we get that X in X iff X not in X. Which is a contradiction.",
+    "input_data": {
+      "input_text": "This is defined by a simple formula with one free variable, yet we get that X in X iff X not in X. Which is a contradiction.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-defined-by-a-simple-formula-with-one-free-1463d030.mp3",
+    "final_audio": "this-is-defined-by-a-simple-formula-with-one-free-1463d030.mp3"
+  },
+  {
+    "input_text": "But anyways, if we stop the construction of our Universe here, we get a model of ZFC-Infinity, since we can show that each of these axioms hold true in this structure, yet each set is finite.",
+    "input_data": {
+      "input_text": "But anyways, if we stop the construction of our Universe here, we get a model of ZFC-Infinity, since we can show that each of these axioms hold true in this structure, yet each set is finite.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-anyways-if-we-stop-the-construction-of-our-0eb93fd9.mp3",
+    "final_audio": "but-anyways-if-we-stop-the-construction-of-our-0eb93fd9.mp3"
+  },
+  {
+    "input_text": "However, this structure is logically equivalent to the number line with addition and multiplication described earlier.",
+    "input_data": {
+      "input_text": "However, this structure is logically equivalent to the number line with addition and multiplication described earlier.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "however-this-structure-is-logically-equivalent-to-971fac37.mp3",
+    "final_audio": "however-this-structure-is-logically-equivalent-to-971fac37.mp3"
+  },
+  {
+    "input_text": "Meaning that both structures can be interpreted within the other.",
+    "input_data": {
+      "input_text": "Meaning that both structures can be interpreted within the other.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "meaning-that-both-structures-can-be-interpreted-afb804a0.mp3",
+    "final_audio": "meaning-that-both-structures-can-be-interpreted-afb804a0.mp3"
+  },
+  {
+    "input_text": "So, this tells us that if we want to go beyond simple elementary school math, we will need infinite sets. But infinite sets are confusing and cause issues when trying to formalize all of math.",
+    "input_data": {
+      "input_text": "So, this tells us that if we want to go beyond simple elementary school math, we will need infinite sets. But infinite sets are confusing and cause issues when trying to formalize all of math.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-this-tells-us-that-if-we-want-to-go-beyond-8d54175f.mp3",
+    "final_audio": "so-this-tells-us-that-if-we-want-to-go-beyond-8d54175f.mp3"
+  },
+  {
+    "input_text": "The Power set is the set of all subsets. For example, if we have the set {1,2,3} the power set is the following set.",
+    "input_data": {
+      "input_text": "The Power set is the set of all subsets. For example, if we have the set {1,2,3} the power set is the following set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-power-set-is-the-set-of-all-subsets-for-6ffe4f2c.mp3",
+    "final_audio": "the-power-set-is-the-set-of-all-subsets-for-6ffe4f2c.mp3"
+  },
+  {
+    "input_text": "So, it contains the individual elements,",
+    "input_data": {
+      "input_text": "So, it contains the individual elements,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-it-contains-the-individual-elements-1ba78d6a.mp3",
+    "final_audio": "so-it-contains-the-individual-elements-1ba78d6a.mp3"
+  },
+  {
+    "input_text": "the pairs of elements,",
+    "input_data": {
+      "input_text": "the pairs of elements,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-pairs-of-elements-145225e6.mp3",
+    "final_audio": "the-pairs-of-elements-145225e6.mp3"
+  },
+  {
+    "input_text": "the whole set and the emptyset at the bottom, which is a subset of every set.",
+    "input_data": {
+      "input_text": "the whole set and the emptyset at the bottom, which is a subset of every set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-whole-set-and-the-emptyset-at-the-bottom-which-26f2bdd5.mp3",
+    "final_audio": "the-whole-set-and-the-emptyset-at-the-bottom-which-26f2bdd5.mp3"
+  },
+  {
+    "input_text": "We may notice that there are 2 to the power of 3 or 8 members in the power set of a set with three elements.",
+    "input_data": {
+      "input_text": "We may notice that there are 2 to the power of 3 or 8 members in the power set of a set with three elements.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-may-notice-that-there-are-2-to-the-power-of-3-d181f680.mp3",
+    "final_audio": "we-may-notice-that-there-are-2-to-the-power-of-3-d181f680.mp3"
+  },
+  {
+    "input_text": "Since another way to look at the power set, is we consider each possibility in the procedure of going by each element in the set and either saying yes or no.",
+    "input_data": {
+      "input_text": "Since another way to look at the power set, is we consider each possibility in the procedure of going by each element in the set and either saying yes or no.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "since-another-way-to-look-at-the-power-set-is-we-c1418a70.mp3",
+    "final_audio": "since-another-way-to-look-at-the-power-set-is-we-c1418a70.mp3"
+  },
+  {
+    "input_text": "The Power set is the set of all subsets. For example, if we have the set {1,2,3} the power set is the following set.",
+    "input_data": {
+      "input_text": "The Power set is the set of all subsets. For example, if we have the set {1,2,3} the power set is the following set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-power-set-is-the-set-of-all-subsets-for-6ffe4f2c.mp3",
+    "final_audio": "the-power-set-is-the-set-of-all-subsets-for-6ffe4f2c.mp3"
+  },
+  {
+    "input_text": "So, it contains the individual elements,",
+    "input_data": {
+      "input_text": "So, it contains the individual elements,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-it-contains-the-individual-elements-1ba78d6a.mp3",
+    "final_audio": "so-it-contains-the-individual-elements-1ba78d6a.mp3"
+  },
+  {
+    "input_text": "the pairs of elements,",
+    "input_data": {
+      "input_text": "the pairs of elements,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-pairs-of-elements-145225e6.mp3",
+    "final_audio": "the-pairs-of-elements-145225e6.mp3"
+  },
+  {
+    "input_text": "the whole set and the emptyset at the bottom, which is a subset of every set.",
+    "input_data": {
+      "input_text": "the whole set and the emptyset at the bottom, which is a subset of every set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-whole-set-and-the-emptyset-at-the-bottom-which-26f2bdd5.mp3",
+    "final_audio": "the-whole-set-and-the-emptyset-at-the-bottom-which-26f2bdd5.mp3"
+  },
+  {
+    "input_text": "We may notice that there are 2 to the power of 3 or 8 members in the power set of a set with three elements.",
+    "input_data": {
+      "input_text": "We may notice that there are 2 to the power of 3 or 8 members in the power set of a set with three elements.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-may-notice-that-there-are-2-to-the-power-of-3-d181f680.mp3",
+    "final_audio": "we-may-notice-that-there-are-2-to-the-power-of-3-d181f680.mp3"
+  },
+  {
+    "input_text": "Since another way to look at the power set, is we consider each possibility in the procedure of going by each element in the set and either saying yes or no.",
+    "input_data": {
+      "input_text": "Since another way to look at the power set, is we consider each possibility in the procedure of going by each element in the set and either saying yes or no.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "since-another-way-to-look-at-the-power-set-is-we-c1418a70.mp3",
+    "final_audio": "since-another-way-to-look-at-the-power-set-is-we-c1418a70.mp3"
+  },
+  {
+    "input_text": "If we say yes to all elements, we get the whole set.",
+    "input_data": {
+      "input_text": "If we say yes to all elements, we get the whole set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-we-say-yes-to-all-elements-we-get-the-whole-set-63501547.mp3",
+    "final_audio": "if-we-say-yes-to-all-elements-we-get-the-whole-set-63501547.mp3"
+  },
+  {
+    "input_text": "If we say no to each, we get the emptyset, and then we get everything in between.",
+    "input_data": {
+      "input_text": "If we say no to each, we get the emptyset, and then we get everything in between.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-we-say-no-to-each-we-get-the-emptyset-and-then-5dddd3a2.mp3",
+    "final_audio": "if-we-say-no-to-each-we-get-the-emptyset-and-then-5dddd3a2.mp3"
+  },
+  {
+    "input_text": "We will now use this to define the so-called Von Neuman Hierarchy of sets V, which is often considered to be THE Universe of sets.",
+    "input_data": {
+      "input_text": "We will now use this to define the so-called Von Neuman Hierarchy of sets V, which is often considered to be THE Universe of sets.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-will-now-use-this-to-define-the-so-called-von-4de866e6.mp3",
+    "final_audio": "we-will-now-use-this-to-define-the-so-called-von-4de866e6.mp3"
+  },
+  {
+    "input_text": "Again, we start with the empty set at the bottom, and then successively take the power set of the previous level.",
+    "input_data": {
+      "input_text": "Again, we start with the empty set at the bottom, and then successively take the power set of the previous level.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "again-we-start-with-the-empty-set-at-the-bottom-a27a2d05.mp3",
+    "final_audio": "again-we-start-with-the-empty-set-at-the-bottom-a27a2d05.mp3"
+  },
+  {
+    "input_text": "So we get the set with the emptyset at the first level, then the emptyset plus the set with the emptyset at the second level,",
+    "input_data": {
+      "input_text": "So we get the set with the emptyset at the first level, then the emptyset plus the set with the emptyset at the second level,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-we-get-the-set-with-the-emptyset-at-the-first-c2644392.mp3",
+    "final_audio": "so-we-get-the-set-with-the-emptyset-at-the-first-c2644392.mp3"
+  },
+  {
+    "input_text": "And so on. This seems tame and boring, but this is a hyper-exponential function, the size of each level is the size of the previous level raised to the power of 2.",
+    "input_data": {
+      "input_text": "And so on. This seems tame and boring, but this is a hyper-exponential function, the size of each level is the size of the previous level raised to the power of 2.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-so-on-this-seems-tame-and-boring-but-this-is-a-f1a392ec.mp3",
+    "final_audio": "and-so-on-this-seems-tame-and-boring-but-this-is-a-f1a392ec.mp3"
+  },
+  {
+    "input_text": "So, the third level has 16 elements, the fourth level has 65 Thousand, and the fifth level has way more sets than there are atoms in the Universe.",
+    "input_data": {
+      "input_text": "So, the third level has 16 elements, the fourth level has 65 Thousand, and the fifth level has way more sets than there are atoms in the Universe.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-the-third-level-has-16-elements-the-fourth-8d24f5b1.mp3",
+    "final_audio": "so-the-third-level-has-16-elements-the-fourth-8d24f5b1.mp3"
+  },
+  {
+    "input_text": "We can see that each level contains the next ordinal.",
+    "input_data": {
+      "input_text": "We can see that each level contains the next ordinal.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-see-that-each-level-contains-the-next-31ce7e93.mp3",
+    "final_audio": "we-can-see-that-each-level-contains-the-next-31ce7e93.mp3"
+  },
+  {
+    "input_text": "We can repeat this procedure indefinitely, resulting in the structure which we call V_omega.",
+    "input_data": {
+      "input_text": "We can repeat this procedure indefinitely, resulting in the structure which we call V_omega.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-repeat-this-procedure-indefinitely-1cbd73ca.mp3",
+    "final_audio": "we-can-repeat-this-procedure-indefinitely-1cbd73ca.mp3"
+  },
+  {
+    "input_text": "We can then add in the following new axioms, to get the theory ZFC-INFINITY.",
+    "input_data": {
+      "input_text": "We can then add in the following new axioms, to get the theory ZFC-INFINITY.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-then-add-in-the-following-new-axioms-to-get-e119b08f.mp3",
+    "final_audio": "we-can-then-add-in-the-following-new-axioms-to-get-e119b08f.mp3"
+  },
+  {
+    "input_text": "These two axioms only make sense if we have infinite sets, so we don't need to worry about them.",
+    "input_data": {
+      "input_text": "These two axioms only make sense if we have infinite sets, so we don't need to worry about them.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "these-two-axioms-only-make-sense-if-we-have-37f6d0aa.mp3",
+    "final_audio": "these-two-axioms-only-make-sense-if-we-have-37f6d0aa.mp3"
+  },
+  {
+    "input_text": "The replacement axiom just states that our Set theoretic Universe is closed under functions. Meaning that if we have a function defined on a set, then the range is also a set.",
+    "input_data": {
+      "input_text": "The replacement axiom just states that our Set theoretic Universe is closed under functions. Meaning that if we have a function defined on a set, then the range is also a set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-replacement-axiom-just-states-that-our-set-77c9079c.mp3",
+    "final_audio": "the-replacement-axiom-just-states-that-our-set-77c9079c.mp3"
+  },
+  {
+    "input_text": "And this is the axiom of separation, which given some pre-existing set Y, allows us to separate out all of the sets in Y which satisfy a certain property. Where to get a bit technical, by property we mean a First order formula with one free variable.",
+    "input_data": {
+      "input_text": "And this is the axiom of separation, which given some pre-existing set Y, allows us to separate out all of the sets in Y which satisfy a certain property. Where to get a bit technical, by property we mean a First order formula with one free variable.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-this-is-the-axiom-of-separation-which-given-02f47af2.mp3",
+    "final_audio": "and-this-is-the-axiom-of-separation-which-given-02f47af2.mp3"
+  },
+  {
+    "input_text": "For example, we can use the formula \\exists x(x+x=y) to separate the even numbers from the natural numbers.",
+    "input_data": {
+      "input_text": "For example, we can use the formula \\exists x(x+x=y) to separate the even numbers from the natural numbers.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-we-can-use-the-formula-exists-x-x-x-y-7b4234f3.mp3",
+    "final_audio": "for-example-we-can-use-the-formula-exists-x-x-x-y-7b4234f3.mp3"
+  },
+  {
+    "input_text": "This formula is only true if we instantiate y with an even number.",
+    "input_data": {
+      "input_text": "This formula is only true if we instantiate y with an even number.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-formula-is-only-true-if-we-instantiate-y-with-58774861.mp3",
+    "final_audio": "this-formula-is-only-true-if-we-instantiate-y-with-58774861.mp3"
+  },
+  {
+    "input_text": "Note, that the restriction that we are separating the elements from a pre-existing set is necessary to avoid paradoxes. Since, without it, we could define the set X to be the set of all sets which do not contain themselves.",
+    "input_data": {
+      "input_text": "Note, that the restriction that we are separating the elements from a pre-existing set is necessary to avoid paradoxes. Since, without it, we could define the set X to be the set of all sets which do not contain themselves.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "note-that-the-restriction-that-we-are-separating-20131261.mp3",
+    "final_audio": "note-that-the-restriction-that-we-are-separating-20131261.mp3"
+  },
+  {
+    "input_text": "This is defined by a simple formula with one free variable, yet we get that X in X iff X not in X. Which is a contradiction.",
+    "input_data": {
+      "input_text": "This is defined by a simple formula with one free variable, yet we get that X in X iff X not in X. Which is a contradiction.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-defined-by-a-simple-formula-with-one-free-1463d030.mp3",
+    "final_audio": "this-is-defined-by-a-simple-formula-with-one-free-1463d030.mp3"
+  },
+  {
+    "input_text": "But anyways, if we stop the construction of our Universe here, we get a model of ZFC-Infinity, since we can show that each of these axioms hold true in this structure, yet each set is finite.",
+    "input_data": {
+      "input_text": "But anyways, if we stop the construction of our Universe here, we get a model of ZFC-Infinity, since we can show that each of these axioms hold true in this structure, yet each set is finite.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-anyways-if-we-stop-the-construction-of-our-0eb93fd9.mp3",
+    "final_audio": "but-anyways-if-we-stop-the-construction-of-our-0eb93fd9.mp3"
+  },
+  {
+    "input_text": "However, this structure is logically equivalent to the number line with addition and multiplication described earlier.",
+    "input_data": {
+      "input_text": "However, this structure is logically equivalent to the number line with addition and multiplication described earlier.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "however-this-structure-is-logically-equivalent-to-971fac37.mp3",
+    "final_audio": "however-this-structure-is-logically-equivalent-to-971fac37.mp3"
+  },
+  {
+    "input_text": "Meaning that both structures can be interpreted within the other.",
+    "input_data": {
+      "input_text": "Meaning that both structures can be interpreted within the other.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "meaning-that-both-structures-can-be-interpreted-afb804a0.mp3",
+    "final_audio": "meaning-that-both-structures-can-be-interpreted-afb804a0.mp3"
+  },
+  {
+    "input_text": "So, this tells us that if we want to go beyond simple elementary school math, we will need infinite sets. But infinite sets are confusing and cause issues when trying to formalize all of math.",
+    "input_data": {
+      "input_text": "So, this tells us that if we want to go beyond simple elementary school math, we will need infinite sets. But infinite sets are confusing and cause issues when trying to formalize all of math.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-this-tells-us-that-if-we-want-to-go-beyond-8d54175f.mp3",
+    "final_audio": "so-this-tells-us-that-if-we-want-to-go-beyond-8d54175f.mp3"
+  },
+  {
+    "input_text": "The Power set is the set of all subsets. For example, if we have the set {1,2,3} the power set is the following set.",
+    "input_data": {
+      "input_text": "The Power set is the set of all subsets. For example, if we have the set {1,2,3} the power set is the following set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-power-set-is-the-set-of-all-subsets-for-6ffe4f2c.mp3",
+    "final_audio": "the-power-set-is-the-set-of-all-subsets-for-6ffe4f2c.mp3"
+  },
+  {
+    "input_text": "So, it contains the individual elements,",
+    "input_data": {
+      "input_text": "So, it contains the individual elements,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-it-contains-the-individual-elements-1ba78d6a.mp3",
+    "final_audio": "so-it-contains-the-individual-elements-1ba78d6a.mp3"
+  },
+  {
+    "input_text": "the pairs of elements,",
+    "input_data": {
+      "input_text": "the pairs of elements,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-pairs-of-elements-145225e6.mp3",
+    "final_audio": "the-pairs-of-elements-145225e6.mp3"
+  },
+  {
+    "input_text": "the whole set and the emptyset at the bottom, which is a subset of every set.",
+    "input_data": {
+      "input_text": "the whole set and the emptyset at the bottom, which is a subset of every set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-whole-set-and-the-emptyset-at-the-bottom-which-26f2bdd5.mp3",
+    "final_audio": "the-whole-set-and-the-emptyset-at-the-bottom-which-26f2bdd5.mp3"
+  },
+  {
+    "input_text": "We may notice that there are 2 to the power of 3 or 8 members in the power set of a set with three elements.",
+    "input_data": {
+      "input_text": "We may notice that there are 2 to the power of 3 or 8 members in the power set of a set with three elements.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-may-notice-that-there-are-2-to-the-power-of-3-d181f680.mp3",
+    "final_audio": "we-may-notice-that-there-are-2-to-the-power-of-3-d181f680.mp3"
+  },
+  {
+    "input_text": "Since another way to look at the power set, is we consider each possibility in the procedure of going by each element in the set and either saying yes or no.",
+    "input_data": {
+      "input_text": "Since another way to look at the power set, is we consider each possibility in the procedure of going by each element in the set and either saying yes or no.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "since-another-way-to-look-at-the-power-set-is-we-c1418a70.mp3",
+    "final_audio": "since-another-way-to-look-at-the-power-set-is-we-c1418a70.mp3"
+  },
+  {
+    "input_text": "If we say yes to all elements, we get the whole set.",
+    "input_data": {
+      "input_text": "If we say yes to all elements, we get the whole set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-we-say-yes-to-all-elements-we-get-the-whole-set-63501547.mp3",
+    "final_audio": "if-we-say-yes-to-all-elements-we-get-the-whole-set-63501547.mp3"
+  },
+  {
+    "input_text": "If we say no to each, we get the emptyset, and then we get everything in between.",
+    "input_data": {
+      "input_text": "If we say no to each, we get the emptyset, and then we get everything in between.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-we-say-no-to-each-we-get-the-emptyset-and-then-5dddd3a2.mp3",
+    "final_audio": "if-we-say-no-to-each-we-get-the-emptyset-and-then-5dddd3a2.mp3"
+  },
+  {
+    "input_text": "We will now use this to define the so-called Von Neuman Hierarchy of sets V, which is often considered to be THE Universe of sets.",
+    "input_data": {
+      "input_text": "We will now use this to define the so-called Von Neuman Hierarchy of sets V, which is often considered to be THE Universe of sets.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-will-now-use-this-to-define-the-so-called-von-4de866e6.mp3",
+    "final_audio": "we-will-now-use-this-to-define-the-so-called-von-4de866e6.mp3"
+  },
+  {
+    "input_text": "Again, we start with the empty set at the bottom, and then successively take the power set of the previous level.",
+    "input_data": {
+      "input_text": "Again, we start with the empty set at the bottom, and then successively take the power set of the previous level.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "again-we-start-with-the-empty-set-at-the-bottom-a27a2d05.mp3",
+    "final_audio": "again-we-start-with-the-empty-set-at-the-bottom-a27a2d05.mp3"
+  },
+  {
+    "input_text": "So we get the set with the emptyset at the first level, then the emptyset plus the set with the emptyset at the second level,",
+    "input_data": {
+      "input_text": "So we get the set with the emptyset at the first level, then the emptyset plus the set with the emptyset at the second level,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-we-get-the-set-with-the-emptyset-at-the-first-c2644392.mp3",
+    "final_audio": "so-we-get-the-set-with-the-emptyset-at-the-first-c2644392.mp3"
+  },
+  {
+    "input_text": "And so on. This seems tame and boring, but this is a hyper-exponential function, the size of each level is the size of the previous level raised to the power of 2.",
+    "input_data": {
+      "input_text": "And so on. This seems tame and boring, but this is a hyper-exponential function, the size of each level is the size of the previous level raised to the power of 2.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-so-on-this-seems-tame-and-boring-but-this-is-a-f1a392ec.mp3",
+    "final_audio": "and-so-on-this-seems-tame-and-boring-but-this-is-a-f1a392ec.mp3"
+  },
+  {
+    "input_text": "So, the third level has 16 elements, the fourth level has 65 Thousand, and the fifth level has way more sets than there are atoms in the Universe.",
+    "input_data": {
+      "input_text": "So, the third level has 16 elements, the fourth level has 65 Thousand, and the fifth level has way more sets than there are atoms in the Universe.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-the-third-level-has-16-elements-the-fourth-8d24f5b1.mp3",
+    "final_audio": "so-the-third-level-has-16-elements-the-fourth-8d24f5b1.mp3"
+  },
+  {
+    "input_text": "We can see that each level contains the next ordinal.",
+    "input_data": {
+      "input_text": "We can see that each level contains the next ordinal.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-see-that-each-level-contains-the-next-31ce7e93.mp3",
+    "final_audio": "we-can-see-that-each-level-contains-the-next-31ce7e93.mp3"
+  },
+  {
+    "input_text": "We can repeat this procedure indefinitely, resulting in the structure which we call V_omega.",
+    "input_data": {
+      "input_text": "We can repeat this procedure indefinitely, resulting in the structure which we call V_omega.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-repeat-this-procedure-indefinitely-1cbd73ca.mp3",
+    "final_audio": "we-can-repeat-this-procedure-indefinitely-1cbd73ca.mp3"
+  },
+  {
+    "input_text": "We can then add in the following new axioms, to get the theory ZFC-INFINITY.",
+    "input_data": {
+      "input_text": "We can then add in the following new axioms, to get the theory ZFC-INFINITY.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-then-add-in-the-following-new-axioms-to-get-e119b08f.mp3",
+    "final_audio": "we-can-then-add-in-the-following-new-axioms-to-get-e119b08f.mp3"
+  },
+  {
+    "input_text": "These two axioms only make sense if we have infinite sets, so we don't need to worry about them.",
+    "input_data": {
+      "input_text": "These two axioms only make sense if we have infinite sets, so we don't need to worry about them.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "these-two-axioms-only-make-sense-if-we-have-37f6d0aa.mp3",
+    "final_audio": "these-two-axioms-only-make-sense-if-we-have-37f6d0aa.mp3"
+  },
+  {
+    "input_text": "The replacement axiom just states that our Set theoretic Universe is closed under functions. Meaning that if we have a function defined on a set, then the range is also a set.",
+    "input_data": {
+      "input_text": "The replacement axiom just states that our Set theoretic Universe is closed under functions. Meaning that if we have a function defined on a set, then the range is also a set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-replacement-axiom-just-states-that-our-set-77c9079c.mp3",
+    "final_audio": "the-replacement-axiom-just-states-that-our-set-77c9079c.mp3"
+  },
+  {
+    "input_text": "And this is the axiom of separation, which given some pre-existing set Y, allows us to separate out all of the sets in Y which satisfy a certain property. Where to get a bit technical, by property we mean a First order formula with one free variable.",
+    "input_data": {
+      "input_text": "And this is the axiom of separation, which given some pre-existing set Y, allows us to separate out all of the sets in Y which satisfy a certain property. Where to get a bit technical, by property we mean a First order formula with one free variable.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-this-is-the-axiom-of-separation-which-given-02f47af2.mp3",
+    "final_audio": "and-this-is-the-axiom-of-separation-which-given-02f47af2.mp3"
+  },
+  {
+    "input_text": "For example, we can use the formula \\exists x(x+x=y) to separate the even numbers from the natural numbers.",
+    "input_data": {
+      "input_text": "For example, we can use the formula \\exists x(x+x=y) to separate the even numbers from the natural numbers.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-we-can-use-the-formula-exists-x-x-x-y-7b4234f3.mp3",
+    "final_audio": "for-example-we-can-use-the-formula-exists-x-x-x-y-7b4234f3.mp3"
+  },
+  {
+    "input_text": "This formula is only true if we instantiate y with an even number.",
+    "input_data": {
+      "input_text": "This formula is only true if we instantiate y with an even number.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-formula-is-only-true-if-we-instantiate-y-with-58774861.mp3",
+    "final_audio": "this-formula-is-only-true-if-we-instantiate-y-with-58774861.mp3"
+  },
+  {
+    "input_text": "Note, that the restriction that we are separating the elements from a pre-existing set is necessary to avoid paradoxes. Since, without it, we could define the set X to be the set of all sets which do not contain themselves.",
+    "input_data": {
+      "input_text": "Note, that the restriction that we are separating the elements from a pre-existing set is necessary to avoid paradoxes. Since, without it, we could define the set X to be the set of all sets which do not contain themselves.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "note-that-the-restriction-that-we-are-separating-20131261.mp3",
+    "final_audio": "note-that-the-restriction-that-we-are-separating-20131261.mp3"
+  },
+  {
+    "input_text": "This is defined by a simple formula with one free variable, yet we get that X in X iff X not in X. Which is a contradiction.",
+    "input_data": {
+      "input_text": "This is defined by a simple formula with one free variable, yet we get that X in X iff X not in X. Which is a contradiction.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-defined-by-a-simple-formula-with-one-free-1463d030.mp3",
+    "final_audio": "this-is-defined-by-a-simple-formula-with-one-free-1463d030.mp3"
+  },
+  {
+    "input_text": "But anyways, if we stop the construction of our Universe here, we get a model of ZFC-Infinity, since we can show that each of these axioms hold true in this structure, yet each set is finite.",
+    "input_data": {
+      "input_text": "But anyways, if we stop the construction of our Universe here, we get a model of ZFC-Infinity, since we can show that each of these axioms hold true in this structure, yet each set is finite.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-anyways-if-we-stop-the-construction-of-our-0eb93fd9.mp3",
+    "final_audio": "but-anyways-if-we-stop-the-construction-of-our-0eb93fd9.mp3"
+  },
+  {
+    "input_text": "However, this structure is logically equivalent to the number line with addition and multiplication described earlier.",
+    "input_data": {
+      "input_text": "However, this structure is logically equivalent to the number line with addition and multiplication described earlier.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "however-this-structure-is-logically-equivalent-to-971fac37.mp3",
+    "final_audio": "however-this-structure-is-logically-equivalent-to-971fac37.mp3"
+  },
+  {
+    "input_text": "Meaning that both structures can be interpreted within the other.",
+    "input_data": {
+      "input_text": "Meaning that both structures can be interpreted within the other.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "meaning-that-both-structures-can-be-interpreted-afb804a0.mp3",
+    "final_audio": "meaning-that-both-structures-can-be-interpreted-afb804a0.mp3"
+  },
+  {
+    "input_text": "So, this tells us that if we want to go beyond simple elementary school math, we will need infinite sets. But infinite sets are confusing and cause issues when trying to formalize all of math.",
+    "input_data": {
+      "input_text": "So, this tells us that if we want to go beyond simple elementary school math, we will need infinite sets. But infinite sets are confusing and cause issues when trying to formalize all of math.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-this-tells-us-that-if-we-want-to-go-beyond-8d54175f.mp3",
+    "final_audio": "so-this-tells-us-that-if-we-want-to-go-beyond-8d54175f.mp3"
+  },
+  {
+    "input_text": "The Power set is the set of all subsets. For example, if we have the set {1,2,3} the power set is the following set.",
+    "input_data": {
+      "input_text": "The Power set is the set of all subsets. For example, if we have the set {1,2,3} the power set is the following set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-power-set-is-the-set-of-all-subsets-for-6ffe4f2c.mp3",
+    "final_audio": "the-power-set-is-the-set-of-all-subsets-for-6ffe4f2c.mp3"
+  },
+  {
+    "input_text": "So, it contains the individual elements,",
+    "input_data": {
+      "input_text": "So, it contains the individual elements,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-it-contains-the-individual-elements-1ba78d6a.mp3",
+    "final_audio": "so-it-contains-the-individual-elements-1ba78d6a.mp3"
+  },
+  {
+    "input_text": "the pairs of elements,",
+    "input_data": {
+      "input_text": "the pairs of elements,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-pairs-of-elements-145225e6.mp3",
+    "final_audio": "the-pairs-of-elements-145225e6.mp3"
+  },
+  {
+    "input_text": "the whole set and the emptyset at the bottom, which is a subset of every set.",
+    "input_data": {
+      "input_text": "the whole set and the emptyset at the bottom, which is a subset of every set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-whole-set-and-the-emptyset-at-the-bottom-which-26f2bdd5.mp3",
+    "final_audio": "the-whole-set-and-the-emptyset-at-the-bottom-which-26f2bdd5.mp3"
+  },
+  {
+    "input_text": "We may notice that there are 2 to the power of 3 or 8 members in the power set of a set with three elements.",
+    "input_data": {
+      "input_text": "We may notice that there are 2 to the power of 3 or 8 members in the power set of a set with three elements.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-may-notice-that-there-are-2-to-the-power-of-3-d181f680.mp3",
+    "final_audio": "we-may-notice-that-there-are-2-to-the-power-of-3-d181f680.mp3"
+  },
+  {
+    "input_text": "Since another way to look at the power set, is we consider each possibility in the procedure of going by each element in the set and either saying yes or no.",
+    "input_data": {
+      "input_text": "Since another way to look at the power set, is we consider each possibility in the procedure of going by each element in the set and either saying yes or no.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "since-another-way-to-look-at-the-power-set-is-we-c1418a70.mp3",
+    "final_audio": "since-another-way-to-look-at-the-power-set-is-we-c1418a70.mp3"
+  },
+  {
+    "input_text": "If we say yes to all elements, we get the whole set.",
+    "input_data": {
+      "input_text": "If we say yes to all elements, we get the whole set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-we-say-yes-to-all-elements-we-get-the-whole-set-63501547.mp3",
+    "final_audio": "if-we-say-yes-to-all-elements-we-get-the-whole-set-63501547.mp3"
+  },
+  {
+    "input_text": "If we say no to each, we get the emptyset, and then we get everything in between.",
+    "input_data": {
+      "input_text": "If we say no to each, we get the emptyset, and then we get everything in between.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "if-we-say-no-to-each-we-get-the-emptyset-and-then-5dddd3a2.mp3",
+    "final_audio": "if-we-say-no-to-each-we-get-the-emptyset-and-then-5dddd3a2.mp3"
+  },
+  {
+    "input_text": "We will now use this to define the so-called Von Neuman Hierarchy of sets V, which is often considered to be THE Universe of sets.",
+    "input_data": {
+      "input_text": "We will now use this to define the so-called Von Neuman Hierarchy of sets V, which is often considered to be THE Universe of sets.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-will-now-use-this-to-define-the-so-called-von-4de866e6.mp3",
+    "final_audio": "we-will-now-use-this-to-define-the-so-called-von-4de866e6.mp3"
+  },
+  {
+    "input_text": "Again, we start with the empty set at the bottom, and then successively take the power set of the previous level.",
+    "input_data": {
+      "input_text": "Again, we start with the empty set at the bottom, and then successively take the power set of the previous level.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "again-we-start-with-the-empty-set-at-the-bottom-a27a2d05.mp3",
+    "final_audio": "again-we-start-with-the-empty-set-at-the-bottom-a27a2d05.mp3"
+  },
+  {
+    "input_text": "So we get the set with the emptyset at the first level, then the emptyset plus the set with the emptyset at the second level,",
+    "input_data": {
+      "input_text": "So we get the set with the emptyset at the first level, then the emptyset plus the set with the emptyset at the second level,",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-we-get-the-set-with-the-emptyset-at-the-first-c2644392.mp3",
+    "final_audio": "so-we-get-the-set-with-the-emptyset-at-the-first-c2644392.mp3"
+  },
+  {
+    "input_text": "And so on. This seems tame and boring, but this is a hyper-exponential function, the size of each level is the size of the previous level raised to the power of 2.",
+    "input_data": {
+      "input_text": "And so on. This seems tame and boring, but this is a hyper-exponential function, the size of each level is the size of the previous level raised to the power of 2.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-so-on-this-seems-tame-and-boring-but-this-is-a-f1a392ec.mp3",
+    "final_audio": "and-so-on-this-seems-tame-and-boring-but-this-is-a-f1a392ec.mp3"
+  },
+  {
+    "input_text": "So, the third level has 16 elements, the fourth level has 65 Thousand, and the fifth level has way more sets than there are atoms in the Universe.",
+    "input_data": {
+      "input_text": "So, the third level has 16 elements, the fourth level has 65 Thousand, and the fifth level has way more sets than there are atoms in the Universe.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-the-third-level-has-16-elements-the-fourth-8d24f5b1.mp3",
+    "final_audio": "so-the-third-level-has-16-elements-the-fourth-8d24f5b1.mp3"
+  },
+  {
+    "input_text": "We can see that each level contains the next ordinal.",
+    "input_data": {
+      "input_text": "We can see that each level contains the next ordinal.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-see-that-each-level-contains-the-next-31ce7e93.mp3",
+    "final_audio": "we-can-see-that-each-level-contains-the-next-31ce7e93.mp3"
+  },
+  {
+    "input_text": "We can repeat this procedure indefinitely, resulting in the structure which we call V_omega.",
+    "input_data": {
+      "input_text": "We can repeat this procedure indefinitely, resulting in the structure which we call V_omega.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-repeat-this-procedure-indefinitely-1cbd73ca.mp3",
+    "final_audio": "we-can-repeat-this-procedure-indefinitely-1cbd73ca.mp3"
+  },
+  {
+    "input_text": "We can then add in the following new axioms, to get the theory ZFC-INFINITY.",
+    "input_data": {
+      "input_text": "We can then add in the following new axioms, to get the theory ZFC-INFINITY.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-then-add-in-the-following-new-axioms-to-get-e119b08f.mp3",
+    "final_audio": "we-can-then-add-in-the-following-new-axioms-to-get-e119b08f.mp3"
+  },
+  {
+    "input_text": "These two axioms only make sense if we have infinite sets, so we don't need to worry about them.",
+    "input_data": {
+      "input_text": "These two axioms only make sense if we have infinite sets, so we don't need to worry about them.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "these-two-axioms-only-make-sense-if-we-have-37f6d0aa.mp3",
+    "final_audio": "these-two-axioms-only-make-sense-if-we-have-37f6d0aa.mp3"
+  },
+  {
+    "input_text": "The replacement axiom just states that our Set theoretic Universe is closed under functions. Meaning that if we have a function defined on a set, then the range is also a set.",
+    "input_data": {
+      "input_text": "The replacement axiom just states that our Set theoretic Universe is closed under functions. Meaning that if we have a function defined on a set, then the range is also a set.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-replacement-axiom-just-states-that-our-set-77c9079c.mp3",
+    "final_audio": "the-replacement-axiom-just-states-that-our-set-77c9079c.mp3"
+  },
+  {
+    "input_text": "And this is the axiom of separation, which given some pre-existing set Y, allows us to separate out all of the sets in Y which satisfy a certain property. Where to get a bit technical, by property we mean a First order formula with one free variable.",
+    "input_data": {
+      "input_text": "And this is the axiom of separation, which given some pre-existing set Y, allows us to separate out all of the sets in Y which satisfy a certain property. Where to get a bit technical, by property we mean a First order formula with one free variable.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "and-this-is-the-axiom-of-separation-which-given-02f47af2.mp3",
+    "final_audio": "and-this-is-the-axiom-of-separation-which-given-02f47af2.mp3"
+  },
+  {
+    "input_text": "For example, we can use the formula \\exists x(x+x=y) to separate the even numbers from the natural numbers.",
+    "input_data": {
+      "input_text": "For example, we can use the formula \\exists x(x+x=y) to separate the even numbers from the natural numbers.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "for-example-we-can-use-the-formula-exists-x-x-x-y-7b4234f3.mp3",
+    "final_audio": "for-example-we-can-use-the-formula-exists-x-x-x-y-7b4234f3.mp3"
+  },
+  {
+    "input_text": "This formula is only true if we instantiate y with an even number.",
+    "input_data": {
+      "input_text": "This formula is only true if we instantiate y with an even number.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-formula-is-only-true-if-we-instantiate-y-with-58774861.mp3",
+    "final_audio": "this-formula-is-only-true-if-we-instantiate-y-with-58774861.mp3"
+  },
+  {
+    "input_text": "Note, that the restriction that we are separating the elements from a pre-existing set is necessary to avoid paradoxes. Since, without it, we could define the set X to be the set of all sets which do not contain themselves.",
+    "input_data": {
+      "input_text": "Note, that the restriction that we are separating the elements from a pre-existing set is necessary to avoid paradoxes. Since, without it, we could define the set X to be the set of all sets which do not contain themselves.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "note-that-the-restriction-that-we-are-separating-20131261.mp3",
+    "final_audio": "note-that-the-restriction-that-we-are-separating-20131261.mp3"
+  },
+  {
+    "input_text": "This is defined by a simple formula with one free variable, yet we get that X in X iff X not in X. Which is a contradiction.",
+    "input_data": {
+      "input_text": "This is defined by a simple formula with one free variable, yet we get that X in X iff X not in X. Which is a contradiction.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "this-is-defined-by-a-simple-formula-with-one-free-1463d030.mp3",
+    "final_audio": "this-is-defined-by-a-simple-formula-with-one-free-1463d030.mp3"
+  },
+  {
+    "input_text": "But anyways, if we stop the construction of our Universe here, we get a model of ZFC-Infinity, since we can show that each of these axioms hold true in this structure, yet each set is finite.",
+    "input_data": {
+      "input_text": "But anyways, if we stop the construction of our Universe here, we get a model of ZFC-Infinity, since we can show that each of these axioms hold true in this structure, yet each set is finite.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "but-anyways-if-we-stop-the-construction-of-our-0eb93fd9.mp3",
+    "final_audio": "but-anyways-if-we-stop-the-construction-of-our-0eb93fd9.mp3"
+  },
+  {
+    "input_text": "However, this structure is logically equivalent to the number line with addition and multiplication described earlier.",
+    "input_data": {
+      "input_text": "However, this structure is logically equivalent to the number line with addition and multiplication described earlier.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "however-this-structure-is-logically-equivalent-to-971fac37.mp3",
+    "final_audio": "however-this-structure-is-logically-equivalent-to-971fac37.mp3"
+  },
+  {
+    "input_text": "Meaning that both structures can be interpreted within the other.",
+    "input_data": {
+      "input_text": "Meaning that both structures can be interpreted within the other.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "meaning-that-both-structures-can-be-interpreted-afb804a0.mp3",
+    "final_audio": "meaning-that-both-structures-can-be-interpreted-afb804a0.mp3"
+  },
+  {
+    "input_text": "So, this tells us that if we want to go beyond simple elementary school math, we will need infinite sets. But infinite sets are confusing and cause issues when trying to formalize all of math.",
+    "input_data": {
+      "input_text": "So, this tells us that if we want to go beyond simple elementary school math, we will need infinite sets. But infinite sets are confusing and cause issues when trying to formalize all of math.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "so-this-tells-us-that-if-we-want-to-go-beyond-8d54175f.mp3",
+    "final_audio": "so-this-tells-us-that-if-we-want-to-go-beyond-8d54175f.mp3"
   }
 ]

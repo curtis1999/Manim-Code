@@ -285,7 +285,7 @@ class SetTheoryUniverseScene(VoiceoverScene):
 
         # --- Scene 4: Spine of the Universe ---
         ordinals_x = 2.0
-        axioms_x = -4.2
+        axioms_x = -5
         x_align = ordinals_x + 3.0  # Vertical alignment for the natural numbers labels
 
         with self.voiceover(text="The first axiom we will look at, is the axiom of existence, which simply asserts that there is some set. Specifically, that there is a set with no members, the so called empty set. So at the base of this whole set theoretic Universe, is that assumption that nothing exists.") as tracker:
@@ -310,14 +310,14 @@ class SetTheoryUniverseScene(VoiceoverScene):
             self.play(FadeIn(ord_1, shift=UP), run_time=tracker.duration * 0.3)
             self.wait(tracker.duration * 0.4)
 
-        with self.voiceover(text="This is obviously pretty dumb, but we are essentially defining the natural numbers.  The emptyset is 0, the set containing the empty set is 1, and then from here, just like Russian Dolls, we will define the successor to be the set of all predecessors.") as tracker:
+        with self.voiceover(text="This is obviously pretty dumb, but we are essentially defining the natural numbers.  The emptyset is 0, the set containing the empty set is 1, and then from here, just like Russian Dolls, we will define the successor to be the set of all predecessors.  Which requires the union axiom") as tracker:
             # Perfectly aligned labels relying on the Y-coordinate of their respective sets
             label_0 = Text("0", font_size=24, color=YELLOW).move_to(np.array([x_align, set_empty.get_center()[1], 0]))
             label_1 = Text("1", font_size=24, color=YELLOW).move_to(np.array([x_align, ord_1.get_center()[1], 0]))
             
             # Successor function positioned high enough to clear ord_4 later
             succ_func = MathTex(r"S(n) = n \cup \{n\}", color=GOLD).move_to(RIGHT * 3.5 + UP * 3.2)
-            ax_union = MathTex(r"\text{Union: } \forall x \exists y \forall z (\dots)").scale(0.6).next_to(ax_pairing, UP, buff=0.8).align_to(ax_existence, LEFT)
+            ax_union = MathTex(r"\text{Union: } \forall x \exists y \forall z (z\in y \leftrightarrow \exists w \in x (z\in w))").scale(0.6).next_to(ax_pairing, UP, buff=0.8).align_to(ax_existence, LEFT)
             # Sequential fading
             self.wait(tracker.duration * 0.15)
             self.play(FadeIn(label_0), run_time=tracker.duration * 0.15)
@@ -341,24 +341,32 @@ class SetTheoryUniverseScene(VoiceoverScene):
             self.wait(tracker.duration * 0.1)
             self.play(FadeIn(ord_4, shift=UP), FadeIn(label_4), run_time=tracker.duration * 0.4)
 
-        with self.voiceover(text="The ordinals, which are essentially just the natural numbers, will form the spine of the set theoretic Universe.  We will use the following axiom, known as the power set axiom to define more complicated sets") as tracker:
-            powerset_str = r"\mathcal{P}(X) = \{\emptyset, \{1\}, \{2\}, \{3\}, \\ \{1, 2\}, \{1, 3\}, \{2, 3\}, \{1, 2, 3\}\}"
-            set_px_tex = MathTex(powerset_str).scale(0.8).next_to(set_x_tex, DOWN, aligned_edge=LEFT, buff=0.5)
-
+        with self.voiceover(text="The ordinals, which are essentially just the natural numbers, will form the spine of the set theoretic Universe.  We will use the following axiom, known as the power set axiom to define the rest of the sets") as tracker:
+            ax_powerSet = MathTex(r"\text{Power Set: } \forall x \exists y \forall z(z\in x \leftrightarrow \forall w(w\in z\rightarrow w\in x)").scale(0.6).next_to(ax_union, UP, buff=0.8)
+            self.wait(tracker.duration * 0.5)
+            self.play(FadeIn(ax_powerSet, run_time=tracker.duration * 0.2))
         self.wait(1)
-            
+        
+
 class VHierarchyScene(VoiceoverScene):
     def construct(self):
         self.set_speech_service(RecorderService(transcription_model=None))
 
-        
         # --- Scene 1: Building the Hasse Diagram ---
         hasse_x = 3.0
 
-        # Define elements for the linear left-side set definition
-        set_x_tex = MathTex(r"X = \{1, 2, 3\}").to_edge(LEFT).shift(UP * 1.5 + RIGHT * 1)
-        powerset_str = r"\mathcal{P}(X) = \{\emptyset, \{1\}, \{2\}, \{3\}, \\ \{1, 2\}, \{1, 3\}, \{2, 3\}, \{1, 2, 3\}\}"
-        set_px_tex = MathTex(powerset_str).scale(0.8).next_to(set_x_tex, DOWN, aligned_edge=LEFT, buff=0.5)
+        # Define elements for the linear left-side set definition with isolated substrings for highlighting
+        set_x_tex = MathTex(
+            r"X = \{", r"1", r", ", r"2", r", ", r"3", r"\}"
+        ).to_edge(LEFT).shift(UP * 1.5 + RIGHT * 1)
+        
+        set_px_tex = MathTex(
+            r"\mathcal{P}(X) = \{", 
+            r"\emptyset", r", ", 
+            r"\{1\}", r", ", r"\{2\}", r", ", r"\{3\}", r", \\ ", 
+            r"\{1, 2\}", r", ", r"\{1, 3\}", r", ", r"\{2, 3\}", r", ", 
+            r"\{1, 2, 3\}", r"\}"
+        ).scale(0.8).next_to(set_x_tex, DOWN, aligned_edge=LEFT, buff=0.5)
 
         # Define Hasse diagram nodes 
         l0 = MathTex(r"\emptyset").scale(0.7).move_to(RIGHT * hasse_x + DOWN * 2)
@@ -390,72 +398,294 @@ class VHierarchyScene(VoiceoverScene):
             Line(l2_23.get_top(), l3.get_bottom(), stroke_width=2, color=GRAY)
         )
 
-        with self.voiceover(text="For example, if we have the set with {1,2,3} the power set is the following set.") as tracker:
+        with self.voiceover(text="The Power set is the set of all subsets.  For example, if we have the set {1,2,3} the power set is the following set.") as tracker:
             self.play(FadeIn(set_x_tex, shift=RIGHT), run_time=tracker.duration * 0.4)
             self.play(FadeIn(set_px_tex, shift=UP), run_time=tracker.duration * 0.6)
 
         with self.voiceover(text="So, it contains the individual elements,") as tracker:
-            self.play(FadeIn(VGroup(l1_1, l1_2, l1_3), shift=UP), run_time=tracker.duration)
+            self.play(FadeIn(VGroup(l1_1, l1_2, l1_3), shift=UP), run_time=tracker.duration * 0.5)
+            # Highlight singletons in the left list
+            self.play(
+                set_px_tex[3].animate.set_color(YELLOW),
+                set_px_tex[5].animate.set_color(YELLOW),
+                set_px_tex[7].animate.set_color(YELLOW),
+                run_time=tracker.duration * 0.5
+            )
 
         with self.voiceover(text="the pairs of elements,") as tracker:
-            self.play(FadeIn(VGroup(l2_12, l2_13, l2_23), shift=UP), run_time=tracker.duration)
+            self.play(FadeIn(VGroup(l2_12, l2_13, l2_23), shift=UP), run_time=tracker.duration * 0.5)
+            # Reset singletons, highlight pairs
+            self.play(
+                set_px_tex[3].animate.set_color(WHITE),
+                set_px_tex[5].animate.set_color(WHITE),
+                set_px_tex[7].animate.set_color(WHITE),
+                set_px_tex[9].animate.set_color(YELLOW),
+                set_px_tex[11].animate.set_color(YELLOW),
+                set_px_tex[13].animate.set_color(YELLOW),
+                run_time=tracker.duration * 0.5
+            )
 
         with self.voiceover(text="the whole set and the emptyset at the bottom, which is a subset of every set.") as tracker:
-            self.play(FadeIn(l3, shift=DOWN), FadeIn(l0, shift=UP), run_time=tracker.duration * 0.4)
-            self.play(Create(edges), run_time=tracker.duration * 0.6)
+            self.play(FadeIn(l3, shift=DOWN), FadeIn(l0, shift=UP), run_time=tracker.duration * 0.3)
+            # Reset pairs, highlight whole set and emptyset
+            self.play(
+                set_px_tex[9].animate.set_color(WHITE),
+                set_px_tex[11].animate.set_color(WHITE),
+                set_px_tex[13].animate.set_color(WHITE),
+                set_px_tex[1].animate.set_color(YELLOW),
+                set_px_tex[15].animate.set_color(YELLOW),
+                run_time=tracker.duration * 0.3
+            )
+            self.play(Create(edges), run_time=tracker.duration * 0.4)
+            # Reset everything to white for the next sequence
+            self.play(set_px_tex[1].animate.set_color(WHITE), set_px_tex[15].animate.set_color(WHITE), run_time=0.1)
+
+        with self.voiceover(text="We may notice that there are 2 to the power of 3 or 8 members in the power set of a set with three elements.") as tracker:
+            pow_card = MathTex(r"|\mathcal{P}(X)| = 2^3").next_to(set_px_tex, DOWN, aligned_edge=LEFT, buff=0.5)
+            pow_card_8 = MathTex(r"|\mathcal{P}(X)| = 8").move_to(pow_card, aligned_edge=LEFT)
+            self.play(FadeIn(pow_card), run_time=tracker.duration * 0.5)
+            self.play(Transform(pow_card, pow_card_8), run_time=tracker.duration * 0.5)
+
+        with self.voiceover(text="Since another way to look at the power set, is we consider each possibility in the procedure of going by each element in the set and either saying yes or no.") as tracker:
+            pointer = Arrow(UP, DOWN, buff=0.1).scale(0.5).next_to(set_x_tex[1], UP)
+            arrow_to_hasse = CurvedArrow(set_x_tex.get_right(), l2_13.get_left(), angle=-PI/4, color=YELLOW)
+            
+            # {1, 3} creation procedure
+            self.play(FadeIn(pointer), run_time=tracker.duration * 0.15)
+            self.play(set_x_tex[1].animate.set_color(GREEN), run_time=tracker.duration * 0.15)
+            self.play(pointer.animate.next_to(set_x_tex[3], UP), run_time=tracker.duration * 0.15)
+            self.play(set_x_tex[3].animate.set_color(RED), run_time=tracker.duration * 0.15)
+            self.play(pointer.animate.next_to(set_x_tex[5], UP), run_time=tracker.duration * 0.15)
+            self.play(set_x_tex[5].animate.set_color(GREEN), run_time=tracker.duration * 0.15)
+            self.play(Create(arrow_to_hasse), run_time=tracker.duration * 0.1)
+
+        with self.voiceover(text="If we say yes to all elements, we get the whole set.") as tracker:
+            # Reset
+            self.play(
+                set_x_tex[1].animate.set_color(WHITE), 
+                set_x_tex[3].animate.set_color(WHITE), 
+                set_x_tex[5].animate.set_color(WHITE), 
+                FadeOut(arrow_to_hasse),
+                pointer.animate.next_to(set_x_tex[1], UP),
+                run_time=tracker.duration * 0.2
+            )
+            # Fast highlight all green
+            self.play(set_x_tex[1].animate.set_color(GREEN), pointer.animate.next_to(set_x_tex[3], UP), run_time=tracker.duration * 0.2)
+            self.play(set_x_tex[3].animate.set_color(GREEN), pointer.animate.next_to(set_x_tex[5], UP), run_time=tracker.duration * 0.2)
+            self.play(set_x_tex[5].animate.set_color(GREEN), run_time=tracker.duration * 0.2)
+            
+            arrow_to_hasse_all = CurvedArrow(set_x_tex.get_right(), l3.get_left(), angle=-PI/4, color=YELLOW)
+            self.play(Create(arrow_to_hasse_all), run_time=tracker.duration * 0.2)
+
+        with self.voiceover(text="If we say no to each, we get the emptyset, and then we get everything in between.") as tracker:
+            arrow_to_hasse_none = CurvedArrow(set_x_tex.get_right(), l0.get_left(), angle=-PI/4, color=YELLOW)
+            
+            # Direct transition to all red
+            self.play(
+                set_x_tex[1].animate.set_color(RED),
+                set_x_tex[3].animate.set_color(RED),
+                set_x_tex[5].animate.set_color(RED),
+                Transform(arrow_to_hasse_all, arrow_to_hasse_none),
+                FadeOut(pointer),
+                run_time=tracker.duration * 0.4
+            )
+            self.wait(tracker.duration * 0.2)
+            
+            # Direct transition to {3}
+            arrow_to_hasse_3 = CurvedArrow(set_x_tex.get_right(), l1_3.get_left(), angle=-PI/4, color=YELLOW)
+            self.play(
+                set_x_tex[5].animate.set_color(GREEN),
+                Transform(arrow_to_hasse_all, arrow_to_hasse_3),
+                run_time=tracker.duration * 0.4
+            )
 
         with self.voiceover(text="We will now use this to define the so-called Von Neuman Hierarchy of sets V, which is often considered to be THE Universe of sets.") as tracker:
             self.wait(tracker.duration)
 
         # --- Scene 2: The Von Neumann Hierarchy ---
-        with self.voiceover(text="Again, we start with the empty set, and then successively take the power set of the previous level.") as tracker:
+        with self.voiceover(text="Again, we start with the empty set at the bottom, and then successively take the power set of the previous level.") as tracker:
             self.play(
-                FadeOut(set_x_tex, set_px_tex, l0, l1_1, l1_2, l1_3, l2_12, l2_13, l2_23, l3, edges),
-                run_time=tracker.duration * 0.4
+                FadeOut(set_x_tex, set_px_tex, pow_card, pow_card_8, arrow_to_hasse_all, l0, l1_1, l1_2, l1_3, l2_12, l2_13, l2_23, l3, edges),
+                run_time=tracker.duration * 0.2
             )
-            v0 = MathTex(r"V_0 = \emptyset").move_to(DOWN * 3)
+            v0 = MathTex(r"\emptyset").move_to(DOWN * 3)
             self.play(FadeIn(v0, shift=UP), run_time=tracker.duration * 0.6)
 
-        # V Hierarchy sets
-        v1 = MathTex(r"V_1 = \{\emptyset\}").move_to(DOWN * 2)
-        v2 = MathTex(r"V_2 = \{\emptyset, \{\emptyset\}\}").move_to(DOWN * 1)
-        v3 = MathTex(r"V_3 = \{\emptyset, \{\emptyset\}, \{\{\emptyset\}\}, \{\emptyset, \{\emptyset\}\}\}").move_to(ORIGIN)
-        v4 = MathTex(r"\dots \quad V_4 \quad \dots").move_to(UP * 1)
-        v5 = MathTex(r"\dots \quad V_5 \quad \dots").move_to(UP * 2)
+        # V Hierarchy sets constructed precisely to isolate ordinals later
+        # Re-ordered v3 so the ordinal 2 is the last inner element 
+        v1 = MathTex(r"\{", r"\emptyset", r"\}").move_to(DOWN * 2)
+        v2 = MathTex(r"\{\emptyset, ", r"\{\emptyset\}", r"\}").move_to(DOWN * 1)
+        v3 = MathTex(r"\{\emptyset, \{\emptyset\}, ", r"\{\emptyset, \{\emptyset\}\}", r", \{\{\emptyset\}\}\}").scale(0.85).move_to(ORIGIN)
+        
+        # Expanding 3 and 4 explicitly instead of "3" and "4"
+        v4 = MathTex(r"\{\dots, ", r"\{\emptyset, \{\emptyset\}, \{\emptyset, \{\emptyset\}\}\}", r", \dots\}").scale(0.85).move_to(UP * 1)
+        v5 = MathTex(r"\{\dots, ", r"\{\emptyset, \{\emptyset\}, \{\emptyset, \{\emptyset\}\}, \{\emptyset, \{\emptyset\}, \{\emptyset, \{\emptyset\}\}\}\}", r", \dots\}").scale(0.65).move_to(UP * 2)
         v_dots_top = MathTex(r"\vdots").move_to(UP * 3)
-                # Number sizing labels
+        
+        # Number sizing labels and transitions
         sz_x = 4.0
         s0 = MathTex(r"0", color=YELLOW).move_to(RIGHT * sz_x + DOWN * 3).align_to(v0, DOWN)
-        s1 = MathTex(r"2^0 = 1", color=YELLOW).move_to(RIGHT * sz_x + DOWN * 2).align_to(v1, DOWN)
-        s2 = MathTex(r"2^1 = 2", color=YELLOW).move_to(RIGHT * sz_x + DOWN * 1).align_to(v2, DOWN)
-        s3 = MathTex(r"2^2 = 4", color=YELLOW).move_to(RIGHT * sz_x + ORIGIN).align_to(v3, DOWN)
-        s4 = MathTex(r"2^4 = 16", color=YELLOW).move_to(RIGHT * sz_x + UP * 1).align_to(v4, DOWN)
-        s5 = MathTex(r"2^{16} = 65,536", color=YELLOW).move_to(RIGHT * sz_x + UP * 2).align_to(v5, DOWN)
+        
+        s1_start = MathTex(r"2^0", color=YELLOW).move_to(RIGHT * sz_x + DOWN * 2).align_to(v1, DOWN)
+        s1_end = MathTex(r"1", color=YELLOW).move_to(s1_start, aligned_edge=LEFT)
+        
+        s2_start = MathTex(r"2^1", color=YELLOW).move_to(RIGHT * sz_x + DOWN * 1).align_to(v2, DOWN)
+        s2_end = MathTex(r"2", color=YELLOW).move_to(s2_start, aligned_edge=LEFT)
+        
+        s3_start = MathTex(r"2^2", color=YELLOW).move_to(RIGHT * sz_x + ORIGIN).align_to(v3, DOWN)
+        s3_end = MathTex(r"4", color=YELLOW).move_to(s3_start, aligned_edge=LEFT)
+        
+        s4_start = MathTex(r"2^4", color=YELLOW).move_to(RIGHT * sz_x + UP * 1).align_to(v4, DOWN)
+        s4_end = MathTex(r"16", color=YELLOW).move_to(s4_start, aligned_edge=LEFT)
+
+        s5_start = MathTex(r"2^{16}", color=YELLOW).move_to(RIGHT * sz_x + UP * 2).align_to(v5, DOWN)
+        s5_end = MathTex(r"65,536", color=YELLOW).move_to(s5_start, aligned_edge=LEFT)
+
         s6 = MathTex(r"2^{65,536}", color=YELLOW).move_to(RIGHT * sz_x + UP * 3).align_to(v_dots_top, DOWN)
 
         with self.voiceover(text="So we get the set with the emptyset at the first level, then the emptyset plus the set with the emptyset at the second level,") as tracker:
             self.play(FadeIn(v1, shift=UP), run_time=tracker.duration * 0.5)
             self.play(FadeIn(v2, shift=UP), run_time=tracker.duration * 0.5)
 
-        with self.voiceover(text="then the emptyset, set with the emptyset and then set with the set with the emptyset set.") as tracker:
-            self.play(FadeIn(v3, shift=UP), run_time=tracker.duration)
+        with self.voiceover(text="And so on. This seems tame and boring, but this is a hyper-exponential function, the size of each level is the size of the previous level raised to the power of 2.") as tracker:
+            self.play(FadeIn(v3, shift=UP), FadeIn(v4, shift=UP), run_time=tracker.duration * 0.3)
+            
+            # Bottom-up size animations
+            self.play(FadeIn(s0, shift=LEFT), run_time=tracker.duration * 0.15)
+            
+            self.play(FadeIn(s1_start, shift=LEFT), run_time=tracker.duration * 0.1)
+            self.play(Transform(s1_start, s1_end), run_time=tracker.duration * 0.1)
+            
+            self.play(FadeIn(s2_start, shift=LEFT), run_time=tracker.duration * 0.1)
+            self.play(Transform(s2_start, s2_end), run_time=tracker.duration * 0.1)
+            
+            self.play(FadeIn(s3_start, shift=LEFT), run_time=tracker.duration * 0.1)
+            self.play(Transform(s3_start, s3_end), run_time=tracker.duration * 0.05)
 
-        with self.voiceover(text="This seems tame and boring, but this is a hyper-exponential function, the size of each level is the size of the previous level raised to the power of 2.") as tracker:
-            self.play(FadeIn(v4, shift=UP), FadeIn(s0, shift=LEFT),
-                FadeIn(s1, shift=LEFT),
-                FadeIn(s2, shift=LEFT),
-                run_time=tracker.duration)
-            
-            
-        with self.voiceover(text="So, the third level has 16 elements, the fourth level has 65 Thousand, and the fifth level has more atoms then there are in the Universe.") as tracker:
-            self.play(FadeIn(v5, shift=UP),  run_time=tracker.duration * 0.6)
-            self.play(FadeIn(v_dots_top), run_time=tracker.duration * 0.4)
-        
-        
+        with self.voiceover(text="So, the third level has 16 elements, the fourth level has 65 Thousand, and the fifth level has way more sets than there are atoms in the Universe.") as tracker:
+            self.play(FadeIn(s4_start, shift=LEFT), run_time=tracker.duration * 0.15)
+            self.play(FadeIn(v5, shift=UP),FadeIn(s5_start, shift=LEFT), run_time=tracker.duration * 0.2)
+            self.play(Transform(s5_start, s5_end), run_time=tracker.duration * 0.15)
+            self.play(FadeIn(v_dots_top), run_time=tracker.duration * 0.1)
+            self.play(FadeIn(s6, shift=LEFT), run_time=tracker.duration * 0.1)
+
+        with self.voiceover(text="We can see that each level contains the next ordinal.") as tracker:
+            # Highlight ordinals in yellow inside each hierarchical set
             self.play(
-                FadeIn(s3, shift=LEFT),
-                FadeIn(s4, shift=LEFT),
-                FadeIn(s5, shift=LEFT),
-                FadeIn(s6, shift=LEFT),
-                run_time=tracker.duration * 0.6
+                v1[1].animate.set_color(YELLOW),
+                v2[1].animate.set_color(YELLOW),
+                v3[1].animate.set_color(YELLOW),
+                v4[1].animate.set_color(YELLOW),
+                v5[1].animate.set_color(YELLOW),
+                run_time=tracker.duration
             )
+            self.wait(1)
+            
+        with self.voiceover(text="We can repeat this procedure indefinitely, resulting in the structure which we call V_omega.") as tracker:
+            # Diagonal lines
+            left_line = Line(v0.get_center() + DOWN*0.5, v_dots_top.get_center() + LEFT*4.5 + UP*0.5, color=GREEN)
+            right_line = Line(v0.get_center() + DOWN*0.5, v_dots_top.get_center() + RIGHT*4.5 + UP*0.5, color=GREEN)
+            v_omega_label = MathTex(r"V_\omega", color=GREEN).next_to(left_line.get_end(), LEFT)
+            self.play(Create(left_line), Create(right_line), FadeIn(v_omega_label), FadeOut(s0), FadeOut(s1_start), FadeOut(s2_start),FadeOut(s3_start), FadeOut(s4_start), FadeOut( s5_start),FadeOut(s6), run_time=tracker.duration)
+            
+            # Group everything built so far
+            hierarchy_group = VGroup(
+                v0, v1, v2, v3, v4, v5, v_dots_top, 
+                left_line, right_line, v_omega_label
+            )
+
+        with self.voiceover(text="We can then add in the following new axioms, to get the theory ZFC-INFINITY.") as tracker:
+            self.play(hierarchy_group.animate.scale(0.7).to_edge(RIGHT).shift(DOWN), run_time=tracker.duration * 0.3)
+            
+            # ZFC-INFINITY axioms list from bottom to top
+            ax_texts = [
+                r"\text{Existence: } \exists x \forall y (y \notin x)",
+                r"\text{Extensionality: } \forall x \forall y (x=y \leftrightarrow \forall z (z\in x\leftrightarrow z \in y))",
+                r"\text{Pairing: } \forall x \forall y \exists z (x\in z\land y\in z)",
+                r"\text{Union: } \forall x \exists y \forall z (\dots)",
+                r"\text{Power Set: } \forall x \exists y \forall z (\forall w\in z (w \in z \rightarrow w\in y))",
+                r"\text{Replacement: } \forall x (\dots)",
+                r"\text{Separation: } \forall x \exists y \forall z (z \in y \leftrightarrow z \in x \land \varphi(z))",
+                r"\text{Foundation: } \forall x (x \neq \emptyset \rightarrow \exists y \in x (x \cap y = \emptyset))",
+                r"\forall X (\emptyset \notin X \rightarrow \exists f: X \rightarrow \cup X \land \forall Y \in X(f(Y)\in Y)"
+            ]
+            
+            ax_group = VGroup(*[MathTex(formula).scale(0.6) for formula in ax_texts])
+            ax_group.arrange(UP, aligned_edge=LEFT, buff=0.25).to_edge(LEFT)
+            
+            self.play(FadeIn(ax_group, shift=RIGHT), run_time=tracker.duration * 0.7)
+
+        with self.voiceover(text="These two axioms only make sense if we have infinite sets, so we don't need to worry about them.") as tracker:
+            self.play(ax_group[7].animate.set_color(YELLOW), ax_group[8].animate.set_color(YELLOW), run_time=tracker.duration*0.2)
+            self.wait(tracker.duration*0.4)
+            # Fade out Choice and Foundation
+            self.play(FadeOut(ax_group[7]), FadeOut(ax_group[8]), run_time=tracker.duration)
+
+        with self.voiceover(text="The replacement axiom just states that our Set theoretic Universe is closed under functions. Meaning that if we have a function defined on a set, then the range is also a set.") as tracker:
+            # Abstract function at the top right (above the V hierarchy)
+            self.play(ax_group[5].animate.set_color(YELLOW),run_time = tracker.duration*0.2)
+            space_X = Ellipse(width=0.8, height=1.2, color=TEAL, fill_opacity=0.2)
+            space_Y = Ellipse(width=0.8, height=1.2, color=PURPLE, fill_opacity=0.2)
+            func_group = VGroup(space_X, space_Y).arrange(RIGHT, buff=0.8).to_edge(UP).shift(RIGHT*1)
+            func_arrow = CurvedArrow(space_X.get_right(), space_Y.get_left(), angle=-PI/4, color=YELLOW)
+            
+            # Arrows to the hierarchy
+            arrow_dom = Arrow(space_X.get_bottom(), v2.get_top() + RIGHT*1, color=TEAL, buff=0.1)
+            arrow_ran = Arrow(space_Y.get_bottom(), v4.get_top() + RIGHT*1.5, color=PURPLE, buff=0.1)
+            
+            self.play(FadeIn(func_group), Create(func_arrow), run_time=tracker.duration * 0.4)
+            self.play(Create(arrow_dom), Create(arrow_ran), run_time=tracker.duration * 0.6)
+
+        with self.voiceover(text="And this is the axiom of separation, which given some pre-existing set Y, allows us to separate out all of the sets in Y which satisfy a certain property. Where to get a bit technical, by property we mean a First order formula with one free variable.") as tracker:
+            self.play(FadeOut(func_group), FadeOut(func_arrow), FadeOut(arrow_dom), FadeOut(arrow_ran), ax_group[5].animate.set_color(WHITE), ax_group[6].animate.set_color(YELLOW),run_time=tracker.duration * 0.2)
+            self.wait(tracker.duration * 0.8)
+
+        with self.voiceover(text="For example, we can use the formula \exists x(x+x=y) to separate the even numbers from the natural numbers.") as tracker:
+            nat_nums = MathTex(r"\mathbb{N} = \{0, 1, 2, 3, 4, 5, 6, 7, 8, 9, \dots\}").to_edge(UP).shift(LEFT*2)
+            formula_1 = MathTex(r"\exists x (x + x = y)").next_to(nat_nums, DOWN, buff=0.5)
+            
+            self.play(FadeIn(nat_nums),FadeIn(formula_1), run_time=tracker.duration * 0.4)
+
+        with self.voiceover(text="This formula is only true if we instantiate y with an even number.") as tracker:
+            formula_2 = MathTex(r"\exists x (x + x = 4)").move_to(formula_1)
+            formula_3 = MathTex(r"2 + 2 = 4").move_to(formula_1)
+            
+            self.play(Transform(formula_1, formula_2), run_time=tracker.duration * 0.5)
+            self.play(Transform(formula_1, formula_3), run_time=tracker.duration * 0.5)
+
+        with self.voiceover(text="Note, that the restriction that we are separating the elements from a pre-existing set is necessary to avoid paradoxes. Since, without it, we could define the set X to be the set of all sets which do not contain themselves.") as tracker:
+            self.play(FadeOut(nat_nums), FadeOut(formula_1), run_time=tracker.duration * 0.3)
+            paradox_def = MathTex(r"X = \{ Y : Y \notin Y \}").to_edge(UP).shift(LEFT*2)
+            self.play(FadeIn(paradox_def), run_time=tracker.duration * 0.7)
+
+        with self.voiceover(text="This is defined by a simple formula with one free variable, yet we get that X in X iff X not in X. Which is a contradiction.") as tracker:
+            paradox_contra = MathTex(r"X \in X \leftrightarrow X \notin X").next_to(paradox_def, DOWN, buff=0.5)
+            self.play(FadeIn(paradox_contra), run_time=tracker.duration * 0.5)
+            self.wait(tracker.duration * 0.5)
+
+        with self.voiceover(text="But anyways, if we stop the construction of our Universe here, we get a model of ZFC-Infinity, since we can show that each of these axioms hold true in this structure, yet each set is finite.") as tracker:
+            self.play(FadeOut(paradox_def), FadeOut(paradox_contra), run_time=tracker.duration * 0.3)
+            self.wait(tracker.duration * 0.7)
+
+        with self.voiceover(text="However, this structure is logically equivalent to the number line with addition and multiplication described earlier.") as tracker:
+            # Hide the axioms to make room
+            self.play(FadeOut(ax_group[:7]), run_time=tracker.duration * 0.2)
+            
+            # Shrink V_omega and move it up
+            self.play(hierarchy_group.animate.scale(0.7).move_to(UP * 1.5), run_time=tracker.duration * 0.4)
+            
+            # Draw the number line below it
+            number_line = NumberLine(
+                x_range=[0, 7, 1], length=8, color=WHITE,
+                include_numbers=True, numbers_to_include=[0, 1, 2, 3, 4, 5, 6, 7]
+            ).move_to(DOWN * 2)
+            self.play(Create(number_line), run_time=tracker.duration * 0.4)
+
+        with self.voiceover(text="Meaning that both structures can be interpreted within the other.") as tracker:
+            arrow_down = Arrow(hierarchy_group.get_bottom() + LEFT*1, number_line.get_top() + LEFT*1, color=YELLOW)
+            arrow_up = Arrow(number_line.get_top() + RIGHT*1, hierarchy_group.get_bottom() + RIGHT*1, color=TEAL)
+            
+            self.play(Create(arrow_down), Create(arrow_up), run_time=tracker.duration)
+
+        with self.voiceover(text="So, this tells us that if we want to go beyond simple elementary school math, we will need infinite sets. But infinite sets are confusing and cause issues when trying to formalize all of math.") as tracker:
+            self.wait(tracker.duration)

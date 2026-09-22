@@ -135,34 +135,46 @@ can put a bag around it and so we no longer
 have nothing, we have a bag with nothing in it.
 
 35
-00:01:47,200 --> 00:01:51,099
-This is obviously pretty dumb, but we are essentially defining the natural
+00:01:47,200 --> 00:01:50,625
+This is obviously pretty dumb, but we are essentially defining
 
 36
-00:01:51,199 --> 00:01:54,503
-numbers. The emptyset is 0, the set containing the empty set is
+00:01:50,725 --> 00:01:53,923
+the natural numbers. The emptyset is 0, the set containing
 
 37
-00:01:54,603 --> 00:01:57,854
-1, and then from here, just like Russian Dolls, we will define
+00:01:54,023 --> 00:01:56,425
+the empty set is 1, and then from here, just
 
 38
-00:01:57,954 --> 00:02:00,448
-the successor to be the set of all predecessors.
+00:01:56,525 --> 00:01:59,496
+like Russian Dolls, we will define the successor to be
 
 39
-00:02:00,533 --> 00:02:03,400
-So, we can define 2 as the set containing 0 and
+00:01:59,596 --> 00:02:02,851
+the set of all predecessors. Which requires the union axiom
 
 40
-00:02:03,500 --> 00:02:05,988
-1. Then 3 as the set with 0,1 and 2. Then
+00:02:05,466 --> 00:02:08,333
+So, we can define 2 as the set containing 0 and
 
 41
-00:02:06,088 --> 00:02:10,281
-we can continue this indefinitely, resulting in the ordinal numbers.
+00:02:08,433 --> 00:02:10,922
+1. Then 3 as the set with 0,1 and 2. Then
 
 42
-00:02:11,466 --> 00:02:14,344
-Note that this requires the union axiom
+00:02:11,022 --> 00:02:15,214
+we can continue this indefinitely, resulting in the ordinal numbers.
+
+43
+00:02:16,400 --> 00:02:20,677
+The ordinals, which are essentially just the natural numbers, will form the spine
+
+44
+00:02:20,777 --> 00:02:24,569
+of the set theoretic Universe. We will use the following axiom, known as
+
+45
+00:02:24,669 --> 00:02:27,271
+the power set axiom to define the rest of the sets
 

@@ -1,80 +1,232 @@
 1
-00:00:00,000 --> 00:00:02,245
-For example, if we have the set with
+00:00:00,000 --> 00:00:03,105
+The Power set is the set of all subsets. For example, if
 
 2
-00:00:02,345 --> 00:00:05,046
-{1,2,3} the power set is the following set.
+00:00:03,205 --> 00:00:06,482
+we have the set {1,2,3} the power set is the following set.
 
 3
-00:00:05,200 --> 00:00:07,346
+00:00:06,666 --> 00:00:08,813
 So, it contains the individual elements,
 
 4
-00:00:07,466 --> 00:00:08,829
+00:00:08,933 --> 00:00:10,296
 the pairs of elements,
 
 5
-00:00:08,933 --> 00:00:11,084
+00:00:10,400 --> 00:00:12,550
 the whole set and the emptyset at the
 
 6
-00:00:11,184 --> 00:00:13,457
+00:00:12,650 --> 00:00:14,923
 bottom, which is a subset of every set.
 
 7
-00:00:13,600 --> 00:00:17,204
-We will now use this to define the so-called Von Neuman Hierarchy of
+00:00:15,200 --> 00:00:17,926
+We may notice that there are 2 to the power of 3 or
 
 8
-00:00:17,304 --> 00:00:20,526
-sets V, which is often considered to be THE Universe of sets.
+00:00:18,026 --> 00:00:21,029
+8 members in the power set of a set with three elements.
 
 9
-00:00:20,600 --> 00:00:23,314
-Again, we start with the empty set, and then
+00:00:21,200 --> 00:00:23,866
+Since another way to look at the power set, is we
 
 10
-00:00:23,414 --> 00:00:26,769
-successively take the power set of the previous level.
+00:00:23,966 --> 00:00:27,649
+consider each possibility in the procedure of going by each element
 
 11
-00:00:26,933 --> 00:00:29,475
-So we get the set with the emptyset at the first level, then
+00:00:27,749 --> 00:00:29,851
+in the set and either saying yes or no.
 
 12
-00:00:29,575 --> 00:00:32,292
-the emptyset plus the set with the emptyset at the second level,
+00:00:30,133 --> 00:00:32,671
+If we say yes to all elements, we get the whole set.
 
 13
-00:00:32,400 --> 00:00:35,194
-then the emptyset, set with the emptyset and then
+00:00:32,800 --> 00:00:34,591
+If we say no to each, we get the
 
 14
-00:00:35,294 --> 00:00:37,498
-set with the set with the emptyset set.
+00:00:34,691 --> 00:00:37,428
+emptyset, and then we get everything in between.
 
 15
-00:00:37,600 --> 00:00:40,341
-This seems tame and boring, but this is a
+00:00:37,600 --> 00:00:41,204
+We will now use this to define the so-called Von Neuman Hierarchy of
 
 16
-00:00:40,441 --> 00:00:44,500
-hyper-exponential function, the third level has 16 elements,
+00:00:41,304 --> 00:00:44,526
+sets V, which is often considered to be THE Universe of sets.
 
 17
-00:00:44,666 --> 00:00:47,657
-the fourth level has 65 Thousand, and the fifth level
+00:00:44,600 --> 00:00:47,268
+Again, we start with the empty set at the bottom, and
 
 18
-00:00:47,757 --> 00:00:50,339
-has more atoms then there are in the Universe.
+00:00:47,368 --> 00:00:50,351
+then successively take the power set of the previous level.
 
 19
-00:00:50,466 --> 00:00:54,777
-Each level has the number of sets in the previous level raised to the
+00:00:50,400 --> 00:00:52,941
+So we get the set with the emptyset at the first level, then
 
 20
-00:00:54,877 --> 00:00:58,804
-power of 2. So, we can see how the complexity starts to emerge.
+00:00:53,041 --> 00:00:55,759
+the emptyset plus the set with the emptyset at the second level,
+
+21
+00:00:55,866 --> 00:00:58,825
+And so on. This seems tame and boring, but this is
+
+22
+00:00:58,925 --> 00:01:02,739
+a hyper-exponential function, the size of each level is the size
+
+23
+00:01:02,839 --> 00:01:05,614
+of the previous level raised to the power of 2.
+
+24
+00:01:05,933 --> 00:01:09,102
+So, the third level has 16 elements, the fourth level
+
+25
+00:01:09,202 --> 00:01:12,124
+has 65 Thousand, and the fifth level has way more
+
+26
+00:01:12,224 --> 00:01:14,714
+sets than there are atoms in the Universe.
+
+27
+00:01:14,800 --> 00:01:17,573
+We can see that each level contains the next ordinal.
+
+28
+00:01:18,733 --> 00:01:21,812
+We can repeat this procedure indefinitely, resulting
+
+29
+00:01:21,912 --> 00:01:24,197
+in the structure which we call V_omega.
+
+30
+00:01:24,333 --> 00:01:26,651
+We can then add in the following
+
+31
+00:01:26,751 --> 00:01:29,901
+new axioms, to get the theory ZFC-INFINITY.
+
+32
+00:01:30,066 --> 00:01:32,497
+These two axioms only make sense if we have infinite
+
+33
+00:01:32,597 --> 00:01:34,590
+sets, so we don't need to worry about them.
+
+34
+00:01:37,466 --> 00:01:40,991
+The replacement axiom just states that our Set theoretic Universe is
+
+35
+00:01:41,091 --> 00:01:44,509
+closed under functions. Meaning that if we have a function defined
+
+36
+00:01:44,609 --> 00:01:46,587
+on a set, then the range is also a set.
+
+37
+00:01:48,600 --> 00:01:52,616
+And this is the axiom of separation, which given some pre-existing set
+
+38
+00:01:52,716 --> 00:01:55,497
+Y, allows us to separate out all of the sets in Y
+
+39
+00:01:55,597 --> 00:01:59,378
+which satisfy a certain property. Where to get a bit technical, by
+
+40
+00:01:59,478 --> 00:02:03,024
+property we mean a First order formula with one free variable.
+
+41
+00:02:03,133 --> 00:02:07,236
+For example, we can use the formula \exists x(x+x=y)
+
+42
+00:02:07,336 --> 00:02:11,601
+to separate the even numbers from the natural numbers.
+
+43
+00:02:11,800 --> 00:02:16,010
+This formula is only true if we instantiate y with an even number.
+
+44
+00:02:16,200 --> 00:02:19,162
+Note, that the restriction that we are separating the elements
+
+45
+00:02:19,262 --> 00:02:22,274
+from a pre-existing set is necessary to avoid paradoxes. Since,
+
+46
+00:02:22,374 --> 00:02:24,398
+without it, we could define the set X to be
+
+47
+00:02:24,498 --> 00:02:26,966
+the set of all sets which do not contain themselves.
+
+48
+00:02:27,133 --> 00:02:31,552
+This is defined by a simple formula with one free variable, yet we get
+
+49
+00:02:31,652 --> 00:02:34,974
+that X in X iff X not in X. Which is a contradiction.
+
+50
+00:02:35,066 --> 00:02:39,117
+But anyways, if we stop the construction of our Universe here, we
+
+51
+00:02:39,217 --> 00:02:42,884
+get a model of ZFC-Infinity, since we can show that each of
+
+52
+00:02:42,984 --> 00:02:47,035
+these axioms hold true in this structure, yet each set is finite.
+
+53
+00:02:47,133 --> 00:02:49,938
+However, this structure is logically equivalent to the
+
+54
+00:02:50,038 --> 00:02:53,328
+number line with addition and multiplication described earlier.
+
+55
+00:02:53,466 --> 00:02:56,788
+Meaning that both structures can be interpreted within the other.
+
+56
+00:02:56,933 --> 00:03:00,061
+So, this tells us that if we want to go beyond simple
+
+57
+00:03:00,161 --> 00:03:04,507
+elementary school math, we will need infinite sets. But infinite sets are
+
+58
+00:03:04,607 --> 00:03:08,405
+confusing and cause issues when trying to formalize all of math.
 
