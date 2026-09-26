@@ -1,0 +1,60 @@
+1
+00:00:00,000 --> 00:00:04,857
+Let X be some arbitrary set and suppose towards a contradiction that there is
+
+2
+00:00:04,957 --> 00:00:08,076
+a 1-1 and onto map f from X to the power set of X.
+
+3
+00:00:08,133 --> 00:00:11,130
+Where onto just means that every element in the power set
+
+4
+00:00:11,230 --> 00:00:13,466
+of X gets mapped to by some element from X.
+
+5
+00:00:13,533 --> 00:00:17,035
+We can define the diagonal set D as the subset of X consisting
+
+6
+00:00:17,135 --> 00:00:20,695
+of the elements which are not contained in their image under f.
+
+7
+00:00:20,733 --> 00:00:22,413
+This is a subset of X, and therefore
+
+8
+00:00:22,513 --> 00:00:24,786
+by definition exists somewhere in the power set.
+
+9
+00:00:24,866 --> 00:00:29,352
+By our assumption that the map is onto, there should
+
+10
+00:00:29,452 --> 00:00:32,969
+be some element a in X, such that f(a)=D.
+
+11
+00:00:33,066 --> 00:00:38,452
+By definition of D, we know that a in D iff a not in f(a).
+
+12
+00:00:38,533 --> 00:00:41,748
+But D=f(a), so we get that a in f(a)
+
+13
+00:00:41,848 --> 00:00:45,799
+iff a not in f(a), which is a contradiction.
+
+14
+00:00:45,866 --> 00:00:49,473
+So, it must be that our map was not onto, and therefore the size
+
+15
+00:00:49,573 --> 00:00:52,427
+of the power set of D is larger than the size of D.
+

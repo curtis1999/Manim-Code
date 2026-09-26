@@ -1,0 +1,124 @@
+1
+00:00:00,000 --> 00:00:02,795
+Suppose towards a contradiction that there is a bijection
+
+2
+00:00:02,895 --> 00:00:05,031
+from the naturals to the set of reals, which
+
+3
+00:00:05,131 --> 00:00:07,266
+we represent as all infinite binary strings.
+
+4
+00:00:07,333 --> 00:00:09,515
+Next we will focus on the diagonal, which is
+
+5
+00:00:09,615 --> 00:00:12,005
+just another infinite string of 0's and 1's, and
+
+6
+00:00:12,105 --> 00:00:14,443
+therefore another real number, which we call D.
+
+7
+00:00:14,533 --> 00:00:18,932
+We can use this number to define a new number D star, which is just the opposite
+
+8
+00:00:19,032 --> 00:00:22,306
+of D, meaning if there is a 0 we put a 1, and if there's a 1
+
+9
+00:00:22,406 --> 00:00:25,848
+we put a 0. So, we obtain a new infinite string of 0's and 1's,
+
+10
+00:00:27,200 --> 00:00:29,664
+so by our assumption that our map was 1 to 1, this
+
+11
+00:00:29,764 --> 00:00:32,638
+new real D star should exist somewhere in our list. But we
+
+12
+00:00:32,738 --> 00:00:35,664
+know that it cannot be the first element in the list, since
+
+13
+00:00:35,764 --> 00:00:38,228
+D^* differs from this real on teh first coordinate
+
+14
+00:00:38,266 --> 00:00:39,882
+But it also cannot be the second element,
+
+15
+00:00:39,982 --> 00:00:41,640
+since it differs on the second coordinate.
+
+16
+00:00:42,266 --> 00:00:46,785
+It can't be the 7'th element, since it differs on the 7'th coordinate. And
+
+17
+00:00:46,885 --> 00:00:50,342
+so, it cannot be equal to any of the elements in our list
+
+18
+00:00:50,400 --> 00:00:52,637
+But this contradicts our assumption that all real
+
+19
+00:00:52,737 --> 00:00:54,688
+numbers would appear somewhere in our list.
+
+20
+00:00:54,866 --> 00:00:58,379
+This argument may not convince you, in fact many mathematicians at the
+
+21
+00:00:58,479 --> 00:01:01,888
+time did not accept such arguments. But note that there are multiple
+
+22
+00:01:01,988 --> 00:01:05,191
+ways of proving this, and in fact this argument was not Cantor's
+
+23
+00:01:05,291 --> 00:01:09,010
+original one. And in some sense, continuous sets do clearly have different
+
+24
+00:01:09,110 --> 00:01:11,746
+properties from discrete ones, so it makes sense that
+
+25
+00:01:11,800 --> 00:01:13,813
+omega, which is the limit of some
+
+26
+00:01:13,913 --> 00:01:16,950
+discrete operation, is smaller than the continuum
+
+27
+00:01:17,000 --> 00:01:20,415
+However, once we accept this fact that some infinities are larger
+
+28
+00:01:20,515 --> 00:01:23,336
+then others, we enter a bit of a slippery slope, where
+
+29
+00:01:23,436 --> 00:01:26,852
+we suddenly have to accept infinitely many increasing infinities.
+
+30
+00:01:26,933 --> 00:01:30,872
+This follows from Cantor's theorem, which states that given any set X, the
+
+31
+00:01:30,972 --> 00:01:34,147
+size of the power set is strictly larger than the size of X.
+

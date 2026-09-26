@@ -602,7 +602,7 @@ class VHierarchyScene(VoiceoverScene):
                 r"\text{Existence: } \exists x \forall y (y \notin x)",
                 r"\text{Extensionality: } \forall x \forall y (x=y \leftrightarrow \forall z (z\in x\leftrightarrow z \in y))",
                 r"\text{Pairing: } \forall x \forall y \exists z (x\in z\land y\in z)",
-                r"\text{Union: } \forall x \exists y \forall z (\dots)",
+                r"\text{Union: } \forall x \exists y \forall z (z\in y \leftrightarrow \exists w \in x (z\in w))",
                 r"\text{Power Set: } \forall x \exists y \forall z (\forall w\in z (w \in z \rightarrow w\in y))",
                 r"\text{Replacement: } \forall x (\dots)",
                 r"\text{Separation: } \forall x \exists y \forall z (z \in y \leftrightarrow z \in x \land \varphi(z))",
@@ -681,11 +681,11 @@ class VHierarchyScene(VoiceoverScene):
             ).move_to(DOWN * 2)
             self.play(Create(number_line), run_time=tracker.duration * 0.4)
 
-        with self.voiceover(text="Meaning that both structures can be interpreted within the other.") as tracker:
+        with self.voiceover(text="Meaning that both structures can be interpreted within the other.  So the study of finite sets, is just a more confusing way of doing arithmetic.  And so true set theory is the study of infinite sets. ") as tracker:
             arrow_down = Arrow(hierarchy_group.get_bottom() + LEFT*1, number_line.get_top() + LEFT*1, color=YELLOW)
             arrow_up = Arrow(number_line.get_top() + RIGHT*1, hierarchy_group.get_bottom() + RIGHT*1, color=TEAL)
             
             self.play(Create(arrow_down), Create(arrow_up), run_time=tracker.duration)
 
-        with self.voiceover(text="So, this tells us that if we want to go beyond simple elementary school math, we will need infinite sets. But infinite sets are confusing and cause issues when trying to formalize all of math.") as tracker:
+        with self.voiceover(text="The history of infinity in math is very interserting, and will have it's own video soon.") as tracker:
             self.wait(tracker.duration)

@@ -1,0 +1,164 @@
+1
+00:00:00,000 --> 00:00:02,885
+The history of the role of infinity in math is
+
+2
+00:00:02,985 --> 00:00:06,195
+very interesting, and will have its own video soon.
+
+3
+00:00:06,266 --> 00:00:10,151
+For now just note, that due to various paradoxes, infinity was only
+
+4
+00:00:10,251 --> 00:00:14,670
+accepted theoretically. Meaning that the sentence for all y, there exists an
+
+5
+00:00:14,770 --> 00:00:17,347
+x such that x is greater than y. was accepted
+
+6
+00:00:17,400 --> 00:00:21,557
+But it was not accepted that there exists an x for all y, such that
+
+7
+00:00:21,657 --> 00:00:25,815
+x is greater than y, since such an x would be a truly infinite set.
+
+8
+00:00:25,866 --> 00:00:28,151
+It took this man right here, Georg
+
+9
+00:00:28,251 --> 00:00:30,886
+Cantor to develop a theory of infinity.
+
+10
+00:00:31,400 --> 00:00:34,478
+The first obstacle we encounter is the seeming paradox we
+
+11
+00:00:34,578 --> 00:00:37,824
+encounter when trying to compare the sizes of infinite sets.
+
+12
+00:00:37,924 --> 00:00:40,612
+For example, if we compare the size of the natural
+
+13
+00:00:40,712 --> 00:00:42,898
+numbers with the set of square numbers...
+
+14
+00:00:42,933 --> 00:00:45,664
+on the one hand, the set of natural numbers seems
+
+15
+00:00:45,764 --> 00:00:48,841
+way larger, since most numbers are not perfect squares.
+
+16
+00:00:48,933 --> 00:00:52,622
+And in fact the difference in size increases with larger numbers.
+
+17
+00:00:52,722 --> 00:00:55,886
+The squares make up 10 percent of numbers less than 100.
+
+18
+00:00:55,933 --> 00:00:58,419
+1 per cent of numbers less than 10K
+
+19
+00:00:58,466 --> 00:01:02,389
+and 0.1 percent of numbers less than a million and so on.
+
+20
+00:01:03,466 --> 00:01:07,765
+But on the other hand, every natural number has exactly one square. So, at
+
+21
+00:01:07,865 --> 00:01:11,569
+infinity, we have to admit that the two sets have the same size.
+
+22
+00:01:11,666 --> 00:01:13,745
+Now, to most of you, this just means that
+
+23
+00:01:13,845 --> 00:01:16,348
+sets are either finite or infinite, and once they
+
+24
+00:01:16,448 --> 00:01:19,377
+are infinite, their size cannot be increased or compared.
+
+25
+00:01:20,466 --> 00:01:24,244
+But to Cantor, the defining characteristic of size, was whether the
+
+26
+00:01:24,344 --> 00:01:27,832
+two sets could be put into correspondence with each other. So,
+
+27
+00:01:27,932 --> 00:01:30,841
+to Cantor, these two do literally have the same size
+
+28
+00:01:30,933 --> 00:01:34,191
+and Cantor's friend Dedekind defined a set to be infinite
+
+29
+00:01:34,291 --> 00:01:36,370
+if and only if it could be put into 1
+
+30
+00:01:36,470 --> 00:01:39,375
+to 1 correspondence with a proper subset of itself.
+
+31
+00:01:39,466 --> 00:01:41,586
+So, the existence of this 1-1 mapping just
+
+32
+00:01:41,686 --> 00:01:43,911
+shows that the natural numbers are infinite.
+
+33
+00:01:44,000 --> 00:01:46,512
+Cantor then showed how to put the rational numbers
+
+34
+00:01:46,600 --> 00:01:49,352
+and even the algebraic numbers (which include certain
+
+35
+00:01:49,452 --> 00:01:51,882
+irrational numbers like the square root of two)
+
+36
+00:01:51,982 --> 00:01:54,519
+into 1-1 correspondence with the natural numbers.
+
+37
+00:01:54,600 --> 00:01:57,816
+Some would say that set theory was born when Cantor showed that
+
+38
+00:01:57,916 --> 00:02:01,397
+this pattern breaks once we hit the Real numbers. Meaning that there
+
+39
+00:02:01,497 --> 00:02:04,766
+is no way to put the naturals and reals into 1-1 correspondence.
+
+40
+00:02:04,866 --> 00:02:08,083
+And therefore the set of real numbers are a larger infinite set
+
+41
+00:02:08,133 --> 00:02:09,496
+We sketch this proof now.
+
