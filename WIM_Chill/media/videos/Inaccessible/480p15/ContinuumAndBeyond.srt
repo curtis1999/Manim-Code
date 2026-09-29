@@ -1,0 +1,204 @@
+1
+00:00:00,000 --> 00:00:02,254
+Before seeing how far this idea can
+
+2
+00:00:02,354 --> 00:00:04,811
+go, let us address a natural question.
+
+3
+00:00:04,866 --> 00:00:07,770
+Where in this hierarchy does the continuum fit?
+
+4
+00:00:09,666 --> 00:00:13,785
+The Continuum Hypothesis, which Cantor believed but was unable to
+
+5
+00:00:13,885 --> 00:00:16,900
+prove and we will soon see why, states that size
+
+6
+00:00:17,000 --> 00:00:20,146
+of the continuum is the next infinity after omega.
+
+7
+00:00:20,200 --> 00:00:22,630
+If the CH is false, then there are sets of
+
+8
+00:00:22,730 --> 00:00:26,485
+intermediate size, greater than the size of the natural numbers,
+
+9
+00:00:26,585 --> 00:00:28,955
+but smaller than the set of real numbers.
+
+10
+00:00:29,000 --> 00:00:33,230
+And the Generalized continuum hypothesis, asserts that the power
+
+11
+00:00:33,330 --> 00:00:36,005
+set of any cardinal is the next cardinal.
+
+12
+00:00:36,066 --> 00:00:39,832
+We will do a whole video on the CH soon, as it is the
+
+13
+00:00:39,932 --> 00:00:45,814
+first statement which was formally shown to be independent from the axioms of ZFC.
+
+14
+00:00:45,866 --> 00:00:50,535
+Meaning that if we feed the ZFC axioms into our theorem prover,
+
+15
+00:00:50,635 --> 00:00:54,622
+it will never spit out a proof of CH nor its negation.
+
+16
+00:00:54,666 --> 00:00:58,364
+For now, let us just assume for simplicity that the GCH holds,
+
+17
+00:00:58,464 --> 00:01:01,671
+and let us see how far this infinite hierarchy can go.
+
+18
+00:01:01,733 --> 00:01:04,272
+Now we can surely continue performing this
+
+19
+00:01:04,372 --> 00:01:06,596
+procedure all the way to aleph omega.
+
+20
+00:01:06,666 --> 00:01:10,563
+Recall that we were originally trying to define a Universe of sets. I.e.
+
+21
+00:01:10,663 --> 00:01:14,060
+some set which satisfies each of the ZFC axioms. Now, if we cut
+
+22
+00:01:14,160 --> 00:01:17,446
+off the universe at aleph omega, we would obtain a model of a
+
+23
+00:01:17,546 --> 00:01:20,333
+lot of ZFC, but the axiom of Replacement would fail.
+
+24
+00:01:20,400 --> 00:01:23,457
+Since we can define a function which
+
+25
+00:01:23,557 --> 00:01:26,438
+maps natural numbers n to aleph_n.
+
+26
+00:01:26,533 --> 00:01:28,739
+By the axiom of replacement the range
+
+27
+00:01:28,839 --> 00:01:30,795
+of this function should be a set.
+
+28
+00:01:30,866 --> 00:01:33,509
+And by the axiom of union, so should its union.
+
+29
+00:01:33,600 --> 00:01:36,216
+But the union of the range of this
+
+30
+00:01:36,316 --> 00:01:40,291
+function is V_omega itself, and equals aleph omega.
+
+31
+00:01:40,333 --> 00:01:43,498
+But V_omega cannot contain aleph_omega.
+
+32
+00:01:43,533 --> 00:01:46,045
+So, we don't yet have a model of set theory.
+
+33
+00:01:46,133 --> 00:01:49,456
+We have to continue further. But the cat is already out of
+
+34
+00:01:49,556 --> 00:01:53,824
+the bag, we have already accepted the existence of transfinite numbers, so
+
+35
+00:01:53,924 --> 00:01:56,952
+we can continue beyond V_omega just as we did before.
+
+36
+00:01:57,000 --> 00:01:59,393
+We can define aleph omega plus one, and
+
+37
+00:01:59,493 --> 00:02:01,758
+eventually aleph omega one and so on.
+
+38
+00:02:01,800 --> 00:02:05,440
+Now if we look at the generalization of this function here, which
+
+39
+00:02:05,540 --> 00:02:08,951
+sends an ordinal alpha to aleph_alpha, we see that this is an
+
+40
+00:02:09,051 --> 00:02:13,152
+increasing continuous function on the ordinals, and so by the fixed point
+
+41
+00:02:13,252 --> 00:02:16,433
+theorem, there is a fixed point which we will call kappa.
+
+42
+00:02:16,466 --> 00:02:19,370
+So kappa equals aleph kappa.
+
+43
+00:02:19,466 --> 00:02:22,986
+If kappa is also a so-called regular cardinal
+
+44
+00:02:23,086 --> 00:02:25,479
+then V_kappa is a model of ZFC.
+
+45
+00:02:25,533 --> 00:02:28,515
+Meaning that it is a Universe of sets.
+
+46
+00:02:28,600 --> 00:02:31,848
+However, by Godel's completeness theorem, this
+
+47
+00:02:31,948 --> 00:02:33,959
+means that ZFC is consistent.
+
+48
+00:02:34,000 --> 00:02:37,210
+But then this implies that we cannot prove the
+
+49
+00:02:37,310 --> 00:02:40,592
+existence of such a cardinal kappa, since if we
+
+50
+00:02:40,692 --> 00:02:43,399
+could then we would have a proof of the
+
+51
+00:02:43,499 --> 00:02:48,868
+consistency of ZFC, which contradicts Godel's second incompleteness theorem.
+

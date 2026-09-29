@@ -41,14 +41,14 @@ class TransfiniteUniverse(VoiceoverScene):
             self.play(*[FadeOut(m) for m in self.mobjects])
             
         with self.voiceover(text="So, returning the Universe of sets which we had, let's simplify by representing the ordinals using numbers.") as tracker:
-            # Original hierarchy with empty sets
-            v0_orig = MathTex(r"\emptyset").move_to(DOWN * 3)
-            v1_orig = MathTex(r"\{\emptyset\}").move_to(DOWN * 2)
-            v2_orig = MathTex(r"\{\emptyset, \{\emptyset\}\}").move_to(DOWN * 1)
-            v3_orig = MathTex(r"\{\emptyset, \{\emptyset\}, \{\emptyset, \{\emptyset\}\}, \{\{\emptyset\}\}\}").scale(0.85).move_to(ORIGIN)
-            v4_orig = MathTex(r"\{\dots, \{\emptyset, \{\emptyset\}, \{\emptyset, \{\emptyset\}\}\}, \dots\}").scale(0.85).move_to(UP * 1)
-            v5_orig = MathTex(r"\{\dots, \{\emptyset, \{\emptyset\}, \{\emptyset, \{\emptyset\}\}, \{\emptyset, \{\emptyset\}, \{\emptyset, \{\emptyset\}\}\}\}, \dots\}").scale(0.65).move_to(UP * 2)
-            v_dots_top = MathTex(r"\vdots").move_to(UP * 2.8)
+            # Shifted hierarchy down by 0.8 units
+            v0_orig = MathTex(r"\emptyset").move_to(DOWN * 3.8)
+            v1_orig = MathTex(r"\{\emptyset\}").move_to(DOWN * 2.8)
+            v2_orig = MathTex(r"\{\emptyset, \{\emptyset\}\}").move_to(DOWN * 1.8)
+            v3_orig = MathTex(r"\{\emptyset, \{\emptyset\}, \{\emptyset, \{\emptyset\}\}, \{\{\emptyset\}\}\}").scale(0.85).move_to(DOWN * 0.8)
+            v4_orig = MathTex(r"\{\dots, \{\emptyset, \{\emptyset\}, \{\emptyset, \{\emptyset\}\}\}, \dots\}").scale(0.85).move_to(UP * 0.2)
+            v5_orig = MathTex(r"\{\dots, \{\emptyset, \{\emptyset\}, \{\emptyset, \{\emptyset\}\}, \{\emptyset, \{\emptyset\}, \{\emptyset, \{\emptyset\}\}\}\}, \dots\}").scale(0.65).move_to(UP * 1.2)
+            v_dots_top = MathTex(r"\vdots").move_to(UP * 2.0)
             
             left_line = Line(v0_orig.get_center() + DOWN*0.5, v_dots_top.get_center() + LEFT*4.5 + UP*0.5, color=GREEN)
             right_line = Line(v0_orig.get_center() + DOWN*0.5, v_dots_top.get_center() + RIGHT*4.5 + UP*0.5, color=GREEN)
@@ -84,7 +84,15 @@ class TransfiniteUniverse(VoiceoverScene):
                 v_dots_top, left_line, right_line, v_omega_dashed, v_omega_label
             )
 
-        with self.voiceover(text="Recall that each level of the hierarchy is obtained by taking the power set of the previous level.  So, now that we are equipped with the axiom of infinity, we may take the power set more than omega many times") as tracker:
+        with self.voiceover(text="Recall that each level of the hierarchy is obtained by taking the power set of the previous level.  We may define the omega'th level of the hierarchy, as the union of each of the previous levels.  Here the union is like a limit in calculus, and this structure V_omega, is the limit of the V_n's as n approaches infinity. ") as tracker:
+            # Placed above the hierarchy in yellow
+            V_omega_def = MathTex(r"V_\omega  = \bigcup_{n<\omega} V_n", font_size=32, color=YELLOW).next_to(v_dots_top, UP, buff=0.6)
+            lim_def = MathTex(r"V_\omega  = \bigcup_{n<\omega} V_n = \lim_{n\rightarrow \infty} V_n" ,font_size=32, color=YELLOW).move_to(V_omega_def)
+            self.wait()
+            self.play(Write(V_omega_def))
+            self.play(Transform(V_omega_def, lim_def))
+                    
+        with self.voiceover(text="But now that we are equipped with the axiom of infinity, we may continue by taking the power set of V_omega, to obtain V_omega+1") as tracker:    
             # --- ZFC Axioms on the left ---
             ax_texts = [
                 r"\text{Existence: } \exists x \forall y (y \notin x)",
@@ -102,15 +110,11 @@ class TransfiniteUniverse(VoiceoverScene):
             ax_group.arrange(UP, aligned_edge=LEFT, buff=0.25).to_edge(LEFT)
             
             self.play(
+                FadeOut(V_omega_def), FadeOut(lim_def),
                 hierarchy_group.animate.scale(0.6).to_edge(RIGHT).shift(DOWN * 0.5),
                 FadeIn(ax_group)
             )
-            
-
-        with self.voiceover(text="This means that we are now performing so-called transfinite recursion. Again, many mathematicians, namely those with constructivist intuitions about mathematics, don't believe in such constructions, but let's just see how far this idea can go, because it does lead to interesting places.") as tracker:
-            self.wait(tracker.duration)
-
-        with self.voiceover(text="So we take the power set of V omega to obtain V_omega+1.  Since V omega has omega many elements, V omega +1 has 2^omega many elements. So this slice of the hierarchy has continuum many sets in it.") as tracker:
+            self.wait()
             l_start = left_line.get_start()
             l_dir = left_line.get_vector()
             r_start = right_line.get_start()
@@ -125,7 +129,8 @@ class TransfiniteUniverse(VoiceoverScene):
             v_omega_plus_1_label = MathTex(r"V_{\omega+1}", font_size=28, color=YELLOW).next_to(v_omega_plus_1_dashed, LEFT, buff=0.2)
                         
             center_pt = (new_left_line.get_end() + new_right_line.get_end()) / 2
-            center_highlight = MathTex(r"\dots\{0, 1, 2, \dots, \omega\}\dots", font_size=32, color=WHITE).move_to(center_pt + DOWN*0.2)
+            # Separated the tex blocks so we can highlight just the \omega
+            center_highlight = MathTex(r"\dots", r"\{0, 1, 2, \dots,\omega", r"\}\dots", font_size=32, color=WHITE).move_to(center_pt + DOWN*0.2)
                         
             self.play(
                 Transform(left_line, new_left_line), 
@@ -135,6 +140,11 @@ class TransfiniteUniverse(VoiceoverScene):
                 Write(center_highlight)
             )
             
+
+        with self.voiceover(text="This means that we are now performing so-called transfinite recursion. Again, many mathematicians, namely those with constructivist intuitions about mathematics, don't believe in such constructions, but let's just see how far this idea can go, because it does lead to interesting places.") as tracker:
+            self.wait(tracker.duration)
+
+        with self.voiceover(text="Since V omega has omega many elements, V omega +1 has 2^omega many elements. So this slice of the hierarchy has continuum many sets in it.") as tracker:
             continuum_brace = Brace(v_omega_plus_1_dashed, UP, color=YELLOW)
             continuum_label = continuum_brace.get_tex(r"2^{\aleph_0} = \mathfrak{c}").set_color(YELLOW).scale(0.8)
             self.play(Create(continuum_brace), Write(continuum_label))
@@ -149,7 +159,8 @@ class TransfiniteUniverse(VoiceoverScene):
                 FadeOut(continuum_brace),
                 Transform(continuum_label, omega1_label),
                 Create(arrow),
-                center_highlight.animate.set_color(YELLOW)
+                # Only coloring the inner \omega slice
+                center_highlight[1].animate.set_color(YELLOW)
             )
             self.wait(tracker.duration * 0.8)
 
@@ -239,13 +250,13 @@ class TransfiniteUniverse(VoiceoverScene):
             ordinals.add(mobj)
             return mobj
 
-        # Helper to generate \omega + n (picks up immediately with big circle, distance halved to 0.015)
+        # Helper to generate \omega + n (spacing normalized to 0.05)
         def get_omega_plus_n_visual(n):
             w = get_omega_visual()
             vg = VGroup(*w)
             last_obj = w[-1]
             for i in range(n):
-                c = Circle(radius=0.15, color=WHITE, stroke_width=2).next_to(last_obj, RIGHT, buff=0.015)
+                c = Circle(radius=0.15, color=WHITE, stroke_width=2).next_to(last_obj, RIGHT, buff=0.05)
                 vg.add(c)
                 last_obj = c
             vg.move_to(DOWN*0.5)
@@ -270,9 +281,14 @@ class TransfiniteUniverse(VoiceoverScene):
                 Write(cur_label)
             )
 
-        with self.voiceover(text="Then we can define omega+1 using the same Russian doll successor function as before. So omega+1 represents the ordering of omega with a single greatest element.") as tracker:
+        with self.voiceover(text="Then we can define the successor of omega, omega+1 using the same Russian doll successor function as before.  Now when we go past infinity, we start to use Greek letters to represent ordinals instead of regular letters, but its still the same stuff.  So omega+1 represents the ordering of omega with a single greatest element.") as tracker:
+            Succ_def = MathTex(r"S(\alpha) =  \alpha\cup\{\alpha\}", font_size = 32, color = RED).shift(UP*3)
             o3 = add_to_list(r"\omega+1,")
-            self.play(Write(o3))
+            self.play(Write(o3), Write(Succ_def))
+            
+            # Animation feeding \omega into the successor definition
+            Succ_omega = MathTex(r"S(\omega) = \omega\cup\{\omega\} = \{0,1,2,\dots,\omega\}", font_size = 32, color = RED).next_to(Succ_def, DOWN, buff=0.2)
+            self.play(Write(Succ_omega))
             
             next_visual = get_omega_plus_n_visual(1)
             next_brace = Brace(next_visual, DOWN, color=YELLOW)
@@ -284,6 +300,10 @@ class TransfiniteUniverse(VoiceoverScene):
             )
 
         with self.voiceover(text="Then we can define omega plus 2, in the same way, and we see that it represents the order type of omega with two greatest elements.") as tracker:
+            # Animation feeding \omega+1 into the successor definition
+            Succ_w_1 = MathTex(r"S(\omega+1) = (\omega+1)\cup\{\omega+1\} = \{0,1,2,\dots,\omega,\omega+1\} = \omega+2", font_size = 32, color = RED).next_to(Succ_def, DOWN, buff=0.2)
+            self.play(Transform(Succ_omega, Succ_w_1))
+
             o4 = add_to_list(r"\omega+2, \dots,")
             self.play(Write(o4))
             
@@ -297,6 +317,8 @@ class TransfiniteUniverse(VoiceoverScene):
             )
 
         with self.voiceover(text="and then we can repeat this omega many times, to obtain omega+omega, like we saw earlier.") as tracker:
+            w+w_def  = MathTex(r"(\omega+\omega) = \text{lim}_{n\rightarrow \infty} \omega+n = \{0,1,2,\dots,\omega,\omega+1,\dots\}", font_size = 32, color = RED).next_to(Succ_def, DOWN, buff=0.2)
+            self.play(FadeOut(Succ_def), FadeOut(Succ_omega), FadeOut(Succ_w_1))
             o5 = add_to_list(r"\omega+\omega, \dots,")
             self.play(Write(o5))
             
@@ -309,7 +331,7 @@ class TransfiniteUniverse(VoiceoverScene):
                 Transform(cur_visual, next_visual_w), Transform(cur_brace, next_brace_w), Transform(cur_label, next_label_w)
             )
 
-        with self.voiceover(text="We can continue using this successor function, passing through omega times omega or omega squared, which is similar to the rational numbers.") as tracker:
+        with self.voiceover(text="We can continue using this successor function, passing through omega times omega or omega squared, which is similar to the rational numbers with a left endpoint.") as tracker:
             o6 = add_to_list(r"\omega^2, \dots,")
             self.play(Write(o6))
             
@@ -359,23 +381,34 @@ class TransfiniteUniverse(VoiceoverScene):
         with self.voiceover(text="So, the set of all countable ordinals is uncountable. Meaning that there are more ways or re-ordering omega, then there are elements in omega. We will call this set, as Cantor did, omega 1.") as tracker:
             self.play(FadeOut(countable_brace), FadeOut(countable_text))
             
-            # Change: Scales in place around its left edge so it doesn't jump up
+            # Scale FIRST before adding o9, to prevent Manim from accidentally fading o9 in
             self.play(ordinals.animate.scale(0.8, about_point=ordinals[0].get_left()))
             
-            o9 = MathTex(r"\omega_1, \dots,", font_size=32*0.8, color=WHITE).next_to(ordinals[-1], RIGHT, buff=0.2)
-            ordinals.add(o9)
+            o9 = MathTex(r"\omega_1", font_size=32*0.8, color=WHITE).next_to(ordinals[-1], RIGHT, buff=0.2)
             
+            self.wait(tracker.duration * 0.5)
             set_brace = Brace(set_of_countable, UP, color=RED)
             arrow_to_w1 = Arrow(set_brace.get_top(), o9.get_bottom() + LEFT * 0.15, buff=0.1, color=RED)
             
+            # Write, THEN add to the group
             self.play(Write(o9))
+            ordinals.add(o9)
             self.play(Create(set_brace), Create(arrow_to_w1))
 
-        with self.voiceover(text="Now we can repeat the same process with omega_1.  So, we can define omega_1 plus 1, using the same successor function, and then consider all possible orderings of this new larger base set omega_1.   Then we can continue applying this successor function, passing through all possible orderings of the new base set omega 1.  Then we can think of omega_2 as the set containing each of the orderings of omega_1, and we know that this set has large cardinality than omega_1") as tracker:
-            o10 = MathTex(r"\omega_2, \dots", font_size=32*0.8, color=WHITE).next_to(ordinals[-1], RIGHT, buff=0.2)
-            ordinals.add(o10)
+        with self.voiceover(text="Now we can repeat the same process with omega_1.  So, we can recursively apply the same successor function passing through all possible orderings of this new larger base set omega_1.  Then we can think of omega_2 as the set containing each of the orderings of omega_1, and we know that this set has large cardinality than omega_1") as tracker:
+            self.play(FadeOut(set_brace), FadeOut(arrow_to_w1), FadeOut(set_of_countable))
+            
+            o10 = MathTex(r"\dots,\omega_1^{\omega_1}\dots", font_size = 32*0.8, color = WHITE).next_to(ordinals[-1], RIGHT, buff=0.2)
             self.play(Write(o10))
-
+            ordinals.add(o10)          
+            
+            self.wait(tracker.duration*0.3)
+            
+            o11 = MathTex(r"\omega_2, \dots", font_size=32*0.8, color=WHITE).next_to(ordinals[-1], RIGHT, buff=0.2)          
+            self.wait()
+            self.play(Write(o11))
+            ordinals.add(o11)
+            
         with self.voiceover(text="So, if we just care about the cardinality, meanings how many elements there are, we see that all of these sets have the same size, since they are just different orderrings of omega.  We will call this size aleph_0.") as tracker:
             aleph_0_group = VGroup(*ordinals[1:8])
             brace_0 = Brace(aleph_0_group, UP, color=GREEN)
@@ -383,16 +416,51 @@ class TransfiniteUniverse(VoiceoverScene):
             self.play(Create(brace_0), Write(label_0))
         
         with self.voiceover(text = "And similarly these sets have the same size, whcih we call aleph_1.  And these guys have size aleph_2 ") as tracker:
-            aleph_1_group = VGroup(*ordinals[8:9]) 
+            aleph_1_group = VGroup(*ordinals[8:10]) 
             brace_1 = Brace(aleph_1_group, UP, color=RED)
             label_1 = brace_1.get_tex(r"\aleph_1").set_color(RED)
             self.play(Create(brace_1), Write(label_1))
             
-            self.wait(0.5)
-            aleph_2_group = VGroup(*ordinals[9:10])
+            self.wait(tracker.duration *0.5)
+            aleph_2_group = VGroup(*ordinals[10:11])
             brace_2 = Brace(aleph_2_group, UP, color=BLUE)
             label_2 = brace_2.get_tex(r"\aleph_2").set_color(BLUE)
             self.play(Create(brace_2), Write(label_2))
             self.wait(tracker.duration * 0.5)
+        
+        with self.voiceover(text="Now the ordinals, such as omega, omega 1, and omega 2, where a jump in size happens will be called cardinals.") as tracker:
+            # Split the string so we can animate the highlights on specific indices (1, 3, and 5)
+            succinctOrdinals = MathTex(
+                r"0, 1, 2, \dots, ", 
+                r"\omega", 
+                r", \dots, ", 
+                r"\omega_1", 
+                r", \dots, ", 
+                r"\omega_2", 
+                r", \dots, ", 
+                r"\omega_n", 
+                r", \dots \dots"
+            ).move_to(ordinals)
+            
+            # Fade out the previous braces/labels and morph into the succinct list
+            self.play(
+                FadeOut(VGroup(brace_0, label_0, brace_1, label_1, brace_2, label_2)),
+                ReplacementTransform(ordinals, succinctOrdinals)
+            )
+            
+            # Successively highlight \omega, \omega_1, and \omega_2
+            self.play(succinctOrdinals[1].animate.set_color(YELLOW), run_time=0.4)
+            self.play(succinctOrdinals[3].animate.set_color(YELLOW), run_time=0.4)
+            self.play(succinctOrdinals[5].animate.set_color(YELLOW), run_time=0.4)
+
+        with self.voiceover(text="We will now see how far this hierarchy of cardinals can go, but first let us address a natural question.") as tracker:
+            # Display the hierarchy of cardinals
+            cardinals_hierarchy = MathTex(r"\aleph_0, \aleph_1, \aleph_2, \dots \aleph_n\dots\dots", color=YELLOW).move_to(succinctOrdinals)
+            
+            self.play(ReplacementTransform(succinctOrdinals, cardinals_hierarchy))
+            self.wait()
 
         self.play(*[FadeOut(m) for m in self.mobjects])
+        
+#TODO's: 1. Fix highlights of \omega+\omega etc. in the countable hierarchy
+#2. Take out referecen to epsilon_0

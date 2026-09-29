@@ -35,286 +35,322 @@ So, returning the Universe of sets which we had,
 let's simplify by representing the ordinals using numbers.
 
 10
-00:00:24,733 --> 00:00:28,266
-Recall that each level of the hierarchy is obtained by taking the power set
+00:00:24,733 --> 00:00:28,364
+Recall that each level of the hierarchy is obtained by taking the
 
 11
-00:00:28,366 --> 00:00:31,608
-of the previous level. So, now that we are equipped with the axiom of
+00:00:28,464 --> 00:00:32,095
+power set of the previous level. We may define the omega'th level
 
 12
-00:00:31,708 --> 00:00:34,612
-infinity, we may take the power set more than omega many times
+00:00:32,195 --> 00:00:35,654
+of the hierarchy, as the union of each of the previous levels.
 
 13
-00:00:34,666 --> 00:00:38,068
-This means that we are now performing so-called transfinite
+00:00:35,754 --> 00:00:39,213
+Here the union is like a limit in calculus, and this structure
 
 14
-00:00:38,168 --> 00:00:42,935
-recursion. Again, many mathematicians, namely those with constructivist intuitions
+00:00:39,313 --> 00:00:42,657
+V_omega, is the limit of the V_n's as n approaches infinity.
 
 15
-00:00:43,035 --> 00:00:46,793
-about mathematics, don't believe in such constructions, but let's
+00:00:42,733 --> 00:00:46,104
+But now that we are equipped with the axiom of infinity, we
 
 16
-00:00:46,893 --> 00:00:49,286
-just see how far this idea can go, because
+00:00:46,204 --> 00:00:50,104
+may continue by taking the power set of V_omega, to obtain V_omega+1
 
 17
-00:00:49,386 --> 00:00:51,363
-it does lead to interesting places.
+00:00:50,200 --> 00:00:53,601
+This means that we are now performing so-called transfinite
 
 18
-00:00:51,400 --> 00:00:56,183
-So we take the power set of V omega to obtain V_omega+1. Since
+00:00:53,701 --> 00:00:58,468
+recursion. Again, many mathematicians, namely those with constructivist intuitions
 
 19
-00:00:56,283 --> 00:01:01,698
-V omega has omega many elements, V omega +1 has 2^omega many elements.
+00:00:58,568 --> 00:01:02,326
+about mathematics, don't believe in such constructions, but let's
 
 20
-00:01:01,798 --> 00:01:06,503
-So this slice of the hierarchy has continuum many sets in it.
+00:01:02,426 --> 00:01:04,819
+just see how far this idea can go, because
 
 21
-00:01:06,600 --> 00:01:10,395
-Now if we look at the ordinal at this level, which is just omega+1,
+00:01:04,919 --> 00:01:06,896
+it does lead to interesting places.
 
 22
-00:01:10,495 --> 00:01:14,115
-it is just the set of all natural numbers with omega at the top.
+00:01:06,933 --> 00:01:11,628
+Since V omega has omega many elements, V omega +1 has 2^omega many
 
 23
-00:01:14,215 --> 00:01:18,359
-So, unlike omega itself, omega plus 1 has a largest element, namely omega
+00:01:11,728 --> 00:01:16,785
+elements. So this slice of the hierarchy has continuum many sets in it.
 
 24
-00:01:18,400 --> 00:01:22,555
-Now have to quickly mention the difference between cardinals and ordinals. When
+00:01:16,866 --> 00:01:20,661
+Now if we look at the ordinal at this level, which is just omega+1,
 
 25
-00:01:22,655 --> 00:01:25,572
-I have been saying size so far, I have been referring to
+00:01:20,761 --> 00:01:24,382
+it is just the set of all natural numbers with omega at the top.
 
 26
-00:01:25,672 --> 00:01:28,696
-the cardinality, which is the answer to how many elements.
+00:01:24,482 --> 00:01:28,626
+So, unlike omega itself, omega plus 1 has a largest element, namely omega
 
 27
-00:01:28,733 --> 00:01:32,297
-The ordinal numbers is the answer to how many and in what
+00:01:28,666 --> 00:01:32,822
+Now have to quickly mention the difference between cardinals and ordinals. When
 
 28
-00:01:32,397 --> 00:01:36,861
-order. This is another key difference between finite and infinite sets.
+00:01:32,922 --> 00:01:35,838
+I have been saying size so far, I have been referring to
 
 29
-00:01:37,133 --> 00:01:39,453
-If we want to determine how many elements a
+00:01:35,938 --> 00:01:38,963
+the cardinality, which is the answer to how many elements.
 
 30
-00:01:39,553 --> 00:01:41,761
-finite set has, we can simply count them.
+00:01:39,000 --> 00:01:42,564
+The ordinal numbers is the answer to how many and in what
 
 31
-00:01:42,800 --> 00:01:46,161
-We note that this imposes some arbitrary order of the elements,
+00:01:42,664 --> 00:01:47,128
+order. This is another key difference between finite and infinite sets.
 
 32
-00:01:46,261 --> 00:01:49,073
-but that this order does not affect the final result.
+00:01:47,400 --> 00:01:49,720
+If we want to determine how many elements a
 
 33
-00:01:49,133 --> 00:01:51,913
-For infinite sets, the order we count does
+00:01:49,820 --> 00:01:52,028
+finite set has, we can simply count them.
 
 34
-00:01:52,013 --> 00:01:54,519
-in some sense affect the final result.
+00:01:53,066 --> 00:01:56,428
+We note that this imposes some arbitrary order of the elements,
 
 35
-00:01:54,600 --> 00:01:58,618
-For example, we could consider counting the natural numbers where we first count
+00:01:56,528 --> 00:01:59,340
+but that this order does not affect the final result.
 
 36
-00:01:58,718 --> 00:02:01,553
-all of the even numbers, and then all of the odd numbers.
+00:01:59,400 --> 00:02:02,180
+For infinite sets, the order we count does
 
 37
-00:02:01,600 --> 00:02:03,971
-This would result in something which we can represent as
+00:02:02,280 --> 00:02:04,785
+in some sense affect the final result.
 
 38
-00:02:04,071 --> 00:02:06,575
-follows. This structure has a different order type than the
+00:02:04,866 --> 00:02:08,885
+For example, we could consider counting the natural numbers where we first count
 
 39
-00:02:06,675 --> 00:02:08,605
-set of natural numbers in its normal ordering.
+00:02:08,985 --> 00:02:11,819
+all of the even numbers, and then all of the odd numbers.
 
 40
-00:02:08,666 --> 00:02:11,379
-Of course the number of total elements used is the
+00:02:11,866 --> 00:02:14,238
+This would result in something which we can represent as
 
 41
-00:02:11,479 --> 00:02:14,418
-same, but the order in which they appear is different.
+00:02:14,338 --> 00:02:16,841
+follows. This structure has a different order type than the
 
 42
-00:02:14,518 --> 00:02:17,343
-Using this idea we can start to count past infinity.
+00:02:16,941 --> 00:02:18,871
+set of natural numbers in its normal ordering.
 
 43
-00:02:17,400 --> 00:02:19,942
-So again, we start with omega, which is just another
+00:02:18,933 --> 00:02:21,646
+Of course the number of total elements used is the
 
 44
-00:02:20,042 --> 00:02:22,890
-way of saying the natural numbers in their usual ordering.
+00:02:21,746 --> 00:02:24,684
+same, but the order in which they appear is different.
 
 45
-00:02:22,933 --> 00:02:25,992
-Then we can define omega+1 using the same Russian
+00:02:24,784 --> 00:02:27,610
+Using this idea we can start to count past infinity.
 
 46
-00:02:26,092 --> 00:02:29,861
-doll successor function as before. So omega+1 represents the
+00:02:27,666 --> 00:02:30,209
+So again, we start with omega, which is just another
 
 47
-00:02:29,961 --> 00:02:33,021
-ordering of omega with a single greatest element.
+00:02:30,309 --> 00:02:33,156
+way of saying the natural numbers in their usual ordering.
 
 48
-00:02:33,066 --> 00:02:36,556
-Then we can define omega plus 2, in the same way, and we
+00:02:33,200 --> 00:02:35,970
+Then we can define the successor of omega, omega+1 using the
 
 49
-00:02:36,656 --> 00:02:41,299
-see that it represents the order type of omega with two greatest elements.
+00:02:36,070 --> 00:02:38,936
+same Russian doll successor function as before. Now when we go
 
 50
-00:02:41,333 --> 00:02:43,534
-and then we can repeat this omega many
+00:02:39,036 --> 00:02:42,093
+past infinity, we start to use Greek letters to represent ordinals
 
 51
-00:02:43,634 --> 00:02:46,562
-times, to obtain omega+omega, like we saw earlier.
+00:02:42,193 --> 00:02:44,963
+instead of regular letters, but its still the same stuff. So
 
 52
-00:02:46,600 --> 00:02:51,242
-We can continue using this successor function, passing through omega times
+00:02:45,063 --> 00:02:48,407
+omega+1 represents the ordering of omega with a single greatest element.
 
 53
-00:02:51,342 --> 00:02:55,407
-omega or omega squared, which is similar to the rational numbers.
+00:02:48,466 --> 00:02:51,956
+Then we can define omega plus 2, in the same way, and we
 
 54
-00:02:55,466 --> 00:02:58,976
-Eventually through omega to the omega, and to even larger
+00:02:52,056 --> 00:02:56,699
+see that it represents the order type of omega with two greatest elements.
 
 55
-00:02:59,076 --> 00:03:02,585
-ordinals such as epsilon naught, which is the fixed point
+00:02:56,733 --> 00:02:58,934
+and then we can repeat this omega many
 
 56
-00:03:02,685 --> 00:03:05,371
-of the operation sending omega to the omega.
+00:02:59,034 --> 00:03:01,962
+times, to obtain omega+omega, like we saw earlier.
 
 57
-00:03:05,466 --> 00:03:08,634
-Meaning that epsilon naught is the least solution to
+00:03:02,000 --> 00:03:05,078
+We can continue using this successor function, passing through
 
 58
-00:03:08,734 --> 00:03:11,714
-the equation epsilon equals omega to the epsilon.
+00:03:05,178 --> 00:03:07,743
+omega times omega or omega squared, which is similar
 
 59
-00:03:11,800 --> 00:03:15,177
-But each of these ordinals are countable, meaning that they
+00:03:07,843 --> 00:03:10,050
+to the rational numbers with a left endpoint.
 
 60
-00:03:15,277 --> 00:03:18,064
-can be put into 1 to 1 correspondence with omega.
+00:03:10,133 --> 00:03:13,642
+Eventually through omega to the omega, and to even larger
 
 61
-00:03:18,164 --> 00:03:21,365
-So, we see these as different ways of re-ordering omega.
+00:03:13,742 --> 00:03:17,252
+ordinals such as epsilon naught, which is the fixed point
 
 62
-00:03:21,400 --> 00:03:24,478
-But now we can consider the set of all possible orderings
+00:03:17,352 --> 00:03:20,038
+of the operation sending omega to the omega.
 
 63
-00:03:24,578 --> 00:03:27,656
-of omega, i.e. the set of all countable ordinals. If this
+00:03:20,133 --> 00:03:23,301
+Meaning that epsilon naught is the least solution to
 
 64
-00:03:27,756 --> 00:03:30,611
-set is a countable ordinal, then it would be a member
+00:03:23,401 --> 00:03:26,381
+the equation epsilon equals omega to the epsilon.
 
 65
-00:03:30,711 --> 00:03:33,734
-of itself. But this contradicts the axiom of Foundation.
+00:03:26,466 --> 00:03:29,843
+But each of these ordinals are countable, meaning that they
 
 66
-00:03:33,800 --> 00:03:38,044
-So, the set of all countable ordinals is uncountable. Meaning that there
+00:03:29,943 --> 00:03:32,731
+can be put into 1 to 1 correspondence with omega.
 
 67
-00:03:38,144 --> 00:03:42,208
-are more ways or re-ordering omega, then there are elements in omega.
+00:03:32,831 --> 00:03:36,031
+So, we see these as different ways of re-ordering omega.
 
 68
-00:03:42,308 --> 00:03:44,984
-We will call this set, as Cantor did, omega 1.
+00:03:36,066 --> 00:03:39,144
+But now we can consider the set of all possible orderings
 
 69
-00:03:45,066 --> 00:03:48,456
-Now we can repeat the same process with omega_1. So, we can
+00:03:39,244 --> 00:03:42,323
+of omega, i.e. the set of all countable ordinals. If this
 
 70
-00:03:48,556 --> 00:03:52,892
-define omega_1 plus 1, using the same successor function, and then consider
+00:03:42,423 --> 00:03:45,278
+set is a countable ordinal, then it would be a member
 
 71
-00:03:52,992 --> 00:03:56,855
-all possible orderings of this new larger base set omega_1. Then we
+00:03:45,378 --> 00:03:48,400
+of itself. But this contradicts the axiom of Foundation.
 
 72
-00:03:56,955 --> 00:04:02,059
-can continue applying this successor function, passing through all possible orderings of
+00:03:48,466 --> 00:03:52,711
+So, the set of all countable ordinals is uncountable. Meaning that there
 
 73
-00:04:02,159 --> 00:04:05,253
-the new base set omega 1. Then we can think of omega_2
+00:03:52,811 --> 00:03:56,875
+are more ways or re-ordering omega, then there are elements in omega.
 
 74
-00:04:05,353 --> 00:04:08,920
-as the set containing each of the orderings of omega_1, and we
+00:03:56,975 --> 00:03:59,651
+We will call this set, as Cantor did, omega 1.
 
 75
-00:04:09,020 --> 00:04:12,055
-know that this set has large cardinality than omega_1
+00:03:59,733 --> 00:04:03,130
+Now we can repeat the same process with omega_1. So, we can
 
 76
-00:04:12,133 --> 00:04:18,136
-So, if we just care about the cardinality, meaningsdfsd how many elements
+00:04:03,230 --> 00:04:08,288
+recursively apply the same successor function passing through all possible orderings of
 
 77
-00:04:18,236 --> 00:04:22,651
-there are, we see that all of these sets have the same
+00:04:08,388 --> 00:04:11,963
+this new larger base set omega_1. Then we can think of omega_2
 
 78
-00:04:22,751 --> 00:04:28,420
-size, since they are just different orderrings of omega. We will call
+00:04:12,063 --> 00:04:15,639
+as the set containing each of the orderings of omega_1, and we
 
 79
-00:04:28,520 --> 00:04:34,189
-this size aleph_0. And similarly these sets have the same size, whcih
+00:04:15,739 --> 00:04:18,781
+know that this set has large cardinality than omega_1
 
 80
-00:04:34,289 --> 00:04:38,286
+00:04:18,866 --> 00:04:21,605
+So, if we just care about the cardinality, meanings how
+
+81
+00:04:21,705 --> 00:04:24,135
+many elements there are, we see that all of these
+
+82
+00:04:24,235 --> 00:04:26,923
+sets have the same size, since they are just different
+
+83
+00:04:27,023 --> 00:04:29,607
+orderrings of omega. We will call this size aleph_0.
+
+84
+00:04:29,666 --> 00:04:32,574
+And similarly these sets have the same size, whcih
+
+85
+00:04:32,674 --> 00:04:35,522
 we call aleph_1. And these guys have size aleph_2
+
+86
+00:04:37,533 --> 00:04:40,881
+Now the ordinals, such as omega, omega 1, and omega 2,
+
+87
+00:04:40,981 --> 00:04:44,329
+where a jump in size happens will be called cardinals.
+
+88
+00:04:44,400 --> 00:04:47,430
+We will now see how far this hierarchy of cardinals
+
+89
+00:04:47,530 --> 00:04:50,621
+can go, but first let us address a natural question.
 
